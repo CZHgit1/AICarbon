@@ -1,0 +1,354 @@
+PT J
+AU Brito, TLF
+   Islam, T
+   Stettler, M
+   Mouette, D
+   Meade, N
+   dos Santos, EM
+AF Felipe Brito, Thiago Luis
+   Islam, Towhidul
+   Stettler, Marc
+   Mouette, Dominique
+   Meade, Nigel
+   dos Santos, Edmilson Moutinho
+TI Transitions between technological generations of alternative fuel vehicles in Brazil
+SO ENERGY POLICY
+LA English
+DT Article
+DE Alternative fuel vehicles; Ethanol and flex cars; Tax impacts; Diffusion model; Technological generations
+ID renewable energy technology; successive generations; natural-gas; diffusion dynamics; electric vehicles; bass model; ethanol; market; incentives; innovation
+AB The transportation sector is responsible for nearly a quarter of greenhouse gases emissions (GHG); thus, incisive policies are necessary to mitigate the sector's effect on climate change. Promoting alternative fuel vehicles (AFV) is an essential strategy to reduce GHG emissions in the short term. Here, we study the effects of governmental incentives on the diffusion of ethanol and flex-fuel vehicle technologies in Brazil. We use a multi-generation diffusion model which assumes that new technologies introduce fresh market potential for adopters as well as upgraders from established technologies. Our analysis indicates that tax rates affected the adoption of both gasoline and ethanol technology, but for flex vehicles, the effect of taxation is not significant. The effect of fuel price shocks during the 1990s meant that the introduction of ethanol technology made no significant impact on market potential and a negative word-of-mouth effect contributed to the technology's failure. In contrast, the introduction of flex technology led to almost a doubling of total market potential. As policy suggestions, we emphasise the importance of tax reduction in addition to promoting versatile technologies, which insulate consumers against price fluctuations.
+C1 [Felipe Brito, Thiago Luis; dos Santos, Edmilson Moutinho] Univ Sao Paulo, IEE, Av Prof Luciano Gualberto,1289 Vila Univ, BR-05508900 Sao Paulo, SP, Brazil.
+   [Islam, Towhidul] Univ Guelph, Dept Mkt & Consumer Studies, 58-68 MacDonald St, Guelph, ON N1G 1Y1, Canada.
+   [Stettler, Marc] Imperial Coll London, Dept Civil & Environm Engn, Ctr Transportat Studies, Imperial Coll Rd, London SW7 2BB, England.
+   [Mouette, Dominique] Univ Sao Paulo, Sch Arts Sci & Human EACH, Rua Arlindo Bettio,1000 Vila Guaraciaba, BR-03828000 Sao Paulo, SP, Brazil.
+   [Meade, Nigel] Imperial Coll London, Business Sch, Exhibit Rd, London SW7 2AZ, England.
+C3 Universidade de Sao Paulo; University of Guelph; Imperial College London; Universidade de Sao Paulo; Imperial College London
+RP Brito, TLF (corresponding author), Univ Sao Paulo, IEE, Av Prof Luciano Gualberto,1289 Vila Univ, BR-05508900 Sao Paulo, SP, Brazil.
+EM thiagobrito@usp.br
+FU RCGI - Research Centre for Gas Innovation; FAPESP - Sao Paulo Research Foundation [2014/50279-4]; Shell Brasil; Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil (CAPES) [001]
+CR Aguirre M, 2014, ENERG POLICY, V69, P374, DOI 10.1016/j.enpol.2014.02.036
+   Al-Alawi BM, 2013, RENEW SUST ENERG REV, V21, P190, DOI 10.1016/j.rser.2012.12.048
+   Andersen Frits M, 2007, INTERNATIONAL JOURNAL OF AUTOMOTIVE TECHNOLOGY AND MANAGEMENT, V7, P343, DOI 10.1504/IJATM.2007.017065
+   ANFAVEA, 1994, BRAZ AUT IND YB, V0, P0
+   ANFAVEA, 2018, BRAZ AUT IND YB, V0, P0
+   Unknown -, 2015, ADOPTION PARIS AGREE, V0, P0
+   Baran R, 2013, TECHNOL FORECAST SOC, V80, P907, DOI 10.1016/j.techfore.2012.10.024
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   BASS FM, 1994, MARKET SCI, V13, P203, DOI 10.1287/mksc.13.3.203
+   Bastian-Pinto C, 2010, ANN OPER RES, V176, P333, DOI 10.1007/s10479-009-0514-7
+   Bastin C, 2010, ENERG POLICY, V38, P3586, DOI 10.1016/j.enpol.2010.02.036
+   Benvenutti LMM, 2016, 41 C LAT DIN SIST SA, V0, P0
+   Brito T, 2012, PETROLEUM GEOGRAPHY, V0, P15
+   Brito TLF, 2017, RENEW SUST ENERG REV, V71, P0, DOI 10.1016/j.rser.2016.12
+   CETESB, 2017, VEH EM SAO PAUL STAT, V0, P0
+   Coelho S, 2006, ENERGY SUSTAIN DEV, V10, P26, DOI 10.1016/S0973-0826(08)60529-3
+   Collantes GO, 2007, TECHNOL FORECAST SOC, V74, P267, DOI 10.1016/j.techfore.2006.02.001
+   Cordellini DF, 2018, FAE J, V21, P19
+   Danaher PJ, 2001, J MARKETING RES, V38, P501, DOI 10.1509/jmkr.38.4.501.18907
+   DIMAGGIO PJ, 1983, AM SOCIOL REV, V48, P147, DOI 10.2307/2095101
+   Duarte Roberto Gonzalez, 2017, BAR, V0, P0
+   Egbue O, 2012, ENERG POLICY, V48, P717, DOI 10.1016/j.enpol.2012.06.009
+   Ferreira A, 2018, RENEW SUST ENERG REV, V81, P181, DOI 10.1016/j.rser.2017.06.102
+   Freitas IMB, 2012, ENERG POLICY, V42, P118, DOI 10.1016/j.enpol.2011.11.055
+   Furtado AT, 2011, ENERG POLICY, V39, P156, DOI 10.1016/j.enpol.2010.09.023
+   Gnann T, 2015, RENEW SUST ENERG REV, V47, P783, DOI 10.1016/j.rser.2015.03.022
+   Goldemberg J, 2004, BIOMASS BIOENERG, V26, P301, DOI 10.1016/S0961-9534(03)00125-9
+   Goldemberg J, 2008, ENERG POLICY, V36, P2086, DOI 10.1016/j.enpol.2008.02.028
+   Goldemberg J, 2007, SCIENCE, V315, P808, DOI 10.1126/science.1137013
+   Goldemberg J, 2014, ENERG POLICY, V64, P58, DOI 10.1016/j.enpol.2013.05.064
+   Guidolin M, 2016, RENEW SUST ENERG REV, V60, P1498, DOI 10.1016/j.rser.2016.03.022
+   Guidolin M, 2010, TECHNOL FORECAST SOC, V77, P279, DOI 10.1016/j.techfore.2009.07.003
+   Guler I, 2002, ADMIN SCI QUART, V47, P207, DOI 10.2307/3094804
+   Hofstede G, 2001, CULTURES CONSEQUENCES: COMPARING VALUES, V0, P0
+   Hofstede Insights, 2019, COUNTR COMP, V0, P0
+   Ibenholt K, 2002, ENERG POLICY, V30, P1181, DOI 10.1016/S0301-4215(02)00014-9
+   IBGE, 1988, NAT SURV HOUS SAMPL, V0, P0
+   Isabella Giuliana, 2017, REV. ADM. (SÃO PAULO), V52, P304, DOI 10.1016/j.rausp.2017.05.003
+   Islam T, 1996, J OPER RES SOC, V47, P906, DOI 10.1057/jors.1996.116
+   Islam T, 1997, TECHNOL FORECAST SOC, V56, P49, DOI 10.1016/S0040-1625(97)00030-9
+   Jenn A, 2018, ENERG POLICY, V119, P349, DOI 10.1016/j.enpol.2018.04.065
+   Jeon SY, 2010, HYBRID ELECTRIC VEHICLE TECHNOLOGY AND ITS MARKET FEASIBILITY, V0, P0
+   Jiang ZR, 2012, MANAGE SCI, V58, P1887, DOI 10.1287/mnsc.1120.1529
+   Jun DB, 1999, TECHNOL FORECAST SOC, V61, P45, DOI 10.1016/S0040-1625(98)00049-3
+   Kim KH, 2011, ATMOS ENVIRON, V45, P3309, DOI 10.1016/j.atmosenv.2011.03.033
+   KING JL, 1994, INFORM SYST RES, V5, P139, DOI 10.1287/isre.5.2.139
+   Kloess M, 2011, ENERG POLICY, V39, P5045, DOI 10.1016/j.enpol.2011.06.008
+   Langbroek JHM, 2016, ENERG POLICY, V94, P94, DOI 10.1016/j.enpol.2016.03.050
+   Leibowicz BD, 2018, ENERG POLICY, V119, P357, DOI 10.1016/j.enpol.2018.04.066
+   Lieven T, 2018, INT J TRANSP DEV INT, V2, P39, DOI 10.2495/TDI-V2-N1-39-48
+   MAHAJAN V, 1984, MANAGE SCI, V30, P1389, DOI 10.1287/mnsc.30.12.1389
+   Benvenutti LMM, 2017, J CLEAN PROD, V164, P1571, DOI 10.1016/j.jclepro.2017.07.051
+   Masini A, 2003, TECHNOL FORECAST SOC, V70, P39, DOI 10.1016/S0040-1625(01)00183-4
+   Massiani J, 2015, RES TRANSP ECON, V50, P17, DOI 10.1016/j.retrec.2015.06.003
+   Masson-Delmotte V, 2018, IPCC SPECIAL REPORT, V1, P1, DOI 10.1017/9781009157940.008
+   Meade N, 2006, INT J FORECASTING, V22, P519, DOI 10.1016/j.ijforecast.2006.01.005
+   Meade N, 2015, TECHNOL FORECAST SOC, V90, P497, DOI 10.1016/j.techfore.2014.03.007
+   Mesquita D L, 2013, REVISTA DE ADMINISTRACAO E INOVACAO, V10, P0
+   Meyer PE, 2009, TECHNOVATION, V29, P77, DOI 10.1016/j.technovation.2008.05.004
+   MF, 2018, TABL INC TAX PROD IN, V0, P0
+   MMA (Ministry of Environment), 2014, 2 NAT INV ATM EM MOT, V0, P0
+   Moreira JR, 2005, GROWING GREENHOUSE P, V0, P132
+   Moreira JR, 1999, ENERG POLICY, V27, P229, DOI 10.1016/S0301-4215(99)00005-1
+   Mouette D, 2019, SCI TOTAL ENVIRON, V668, P1104, DOI 10.1016/j.scitotenv.2019.02.255
+   Moutinho dos Santos E, 2006, 2 ALCOHOL SHOCK BRAZ, V0, P0
+   Muniz GB, 2018, REV AUTOESPORTE, V0, P0
+   Muñoz M, 2007, ENERG POLICY, V35, P3104, DOI 10.1016/j.enpol.2006.11.006
+   Nardon L, 2008, J WORLD BUS, V43, P261, DOI 10.1016/j.jwb.2008.03.008
+   Nastari P M, 1983, THE ROLE OF SUGAR CANE IN BRAZILS HISTORY AND ECONOMY, V0, P0
+   Negro SO, 2012, RENEW SUST ENERG REV, V16, P3836, DOI 10.1016/j.rser.2012.03.043
+   NORTON JA, 1987, MANAGE SCI, V33, P1069, DOI 10.1287/mnsc.33.9.1069
+   Pae JH, 2003, J ACAD MARKET SCI, V31, P36, DOI 10.1177/0092070302238601
+   Pefley RK, 1980, INT S ALC FUELS TECH, V0, P247
+   Peter R, 2002, RENEW ENERG, V25, P511, DOI 10.1016/S0960-1481(01)00080-5
+   Pfeiffer B, 2013, ENERG ECON, V40, P285, DOI 10.1016/j.eneco.2013.07.005
+   Pinto JTM, 2016, SOL ENERGY, V133, P73, DOI 10.1016/j.solener.2016.03.048
+   Puglieri R, 2013, ANAL SUGAR ALCOHOL I, V0, P0
+   Rao KU, 2010, RENEW SUST ENERG REV, V14, P1070, DOI 10.1016/j.rser.2009.11.007
+   Rao KU, 2009, RENEW ENERG, V34, P983, DOI 10.1016/j.renene.2008.08.013
+   Rogers E M, 2003, DIFFUSION OF INNOVATION, V5th, P0, DOI 10.2307/2573300
+   ROSENZWEIG PM, 1991, ACAD MANAGE REV, V16, P340, DOI 10.2307/258865
+   Shi XH, 2014, TECHNOVATION, V34, P162, DOI 10.1016/j.technovation.2013.11.008
+   Sierzchula W, 2014, ENERG POLICY, V68, P183, DOI 10.1016/j.enpol.2014.01.043
+   Speece MW, 1992, ENG MANAG, V39, P0
+   Stremersch S, 2010, MARKET LETT, V21, P103, DOI 10.1007/s11002-009-9095-0
+   Struben J, 2008, ENVIRON PLANN B, V35, P1070, DOI 10.1068/b33022t
+   SULTAN F, 1990, J MARKETING RES, V27, P70, DOI 10.2307/3172552
+   Teixeira EC, 2005, DEV FLEX FUEL TECHNO, V0, P0
+   Tellis GJ, 2003, MARKET SCI, V22, P188, DOI 10.1287/mksc.22.2.188.16041
+   Van den Bulte C, 2004, MARKET SCI, V23, P530, DOI 10.1287/mksc.1040.0054
+   Versluis C, 2002, TECHNOL FORECAST SOC, V69, P263, DOI 10.1016/S0040-1625(01)00141-X
+   Wansart J, 2010, ANN IEEE SYST CONF, V0, PP371, DOI 10.1109/SYSTEMS.2010.5482453
+   Yu ASO, 2010, TECHNOL MANAG GLOB E, V10, P1250
+   ZACHARIADIS T, 1995, TECHNOL FORECAST SOC, V50, P135, DOI 10.1016/0040-1625(95)00057-H
+   Zhu Y, 2015, ENRGY PROCED, V75, P2987, DOI 10.1016/j.egypro.2015.07.607
+NR 95
+TC 20
+Z9 23
+U1 1
+U2 25
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0301-4215
+EI 1873-6777
+J9 ENERG POLICY
+JI Energy Policy
+PD NOV 15
+PY 2019
+VL 134
+IS 
+BP 
+EP 
+DI 10.1016/j.enpol.2019.110915
+PG 10
+WC Economics; Energy & Fuels; Environmental Sciences; Environmental Studies
+SC Business & Economics; Energy & Fuels; Environmental Sciences & Ecology
+GA JP5MB
+UT WOS:000498307500041
+DA 2025-11-07
+ER
+
+PT J
+AU Ding, ST
+   Zhang, M
+   Song, Y
+AF Ding, Suiting
+   Zhang, Ming
+   Song, Yan
+TI Exploring China's carbon emissions peak for different carbon tax scenarios
+SO ENERGY POLICY
+LA English
+DT Article
+DE Energy technology diffusion model; Carbon tax; Carbon emission peak
+ID energy; perspectives
+AB Under the United Nations Framework Convention on Climate Change, China has made a commitment to peak CO2 emissions around 2030. China is still interested in fulfilling its commitment to address climate change. In this study, a diffusion model of energy technology based on endogenous technology learning under bounded rationality is developed to explore the possible impacts of different carbon tax conditions on the diffusion of energy technologies in China. It is concluded that the substitution of energy technology is a long-term and slow process. In the case of a high-carbon tax, transition technologies and new technologies will appear earlier and replace the original technology (6-8 years earlier than in the case of a lower carbon tax). The transition technology will become dominant only for a short period of time (around 2030) but will be quickly replaced by new technology. The traditional technology will cease to exist in the last thirty years of this century in all carbon tax scenarios. In the low-carbon tax or high-carbon tax scenarios, carbon emissions will peak in 2030 and then decline significantly. The peak in carbon emissions is lower under the high-carbon tax scenario than the low carbon tax scenario, representing a 28% decrease.
+C1 [Ding, Suiting; Zhang, Ming; Song, Yan] China Univ Min & Technol, Sch Management, Xuzhou 221116, Jiangsu, Peoples R China.
+   [Zhang, Ming; Song, Yan] China Univ Min & Technol, Jiangsu Energy Econ & Management Res Base, Xuzhou 221116, Jiangsu, Peoples R China.
+C3 China University of Mining & Technology; China University of Mining & Technology
+RP Zhang, M (corresponding author), China Univ Min & Technol, Sch Management, Xuzhou 221116, Jiangsu, Peoples R China.
+EM zhangmingdlut@163.com; syan118@163.com
+FU Fundamental Research Funds for the Central Universities [2017XKQY018]
+CR Unknown -, 2014, CSY CHINA STAT YB, V0, P0
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   den Elzen M, 2016, ENERG POLICY, V89, P224, DOI 10.1016/j.enpol.2015.11.030
+   Duan HB, 2018, ENERG ECON, V70, P45, DOI 10.1016/j.eneco.2017.12.022
+   [段宏波 Duan Hongbo], 2015, 系统工程理论与实践 SYSTEMS ENGINEERING-THEORY & PRACTICE, V35, P333
+   Energy Research Institute (ERI), 2009, CHIN LOW CARB DEV RO, V0, P0
+   Green F, 2017, CLIM POLICY, V17, P423, DOI 10.1080/14693062.2016.1156515
+   Gritsevskyi A, 2000, ENERG POLICY, V28, P907, DOI 10.1016/S0301-4215(00)00082-3
+   Grubler Arnulf, 2002, TECHNOLOGICAL CHANGE, V0, P280
+   Jiang K, 2000, PROC INT WORKSH GREE, V0, P0
+   Jiao S, 2000, GAS TURBINE TECHNOLOGY, V03, P7
+   Kypreos S, 2000, INTERNATIONAL JOURNAL OF GLOBAL ENERGY ISSUES, V14, P374, DOI 10.1504/IJGEI.2000.004441
+   [刘明磊 Liu Minglei], 2014, 系统工程学报 JOURNAL OF SYSTEMS ENGINEERING, V29, P763
+   Liu Z, 2015, NATURE, V524, P335, DOI 10.1038/nature14677
+   Lohwasser R, 2012, ENERG ECON, V34, P850, DOI 10.1016/j.eneco.2011.07.030
+   Ma TJ, 2009, ENERGY, V34, P873, DOI 10.1016/j.energy.2009.03.005
+   Manne AS, 2004, ENERG ECON, V26, P621, DOI 10.1016/j.eneco.2004.04.023
+   McDonald A, 2001, ENERG POLICY, V29, P255, DOI 10.1016/S0301-4215(00)00122-1
+   Mckincey, 2008, CARB CAPT STOR ASS E, V0, P0
+   PIRI (Prospective Industry Research Institute), 2018, REP MARK PROSP INV S, V0, P0
+   Richard SJ, 2004, ENERG POLICY, V33, P2064
+   Rubin ES, 2004, ENERGY, V29, P1551, DOI 10.1016/j.energy.2004.03.092
+   UNFCCC, 2015, ENHANCED ACTIONS ON CLIMATE CHANGE: CHINAS INTENDED NATIONALLY DETERMINED, V0, P0
+   Wang T, 2010, ENERG POLICY, V38, P3537, DOI 10.1016/j.enpol.2010.02.031
+   Wang YN, 2005, ENERGY CHINA, V12, P7
+   Wang Y, 2014, RENEW SUST ENERG REV, V39, P370, DOI 10.1016/j.rser.2014.07.027
+   World Kiwifruit Review, 2016, BP STAT REV WORLD EN, V0, P0
+   Yang HX, 2004, E CHINA ELECT POWER, V8, P58
+   Yu SW, 2018, ENERG ECON, V74, P693, DOI 10.1016/j.eneco.2018.07.017
+   Zhou N, 2013, ENERG POLICY, V53, P51, DOI 10.1016/j.enpol.2012.09.065
+   1997, 1900, V7, V0, P291
+   2014, 1900, V346, V0, P903
+NR 33
+TC 153
+Z9 171
+U1 16
+U2 426
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0301-4215
+EI 1873-6777
+J9 ENERG POLICY
+JI Energy Policy
+PD JUN 15
+PY 2019
+VL 129
+IS 
+BP 1245
+EP 1252
+DI 10.1016/j.enpol.2019.03.037
+PG 8
+WC Economics; Energy & Fuels; Environmental Sciences; Environmental Studies
+SC Business & Economics; Energy & Fuels; Environmental Sciences & Ecology
+GA HY3GZ
+UT WOS:000468012900114
+DA 2025-11-06
+ER
+
+PT J
+AU Strnad, FM
+   Barfuss, W
+   Donges, JF
+   Heitzig, J
+AF Strnad, Felix M.
+   Barfuss, Wolfram
+   Donges, Jonathan F.
+   Heitzig, Jobst
+TI Deep reinforcement learning in World-Earth system models to discover sustainable management strategies
+SO CHAOS
+LA English
+DT Article
+ID tipping elements; dynamics; game; go
+AB Increasingly complex nonlinear World-Earth system models are used for describing the dynamics of the biophysical Earth system and the socioeconomic and sociocultural World of human societies and their interactions. Identifying pathways toward a sustainable future in these models for informing policymakers and the wider public, e.g., pathways leading to robust mitigation of dangerous anthropogenic climate change, is a challenging and widely investigated task in the field of climate research and broader Earth system science. This problem is particularly difficult when constraints on avoiding transgressions of planetary boundaries and social foundations need to be taken into account. In this work, we propose to combine recently developed machine learning techniques, namely, deep reinforcement learning (DRL), with classical analysis of trajectories in the World-Earth system. Based on the concept of the agent-environment interface, we develop an agent that is generally able to act and learn in variable manageable environment models of the Earth system. We demonstrate the potential of our framework by applying DRL algorithms to two stylized World-Earth system models. Conceptually, we explore thereby the feasibility of finding novel global governance policies leading into a safe and just operating space constrained by certain planetary and socioeconomic boundaries. The artificially intelligent agent learns that the timing of a specific mix of taxing carbon emissions and subsidies on renewables is of crucial relevance for finding World-Earth system trajectories that are sustainable in the long term. Published under license by AIP Publishing.
+C1 [Strnad, Felix M.; Heitzig, Jobst] Potsdam Inst Climate Impact Res, FutureLab Game Theory & Networks Interacting Age, Res Dept Complex Sci 4, D-14473 Potsdam, Germany.
+   [Strnad, Felix M.] Univ Gottingen, Dept Phys, D-37077 Gottingen, Germany.
+   [Barfuss, Wolfram; Donges, Jonathan F.] Potsdam Inst Climate Impact Res, Res Dept Earth Syst Anal 1, FutureLab Earth Resilience Anthropocene, D-14473 Potsdam, Germany.
+   [Barfuss, Wolfram] Max Planck Inst Math Sci, D-04103 Leipzig, Germany.
+   [Donges, Jonathan F.] Stockholm Univ, Stockholm Resilience Ctr, S-10405 Stockholm, Sweden.
+C3 Potsdam Institut fur Klimafolgenforschung; University of Gottingen; Potsdam Institut fur Klimafolgenforschung; Max Planck Society; Stockholm University
+RP Strnad, FM (corresponding author), Potsdam Inst Climate Impact Res, FutureLab Game Theory & Networks Interacting Age, Res Dept Complex Sci 4, D-14473 Potsdam, Germany.; Strnad, FM (corresponding author), Univ Gottingen, Dept Phys, D-37077 Gottingen, Germany.
+EM strnad@pik-potsdam.de
+FU European Research Council (via the ERC advanced grant project ERA); Stordalen Foundation (via the Planetary Boundaries Research Network PB.net); Earth League's EarthDoc program; Leibniz Association (project DOMINOES)
+CR Amodei Dario, 2016, CORR, V0, P0, DOI DOI 10.48550/ARXIV.1606.06565
+   Anderies JM, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/4/044048
+   Unknown -, 2017, ARXIV171201275, V0, P0
+   Unknown -, 1989, PHD THESIS, V0, P0
+   Unknown -, 2012, SAFE JUST SPACE HUMA, V0, P0
+   Unknown -, 2011, TECHNICAL REPORT, V0, P0
+   Unknown -, 2017, ARXIV PREPRINT ARXIV, V0, P0
+   ARTHUR WB, 1991, AM ECON REV, V81, P353
+   Barfuss W, 2019, PHYS REV E, V99, P0, DOI 10.1103/PhysRevE.99.043305
+   Barfuss W, 2018, NAT COMMUN, V9, P0, DOI 10.1038/s41467-018-04738-z
+   Barfuss W, 2017, EARTH SYST DYNAM, V8, P255, DOI 10.5194/esd-8-255-2017
+   Beattie C, 2017, ADV NEURAL INFORM PR, V0, P3643
+   Behzadan Vahid, 2017, MACHINE LEARNING AND DATA MINING IN PATTERN RECOGNITION. 13TH INTERNATIONAL CONFERENCE, V0, P262, DOI 10.1007/978-3-319-62416-7_19
+   Behzadan V, 2017, ARXIV171209344, V0, P0
+   Bellemare MG, 2017, PR MACH LEARN RES, V70, P0
+   BELLMAN R, 1957, J MATH MECH, V6, P679, DOI 10.1512/iumj.1957.6.56038
+   Botta N, 2018, EARTH SYST DYNAM, V9, P525, DOI 10.5194/esd-9-525-2018
+   Bussieck MR, 2004, APPL OPTIMIZAT, V88, P137
+   Donges JF, 2018, EARTH SYSTEM DYNAMICS DISCUSSIONS, V0, PP1, DOI 10.5194/ESD-2017-126
+   Donges JF, 2017, ANTHROPOCENE REV, V4, P151, DOI 10.1177/2053019617725537
+   Haarnoja, 2018, ARXIV181211103, V0, P0
+   Heitzig J, 2016, EARTH SYST DYNAM, V7, P21, DOI 10.5194/esd-7-21-2016
+   Heitzig J, 2018, SUSTAINABILITY-BASEL, V10, P0, DOI 10.3390/su10061947
+   Heitzig J, 2011, P NATL ACAD SCI USA, V108, P15739, DOI 10.1073/pnas.1106265108
+   Hessel M, 2018, AAAI CONF ARTIF INTE, V0, P3215
+   Huang S, 2017, INT C LEARN REPR ICL, V0, P0
+   Kamien MI, 2012, DYNAMIC OPTIMIZATION, V0, P0
+   Karri SP, 2017, INTRIGUING PROPERTIE, V0, PP579, DOI 10.1364/BOE.8.000579
+   Kelly DL, 1999, INTERNATIONAL YEARBOOK OF ENVIRONMENTAL AND RESOURCE ECONOMICS, V2000, P171
+   Kingma DP, 2014, ADV NEUR IN, V27, P0
+   Leibo JZ, 2017, AAMAS17: PROCEEDINGS OF THE 16TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS, V0, P464
+   Lenton TM, 2008, P NATL ACAD SCI USA, V105, P1786, DOI 10.1073/pnas.0705414105
+   Levine S, 2016, J MACH LEARN RES, V17, P0
+   Li Yuxi, 2018, ARXIV181006339, V0, P0
+   Lillicrap TP, 2016, ARXIV:1509.02971, V0, P0
+   Lin LJ, 1993, P TECHN REP DTIC DOC, V0, P0, DOI DOI 10.5555/168871
+   Lindkvist E, 2017, P ROY SOC B-BIOL SCI, V284, P0, DOI 10.1098/rspb.2016.2762
+   Lindkvist E, 2014, ECOL ECON, V104, P107, DOI 10.1016/j.ecolecon.2014.04.018
+   Mao HZ, 2016, PROCEEDINGS OF THE 15TH ACM WORKSHOP ON HOT TOPICS IN NETWORKS (HOTNETS 16), V0, PP50, DOI 10.1145/3005745.3005750
+   Mirowski P, 2016, PROC INT C LEARN REP, V0, P0
+   Mnih KKavukcuoglu, 2013, PLAYING ATARI WITH DEEP REINFORCEMENT LEARNING, V0, P0, DOI DOI 10.48550/ARXIV.1312.5602
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Müller-Hansen F, 2017, EARTH SYST DYNAM, V8, P977, DOI 10.5194/esd-8-977-2017
+   Nagabandi A, 2018, IEEE INT CONF ROBOT, V0, P7579
+   Nitzbon J, 2017, ENVIRON RES LETT, V12, P0, DOI 10.1088/1748-9326/aa7581
+   Pahl-Wostl C, 2000, INTEGR ASSESS, V1, P267, DOI 10.1023/A:1018927120883
+   Papernot N, 2016, 1ST IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY, V0, PP372, DOI 10.1109/EuroSP.2016.36
+   Pindyck RS, 2017, REV ENV ECON POLICY, V11, P100, DOI 10.1093/reep/rew012
+   Pong V, 2018, ARXIV180209081, V0, P0
+   Rogelj J, 2018, GLOBAL WARMING 15 C, V0, P0
+   Rolnick D, 2019, CORR, V0, P0
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Schaul T, 2015, PREPRINT, V0, P0
+   Schellnhuber HJ, 2009, P NATL ACAD SCI USA, V106, P20561, DOI 10.1073/pnas.0911106106
+   Schellnhuber HJ, 1999, NATURE, V402, PC19, DOI 10.1038/35011515
+   Shixiang Gu, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA), V0, PP3389, DOI 10.1109/ICRA.2017.7989385
+   Silver D, 2018, SCIENCE, V362, P1140, DOI 10.1126/science.aar6404
+   Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961
+   Sitch S, 2003, GLOBAL CHANGE BIOL, V9, P161, DOI 10.1046/j.1365-2486.2003.00569.x
+   Spaan MTJ, 2012, ADAPT LEARN OPTIM, V12, P387
+   Steffen W, 2018, P NATL ACAD SCI USA, V115, P8252, DOI 10.1073/pnas.1810141115
+   Steffen W, 2015, SCIENCE, V347, P0, DOI 10.1126/science.1259855
+   Stern N, 2008, AM ECON REV, V98, P1, DOI 10.1257/aer.98.2.1
+   Sutton RS, 1998, INTRO REINFORCEMENT, V135, P0
+   TESAURO G, 1995, COMMUN ACM, V38, P58, DOI 10.1145/203330.203343
+   van Hasselt H, 2010, DOUBLE Q LEARNING PA, V0, P2613
+   van Hasselt H, 2016, AAAI CONF ARTIF INTE, V0, P2094
+   van Otterlo M, 2012, ADAPT LEARN OPTIM, V12, P3
+   Wang Z, 2015, FINANCIAL REPORTING WITH XBRL AND ITS IMPACT ON THE ACCOUNTING PROFESSION, V0, P0
+   Wiedermann M, 2015, PHYS REV E, V91, P0, DOI 10.1103/PhysRevE.91.052801
+   Zhou ZP, 2017, ACS CENTRAL SCI, V3, P1337, DOI 10.1021/acscentsci.7b00492
+   Zhu YK, 2017, INT CONF ACOUST SPEE, V0, PP5335, DOI 10.1109/ICASSP.2017.7953175
+NR 77
+TC 18
+Z9 20
+U1 2
+U2 32
+PU AIP Publishing
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 1054-1500
+EI 1089-7682
+J9 CHAOS
+JI Chaos
+PD DEC 15
+PY 2019
+VL 29
+IS 12
+BP 
+EP 
+DI 10.1063/1.5124673
+PG 16
+WC Mathematics, Applied; Physics, Mathematical
+SC Mathematics; Physics
+GA KA1MO
+UT WOS:000505563100018
+PM 31893656
+DA 2025-11-07
+ER
+

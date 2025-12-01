@@ -1,0 +1,196 @@
+PT J
+AU Rothman, DH
+   Forney, DC
+AF Rothman, Daniel H.
+   Forney, David C.
+TI Physical model for the decay and preservation of marine organic carbon
+SO SCIENCE
+LA English
+DT Article
+ID matter decomposition; sediments; fluxes; soils
+AB Degradation of marine organic carbon provides a major source of atmospheric carbon dioxide, whereas preservation in sediments results in accumulation of oxygen. These processes involve the slow decay of chemically recalcitrant compounds and physical protection. To assess the importance of physical protection, we constructed a reaction-diffusion model in which organic matter differs only in its accessibility to microbial degradation but not its intrinsic reactivity. The model predicts that organic matter decays logarithmically with time t and that decay rates decrease approximately as 0.2 x t(-1) until burial. Analyses of sediment-core data are consistent with these predictions.
+C1 MIT, Dept Earth Atmospher & Planetary Sci, Cambridge, MA 02139 USA.
+   MIT, Dept Mech Engn, Cambridge, MA 02139 USA.
+C3 Massachusetts Institute of Technology (MIT); Massachusetts Institute of Technology (MIT)
+RP Rothman, DH (corresponding author), MIT, Dept Earth Atmospher & Planetary Sci, Cambridge, MA 02139 USA.
+EM dhr@mit.edu
+CR ABELSON PH, 1978, ANNU REV EARTH PL SC, V6, P325, DOI 10.1146/annurev.ea.06.050178.001545
+   Armstrong RA, 2001, DEEP-SEA RES PT II, V49, P219, DOI 10.1016/S0967-0645(01)00101-1
+   Bender CarlM, 1978, ADV MATH METHODS SCI, V0, P0
+   Berner RA, 1980, EARLY DIAGENESIS, V0, P0, DOI DOI 10.2307/J.CTVX8B6P2
+   Berner RA, 2004, THE PHANEROZOIC CARBON CYCLE: CO2 AND O2, V1, P0
+   Betts JN, 1991, PALAEOGEOGR PALAEOCL, V97, P5, DOI 10.1016/0031-0182(91)90178-T
+   BOUDREAU BP, 1991, AM J SCI, V291, P507, DOI 10.2475/ajs.291.5.507
+   Burdige DJ, 1999, GEOCHIM COSMOCHIM AC, V63, P1507, DOI 10.1016/S0016-7037(99)00066-6
+   de Leeuw JW, 1993, ORG GEOCHEM, V0, P23
+   Field CB, 1998, SCIENCE, V281, P237, DOI 10.1126/science.281.5374.237
+   HEDGES JI, 1995, MAR CHEM, V49, P81, DOI 10.1016/0304-4203(95)00008-F
+   Hedges JI, 1997, ORG GEOCHEM, V27, P319, DOI 10.1016/S0146-6380(97)00056-9
+   Hedges JI, 2001, NATURE, V409, P801, DOI 10.1038/35057247
+   Holland HD, 1978, CHEM ATMOSPHERE OCEA, V0, P0
+   JORGENSEN BB, 1978, GEOMICROBIOL J, V1, P29
+   KEIL RG, 1994, GEOCHIM COSMOCHIM AC, V58, P879, DOI 10.1016/0016-7037(94)90512-6
+   KEIL RG, 1994, NATURE, V370, P549, DOI 10.1038/370549a0
+   KIRKPATRICK S, 1973, REV MOD PHYS, V45, P574, DOI 10.1103/RevModPhys.45.574
+   Knoll AH, 2003, LIFE YOUNG PLANET, V0, P0
+   MAYER LM, 1994, GEOCHIM COSMOCHIM AC, V58, P1271, DOI 10.1016/0016-7037(94)90381-6
+   MAYER LM, 1994, CHEM GEOL, V114, P347, DOI 10.1016/0009-2541(94)90063-9
+   MIDDELBURG JJ, 1993, GLOBAL PLANET CHANGE, V8, P47, DOI 10.1016/0921-8181(93)90062-S
+   MIDDELBURG JJ, 1989, GEOCHIM COSMOCHIM AC, V53, P1577, DOI 10.1016/0016-7037(89)90239-1
+   Premuzic ET, 1982, ORG GEOCHEM, V4, P63, DOI 10.1016/0146-6380(82)90009-2
+   Ransom B, 1997, MAR GEOL, V138, P1, DOI 10.1016/S0025-3227(97)00012-1
+   REIMERS CE, 1983, MAR CHEM, V13, P141, DOI 10.1016/0304-4203(83)90022-1
+   Schmidt JL, 1998, LIMNOL OCEANOGR, V43, P976, DOI 10.4319/lo.1998.43.5.0976
+   Schrag DP, 2007, SCIENCE, V315, P812, DOI 10.1126/science.1137632
+   SMITH DC, 1992, NATURE, V359, P139, DOI 10.1038/359139a0
+   Steen AD, 2006, MAR CHEM, V101, P266, DOI 10.1016/j.marchem.2006.04.001
+   TEGELAAR EW, 1989, GEOCHIM COSMOCHIM AC, V53, P3103, DOI 10.1016/0016-7037(89)90191-9
+   Vetter YA, 1998, MICROBIAL ECOL, V36, P75, DOI 10.1007/s002489900095
+NR 32
+TC 104
+Z9 119
+U1 5
+U2 109
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+EI 1095-9203
+J9 SCIENCE
+JI Science
+PD JUN 1
+PY 2007
+VL 316
+IS 5829
+BP 1325
+EP 1328
+DI 10.1126/science.1138211
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 173PS
+UT WOS:000246885600047
+PM 17540901
+DA 2025-11-05
+ER
+
+PT J
+AU Yang, FH
+   Ichii, K
+   White, MA
+   Hashimoto, H
+   Michaelis, AR
+   Votava, P
+   Zhu, AX
+   Huete, A
+   Running, SW
+   Nemani, RR
+AF Yang, Feihua
+   Ichii, Kazuhito
+   White, Michael A.
+   Hashimoto, Hirofumi
+   Michaelis, Andrew R.
+   Votava, Petr
+   Zhu, A-Xing
+   Huete, Alfredo
+   Running, Steven W.
+   Nemani, Ramakrishna R.
+TI Developing a continental-scale measure of gross primary production by combining MODIS and AmeriFlux data through Support Vector Machine approach
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE gross primary production; AmeriFlux; support vector machines; light use efficiency; moderate resolution Imaging spectroradiometer (MODIS)
+ID net primary production; land-surface temperature; deciduous forest; carbon-dioxide; vegetation index; terrestrial gross; use efficiency; leaf-area; flux; validation
+AB Remote sensing is a potentially powerful technology with which to extrapolate eddy covariance-based gross primary production (GPP) to continental scales. In support of this concept, we used meteorological and flux data from the AmeriFlux network and Support Vector Machine (SVM), an inductive machine learning technique, to develop and apply a predictive GPP model for the conterminous U.S. In the following four-step process, we first trained the SVM to predict flux-based GPP from 33 AmeriFlux sites between 2000 and 2003 using three remotely-sensed variables (land surface temperature, enhanced vegetation index (EVI), and land cover) and one ground-measured variable (incident shortwave radiation). Second, we evaluated model performance by predicting GPP for 24 available AmeriFlux sites in 2004. In this independent evaluation, the SVM predicted GPP with a root mean squared error (RMSE) of 1.87 gC/m(2)/day and an R-2 of 0.71. Based on annual total GPP at 15 AmeriFlux sites for which the number of 8-day averages in 2004 was no less than 67%(30 out of a possible 45), annual SVM GPP prediction error was 32.1% for non-forest ecosystems and 22.2% for forest ecosystems, while the standard Moderate Resolution Imaging Spectroradiometer GPP product (MOD17) had an error of 50.3% for non-forest ecosystems and 21.5% for forest ecosystems, suggesting that the regionally tuned SVM performed better than the standard global MOD 17 GPP for non-forest ecosystems but had similar performance for forest ecosystems. The most important explanatory factor for GPP prediction was EVI, removal of which increased GPP RMSE by 0.85 gC/m2/day in a cross-validation experiment. Third, using the SVM driven by remote sensing data including incident shortwave radiation, we predicted 2004 conterminous U.S. GPP and found that results were consistent with expected spatial and temporal patterns. Finally, as an illustration of SVM GPP for ecological applications, we estimated maximum light use efficiency (e(max)), one of the most important factors for standard light use efficiency models, for the conterminous U.S. by integrating the 2004 SVM GPP with the MOD17 GPP algorithm. We found that emax varied from similar to 0.86 gC/MJ in grasslands to similar to 1.56 gC/MJ in deciduous forests, while MOD17 emax was 0.68 gC/MJ for grasslands and 1.16 gC/MJ for deciduous forests, suggesting that refinements of MOD17 emax may be beneficial. 2007 Elsevier Inc. All rights reserved.
+C1 Univ Wisconsin, Dept Geog, Madison, WI 53706 USA.
+   NASA, Ames Res Ctr, Moffett Field, CA 94035 USA.
+   San Jose State Univ, San Jose, CA 95192 USA.
+   Utah State Univ, Logan, UT 84322 USA.
+   Calif State Univ, Monterey, CA USA.
+   Chinese Acad Sci, Inst Geog Sci & Nat Resources Res, State Key Lab Resources & Environm Informat Syst, Beijing 100864, Peoples R China.
+   Univ Arizona, Tucson, AZ USA.
+   Univ Montana, Missoula, MT 59812 USA.
+C3 University of Wisconsin System; University of Wisconsin Madison; National Aeronautics & Space Administration (NASA); NASA Ames Research Center; California State University System; San Jose State University; Utah System of Higher Education; Utah State University; Chinese Academy of Sciences; Institute of Geographic Sciences & Natural Resources Research, CAS; University of Arizona; University of Montana System; University of Montana
+RP Yang, FH (corresponding author), Univ Wisconsin, Dept Geog, 426 Sci Hall,550 N Pk St, Madison, WI 53706 USA.
+EM feihuayang@wisc.edu
+CR Baldocchi D, 2001, B AM METEOROL SOC, V82, P2415, DOI 10.1175/1520-0477(2001)082<2415:FANTTS>2.3.CO;2
+   Baldocchi DD, 2003, GLOBAL CHANGE BIOL, V9, P479, DOI 10.1046/j.1365-2486.2003.00629.x
+   Campbell GS, 1998, INTRO ENV BIOPHYSICS, V0, P37
+   CHANG C, 2005, LIBSVM LIBR SUPPORT, V0, P0
+   Chapin FS, 2004, PRINCIPLES OF TERRESTRIAL ECOSYSTEM ECOLOGY, V0, P0, DOI DOI 10.1109/LGRS.2005.851543
+   Cook RB, 2004, AM ANN M BOULD CO, V0, P0
+   Cristianini N, 2000, SUPPORT VECTOR MACHI, V0, P0
+   Drolet GG, 2005, REMOTE SENS ENVIRON, V98, P212, DOI 10.1016/j.rse.2005.07.006
+   Escudero A, 2003, J ECOL, V91, P880, DOI 10.1046/j.1365-2745.2003.00818.x
+   Falge E, 2001, AGR FOREST METEOROL, V107, P71, DOI 10.1016/S0168-1923(00)00235-5
+   Friedl MA, 2002, REMOTE SENS ENVIRON, V83, P287, DOI 10.1016/S0034-4257(02)00078-0
+   FRIEDL MA, 2003, VALIDATION CONSISTEN, V0, P0
+   Gao X, 2003, IEEE T GEOSCI REMOTE, V41, P2368, DOI 10.1109/TGRS.2003.813840
+   Gilmanov TG, 2005, GLOBAL ECOL BIOGEOGR, V14, P271, DOI 10.1111/j.1466-822x.2005.00151.x
+   Goulden ML, 1996, SCIENCE, V271, P1576, DOI 10.1126/science.271.5255.1576
+   Gower ST, 1999, REMOTE SENS ENVIRON, V70, P29, DOI 10.1016/S0034-4257(99)00056-5
+   Gu LH, 2005, AGR FOREST METEOROL, V128, P179, DOI 10.1016/j.agrformet.2004.11.006
+   Gu LH, 2002, J GEOPHYS RES-ATMOS, V107, P0, DOI 10.1029/2001JD001242
+   Hargrove WW, 2003, EOS, V84, P529, DOI 10.1029/2003EO480001
+   Haykin S, 2005, NEURAL NETWORKS COMP, V2nd, P0
+   Heinsch FA, 2006, IEEE T GEOSCI REMOTE, V44, P1908, DOI 10.1109/TGRS.2005.853936
+   Huete A, 2002, REMOTE SENS ENVIRON, V83, P195, DOI 10.1016/S0034-4257(02)00096-2
+   Jolly WM, 2005, ENVIRON MODELL SOFTW, V20, P873, DOI 10.1016/j.envsoft.2004.05.003
+   Kanzow C, 2004, J COMPUT APPL MATH, V172, P375, DOI 10.1016/j.cam.2004.02.013
+   Kim J, 2006, AGR FOREST METEOROL, V136, P132, DOI 10.1016/j.agrformet.2004.11.015
+   Metz B, 2006, SPECIAL REPORT INTER, V0, P0
+   Misson L, 2006, TREE PHYSIOL, V26, P833, DOI 10.1093/treephys/26.7.833
+   MONTEITH JL, 1972, J APPL ECOL, V9, P747, DOI 10.2307/2401901
+   Myneni RB, 2002, REMOTE SENS ENVIRON, V83, P214, DOI 10.1016/S0034-4257(02)00074-3
+   Nemani RR, 2003, SCIENCE, V300, P1560, DOI 10.1126/science.1082750
+   Paruelo JM, 1997, ECOLOGY, V78, P953, DOI 10.1890/0012-9658(1997)078[0953:AEFNFT]2.0.CO;2
+   Pinker RT, 2002, ADV SPACE RES, V30, P2427, DOI 10.1016/S0273-1177(02)80296-4
+   PINKER RT, 2003, J GEOPHYS RES, V108, P8798, DOI 10.1029/2002JD003301
+   Rahman AF, 2005, GEOPHYS RES LETT, V32, P0, DOI 10.1029/2005GL024127
+   Running SW, 1999, MODIS DAILY PHOTOSYN, V0, P0
+   Running SW, 2004, BIOSCIENCE, V54, P547, DOI 10.1641/0006-3568(2004)054[0547:ACSMOG]2.0.CO;2
+   Sasai T, 2005, J GEOPHYS RES-BIOGEO, V110, P0, DOI 10.1029/2005JG000045
+   SELLERS PJ, 1992, REMOTE SENS ENVIRON, V42, P187, DOI 10.1016/0034-4257(92)90102-P
+   THOMTON PE, 1998, REGIONAL ECOSYSTEM S, V0, P0
+   Thornton PE, 1997, J HYDROL, V190, P214, DOI 10.1016/S0022-1694(96)03128-9
+   Turner DP, 2006, REMOTE SENS ENVIRON, V102, P282, DOI 10.1016/j.rse.2006.02.017
+   Turner DP, 2003, REMOTE SENS ENVIRON, V88, P256, DOI 10.1016/j.rse.2003.06.005
+   Turner DP, 2005, GLOBAL CHANGE BIOL, V11, P666, DOI 10.1111/j.1365-2486.2005.00936.x
+   Vapnik V, 1991, PATTERN RECOGNITION, V1, P283
+   Vapnik V, 1995, STAT LEARNING THEORY, V0, P0
+   Wan Z, 2004, INT J REMOTE SENS, V25, P261, DOI 10.1080/0143116031000116417
+   Wan ZM, 2002, REMOTE SENS ENVIRON, V83, P163, DOI 10.1016/S0034-4257(02)00093-7
+   White MA, 2000, EARTH INTERACT, V4, P1, DOI 10.1175/1087-3562(2000)004ANDLT;0003:PASAOTANDGT;2.0.CO;2
+   Wylie BK, 2003, REMOTE SENS ENVIRON, V85, P243, DOI 10.1016/S0034-4257(03)00004-X
+   Xiao XM, 2005, ECOL APPL, V15, P954, DOI 10.1890/04-0470
+   Yang FH, 2006, IEEE T GEOSCI REMOTE, V44, P3452, DOI 10.1109/TGRS.2006.876297
+   Zhan HG, 2003, IEEE T GEOSCI REMOTE, V41, P2947, DOI 10.1109/TGRS.2003.819870
+   Zhao MS, 2005, REMOTE SENS ENVIRON, V95, P164, DOI 10.1016/j.rse.2004.12.011
+   Zhu AX, 2001, J HYDROL, V248, P54, DOI 10.1016/S0022-1694(01)00390-0
+NR 54
+TC 174
+Z9 209
+U1 1
+U2 104
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0034-4257
+EI 
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD SEP 14
+PY 2007
+VL 110
+IS 1
+BP 109
+EP 122
+DI 10.1016/j.rse.2007.02.016
+PG 14
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science & Photographic Technology
+GA 198PJ
+UT WOS:000248639700008
+DA 2025-11-05
+ER
+

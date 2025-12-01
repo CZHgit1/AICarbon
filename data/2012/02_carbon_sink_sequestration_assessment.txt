@@ -1,0 +1,538 @@
+PT J
+AU Miao, YQ
+   Song, CC
+   Wang, XW
+   Sun, XX
+   Meng, HN
+   Sun, L
+AF Miao, Yuqing
+   Song, Changchun
+   Wang, Xianwei
+   Sun, Xiaoxin
+   Meng, Henan
+   Sun, Li
+TI Greenhouse gas emissions from different wetlands during the snow-covered season in Northeast China
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Marsh; Methane; Nitrous oxide; Winter flux; Peatland; Diffusion model
+ID methane emission; n2o fluxes; co2 flux; carbon-dioxide; nitrous-oxide; winter fluxes; arctic soils; ch4; exchange; temperatures
+AB Emission of CO2, CH4 and N2O from the snowpack is an important component of annual C and N budgets in wetland ecosystems in mid- and high-latitude. However, there is little information about greenhouse gas fluxes during the snow-covered season in wetlands in Northeast China. In the present study, we investigated the trace gas fluxes from a peatland and a marsh using the methods of concentration gradient and diffusion model during the snow-covered season of 2010/2011 in this region. Estimates of CO2 efflux from a peatland and a marsh during this period were 4.179 and 5.026 g C m(-2) season(-1), respectively. The seasonal release of CH4 from the peatland (0.009 g C m(-2) season(-1)) was much lower than that from the marsh (0.818 g C m(-2) season(-1)). Intriguingly, we observed that the peatland acted as sink for N2O, and the marsh as a source for N2O during the snow-covered season. For the peatland, snowpack such as snow density is important for CO2 and CH4 fluxes, while N2O flux was controlled by soil-snow interface temperature. In the marsh, however, soil temperature was the primary parameter regulating greenhouse gas fluxes. Our results suggest that in mid- and high-latitude regions, greenhouse gas fluxes during the snow-covered season is an important part of C and N cycles in seasonally snow-covered wetland ecosystems. The difference in greenhouse gas emission from both peatland and marsh suggests that wetland types should be considered when evaluating regional gas budgets. Crown Copyright (C) 2012 Published by Elsevier Ltd. All rights reserved.
+C1 [Miao, Yuqing; Song, Changchun; Wang, Xianwei; Sun, Xiaoxin; Meng, Henan; Sun, Li] Chinese Acad Sci, NE Inst Geog & Agroecol, Changchun 130012, Jilin, Peoples R China.
+   [Miao, Yuqing; Meng, Henan] Chinese Acad Sci, Grad Univ, Beijing 100039, Peoples R China.
+C3 Chinese Academy of Sciences; Northeast Institute of Geography & Agroecology, CAS; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS
+RP Song, CC (corresponding author), Chinese Acad Sci, NE Inst Geog & Agroecol, Changchun 130012, Jilin, Peoples R China.
+EM songcc@neigae.ac.cn
+FU National Natural Science Foundation of China [40930527, 41101194]; National Basic Research Program of China [2009CB421103]; Strategic Priority Research Program - Climate Change: Carbon Budget and Related Issue of the Chinese Academy of Sciences [XDA05050508, XDA05020502]
+CR Alm J, 1999, BIOGEOCHEMISTRY, V44, P163, DOI 10.1023/A:1006074606204
+   Anderson B, 2010, 430R10001 EPA, V0, P0
+   Unknown -, 2000, GLOBAL BIOGEOCHEM CY, V0, P0
+   Unknown -, 2005, WETLANDS NE CHINA, V0, P0
+   Aurela M, 2002, J GEOPHYS RES-ATMOS, V107, P0, DOI 10.1029/2002JD002055
+   Cao MK, 1998, ATMOS ENVIRON, V32, P3293, DOI 10.1016/S1352-2310(98)00105-8
+   Fahnestock JT, 1999, GLOBAL BIOGEOCHEM CY, V13, P775, DOI 10.1029/1999GB900006
+   FIRESTONE MK, 1989, LIFE SCI R, V47, P7
+   GORHAM E, 1991, ECOL APPL, V1, P182, DOI 10.2307/1941811
+   Groffman PM, 2006, GLOBAL CHANGE BIOL, V12, P1748, DOI 10.1111/j.1365-2486.2006.01194.x
+   Hegerl GC, 2007, CLIMATE CHANGE 2007, V0, P0
+   Heikkinen JEP, 2002, GLOBAL BIOGEOCHEM CY, V16, P0, DOI 10.1029/2002GB001930
+   Hubbard RM, 2005, BIOGEOCHEMISTRY, V73, P93, DOI 10.1007/s10533-004-1990-0
+   Jones HG, 1999, HYDROL PROCESS, V13, P2977, DOI 10.1002/(SICI)1099-1085(19991230)13:18<2977::AID-HYP12>3.0.CO;2-#
+   Kim Y, 2007, TELLUS B, V59, P223, DOI 10.1111/j.1600-0889.2006.00233.x
+   Liptzin D, 2009, BIOGEOCHEMISTRY, V95, P151, DOI 10.1007/s10533-009-9303-2
+   Lohila A, 2007, TELLUS B, V59, P860, DOI 10.1111/j.1600-0889.2007.00314.x
+   Massman WJ, 1998, ATMOS ENVIRON, V32, P1111, DOI 10.1016/S1352-2310(97)00391-9
+   Mast MA, 1998, GLOBAL BIOGEOCHEM CY, V12, P607, DOI 10.1029/98GB02313
+   McDowell NG, 2000, TREE PHYSIOL, V20, P745
+   Melloh RA, 1996, GLOBAL BIOGEOCHEM CY, V10, P247, DOI 10.1029/96GB00365
+   Öquist MG, 2007, SOIL BIOL BIOCHEM, V39, P1809, DOI 10.1016/j.soilbio.2007.01.010
+   Öquist MG, 2004, FEMS MICROBIOL ECOL, V49, P371, DOI 10.1016/j.femsec.2004.04.006
+   Schimel JP, 2006, ARCT ANTARCT ALP RES, V38, P249, DOI 10.1657/1523-0430(2006)38[249:CPOCIA]2.0.CO;2
+   Schmidt SK, 2004, PLANT SOIL, V259, P1, DOI 10.1023/B:PLSO.0000020933.32473.7e
+   Seok B, 2009, BIOGEOCHEMISTRY, V95, P95, DOI 10.1007/s10533-009-9302-3
+   Smith LC, 2004, SCIENCE, V303, P353, DOI 10.1126/science.1090553
+   Sommerfeld RA, 1996, GLOBAL BIOGEOCHEM CY, V10, P473, DOI 10.1029/96GB01610
+   SOMMERFELD RA, 1993, NATURE, V361, P140, DOI 10.1038/361140a0
+   Song CC, 2009, GLOBAL CHANGE BIOL, V15, P692, DOI 10.1111/j.1365-2486.2008.01821.x
+   STRIEGL RG, 1993, CHEMOSPHERE, V26, P715, DOI 10.1016/0045-6535(93)90455-E
+   Sullivan PF, 2008, JOURNAL OF GEOPHYSICAL RESEARCH, V113, P1
+   Wang YS, 2003, ADV ATMOS SCI, V20, P842, DOI 10.1007/BF02915410
+   Welker JM, 2000, CLIMATIC CHANGE, V44, P139, DOI 10.1023/A:1005555012742
+   Whalen SC, 2005, ENVIRON ENG SCI, V22, P73, DOI 10.1089/ees.2005.22.73
+   WHITING GJ, 1993, NATURE, V364, P794, DOI 10.1038/364794a0
+   Zhang JB, 2005, CHEMOSPHERE, V59, P1703, DOI 10.1016/j.chemosphere.2004.11.051
+   Zheng XH, 2008, PLANT SOIL, V311, P211, DOI 10.1007/s11104-008-9673-6
+   ZIMOV SA, 1993, ARCTIC, V46, P197
+NR 41
+TC 19
+Z9 25
+U1 2
+U2 178
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD DEC 15
+PY 2012
+VL 62
+IS 
+BP 328
+EP 335
+DI 10.1016/j.atmosenv.2012.08.036
+PG 8
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 038QC
+UT WOS:000311188200033
+DA 2025-11-05
+ER
+
+PT J
+AU Carreiras, JMB
+   Vasconcelos, MJ
+   Lucas, RM
+AF Carreiras, Joao M. B.
+   Vasconcelos, Maria J.
+   Lucas, Richard M.
+TI Understanding the relationship between aboveground biomass and ALOS PALSAR data in the forests of Guinea-Bissau (West Africa)
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE Guinea-Bissau; West Africa; Aboveground biomass; REDD; Remote sensing; ALOS PALSAR; Bagging stochastic gradient boosting (BagSGB)
+ID radar backscatter; land-cover; spatial variability; carbon stocks; boreal forest; sar data; classification; allometry; queensland; dynamics
+AB Guinea-Bissau is one of the poorest countries in the world with a large proportion of its population living in rural areas. While industry is limited, over 70% of the territory is covered by forests, which can potentially be used to attract investment through forest-based projects that promote reductions in carbon emissions and sustainable management. These can be leveraged by producing accurate maps of forest aboveground biomass (AGB) at national level and by developing cost-effective mapping methods that allow reliable future updating for management and engagement in international mechanisms such as the United Nations (UN) Collaborative Program on Reducing Emissions from Deforestation and Forest Degradation (REDD) in developing countries. Using data from Japan's Advanced Land Observing Satellite (ALOS) Phased Array L-band Synthetic Aperture Radar (PALSAR), this study compared a semi-empirical and machine learning algorithm, with the latter based on bagging stochastic gradient boosting (BagSGB), for retrieving the AGB of woody vegetation thereby supporting estimation of national carbon stocks. AGB was estimated by using measurements of tree size collected from112 forest plots during two field campaigns (2007 and 2008) as input to published allometric equations. The BagSGB outperformed the semi-empirical algorithm, resulting in a coefficient of correlation (R) between observed and cross-validation predicted forest AGB values of 0.95 and in a root mean square error (RMSE) of 26.62 Mg ha(-1). Furthermore, the BagSGB model produced also a measure of forest AGB prediction variability (coefficient of variation) on a pixel-by-pixel basis, with values ranging from 7 to 250% (mean = 42%). An estimate of total forest AGB carbon stock of 96.93 Mt C was obtained in this study for Guinea-Bissau, with a mean forest AGB value of 65.17 Mg ha(-1). Although the mean error associated with this forest AGB map is still undesirably high, several issues were addressed. The heterogeneity of forest structural types, presence of palm trees, and dimension and type of field plots were identified as potential source of uncertainty that must be tackled in future studies. This study represents a step forward regarding the information currently available for Guinea-Bissau. (c) 2012 Elsevier Inc. All rights reserved.
+C1 [Carreiras, Joao M. B.; Vasconcelos, Maria J.] Trop Res Inst IICT, P-1300142 Lisbon, Portugal.
+   [Lucas, Richard M.] Aberystwyth Univ, Inst Geog & Earth Sci, Aberystwyth SY23 3DB, Ceredigion, Wales.
+C3 Universidade de Lisboa; Aberystwyth University
+RP Carreiras, JMB (corresponding author), Trop Res Inst IICT, Travessa Conde Ribeira 9, P-1300142 Lisbon, Portugal.
+EM jmbcarreiras@iict.pt
+FU Secretaria de Estado para o Ambiente e Desenvolvimento Duravel of Guinea-Bissau; Ministry of the Environment of Portugal
+CR Unknown -, 1997, THE KYOTO PROTOCOL, V0, P0
+   Unknown -, 2007, MITIGATION CLIMATE C, V0, P0
+   Unknown -, 2009, 33 INT S REM SENS EN, V0, P0
+   Unknown -, 2021, REG COUNTR OV, V0, P0
+   Unknown -, 2006, SHUTTL RAD TOP MISS, V0, P0
+   Unknown -, 2010, GLOBAL FOREST RESOUR, V163, P0
+   Austin JM, 2003, FOREST ECOL MANAG, V176, P575, DOI 10.1016/S0378-1127(02)00314-6
+   Bauer E, 1999, MACH LEARN, V36, P105, DOI 10.1023/A:1007515423169
+   Breiman L, 1998, ANN STAT, V26, P801
+   Breiman L, 1996, MACH LEARN, V24, P123, DOI 10.1023/A:1018054314350
+   Breiman L, 1984, CLASSIFICATION REGRE, V0, P0
+   Campbell BM, 2009, GLOBAL ENVIRON CHANG, V19, P397, DOI 10.1016/j.gloenvcha.2009.07.010
+   Canadell JG, 2004, CLIMATIC CHANGE, V67, P147, DOI 10.1007/s10584-004-3765-y
+   Carreiras JMB, 2006, REMOTE SENS ENVIRON, V101, P283, DOI 10.1016/j.rse.2005.12.017
+   Castel T, 2001, INT J REMOTE SENS, V22, P2351, DOI 10.1080/014311601300229863
+   Chave J, 2005, OECOLOGIA, V145, P87, DOI 10.1007/s00442-005-0100-x
+   CHAVEZ PS, 1992, PHOTOGRAMM ENG REM S, V58, P957
+   Death G, 2007, ECOLOGY, V88, P243, DOI 10.1890/0012-9658(2007)88[243:BTFEMA]2.0.CO;2
+   DOBSON MC, 1995, IEEE T GEOSCI REMOTE, V33, P877, DOI 10.1109/36.406674
+   DOBSON MC, 1992, IEEE T GEOSCI REMOTE, V30, P412, DOI 10.1109/36.134090
+   DURDEN SL, 1989, IEEE T GEOSCI REMOTE, V27, P290, DOI 10.1109/36.17670
+   Elith J, 2008, J ANIM ECOL, V77, P802, DOI 10.1111/j.1365-2656.2008.01390.x
+   Falkowski P, 2000, SCIENCE, V290, P291, DOI 10.1126/science.290.5490.291
+   Fransson JES, 1999, INTERNATIONAL JOURNAL OF REMOTE SENSING, V20, P123, DOI 10.1080/014311699213640
+   Friedl MA, 1997, REMOTE SENS ENVIRON, V61, P399, DOI 10.1016/S0034-4257(97)00049-7
+   Friedl MA, 2010, REMOTE SENS ENVIRON, V114, P168, DOI 10.1016/j.rse.2009.08.016
+   Friedman JH, 2001, ANN STAT, V29, P1189, DOI 10.1214/aos/1013203451
+   Friedman JH, 2002, COMPUT STAT DATA AN, V38, P367, DOI 10.1016/S0167-9473(01)00065-2
+   Fromard F, 1998, OECOLOGIA, V115, P39, DOI 10.1007/s004420050489
+   Gehring Christoph, 2011, ACTA AMAZ., V41, P127
+   Goetz S, 2011, REMOTE SENS ENVIRON, V115, P2751, DOI 10.1016/j.rse.2011.04.015
+   Hansen M, 1996, INT J REMOTE SENS, V17, P1075, DOI 10.1080/01431169608949069
+   Heimann M, 2008, NATURE, V451, P289, DOI 10.1038/nature06591
+   Hoekman DH, 2000, IEEE T GEOSCI REMOTE, V38, P685, DOI 10.1109/36.841998
+   Houghton RA, 2005, GLOBAL CHANGE BIOL, V11, P945, DOI 10.1111/j.1365-2486.2005.00955.x
+   IMHOFF ML, 1995, IEEE T GEOSCI REMOTE, V33, P511, DOI 10.1109/36.377953
+   Jalabert SSM, 2010, SOIL USE MANAGE, V26, P516, DOI 10.1111/j.1475-2743.2010.00305.x
+   Kasischke ES, 1997, REMOTE SENS ENVIRON, V59, P141, DOI 10.1016/S0034-4257(96)00148-4
+   Khalid H, 1999, JOURNAL OF OIL PALM RESEARCH, V11, P23
+   Komiyama A, 2008, AQUAT BOT, V89, P128, DOI 10.1016/j.aquabot.2007.12.006
+   Kumar SV, 2006, ENVIRON MODELL SOFTW, V21, P1402, DOI 10.1016/j.envsoft.2005.07.004
+   Lawrence R, 2004, REMOTE SENS ENVIRON, V90, P331, DOI 10.1016/j.rse.2004.01.007
+   Le Quéré C, 2009, NAT GEOSCI, V2, P831, DOI 10.1038/ngeo689
+   Le Toan T, 2011, REMOTE SENS ENVIRON, V115, P2850, DOI 10.1016/j.rse.2011.03.020
+   LETOAN T, 1992, IEEE T GEOSCI REMOTE, V30, P403, DOI 10.1109/36.134089
+   Loarie SR, 2009, GEOPHYS RES LETT, V36, P0, DOI 10.1029/2009GL037526
+   Lucas R, 2010, IEEE J-STARS, V3, P576, DOI 10.1109/JSTARS.2010.2086436
+   Lucas RM, 2006, REMOTE SENS ENVIRON, V100, P407, DOI 10.1016/j.rse.2005.10.019
+   Luckman A, 1997, REMOTE SENS ENVIRON, V60, P1, DOI 10.1016/S0034-4257(96)00121-6
+   Mitchard ETA, 2011, ENVIRON RES LETT, V6, P0, DOI 10.1088/1748-9326/6/4/049001
+   Mitchard ETA, 2009, GEOPHYS RES LETT, V36, P0, DOI 10.1029/2009GL040692
+   Moghaddam M, 1999, IEEE T GEOSCI REMOTE, V37, P901, DOI 10.1109/36.752209
+   Moisen GG, 2006, ECOL MODEL, V199, P176, DOI 10.1016/j.ecolmodel.2006.05.021
+   Oliver C, 2004, UNDERSTANDING SYNTHE, V0, P0
+   Pearson TRH, 2007, GEN TECHNICAL REPORT, V0, P0
+   Pearson Walker, 2006, BROWN, V0, P0
+   R Development Core Team, 2011, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Ridgeway G, 2007, UPDATE, V1, P0, DOI 10.1111/J.1467-9752.1996.TB00390.X
+   Rodell M, 2004, B AM METEOROL SOC, V85, P381, DOI 10.1175/BAMS-85-3-381
+   Rosenqvist A, 2007, IEEE T GEOSCI REMOTE, V45, P3307, DOI 10.1109/TGRS.2007.901027
+   Saatchi S, 2007, IEEE T GEOSCI REMOTE, V45, P1726, DOI 10.1109/TGRS.2006.887002
+   Saatchi S, 2011, REMOTE SENS ENVIRON, V115, P2836, DOI 10.1016/j.rse.2010.07.015
+   Saatchi SS, 2011, P NATL ACAD SCI USA, V108, P9899, DOI 10.1073/pnas.1019576108
+   Saatchi SS, 2000, IEEE T GEOSCI REMOTE, V38, P697, DOI 10.1109/36.841999
+   SAFAVIAN SR, 1991, IEEE T SYST MAN CYB, V21, P660, DOI 10.1109/21.97458
+   Sankaran M, 2008, GLOBAL ECOL BIOGEOGR, V17, P236, DOI 10.1111/j.1466-8238.2007.00360.x
+   Santoro M, 2006, INT J REMOTE SENS, V27, P3425, DOI 10.1080/01431160600646037
+   Santos JR, 2002, INT J REMOTE SENS, V23, P1217, DOI 10.1080/01431160110092867
+   Schimel DS, 2001, NATURE, V414, P169, DOI 10.1038/35102500
+   Schulze ED, 2006, BIOGEOSCIENCES, V3, P147, DOI 10.5194/bg-3-147-2006
+   Silva JMN, 2011, J GEOPHYS RES-ATMOS, V116, P0, DOI 10.1029/2011JD016056
+   Steel RGD, 1980, PRINCIPLES PROCEDURE, V0, P1
+   Thenkabail PS, 2004, INT J REMOTE SENS, V25, P5447, DOI 10.1080/01431160412331291279
+   Trevor H, 2001, ELEMENTS STAT LEARNI, V0, P0, DOI DOI 10.1007/B94608
+   United Nations, 1992, UN FRAMEWORK CONVENT, V0, P0
+   Witten IH, 2011, MOR KAUF D, V0, P1
+   Woodhouse IH, 2005, INTRO MICROWAVE REMO, V0, P0
+NR 84
+TC 131
+Z9 143
+U1 0
+U2 115
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0034-4257
+EI 1879-0704
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD JUN 15
+PY 2012
+VL 121
+IS 
+BP 426
+EP 442
+DI 10.1016/j.rse.2012.02.012
+PG 17
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science & Photographic Technology
+GA 955WN
+UT WOS:000305051700036
+DA 2025-11-05
+ER
+
+PT J
+AU Strohbach, MW
+   Haase, D
+AF Strohbach, Michael W.
+   Haase, Dagmar
+TI Above-ground carbon storage by urban trees in Leipzig, Germany: Analysis of patterns in a European city
+SO LANDSCAPE AND URBAN PLANNING
+LA English
+DT Article
+DE Urban forest ecosystem services; Land cover; Canopy cover; Random Forest classifier
+ID ecosystem services; environmental performance; forest; biomass; urbanization; emissions; impacts; sprawl; stocks; form
+AB Many aspects of global change, including carbon dioxide emissions, have been attributed to urban areas. On the other hand, cities have been found to provide valuable ecosystem services such as carbon storage. The aim of this study is to estimate the above-ground carbon storage in trees in the central European city of Leipzig and produce spatially explicit carbon storage maps. We used stratified random sampling across 19 land cover classes using 190 sample plots to measure carbon storage. In addition, we derived canopy cover from color-infrared orthophotos using an object-oriented approach and Random Forest machine learning. Finally, we apply an error assessment method that includes sampling error, but also uncertainty stemming from allometric equations, and that so far has only been applied to rural forests. The total above ground carbon stock of Leipzig was estimated using both land cover and canopy cover, which was more laborious than just using land cover but reduced the standard error. Canopy cover was approximately 19% of the city area. Leipzig's above-ground carbon storage was estimated to be 316,000 Mg C at 11 Mg C ha(-1). The distribution of carbon storage across the city showed the highest values at intermediate urbanization levels. Carbon storage in the city of Leipzig was in the lower range compared to cities in Europe, Asia and the USA, and our results indicate that great care should be taken when transferring values between cities. We provide spatially explicit and detailed maps of above-ground storage that can contribute to ecosystem services assessments. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Strohbach, Michael W.] Univ Massachusetts, Dept Environm Conservat, Amherst, MA 01003 USA.
+   [Strohbach, Michael W.; Haase, Dagmar] UFZ Helmholtz Ctr Environm Res, Dept Computat Landscape Ecol, D-04318 Leipzig, Germany.
+   [Haase, Dagmar] Humboldt Univ, Dept Landscape Ecol, Inst Geog, D-10099 Berlin, Germany.
+C3 University of Massachusetts System; University of Massachusetts Amherst; Helmholtz Association; Helmholtz Center for Environmental Research (UFZ); Humboldt University of Berlin
+RP Strohbach, MW (corresponding author), Univ Massachusetts, Dept Environm Conservat, Holdsworth Hall, Amherst, MA 01003 USA.
+EM michael.strohbach@googlemail.com; dagmar.haase@ufz.de
+FU European Commission (EC) [036921]; Helmholtz Interdisciplinary Graduate School for Environmental Research (HIGRADE)
+CR Alberti M, 1999, J PLAN EDUC RES, V19, P151, DOI 10.1177/0739456X9901900205
+   Alberti M, 2009, 5 URB RES S, V0, P0
+   Unknown -, 2010, R FOUNDATION FOR STATISTICAL COMPUTING, V0, P0
+   Unknown -, 2008, WORLD URB PROSP 2007, V0, P0
+   Benton-Short L, 2008, ROUTL CRIT INTRO URB, V0, P3
+   Blaschke T, 2000, ENV INFORM PLANNING, V2, P555
+   Bolund P, 1999, ECOL ECON, V29, P293, DOI 10.1016/S0921-8009(99)00013-0
+   Brack CL, 2002, ENVIRON POLLUT, V116, PS195, DOI 10.1016/S0269-7491(01)00251-2
+   BUNCE RGH, 1968, J ECOL, V56, P759, DOI 10.2307/2258105
+   Burkhardt I, 2008, FINAL REPORT PILOT S, V0, P0
+   Chaparro L, 2009, ECOLOGICAL SERVICES, V0, P0
+   Churkina G, 2008, ECOL MODEL, V216, P107, DOI 10.1016/j.ecolmodel.2008.03.006
+   Churkina G, 2010, GLOBAL CHANGE BIOL, V16, P135, DOI 10.1111/j.1365-2486.2009.02002.x
+   Cierjacks A, 2010, J PLANT NUTR SOIL SC, V173, P644, DOI 10.1002/jpln.200900209
+   Close Richard E, 1996, JOURNAL OF ARBORICULTURE, V22, P144
+   Davies ZG, 2011, J APPL ECOL, V48, P1125, DOI 10.1111/j.1365-2664.2011.02021.x
+   de Groot RS, 2010, ECOL COMPLEX, V7, P260, DOI 10.1016/j.ecocom.2009.10.006
+   du Toit MJ, 2011, LANDSCAPE ECOL, V26, P169, DOI 10.1007/s10980-010-9560-4
+   Escobedo FJ, 2011, ENVIRON POLLUT, V159, P2078, DOI 10.1016/j.envpol.2011.01.010
+   Federal Agency for Nature Conservation, 2000, MAP NAT VEG EUR, V0, P0
+   Friedman Jerome, 2009, ELEMENTS STAT LEARNI, V2nd, P0, DOI 10.1007/978-0-387-84858-7_15
+   Fuller RA, 2009, BIOL LETTERS, V5, P352, DOI 10.1098/rsbl.2009.0010
+   Gaston KJ, 2010, URBAN ECOL, V0, P261
+   Golubiewski NE, 2006, ECOL APPL, V16, P555, DOI 10.1890/1051-0761(2006)016[0555:UIGCPE]2.0.CO;2
+   Goodale CL, 2002, ECOL APPL, V12, P891, DOI 10.1890/1051-0761(2002)012[0891:FCSITN]2.0.CO;2
+   Grimm NB, 2008, SCIENCE, V319, P756, DOI 10.1126/science.1150195
+   Haase D, 2007, LANDSCAPE URBAN PLAN, V80, P1, DOI 10.1016/j.landurbplan.2006.03.011
+   Haase D, 2009, FOREST ECOL MANAG, V258, P887, DOI 10.1016/j.foreco.2009.03.025
+   Heering JM, 2008, MULTITEMPORALE LUFTB, V72, P0
+   Hutyra LR, 2011, GLOBAL CHANGE BIOL, V17, P783, DOI 10.1111/j.1365-2486.2010.02238.x
+   i-Tree, 2011, I TREE CAN TECHN NOT, V0, P0
+   Imhoff ML, 2004, REMOTE SENS ENVIRON, V89, P434, DOI 10.1016/j.rse.2003.10.015
+   Jenkins JC, 2004, COMPREHENSIVE DATABA, V0, P0
+   Jenkins JC, 2003, FOREST SCI, V49, P12
+   Jo HK, 2002, J ENVIRON MANAGE, V64, P115, DOI 10.1006/jema.2001.0491
+   JO HK, 1995, J ENVIRON MANAGE, V45, P109, DOI 10.1006/jema.1995.0062
+   Johnson Andra D, 2003, URBAN FORESTRY & URBAN GREENING, V2, P65, DOI 10.1078/1618-8667-00024
+   Kandler G, 2011, FVA EINBLICK, V2, P7
+   Konijnendijk Cecil C, 2006, URBAN FORESTRY & URBAN GREENING, V4, P93, DOI 10.1016/j.ufug.2005.11.003
+   Kottek M, 2006, METEOROL Z, V15, P259, DOI 10.1127/0941-2948/2006/0130
+   Kowarik I, 2005, WILD URBAN WOODLANDS: NEW PERSPECTIVES FOR URBAN FORESTRY, V0, PP287, DOI 10.1007/3-540-26859-6_18
+   Liaw A, 2002, R NEWS, V2, P18
+   Lorance Rall ED, 2011, LANDSCAPE URBAN PLAN, V0, P1
+   Manninen A, 2004, URBAN AUDIT METHODOL, V0, P0
+   McHale MR, 2009, URBAN ECOSYSTEMS, V12, P95, DOI 10.1007/s11252-009-0081-3
+   McIntyre NE, 2000, URBAN ECOSYST, V4, P5, DOI 10.1023/A:1009540018553
+   Myeong S, 2006, REMOTE SENS ENVIRON, V101, P277, DOI 10.1016/j.rse.2005.12.001
+   Niemelä J, 2010, BIODIVERS CONSERV, V19, P3225, DOI 10.1007/s10531-010-9888-8
+   Nowak DJ, 1994, CHICAGOS URBAN FORES, V0, P83
+   Nowak David J, 2002, JOURNAL OF ARBORICULTURE, V28, P113
+   Nowak David J, 2008, ARBORICULTURE & URBAN FORESTRY, V34, P386
+   Nowak DJ, 2002, ENVIRON POLLUT, V116, P381, DOI 10.1016/S0269-7491(01)00214-7
+   NOWAK DJ, 1993, J ENVIRON MANAGE, V37, P207, DOI 10.1006/jema.1993.1017
+   Nuissl H, 2005, CITIES, V22, P123, DOI 10.1016/j.cities.2005.01.002
+   PASTOR J, 1984, FOREST ECOL MANAG, V7, P265, DOI 10.1016/0378-1127(84)90003-3
+   Pataki DE, 2006, GLOBAL CHANGE BIOL, V12, P2092, DOI 10.1111/j.1365-2486.2006.01242.x
+   Pataki DE, 2011, FRONT ECOL ENVIRON, V9, P27, DOI 10.1890/090220
+   Pauleit S, 2000, LANDSCAPE URBAN PLAN, V52, P1, DOI 10.1016/S0169-2046(00)00109-2
+   Ravindranath NH, 2010, CARBON INVENTORY MET, V0, P0
+   ROWNTREE R A, 1991, JOURNAL OF ARBORICULTURE, V17, P269
+   Sokal RR, 1994, BIOMETRY: THE PRINCIPLES AND PRACTICES OF STATISTICS IN BIOLOGICAL RESEARCH, V3rd, P0, DOI 10.1016/J.JIP.2003.08.007
+   Solomon S, 2007, AR4 CLIMATE CHANGE 2007: THE PHYSICAL SCIENCE BASIS, V0, P1
+   Stadt Leipzig, 2011, LEIPZ ZAHL, V0, P0
+   Stadt Leipzig, 2010, ORTST 2010, V0, P0
+   Stadt Leipzig, 2006, LANDSCH STADT LEIPZ, V0, P0
+   Stadt Leipzig, 2009, STAT JB, V0, P0
+   STORY M, 1986, PHOTOGRAMM ENG REM S, V52, P397
+   Svirejeva-Hopkins A, 2004, ECOL MODEL, V173, P295, DOI 10.1016/j.ecolmodel.2003.09.022
+   Tratalos J, 2007, LANDSCAPE URBAN PLAN, V83, P308, DOI 10.1016/j.landurbplan.2007.05.003
+   Walker JS, 2007, PHOTOGRAMM ENG REM S, V73, P577, DOI 10.14358/PERS.73.5.577
+   Whitford V, 2001, LANDSCAPE URBAN PLAN, V57, P91, DOI 10.1016/S0169-2046(01)00192-X
+   Yanai RD, 2010, ECOSYSTEMS, V13, P239, DOI 10.1007/s10021-010-9315-8
+   Zhao M, 2010, J ENVIRON MANAGE, V91, P807, DOI 10.1016/j.jenvman.2009.10.010
+NR 74
+TC 246
+Z9 294
+U1 3
+U2 333
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0169-2046
+EI 1872-6062
+J9 LANDSCAPE URBAN PLAN
+JI Landsc. Urban Plan.
+PD JAN 15
+PY 2012
+VL 104
+IS 1
+BP 95
+EP 104
+DI 10.1016/j.landurbplan.2011.10.001
+PG 10
+WC Ecology; Environmental Studies; Geography; Geography, Physical; Regional & Urban Planning; Urban Studies
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Public Administration; Urban Studies
+GA 871AA
+UT WOS:000298708800011
+DA 2025-11-05
+ER
+
+PT J
+AU Hudak, AT
+   Strand, EK
+   Vierling, LA
+   Byrne, JC
+   Eitel, JUH
+   Martinuzzi, S
+   Falkowski, MJ
+AF Hudak, Andrew T.
+   Strand, Eva K.
+   Vierling, Lee A.
+   Byrne, John C.
+   Eitel, Jan U. H.
+   Martinuzzi, Sebastian
+   Falkowski, Michael J.
+TI Quantifying aboveground forest carbon pools and fluxes from repeat LiDAR surveys
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE Discrete return LiDAR; Multi-temporal; Aboveground carbon; Mixed conifer forest; Random forest algorithm; Imputation; Biomass change; Carbon Measuring Reporting and Verification (MRV)
+ID nearest-neighbor imputation; discrete-return lidar; scale; growth; inventory; accuracy; biomass; area; attributes; northwest
+AB Sound forest policy and management decisions to mitigate rising atmospheric CO2 depend upon accurate methodologies to quantify forest carbon pools and fluxes over large tracts of land. LiDAR remote sensing is a rapidly evolving technology for quantifying aboveground biomass and thereby carbon pools: however, little work has evaluated the efficacy of repeat LiDAR measures for spatially monitoring aboveground carbon pools through time. Our study objective was therefore to evaluate the use of discrete return airborne LiDAR for quantifying biomass change and carbon flux from repeat field and LiDAR surveys. We collected LiDAR data in 2003 and 2009 across similar to 20,000 ha of an actively managed, mixed conifer forest landscape in northern Idaho. The Random Forest machine learning algorithm was used to impute aboveground biomass pools of trees, saplings, shrubs, herbaceous plants, coarse and fine woody debris, litter, and duff using field-based forest inventory data and metrics derived from the LiDAR collections. Separate predictive tree aboveground biomass models were developed from the 2003 and 2009 field and LiDAR data, and biomass change was estimated at the plot, pixel, and landscape levels by subtracting 2003 predictions from 2009 predictions. Traditional stand exam data were used to independently validate 2003 and 2009 tree aboveground biomass predictions and tree aboveground biomass change estimates at the stand level. Over this 6-year period, we found a mean increase in tree aboveground biomass due to forest growth across the non-harvested portions of 4.1 Mg/ha/yr. We found that 26.3% of the landscape had been harvested during this time period which outweighed growth at the landscape level, resulting in a net tree aboveground biomass change of -5.7 Mg/ha/yr. and -2.3 Mg/ha/yr in total aboveground carbon, summed across all the aboveground biomass pools. Change in aboveground biomass was related to forest successional status: younger stands gained two- to three-fold less biomass than did more mature stands. This result suggests that even the most mature forest stands are valuable carbon sinks, and implies that forest management decisions that include longer harvest rotation cycles are likely to favor higher levels of aboveground carbon storage in this system. A 30-fold difference in LiDAR sampling density between the 2003 and 2009 collections did not affect plot-scale biomass estimation. These results suggest that repeat LiDAR surveys are useful for accurately quantifying high resolution, spatially explicit biomass and carbon dynamics in conifer forests. Published by Elsevier Inc.
+C1 [Hudak, Andrew T.; Byrne, John C.] US Forest Serv, Rocky Mt Res Stn, Moscow, ID USA.
+   [Strand, Eva K.; Vierling, Lee A.; Eitel, Jan U. H.] Univ Idaho, Moscow, ID 83843 USA.
+   [Eitel, Jan U. H.] Univ Idaho, McCall Outdoor Sci Sch, Mccall, ID USA.
+   [Martinuzzi, Sebastian] Univ Wisconsin, Madison, WI USA.
+   [Falkowski, Michael J.] Michigan Technol Univ, Sch Forest Resources & Environm Sci, Houghton, MI 49931 USA.
+C3 United States Department of Agriculture (USDA); United States Forest Service; University of Idaho; University of Idaho; University of Wisconsin System; University of Wisconsin Madison; Michigan Technological University
+RP Hudak, AT (corresponding author), US Forest Serv, Rocky Mt Res Stn, Moscow, ID USA.
+EM ahudak@fs.fed.us
+FU Department of Energy (DOE) Big Sky C Sequestration Partnership; Montana State University; Washington State University; U.S. Forest Service Rocky Mountain Research Station [08-JV-11221633-159]
+CR Unknown -, 1991, GEN. TECH. REP. INT-236, V0, P0
+   Unknown -, 2007, R LANG ENV STAT COMP, V0, P0
+   Asner GP, 2011, FRONT ECOL ENVIRON, V9, P434, DOI 10.1890/100179
+   Bater CW, 2011, IEEE T GEOSCI REMOTE, V49, P2385, DOI 10.1109/TGRS.2010.2099232
+   Bones JT, 1960, PNWRN186 USDA FOR SE, V0, P0
+   Brown JK, 1974, USDA FOREST SERVICE GENERAL TECHNICAL REPORT, V0, P0
+   Brown JK, 1981, USDA FOR. SERV. GEN. TECH. REP. INT-129, V0, P0
+   BROWN JK, 1981, FOREST SCI, V27, P667
+   Crookston NL, 2010, FOREST ECOL MANAG, V260, P1198, DOI 10.1016/j.foreco.2010.07.013
+   Crookston NL, 2008, J STAT SOFTW, V23, P0
+   DeFries RS, 2002, P NATL ACAD SCI USA, V99, P14256, DOI 10.1073/pnas.182560099
+   DIXON RK, 1994, SCIENCE, V263, P185, DOI 10.1126/science.263.5144.185
+   Dubayah RO, 2010, J GEOPHYS RES-BIOGEO, V115, P0, DOI 10.1029/2009JG000933
+   Eskelson BNI, 2009, SCAND J FOREST RES, V24, P235, DOI 10.1080/02827580902870490
+   Evans IS, 1972, SPATIAL ANALYSIS IN GEOMORPHOLOGY, V0, PP17, DOI 10.4324/9780429273346-2
+   Evans JS, 2010, PREDICTIVE MODELING, V0, P0
+   Evans JS, 2007, IEEE T GEOSCI REMOTE, V45, P1029, DOI 10.1109/TGRS.2006.890412
+   Evans JS, 2009, LANDSCAPE ECOL, V24, P673, DOI 10.1007/s10980-009-9341-0
+   Falkowski MJ, 2006, CAN J REMOTE SENS, V32, P153, DOI 10.5589/m06-005
+   Falkowski MJ, 2010, CAN J FOREST RES, V40, P184, DOI 10.1139/X09-183
+   Falkowski MJ, 2008, CAN J REMOTE SENS, V34, PS338, DOI 10.5589/m08-055
+   Falkowski MJ, 2009, REMOTE SENS ENVIRON, V113, P946, DOI 10.1016/j.rse.2009.01.003
+   FRA, 2005, 147 UN FAO, V0, P0
+   Fu P, 1999, P 19 ANN ESRI USER C, V0, P0
+   Gibbs HK, 2007, ENVIRON RES LETT, V2, P0, DOI 10.1088/1748-9326/2/4/045023
+   Goetz S, 2011, CARBON MANAG, V2, P231, DOI 10.4155/CMT.11.18
+   Gonzalez P, 2010, REMOTE SENS ENVIRON, V114, P1561, DOI 10.1016/j.rse.2010.02.011
+   Harmon ME, 2002, CAN J FOREST RES, V32, P863, DOI 10.1139/X01-216
+   Heath LS, 2011, J FOREST, V109, P167
+   Hines SJ, 2010, NRS57 USDA FOR SERV, V0, P0
+   Hoover C, 2008, US FOR SERV RMRS-P, V54, P17
+   Hopkinson C, 2008, REMOTE SENS ENVIRON, V112, P1168, DOI 10.1016/j.rse.2007.07.020
+   Houghton RA, 2009, J GEOPHYS RES-BIOGEO, V114, P0, DOI 10.1029/2009JG000935
+   Hudak AT, 2008, REMOTE SENS ENVIRON, V112, P2232, DOI 10.1016/j.rse.2007.10.009
+   Hudak AT, 2006, CAN J REMOTE SENS, V32, P126, DOI 10.5589/m06-007
+   Hudak AT, 2008, US FOR SERV RMRS-P, V54, P133
+   Hudak AT, 2009, REMOTE SENS-BASEL, V1, P934, DOI 10.3390/rs1040934
+   Hudak AT, 2002, REMOTE SENS ENVIRON, V82, P397, DOI 10.1016/S0034-4257(02)00056-1
+   Hummel S, 2011, J FOREST, V109, P267
+   Jenkins JC, 2003, FOREST SCI, V49, P12
+   Kimsey MJ, 2011, SOIL SCI SOC AM J, V75, P267, DOI 10.2136/sssaj2010.0092
+   Law BE, 2003, GLOBAL CHANGE BIOL, V9, P510, DOI 10.1046/j.1365-2486.2003.00624.x
+   Lefsky MA, 2002, GLOBAL ECOL BIOGEOGR, V11, P393, DOI 10.1046/j.1466-822x.2002.00303.x
+   Lim K, 2003, PROG PHYS GEOG, V27, P88, DOI 10.1191/0309133303pp360ra
+   Martinuzzi S, 2009, REMOTE SENS ENVIRON, V113, P2533, DOI 10.1016/j.rse.2009.07.002
+   McCune B, 2002, J VEG SCI, V13, P603, DOI 10.1658/1100-9233(2002)013[0603:EFPADI]2.0.CO;2
+   McKinley DC, 2011, ECOL APPL, V21, P1902, DOI 10.1890/10-0697.1
+   MCNAB WH, 1989, FOREST SCI, V35, P91
+   McRoberts RE, 2002, REMOTE SENS ENVIRON, V82, P457, DOI 10.1016/S0034-4257(02)00064-0
+   Moore ID, 1993, MODELLING CHANGE IN ENVIRONMENTAL SYSTEMS., V0, P189
+   Murphy MA, 2010, ECOLOGY, V91, P252, DOI 10.1890/08-0879.1
+   NEMANI R, 1993, INT J REMOTE SENS, V14, P2519, DOI 10.1080/01431169308904290
+   Nilsson M, 1996, REMOTE SENS ENVIRON, V56, P1, DOI 10.1016/0034-4257(95)00224-3
+   OHara KL, 1996, WEST J APPL FOR, V11, P97, DOI 10.1093/wjaf/11.3.97
+   Pan YD, 2011, SCIENCE, V333, P988, DOI 10.1126/science.1201609
+   Parker AJ, 1982, PHYS GEOGR, V3, P160, DOI 10.1080/02723646.1982.10642224
+   Riley SJ, 1999, INTERMT J SCI, V5, P23, DOI 10.1016/J.RSE
+   Roberts DW, 1989, GTR INT 257, V0, P90
+   Robinson AP, 2005, TREE PHYSIOL, V25, P903, DOI 10.1093/treephys/25.7.903
+   Saatchi SS, 2011, P NATL ACAD SCI USA, V108, P9899, DOI 10.1073/pnas.1019576108
+   Schwalm CR, 2007, GLOBAL CHANGE BIOL, V13, P370, DOI 10.1111/j.1365-2486.2006.01298.x
+   Skog KE, 1998, FOREST PROD J, V48, P75
+   Smith WB, 1983, NC299 N CENTR FOR EX, V0, P0
+   Stage AR, 2007, FOREST SCI, V53, P62
+   STAGE AR, 1976, FOREST SCI, V22, P457
+   Stoker J, 2008, PHOTOGRAMM ENG REM S, V74, P1066
+   Strand EK, 2008, J GEOPHYS RES-BIOGEO, V113, P0, DOI 10.1029/2007JG000544
+   Tuominen S, 2003, CAN J FOREST RES, V33, P624, DOI 10.1139/x02-199
+   Van Tuyl S, 2005, FOREST ECOL MANAG, V209, P273, DOI 10.1016/j.foreco.2005.02.002
+   Vierling KT, 2008, FRONT ECOL ENVIRON, V6, P90, DOI 10.1890/070001
+   Vierling LA, 2010, QUANTIFYING FO UNPUB, V0, P0
+   Vierling LA, 2011, FRONT ECOL ENVIRON, V9, P261, DOI 10.1890/11.WB.009
+   Vine E, 1997, LBNL40316 EPA, V0, P0
+   Wooldridge DD, 1968, TREE GROWTH FOREST S, V0, P327
+   Wulder MA, 2008, FOREST CHRON, V84, P807, DOI 10.5558/tfc84807-6
+   Yu X, 2008, INT J REMOTE SENS, V29, P1367, DOI 10.1080/01431160701736356
+   Yu XW, 2004, REMOTE SENS ENVIRON, V90, P451, DOI 10.1016/j.rse.2004.02.001
+NR 82
+TC 221
+Z9 259
+U1 6
+U2 175
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0034-4257
+EI 1879-0704
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD AUG 15
+PY 2012
+VL 123
+IS 
+BP 25
+EP 40
+DI 10.1016/j.rse.2012.02.023
+PG 16
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science & Photographic Technology
+GA 016CX
+UT WOS:000309496000003
+DA 2025-11-05
+ER
+
+PT J
+AU Parkin, TB
+   Venterea, RT
+   Hargreaves, SK
+AF Parkin, T. B.
+   Venterea, R. T.
+   Hargreaves, S. K.
+TI Calculating the Detection Limits of Chamber-based Soil Greenhouse Gas Flux Measurements
+SO JOURNAL OF ENVIRONMENTAL QUALITY
+LA English
+DT Article
+ID oxide emissions; diffusion-model; static chambers; exchange
+AB Renewed interest in quantifying greenhouse gas emissions from soil has led to an increase in the application of chamber-based flux measurement techniques. Despite the apparent conceptual simplicity of chamber-based methods, nuances in chamber design, deployment, and data analyses can have marked effects on the quality of the flux data derived. In many cases, fluxes are calculated from chamber headspace vs. time series consisting of three or four data points. Several mathematical techniques have been used to calculate a soil gas flux from time course data. This paper explores the influences of sampling and analytical variability associated with trace gas concentration quantification on the flux estimated by linear and nonlinear models. We used Monte Carlo simulation to calculate the minimum detectable fluxes (alpha = 0.05) of linear regression (LR), the Hutchinson/Mosier (HIM) method, the quadratic method (Quad), the revised H/M (HMR) model, and restricted versions of the Quad and HIM methods over a range of analytical precisions and chamber deployment times (DT) for data sets consisting of three or four time points. We found that LR had the smallest detection limit thresholds and was the least sensitive to analytical precision and chamber deployment time. The HMR model had the highest detection limits and was most sensitive to analytical precision and chamber deployment time. Equations were developed that enable the calculation of flux detection limits of any gas species if analytical precision, chamber deployment time, and ambient concentration of the gas species are known.
+C1 [Parkin, T. B.] USDA ARS, Natl Lab Agr & Environm, Ames, IA 50011 USA.
+   [Venterea, R. T.] USDA ARS, Soil & Water Res Management Unit, St Paul, MN 55108 USA.
+   [Hargreaves, S. K.] Iowa State Univ, Dep Ecol Evolut & Organismal Biol, Ames, IA 50011 USA.
+C3 United States Department of Agriculture (USDA); United States Department of Agriculture (USDA); Iowa State University
+RP Parkin, TB (corresponding author), USDA ARS, Natl Lab Agr & Environm, 2110 Univ Blvd, Ames, IA 50011 USA.
+EM Tim.Parkin@ars.usda.gov
+CR ANTHONY WH, 1995, SOIL SCI SOC AM J, V59, P1308, DOI 10.2136/sssaj1995.03615995005900050015x
+   Arnold SL, 2001, COMMUN SOIL SCI PLAN, V32, P2795, DOI 10.1081/CSS-120000962
+   BOX GEP, 1958, ANN MATH STAT, V29, P610, DOI 10.1214/aoms/1177706645
+   Emerson JD, 1983, UNDERSTANDING ROBUST AND EXPLORATORY DATA ANALYSIS, V0, P97
+   Gilbert RO, 1987, RO GILBERT BIOMETRIC, V0, P0
+   Greenberg AE, 1985, STANDARD METHODS ANA, V0, P20
+   Healy RW, 1996, SOIL SCI SOC AM J, V60, P740, DOI 10.2136/sssaj1996.03615995006000030009x
+   HUTCHINSON GL, 1981, SOIL SCI SOC AM J, V45, P311, DOI 10.2136/sssaj1981.03615995004500020017x
+   HUTCHINSON GL, 1993, ASA SPEC PUBL, V55, P63, DOI 10.2134/ASASPECPUB55.C4
+   Livingston GP, 1995, METHODS ECOLOGY BIOG, V0, P14
+   Livingston GP, 2006, SOIL SCI SOC AM J, V70, P1459, DOI 10.2136/sssaj2005.0322
+   Pedersen AR, 2010, EUR J SOIL SCI, V61, P888, DOI 10.1111/j.1365-2389.2010.01291.x
+   Pedersen AR, 2001, SOIL SCI SOC AM J, V65, P49, DOI 10.2136/sssaj2001.65149x
+   Rochette P, 2004, SOIL SCI SOC AM J, V68, P1410, DOI 10.2136/sssaj2004.1410
+   Rochette P, 2007, SOIL SAMPLING METHOD, V2nd, P851, DOI 10.1201/9781420005271.CH65
+   Rochette P, 2008, SOIL SCI SOC AM J, V72, P331, DOI 10.2136/sssaj2007.0215
+   Venterea RT, 2008, SOIL SCI SOC AM J, V72, P1410, DOI 10.2136/sssaj2008.0019
+   Venterea RT, 2010, J ENVIRON QUAL, V39, P126, DOI 10.2134/jeq2009.0231
+   Venterea RT, 2009, SOIL SCI SOC AM J, V73, P1087, DOI 10.2136/sssaj2008.0307
+   Verchot LV, 1999, GLOBAL BIOGEOCHEM CY, V13, P31, DOI 10.1029/1998GB900019
+   Wagner SW, 1997, AGRON J, V89, P279, DOI 10.2134/agronj1997.00021962008900020021x
+NR 21
+TC 187
+Z9 214
+U1 2
+U2 150
+PU AMER SOC AGRONOMY
+PI MADISON
+PA 677 S SEGOE RD, MADISON, WI 53711 USA
+SN 0047-2425
+EI 
+J9 J ENVIRON QUAL
+JI J. Environ. Qual.
+PD MAY-JUN 15
+PY 2012
+VL 41
+IS 3
+BP 705
+EP 715
+DI 10.2134/jeq2011.0394
+PG 11
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 940NU
+UT WOS:000303901100010
+PM 22565252
+DA 2025-11-05
+ER
+

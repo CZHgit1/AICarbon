@@ -1,0 +1,241 @@
+PT J
+AU Wei, XR
+   Wang, GX
+   Massarotto, P
+   Rudolph, V
+   Golding, SD
+AF Wei, X. R.
+   Wang, G. X.
+   Massarotto, P.
+   Rudolph, V.
+   Golding, S. D.
+TI Modeling gas displacement kinetics in coal with Maxwell-Stefan diffusion theory
+SO AICHE JOURNAL
+LA English
+DT Article
+DE coalbed methane; CO2 sequestration; gas displacement; gas diffusion; kinetics; modeling
+ID percolation concepts; char gasification; solid reactions; pore structure; methane; recovery; adsorption; sorption; permeability; particles
+AB The kinetics of binary gas counter-diffusion and Darcy flow in a large coal sample were modeled, and the results compared with data from experimental laboratory investigations. The study aimed for a better understanding of the CO2-sequestration enhanced coalbed methane (ECBM) recovery process. The transport model used was based on the bidisperse diffusion mechanism and Maxwell-Stefan (MS) diffusion theory. This provides an alternative approach to simulate multicomponent gas diffusion and flow in bulk coals. A series of high-stress core flush tests were performed on a large coal sample sourced from a Bowen Basin coal mine in Queensland, Australia to investigate the kinetics of one gas displacing another. These experimental results were used to derive gas diffusivities, and to examine the predictive capability of the diffusion model. The simulations show good agreements with the displacement experiments, revealing that MS diffusion theory is superior for describing diffusion of mixed gases in coals compared with the constant Fick diffusivity model. The optimized effective micropore and macropore diffusivities are comparable with experimental measurements achieved by other researchers. (c) 2007 American Institute of Chemical Engineers AIChE J, 53: 3241-3252, 2007.
+C1 Univ Queensland, Div Chem Engn, Brisbane, Qld 4072, Australia.
+   Univ Queensland, Div Earth Sci, Brisbane, Qld 4072, Australia.
+C3 University of Queensland; University of Queensland
+RP Wang, G (corresponding author), Univ Queensland, Div Chem Engn, Brisbane, Qld 4072, Australia.
+EM g.wang@eng.uq.edu.au
+CR Unknown -, 1998, ADSORPTION ANAL EQUI, V0, P0
+   BHATIA SK, 1987, AICHE J, V33, P1707, DOI 10.1002/aic.690331014
+   Crosdale PJ, 1998, INT J COAL GEOL, V35, P147, DOI 10.1016/S0166-5162(97)00015-3
+   Ding LP, 2002, CHEM ENG SCI, V57, P3909, DOI 10.1016/S0009-2509(02)00306-8
+   DO DD, 1993, CHEM ENG SCI, V48, P2119, DOI 10.1016/0009-2509(93)80087-7
+   ENEVER JR, 1984, LECT SERIES CSIRO AU, V59, P1
+   Gamson PD, 1996, COALBED METHANE COAL, V0, P165
+   GAMSON PD, 1993, FUEL, V72, P87, DOI 10.1016/0016-2361(93)90381-B
+   GAN H, 1972, FUEL, V51, P272, DOI 10.1016/0016-2361(72)90003-8
+   Gray I, 1987, RESERVOIR ENG COAL S, V0, PP28, DOI 10.2118/12514-PA
+   Jackson R, 1977, TRANSPORT POROUS CAT, V0, P0
+   KRISHNA R, 1990, CHEM ENG SCI, V45, P1779, DOI 10.1016/0009-2509(90)87055-W
+   Krishna R, 1997, CHEM ENG SCI, V52, P861, DOI 10.1016/S0009-2509(96)00458-7
+   Laxminarayana C, 1999, INT J COAL GEOL, V40, P309, DOI 10.1016/S0166-5162(99)00005-1
+   LEEMAN ER, 1968, INT J ROCK MECH MIN, V5, P31, DOI 10.1016/0148-9062(68)90021-1
+   LEVINE JR, 1993, AAPG INT C EXH 1993, V0, P39
+   Liu F, 1999, COMPUT CHEM ENG, V23, P933, DOI 10.1016/S0098-1354(99)00262-8
+   MASSAROTTO P, 2002, THESIS U QUEENSLAND, V0, P0
+   MCKEE CR, 1987, COAB METH S, V0, P183
+   Minkoff SE, 2003, J PETROL SCI ENG, V38, P37, DOI 10.1016/S0920-4105(03)00021-4
+   NANDI SP, 1970, FUEL, V49, P309, DOI 10.1016/0016-2361(70)90023-2
+   OLAGUE NE, 1988, FUEL, V68, P1381
+   PALMER ID, 1996, SOC PETR ENG ANN TEC, V0, P557
+   Pekot L, 2002, MODELING COAL MATRIX, V0, P0
+   REID RC, 1987, PROPERTIES GASED LIQ, V0, P0
+   REYES S, 1986, CHEM ENG SCI, V41, P333, DOI 10.1016/0009-2509(86)87013-0
+   REYES S, 1986, CHEM ENG SCI, V41, P345, DOI 10.1016/0009-2509(86)87014-2
+   RUCKENSTEIN E, 1971, CHEM ENG SCI, V26, P1305, DOI 10.1016/0009-2509(71)80051-9
+   Seidle JP, 1992, SOCIETY OF PETROLEUM ENGINEERS, V0, P0, DOI DOI 10.2118/24361-MS
+   Seidle JP, 1995, 1995 SPE INT M PETR, V0, P0
+   Shi JQ, 2005, SPE RESERV EVAL ENG, V8, P291, DOI 10.2118/87230-PA
+   Shi JQ, 2004, TRANSPORT POROUS MED, V56, P1, DOI 10.1023/B:TIPM.0000018398.19928.5a
+   UNSWORTH JF, 1989, FUEL, V68, P18, DOI 10.1016/0016-2361(89)90005-7
+   VANDENBROEKE LJP, 1995, CHEM ENG SCI, V50, P2507, DOI 10.1016/0009-2509(95)00102-B
+   VIGNES A, 1966, IND ENG CHEM FUND, V5, P189, DOI 10.1021/i160018a007
+   Wei XR, 2007, CHEM ENG SCI, V62, P4193, DOI 10.1016/j.ces.2007.04.032
+NR 36
+TC 13
+Z9 15
+U1 0
+U2 48
+PU JOHN WILEY & SONS INC
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0001-1541
+EI 
+J9 AICHE J
+JI AICHE J.
+PD DEC 15
+PY 2007
+VL 53
+IS 12
+BP 3241
+EP 3252
+DI 10.1002/aic.11314
+PG 12
+WC Engineering, Chemical
+SC Engineering
+GA 234YK
+UT WOS:000251200400020
+DA 2025-11-05
+ER
+
+PT J
+AU Wei, XR
+   Wang, G
+   Massarotto, P
+   Golding, SD
+   Rudolph, V
+AF Wei, X. R.
+   Wang, G. X.
+   Massarotto, P.
+   Golding, S. D.
+   Rudolph, V.
+TI Numerical simulation of multicomponent gas diffusion and flow in coals for CO2 enhanced coalbed methane recovery
+SO CHEMICAL ENGINEERING SCIENCE
+LA English
+DT Article
+DE coal; gas diffusion; CO2 sequestration; CO2-enhanced coalbed methane (CO2-ECBM); mathematical modeling; numerical simulation
+ID pore structure; transport-property; steep gradients; adsorption; sorption; pressure; solids
+AB This paper presents an alternative model of multicomponent gas diffusion and flow in bulk coals, focusing on CH4-CO2 counter-diffusion associated with CO2-sequestration enhanced coalbed methane (CO2-ECBM) recovery. The model was developed based on the bidisperse diffusion mechanism and the Maxwell-Stefan (MS) diffusion theory, which provides an improved simulation of multicomponent gas diffusion dynamics. The model was firstly validated under the condition of pure gas diffusion by comparing with the analytical solutions of a bidisperse diffusion model and the experimental data obtained from pure-gas sorption kinetic tests. Then it was numerically solved by considering CH4-CO2 counter-diffusion and flow in a large coal sample to simulate a laboratory CO2-injection core flush experiment. The simulation shows an excellent agreement with the CO2 flush experiment. A quantitative description of the relationship between micropore diffusivity and concentration has been achieved, which is a deficiency in currently available CBM/ECBM models. The concentration-dependerlt diffusivities need to be taken into account in modeling the coalbed methane (CBM) recovery, in particular for simulation of ECBM production from and CO2 sequestration in coal seams. (c) 2007 Elsevier Ltd. All rights reserved.
+C1 Univ Queensland, Dept Chem Engn, Brisbane, Qld 4072, Australia.
+   Univ Queensland, Div Earth Sci, Brisbane, Qld 4072, Australia.
+C3 University of Queensland; University of Queensland
+RP Wang, G (corresponding author), Univ Queensland, Dept Chem Engn, Brisbane, Qld 4072, Australia.
+EM g.wang@eng.uq.edu.au
+CR Unknown -, 1988, SPE RESERVOIR ENGINEERING, V0, P0, DOI DOI 10.2118/13091-PA
+   Unknown -, 1998, ADSORPTION ANAL EQUI, V0, P0
+   ARVIND G, 1995, CHEM ENG SCI, V50, P1361, DOI 10.1016/0009-2509(95)98847-8
+   CHEN YD, 1991, AICHE J, V37, P1579, DOI 10.1002/aic.690371015
+   Clarkson CR, 1999, FUEL, V78, P1345, DOI 10.1016/S0016-2361(99)00056-3
+   Clarkson CR, 1999, FUEL, V78, P1333, DOI 10.1016/S0016-2361(99)00055-1
+   Crosdale PJ, 1998, INT J COAL GEOL, V35, P147, DOI 10.1016/S0166-5162(97)00015-3
+   Cui XJ, 2004, FUEL, V83, P293, DOI 10.1016/j.fuel.2003.09.001
+   GAMSON PD, 1993, FUEL, V72, P87, DOI 10.1016/0016-2361(93)90381-B
+   GAMSON PD, 1996, COALBED METHANE COAL, V0, P109
+   Garbow B, 1980, MINPACK SUBROUTINE L, V0, P0
+   Jackson R, 1977, TRANSPORT POROUS CAT, V0, P0
+   KING GR, 1989, 1989 COALB METH S, V0, P0
+   Kolesar JE, 1986, SPE FORM EVAL, V5, P6, DOI 10.2118/15233-PA
+   Krishna R, 1997, CHEM ENG SCI, V52, P861, DOI 10.1016/S0009-2509(96)00458-7
+   Laxminarayana C, 1999, INT J COAL GEOL, V40, P309, DOI 10.1016/S0166-5162(99)00005-1
+   Liu F, 1999, COMPUT CHEM ENG, V23, P933, DOI 10.1016/S0098-1354(99)00262-8
+   Liu F, 2001, CHEM ENG SCI, V56, P3727, DOI 10.1016/S0009-2509(01)00087-2
+   Miller JJH, 2012, FITTED NUMERICAL METHODS FOR SINGULAR PERTURBATION PROBLEMS: ERROR ESTIMATES IN THE MAXIMUM NORM FOR LINEAR PROBLEMS IN ONE AND TWO DIMENSIONS, V0, P0
+   Minkoff SE, 2003, J PETROL SCI ENG, V38, P37, DOI 10.1016/S0920-4105(03)00021-4
+   Petzold LR, 1983, SCIENTIFIC COMPUTING (MONTREAL, V0, P65
+   Poling BE, 1987, PROPERTIES GASES LIQ, V5th, P0
+   RUCKENSTEIN E, 1971, CHEM ENG SCI, V26, P1305, DOI 10.1016/0009-2509(71)80051-9
+   Shi JQ, 2003, FUEL, V82, P1219, DOI 10.1016/S0016-2361(03)00010-3
+   SHI SQ, 2003, 2003 SPE ANN TECHN C, V0, P0
+   UNSWORTH JF, 1989, FUEL, V68, P18, DOI 10.1016/0016-2361(89)90005-7
+   WARREN JE, 1963, SOC PETROL ENG J, V3, P245, DOI 10.2118/426-PA
+   WOLF K, 2003, P PETRO 2003, V0, P329
+NR 29
+TC 73
+Z9 77
+U1 4
+U2 115
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0009-2509
+EI 
+J9 CHEM ENG SCI
+JI Chem. Eng. Sci.
+PD AUG 15
+PY 2007
+VL 62
+IS 16
+BP 4193
+EP 4203
+DI 10.1016/j.ces.2007.04.032
+PG 11
+WC Engineering, Chemical
+SC Engineering
+GA 203FH
+UT WOS:000248960000004
+DA 2025-11-05
+ER
+
+PT J
+AU Grasa, GS
+   Abanades, JC
+AF Grasa, G. S.
+   Abanades, J. C.
+TI Narrow fluidised beds arranged to exchange heat between a combustion chamber and a CO2 sorbent regenerator
+SO CHEMICAL ENGINEERING SCIENCE
+LA English
+DT Article
+DE CO2 capture; solids sorbents; solids mixing; fluidisation; combustion
+ID carbon-dioxide; solids; capture; systems; reactor; design; cycle; gas
+AB Experiments in a cold model have been conducted to determine lateral solid diffusion coefficients in a narrow fluidised bed. The experimental data have been obtained using an image analysis technique that traces the dispersion of phosphor coated particles in the bed. A diffusion model has been used to describe lateral solids mixing in the configuration proposed for the narrow fluidised bed. The equation proposed by Shi and Fan [1984. Lateral mixing of solids in batch gas-solids fluidized beds. Industrial and Engineering Chemistry, Process Design and Development 23, 337-341] to calculate the diffusion coefficient in the radial direction fits well the available experimental data. The solid diffusion coefficients obtained have been used to solve a heat transfer problem and discuss the feasibility of a fluidised bed system that makes use of narrow fluidised beds arranged to transfer heat from bed to bed through a separating wall between them. This novel configuration of fluidised bed reactors could find application in some emerging systems that make use of solid regenerable sorbents to capture CO2. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 CSIC, Inst Carboquim, Zaragoza 50015, Spain.
+   CSIC, Inst Nacl Carbon, Oviedo 33011, Spain.
+C3 Consejo Superior de Investigaciones Cientificas (CSIC); CSIC - Instituto de Carboquimica (ICB); Consejo Superior de Investigaciones Cientificas (CSIC); Instituto de Ciencia Tecnologia del Carbono INCAR-CSIC
+RP Grasa, GS (corresponding author), CSIC, Inst Carboquim, Miguel Luesma Castan 4, Zaragoza 50015, Spain.
+EM gga@carbon.icb.csic.es
+CR Abanades JC, 2004, IND ENG CHEM RES, V43, P3462, DOI 10.1021/ie049962v
+   Abanades JC, 2005, ENVIRON SCI TECHNOL, V39, P2861, DOI 10.1021/es0496221
+   Abanades JC, 2002, CHEM ENG J, V90, P303, DOI 10.1016/S1385-8947(02)00126-2
+   Abanades JC, 2001, IND ENG CHEM RES, V40, P5656, DOI 10.1021/ie0009278
+   Basu P, 1996, CHEM ENG SCI, V51, P1, DOI 10.1016/0009-2509(95)00124-7
+   BI J, 1995, CHEM ENG RES DES, V73, P162
+   Breitholtz C, 2001, POWDER TECHNOL, V120, P41, DOI 10.1016/S0032-5910(01)00345-X
+   Chen JC, 2005, POWDER TECHNOL, V150, P123, DOI 10.1016/j.powtec.2004.11.035
+   Curran GP, 1967, ADV CHEM SER, V69, P141
+   Grasa G, 2004, CHEM ENG SCI, V59, P5869, DOI 10.1016/j.ces.2004.07.006
+   Grasa G, 2002, CHEM ENG SCI, V57, P2791, DOI 10.1016/S0009-2509(02)00146-X
+   Grasa G, 2001, POWDER TECHNOL, V114, P125, DOI 10.1016/S0032-5910(00)00262-X
+   GREEN DA, 2002, 19 ANN INT PITTSB CO, V0, P0
+   Gupta H, 2002, IND ENG CHEM RES, V41, P4035, DOI 10.1021/ie010867l
+   HOFFMAN AC, 1993, CHEM ENG SCI, V48, P0
+   HOFFMAN JS, 2002, 19 ANN INT PITTSB CO, V0, P0
+   Kimura S, 2005, CHEM ENG SCI, V60, P4061, DOI 10.1016/j.ces.2005.02.035
+   KUNII D, 1969, FLUIDIZATION ENG, V0, P130
+   Levenspiel O, 2005, IND ENG CHEM RES, V44, P5073, DOI 10.1021/ie040169b
+   Li ZS, 2005, ENERG FUEL, V19, P1447, DOI 10.1021/ef0496799
+   LIM KS, 1993, CHEM ENG SCI, V48, P2251, DOI 10.1016/0009-2509(93)80241-H
+   May WG, 1959, CHEM. ENG. PROG, V55, P49
+   Metz B, 2005, SPECIAL REPORT ON CARBON DIOXIDE CAPTURE AND STORAGE., V0, P0
+   Nakagawa K, 1999, ELECTROCHEMISTRY, V67, P618, DOI 10.5796/electrochemistry.67.618
+   Rubio O, 2004, AICHE J, V50, P1510, DOI 10.1002/aic.10134
+   SHEN LH, 1995, POWDER TECHNOL, V84, P207, DOI 10.1016/0032-5910(95)02994-D
+   SHI YF, 1984, IND ENG CHEM PROC DD, V23, P337, DOI 10.1021/i200025a026
+   Shimizu T, 1999, CHEM ENG RES DES, V77, P62, DOI 10.1205/026387699525882
+   VANDEEMTER JJ, 1967, P INT S FLUID NETH U, V0, P0
+   WERTHER J, 1987, P 9 INT C FLUID BED, V152, P0
+   WESTPHALEN D, 1995, POWDER TECHNOL, V82, P153, DOI 10.1016/0032-5910(94)02909-8
+   Yong Z, 2002, SEP PURIF TECHNOL, V26, P195, DOI 10.1016/S1383-5866(01)00165-4
+   Ziock HJ, 2002, TECHNICAL PROGR DEV, V0, P0
+NR 33
+TC 24
+Z9 25
+U1 0
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0009-2509
+EI 1873-4405
+J9 CHEM ENG SCI
+JI Chem. Eng. Sci.
+PD JAN 15
+PY 2007
+VL 62
+IS 1-2
+BP 619
+EP 626
+DI 10.1016/j.ces.2006.09.026
+PG 8
+WC Engineering, Chemical
+SC Engineering
+GA 120OW
+UT WOS:000243095400049
+DA 2025-11-05
+ER
+

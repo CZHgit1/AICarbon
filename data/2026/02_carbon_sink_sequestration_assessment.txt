@@ -1,0 +1,446 @@
+PT J
+AU Lv, JY
+   Wu, MQ
+   Liu, SB
+   Liu, LX
+   Song, XD
+   Wang, SK
+   Chen, G
+   Tang, YJ
+   Liu, BW
+   Gao, JK
+   Meng, LY
+AF Lv, Jinyi
+   Wu, Mengquan
+   Liu, Shubin
+   Liu, Longxing
+   Song, Xiaodong
+   Wang, Shikuan
+   Chen, Gang
+   Tang, Yijie
+   Liu, Bowen
+   Gao, Jinkun
+   Meng, Lingyi
+TI Accurate mapping of mariculture areas and their carbon sink assessment based on deep learning and satellite imagery
+SO AQUACULTURE
+LA English
+DT Article
+DE Mariculture; DeepLabv3+; Carbon sink; Remote sensing; Fujian Sansha Bay
+ID segmentation
+AB In the context of global warming, mariculture plays a crucial role in utilizing aquatic resources, maintaining ecological balance, and mitigating carbon emissions. This study presents an enhanced DeepLabv3+ model for monitoring mariculture zones and assessing their carbon sink capacity using Sentinel-2 remote sensing images of Sansha Bay, Fujian Province, China. The model incorporates an improved Attention Kernel Convolution (AKConv) to capture multi-scale features and integrates an attention mechanism module (SEBlock) to enhance feature extraction. The results demonstrate that: (1) the enhanced model significantly outperforms the original DeepLabv3+ model, with improvements of 9.68 % in Mean Intersection Over Union (MIoU), 9.27 % in Mean Pixel Accuracy (MPA), and 1.01 % in accuracy; (2) the mariculture area in Sansha Bay expanded from 172.10 km2 in 2019 to 282.42 km2 in 2023; and (3) the carbon sink capacity of the mariculture area increased from 130 kt in 2019 to 220 kt in 2023, with its carbon sink economic value rising from CNY 7.16 million to CNY 12.08 million. These results highlight the applicability of the enhanced DeepLabv3+ model for intelligent monitoring and carbon sink assessment, offering a scalable solution for large-scale mariculture management and policy support.
+C1 [Lv, Jinyi; Wu, Mengquan; Liu, Longxing; Chen, Gang; Tang, Yijie; Liu, Bowen; Gao, Jinkun; Meng, Lingyi] Ludong Univ, Sch Resources & Environm Engn, Yantai, Peoples R China.
+   [Liu, Shubin] Yantai Land Reserve & Use Ctr, Yantai, Peoples R China.
+   [Song, Xiaodong] Zhejiang Univ Water Resources & Elect Power, Coll Geomat & Municipal Engn, Hangzhou, Peoples R China.
+   [Wang, Shikuan] Guangzhou Univ, Sch Geog & Remote Sensing, Guangzhou, Peoples R China.
+C3 Ludong University; Zhejiang University of Water Resources and Electric Power; Guangzhou University
+RP Wu, MQ (corresponding author), Ludong Univ, Sch Resources & Environm Engn, Yantai, Peoples R China.
+EM ld_wmq@ldu.edu.cn
+FU National Natural Science Foundation of China [42071385]; Yantai science and technology innovation development plan project [2022MSGY062, 2022MSGY057]; Shandong Science and Technology SMEs Technology Innovation Capacity Enhancement Project [2022TSGC2371]
+CR Alleway HK, 2019, BIOSCIENCE, V69, P59, DOI 10.1093/biosci/biy137
+   Alsaleh M, 2024, SUSTAIN DEV, V32, P481, DOI 10.1002/sd.2659
+   Baheti B, 2020, PATTERN RECOGN LETT, V138, P223, DOI 10.1016/j.patrec.2020.07.029
+   Bengil F, 2014, AQUACULT ENV INTERAC, V6, P67, DOI 10.3354/aei00115
+   Bu DZ, 2024, FRONT MAR SCI, V11, P0, DOI 10.3389/fmars.2024.1351657
+   Cusano C, 2015, IEEE GEOSCI REMOTE S, V12, P2331, DOI 10.1109/LGRS.2015.2476365
+   Fu HX, 2021, J MAR SCI ENG, V9, P0, DOI 10.3390/jmse9060671
+   Fujian Provincial Oceanic and Fisheries Administration, 2022, FUJIAN PROVINCIAL 14TH FIVE-YEAR PLAN FOR FISHERIES DEVELOPMENT, V0, P0
+   Gao Y, 2024, ENVIRON DEV SUSTAIN, V26, P453, DOI 10.1007/s10668-022-02716-6
+   [葛云峰 Ge Yunfeng], 2017, 岩石力学与工程学报 CHINESE JOURNAL OF ROCK MECHANICS AND ENGINEERING, V36, P3050
+   Gu YX, 2022, FRONT MAR SCI, V9, P0, DOI 10.3389/fmars.2022.981569
+   Guan HJ, 2022, FRONT ENV SCI-SWITZ, V10, P0, DOI 10.3389/fenvs.2022.978073
+   Guo DD, 2023, FRONT MAR SCI, V10, P0, DOI 10.3389/fmars.2023.1151817
+   Hao Yan-ju, 2024, FRONTIERS IN AQUACULTURE, V3, P0, DOI 10.3389/faquc.2024.1355741
+   He T, 2023, 2023 IEEE 7 INF TECH, V0, P0
+   He YX, 2023, MAR POLICY, V147, P0, DOI 10.1016/j.marpol.2022.105365
+   Hu CM, 2021, SCI TOTAL ENVIRON, V781, P0, DOI 10.1016/j.scitotenv.2021.146801
+   Ji AK, 2020, AUTOMAT CONSTR, V114, P0, DOI 10.1016/j.autcon.2020.103176
+   Jia RL, 2023, ENVIRON RES, V224, P0, DOI 10.1016/j.envres.2023.115511
+   Jiang KL, 2022, AGRICULTURE-BASEL, V12, P0, DOI 10.3390/agriculture12101659
+   Lai QY, 2022, INT J ENV RES PUB HE, V19, P0, DOI 10.3390/ijerph19148873
+   Li Z, 2022, J MAR SCI ENG, V10, P0, DOI 10.3390/jmse10091179
+   Liu C, 2022, ENVIRON SCI TECHNOL, V56, P6584, DOI 10.1021/acs.est.1c08106
+   Liu RM, 2024, FOODS, V13, P0, DOI 10.3390/foods13111710
+   Ma ZY, 2024, IEEE T INTELL TRANSP, V25, P11893, DOI 10.1109/TITS.2024.3362368
+   McFeeters SK, 1996, INT J REMOTE SENS, V17, P1425, DOI 10.1080/01431169608948714
+   Miraliev S, 2024, IEEE T INTELL VEHICL, V9, P247, DOI 10.1109/TIV.2023.3270878
+   Morales-Barquero L, 2019, REMOTE SENS-BASEL, V11, P0, DOI 10.3390/rs11192305
+   Mueller K, 2004, J GEOPHYS RES-OCEANS, V109, P0, DOI 10.1029/2003JC002252
+   Nagrath P, 2021, SUSTAIN CITIES SOC, V66, P0, DOI 10.1016/j.scs.2020.102692
+   Shi M, 2024, IEEE T INTELL TRANSP, V25, P7401, DOI 10.1109/TITS.2023.3348631
+   Sima H, 2023, INT J MACH LEARN CYB, V14, P2353, DOI 10.1007/s13042-022-01767-5
+   Tan XD, 2024, REMOTE SENS-BASEL, V16, P0, DOI 10.3390/rs16173284
+   Tang QS, 2011, MAR ECOL PROG SER, V424, P97, DOI 10.3354/meps08979
+   Tian H, 2022, FRONT MAR SCI, V9, P0, DOI 10.3389/fmars.2022.808282
+   Tong GF, 2024, VISUAL COMPUT, V40, P831, DOI 10.1007/s00371-023-02819-9
+   Wang H, 2020, IEEE T INSTRUM MEAS, V69, P2377, DOI 10.1109/TIM.2019.2956332
+   Wang MQ, 2018, GEOPHYS RES LETT, V45, P12359, DOI 10.1029/2018GL078858
+   Wang SK, 2023, FORESTS, V14, P0, DOI 10.3390/f14102052
+   Weng YJ, 2023, WATER-SUI, V15, P0, DOI 10.3390/w15203557
+   Xuan W, 2019, JOURNAL OF FISHERIES RESEARCH, V41, P519, DOI 10.14012/j.cnki.fisc.2019.06.009
+   Yu LJ, 2022, IEEE J-STARS, V15, P930, DOI 10.1109/JSTARS.2021.3140101
+   Yuan B, 2023, FRONT MAR SCI, V9, P0, DOI 10.3389/fmars.2022.979003
+   Zhang H, 2021, INFORM FUSION, V76, P323, DOI 10.1016/j.inffus.2021.06.008
+   Zhang XL, 2024, SENSORS-BASEL, V24, P0, DOI 10.3390/s24175640
+   Zhao QL, 2024, FRONT MAR SCI, V11, P0, DOI 10.3389/fmars.2024.1396322
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0044-8486
+EI 1873-5622
+J9 AQUACULTURE
+JI Aquaculture
+PD JAN 15
+PY 2026
+VL 612
+IS 
+BP 
+EP 
+DI 10.1016/j.aquaculture.2025.743076
+EA AUG 2025
+PG 11
+WC Fisheries; Marine & Freshwater Biology
+SC Fisheries; Marine & Freshwater Biology
+GA 8QZ5I
+UT WOS:001595250700002
+DA 2025-11-21
+ER
+
+PT J
+AU Jarahizadeh, S
+   Salehi, B
+AF Jarahizadeh, Sina
+   Salehi, Bahram
+TI Tree-Net: A novel deep learning tree detection architecture using UAV LiDAR data
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE UAV LiDAR; Individual tree detection; Deep learning; Object detector; Tree-net; YOLO
+ID airborne lidar; forest; segmentation; crown; delineation; algorithms; height; field
+AB Individual Tree Detection (ITD) is essential for assessing tree parameters including spatial distribution, geometrical characteristics, and species identification within forested landscapes. This process is vital for tree inventory management and forest carbon accounting. Such information on individual trees can be derived from high-resolution Unmanned Aerial Vehicle (UAV) Light Detection and Ranging (LiDAR) data by utilizing Deep Learning (DL) object detectors. Unlike traditional RGB images, UAV LiDAR data can be rasterized into multiple bands (or features) representing different structural and textural attributes, such as Vertical Distance (VD), Canopy Height Model (CHM), and texture-based features, to provide richer information to enhance detection. However, existing methods for UAV LiDAR data face challenges in processing high-resolution data due to complex forest environments, overlapping tree crowns, and limitations in utilizing rich multi-band information (i.e., input raster layers with more than three bands). To address these issues, this paper introduces Tree-Net, an innovative one-stage DL structure object detection for ITD on rasterized UAV LiDAR data. Inspired by a deep neural network based on You Only Look Once (YOLO), Tree-Net attempts to benefit from greater numbers of input bands to obtain sophisticated spectral and spatial features. By optimizing the neural network structure, Tree-Net improves computational efficiency and detection accuracy by employing a shallower architecture. Tree-Net's performance is evaluated on two distinct datasets, Heiberg and ForInstance benchmarks consisting of around 25,000 trees including deciduous and coniferous trees to represent different canopy shapes, heights, and densities. The Best detection metrics results indicate that the proposed method outperforms existing literature (i. e., YOLOv5) and Modified YOLO by achieving 7 %, 41 %, 30 %, and 34 % improvement in accuracy, precision, recall, and F1-score metrics, respectively. In terms of time efficiency, Tree-Net outperformed our previously developed modified version of YOLO (Modified YOLO), which accepts multi-band instead of classic three-band (RGB) input, by 60 % on both training and testing phases. From a practical perspective, Tree-Net holds significant promise for urban tree inventory, forest management, and satellite ground-truth data generation for largescale applications including biomass estimations and carbon exchange.
+C1 [Jarahizadeh, Sina; Salehi, Bahram] State Univ New York Coll Environm Sci & Forestry, Dept Environm Resources Engn, 1 Forestry Dr, Syracuse, NY 13210 USA.
+C3 State University of New York (SUNY) System; State University of New York (SUNY) College of Environmental Science & Forestry
+RP Jarahizadeh, S (corresponding author), State Univ New York Coll Environm Sci & Forestry, Dept Environm Resources Engn, 1 Forestry Dr, Syracuse, NY 13210 USA.
+EM sjarahizadeh@esf.edu; bsalehi@esf.edu
+FU USDA National Institute of Food and Agriculture (NIFA); McIntire-Stennis Grant; North-eastern States Research Cooperative program of USDA Forest Service
+CR Alif MA, 2024, ARXIV, V0, P0
+   BENTLEY JL, 1975, COMMUN ACM, V18, P509, DOI 10.1145/361002.361007
+   Cao KL, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12071128
+   Chen XX, 2021, FORESTS, V12, P0, DOI 10.3390/f12020131
+   Colkesen I, 2023, ADV. ENG. DAYS (AED), V6, P64
+   Dersch S, 2023, ISPRS OPEN J PHOTOGR, V8, P0, DOI 10.1016/j.ophoto.2023.100037
+   Diwan T, 2023, MULTIMED TOOLS APPL, V82, P9243, DOI 10.1007/s11042-022-13644-y
+   Erikson M, 2003, CAN J FOREST RES, V33, P1557, DOI 10.1139/X03-062
+   Ferreira MP, 2020, FOREST ECOL MANAG, V475, P0, DOI 10.1016/j.foreco.2020.118397
+   Gan Y, 2023, REMOTE SENS-BASEL, V15, P0, DOI 10.3390/rs15030778
+   Girshick R, 2014, PROC CVPR IEEE, V0, PP580, DOI 10.1109/CVPR.2014.81
+   Guo YL, 2024, ARXIV, V0, P0
+   Hao ZB, 2021, ISPRS J PHOTOGRAMM, V178, P112, DOI 10.1016/j.isprsjprs.2021.06.003
+   Hell M, 2022, PFG-J PHOTOGRAMM REM, V90, P103, DOI 10.1007/s41064-022-00200-4
+   Huang HY, 2018, IEEE J-STARS, V11, P2253, DOI 10.1109/JSTARS.2018.2830410
+   Jackson RB, 2008, ENVIRON RES LETT, V3, P0, DOI 10.1088/1748-9326/3/4/044006
+   Jarahizadeh S, 2025, URBAN FOR URBAN GREE, V105, P0, DOI 10.1016/j.ufug.2025.128695
+   Jarahizadeh S, 2024, INT GEOSCI REMOTE SE, V0, PP9953, DOI 10.1109/IGARSS53475.2024.10640977
+   Jarahizadeh S, 2024, SENSORS-BASEL, V24, P0, DOI 10.3390/s24010286
+   Jaskierniak D, 2021, ISPRS J PHOTOGRAMM, V171, P171, DOI 10.1016/j.isprsjprs.2020.10.016
+   Koukoulas S, 2005, INT J REMOTE SENS, V26, P431, DOI 10.1080/0143116042000298289
+   LEE DT, 1980, INT J COMPUT INF SCI, V9, P219, DOI 10.1007/BF00977785
+   Lin YY, 2024, REMOTE SENS-BASEL, V16, P0, DOI 10.3390/rs16213920
+   Liu K, 2018, ISPRS J PHOTOGRAMM, V146, P465, DOI 10.1016/j.isprsjprs.2018.11.001
+   Lucena F, 2022, FUTURE INTERNET, V14, P0, DOI 10.3390/fi14100275
+   Luo HF, 2021, ISPRS J PHOTOGRAMM, V175, P326, DOI 10.1016/j.isprsjprs.2021.03.002
+   Luoma V, 2017, FORESTS, V8, P0, DOI 10.3390/f8020038
+   Maltamo M, 2014, FORESTRY APPLICATIONS OF AIRBORNE LASER SCANNING, V27, P0, DOI 10.1007/978-94-017-8663-8
+   Marcello J, 2024, DRONES-BASEL, V8, P0, DOI 10.3390/drones8120772
+   Miraki M, 2021, ECOL INFORM, V61, P0, DOI 10.1016/j.ecoinf.2020.101207
+   Park HG, 2021, IEEE J-STARS, V14, P8350, DOI 10.1109/JSTARS.2021.3102218
+   Pearse GD, 2020, ISPRS J PHOTOGRAMM, V168, P156, DOI 10.1016/j.isprsjprs.2020.08.005
+   Popescu SC, 2004, PHOTOGRAMM ENG REM S, V70, P589, DOI 10.14358/PERS.70.5.589
+   Puliti S, 2021, INT GEOSCI REMOTE SE, V0, PP728, DOI 10.1109/IGARSS47720.2021.9553895
+   Redmon J, 2016, PROC CVPR IEEE, V0, PP779, DOI 10.1109/CVPR.2016.91
+   Ren SQ, 2015, ADV NEUR IN, V28, P0, DOI 10.1109/TPAMI.2016.2577031
+   Rezatofighi H, 2019, PROC CVPR IEEE, V0, PP658, DOI 10.1109/CVPR.2019.00075
+   Rollan TA, 2015, P S E AS SURV C, V0, P0
+   Salehi B, 2022, REMOTE SENS-BASEL, V14, P0, DOI 10.3390/rs14194917
+   Soydaner D, 2022, NEURAL COMPUT APPL, V34, P13371, DOI 10.1007/s00521-022-07366-3
+   Straker A, 2023, ISPRS OPEN J PHOTOGR, V9, P0, DOI 10.1016/j.ophoto.2023.100045
+   Sun CX, 2022, FRONT PLANT SCI, V13, P0, DOI 10.3389/fpls.2022.914974
+   Tu YH, 2020, ISPRS J PHOTOGRAMM, V160, P83, DOI 10.1016/j.isprsjprs.2019.12.006
+   Tu YH, 2019, REMOTE SENS-BASEL, V11, P0, DOI 10.3390/rs11030269
+   Tzutalin D, 2015, GITHUB REPOS., V6, P0
+   Uehara K, 2017, IEEE SYS MAN CYBERN, V0, PP1339, DOI 10.1109/SMC.2017.8122799
+   Velasquez-Camacho L, 2021, REMOTE SENS-BASEL, V13, P0, DOI 10.3390/rs13234889
+   Wagner FH, 2019, REMOTE SENS ECOL CON, V5, P360, DOI 10.1002/rse2.111
+   Wang CY, 2023, PROC CVPR IEEE, V0, PP7464, DOI 10.1109/CVPR52729.2023.00721
+   Wang CY, 2022, ARXIV, V0, P0
+   Ward PJ, 2020, WATER SECUR, V11, P100070, DOI 10.1016/j.wasec.2020.100070
+   Weinstein BG, 2019, REMOTE SENS-BASEL, V11, P0, DOI 10.3390/rs11111309
+   Weiskittel AR, 2011, FOREST GROWTH AND YIELD MODELING, V0, PP1, DOI 10.1002/9781119998518
+   White JC, 2016, CAN J REMOTE SENS, V42, P619, DOI 10.1080/07038992.2016.1207484
+   Windrim L, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12091469
+   Wu XQ, 2019, REMOTE SENS-BASEL, V11, P0, DOI 10.3390/rs11080908
+   Xu XJ, 2021, REMOTE SENS ENVIRON, V258, P0, DOI 10.1016/j.rse.2021.112397
+   Yang JT, 2020, IEEE J-STARS, V13, P1055, DOI 10.1109/JSTARS.2020.2979369
+   Zhao HT, 2023, CURR FOR REP, V9, P149, DOI 10.1007/s40725-023-00184-3
+   Zhao L, 2024, SCI REP-UK, V14, P0, DOI 10.1038/s41598-024-51258-6
+   Zhong H, 2024, FORESTS, V15, P0, DOI 10.3390/f15020293
+   Zhou YH, 2020, J APPL REMOTE SENS, V14, P0, DOI 10.1117/1.JRS.14.022210
+NR 62
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0034-4257
+EI 1879-0704
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD JAN 1
+PY 2026
+VL 332
+IS 
+BP 
+EP 
+DI 10.1016/j.rse.2025.115088
+PG 17
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science & Photographic Technology
+GA 9GW5G
+UT WOS:001606054900001
+DA 2025-11-21
+ER
+
+PT J
+AU Wang, JW
+AF Wang, Jiawei
+TI Global daily 1 km gapless XCO2 (2003-2023) derived from multi-satellite observations and a spatiotemporal deep learning framework
+SO ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+LA English
+DT Article
+DE Spatiotemporal deep learning; U -Net & ConvLSTM; XCO2; Gapless global dataset; High-resolution; Satellite
+ID greenhouse-gas reanalysis; surface; product; column; oco-2; gosat
+AB In recent years, atmospheric CO2 concentrations have continued to rise, driving global warming and precipitating severe environmental and ecological crises. Spatiotemporal monitoring of column-averaged dry-air mole fractions of CO2 (XCO2) from satellite observations is indispensable for quantifying carbon sources and sinks, evaluating mitigation efforts, and elucidating the global carbon cycle. However, existing satellite XCO2 products are severely limited by narrow swaths, adverse meteorological interference, and inconsistent spatiotemporal coverage across different platforms, resulting in sparse retrievals with substantial gaps. This study developed a spatiotemporal deep learning framework that couples ConvLSTM temporal modules with a U-Net spatial backbone, enhanced by residual connections and channel- and spatial-attention blocks. Using the column-averaged dry-air mole fraction of XCO2 data of SCIAMACHY, GOSAT, and OCO-2, we derived the first gapless, daily global terrestrial XCO2 dataset at 1 km resolution spanning 2003-2023. The results showed outstanding performance under three cross-validation strategies-sample-based, grid-based (spatial), and daily-based (temporal)-with R-2 = 0.996/0.963/0.952, RMSE = 0.46/0.62/0.73 ppm, and MAPE = 0.085 %/ 0.096 %/ 0.101 %, respectively. Moreover, independent validation against in situ TCCON measurements also confirms excellent agreement (R-2 = 0.988, RMSE = 1.10 ppm, MAPE = 0.216 %). Compared to previous efforts, this framework delivers significant improvements in both spatiotemporal resolution and predictive accuracy. The resulting full-coverage estimates reveal a global terrestrial XCO2 increase of 2.22 ppm yr(-1) over the study period, with markedly larger seasonal amplitudes in the Northern Hemisphere. The high spatiotemporal fidelity captures rapid, fine-scale XCO2 fluctuations-such as urban-suburban gradients and diurnal evolutions-that remain unresolved by previous coarser datasets. This seamless and high-quality dataset will provide a robust foundation for future global and regional "dual-carbon" policy implementation and climate-change research. The dataset can be freely accessed at https://doi.org/10.11888/Atmos.tpdc.302399.
+C1 [Wang, Jiawei] Henan Normal Univ, Coll Environm, 46 Jianshe East Rd, Xinxiang 453007, Peoples R China.
+C3 Henan Normal University
+RP Wang, JW (corresponding author), Henan Normal Univ, Coll Environm, 46 Jianshe East Rd, Xinxiang 453007, Peoples R China.
+EM wangjiawei@htu.edu.cn
+CR Agustí-Panareda A, 2014, ATMOS CHEM PHYS, V14, P11959, DOI 10.5194/acp-14-11959-2014
+   Agustí-Panareda A, 2023, ATMOS CHEM PHYS, V23, P3829, DOI 10.5194/acp-23-3829-2023
+   Alsafadi K, 2022, REMOTE SENS-BASEL, V14, P0, DOI 10.3390/rs14246237
+   Bhattacharjee S, 2020, IEEE T GEOSCI REMOTE, V58, P8285, DOI 10.1109/TGRS.2020.2985047
+   Chen JD, 2022, SCI DATA, V9, P0, DOI 10.1038/s41597-022-01322-5
+   Chen RZ, 2025, REMOTE SENS-BASEL, V17, P0, DOI 10.3390/rs17010048
+   Cheng K, 2024, NAT COMMUN, V15, P0, DOI 10.1038/s41467-024-48546-0
+   Chevallier F, 2017, J GEOPHYS RES-ATMOS, V122, P7614, DOI 10.1002/2017JD026453
+   Crippa M, 2020, SCI DATA, V7, P0, DOI 10.1038/s41597-020-0462-2
+   Elvidge CD, 2021, REMOTE SENS-BASEL, V13, P0, DOI 10.3390/rs13050922
+   Ernst Y, 2024, GLOBAL BIOGEOCHEM CY, V38, P0, DOI 10.1029/2023GB008016
+   Friedlingstein P, 2025, EARTH SYST SCI DATA, V17, P965, DOI 10.5194/essd-17-965-2025
+   Ge JM, 2024, ENVIRON IMPACT ASSES, V105, P0, DOI 10.1016/j.eiar.2024.107442
+   Guan X, 2024, SCI. TOTAL ENVIRON., V957, P0
+   Hammerling DM, 2012, J GEOPHYS RES-ATMOS, V117, P0, DOI 10.1029/2011JD017015
+   Hastings D, 1999, THE GLOBAL LAND ONE-KILOMETER BASE ELEVATION (GLOBE) DIGITAL ELEVATION MODEL, V0, P0
+   He CP, 2022, J ENVIRON MANAGE, V322, P0, DOI 10.1016/j.jenvman.2022.116101
+   He CP, 2022, GEOPHYS RES LETT, V49, P0, DOI 10.1029/2022GL098435
+   He J, 1900, V74, V0, P3804
+   He QQ, 2023, J CLEAN PROD, V428, P0, DOI 10.1016/j.jclepro.2023.139290
+   He ZH, 2024, INT J APPL EARTH OBS, V129, P0, DOI 10.1016/j.jag.2024.103859
+   He ZH, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12030576
+   Hu K, 2024, REMOTE SENS-BASEL, V16, P0, DOI 10.3390/rs16203818
+   Hua YY, 2024, REMOTE SENS-BASEL, V16, P0, DOI 10.3390/rs16132433
+   Jin CL, 2022, ATMOS RES, V279, P0, DOI 10.1016/j.atmosres.2022.106385
+   Jing YY, 2014, ATMOSPHERE-BASEL, V5, P870, DOI 10.3390/atmos5040870
+   Karger DN, 2023, EARTH SYST SCI DATA, V15, P2445, DOI 10.5194/essd-15-2445-2023
+   Kump LR, 2000, NATURE, V408, P651, DOI 10.1038/35047188
+   Laughner JL, 2024, EARTH SYST SCI DATA, V16, P2197, DOI 10.5194/essd-16-2197-2024
+   Lei LP, 2018, INT GEOSCI REMOTE SE, V0, PP3120, DOI 10.1109/IGARSS.2018.8518288
+   Li J, 2022, INT J APPL EARTH OBS, V108, P0, DOI 10.1016/j.jag.2022.102743
+   Li TW, 2023, SCI TOTAL ENVIRON, V893, P0, DOI 10.1016/j.scitotenv.2023.164921
+   Liang AL, 2017, IEEE J-STARS, V10, P2491, DOI 10.1109/JSTARS.2017.2650942
+   Liu LL, 2024, SCI DATA, V11, P0, DOI 10.1038/s41597-024-02913-0
+   Liu Z, 2020, SCI DATA, V7, P0, DOI 10.36347/sjavs.2020.v07i01.001
+   Lundberg S, 2017, ARXIV, V0, P0
+   Ma H, 2022, EARTH SYST SCI DATA, V14, P5333, DOI 10.5194/essd-14-5333-2022
+   Ma X, 2021, IEEE T GEOSCI REMOTE, V59, P8084, DOI 10.1109/TGRS.2021.3052215
+   Ma YR, 2022, ENTROPY-SWITZ, V24, P0, DOI 10.3390/e24060817
+   Meijer JR, 2018, ENVIRON RES LETT, V13, P0, DOI 10.1088/1748-9326/aabd42
+   Miller CE, 2007, J GEOPHYS RES-ATMOS, V112, P0, DOI 10.1029/2006JD007659
+   Muñoz-Sabater J, 2021, EARTH SYST SCI DATA, V13, P4349, DOI 10.5194/essd-13-4349-2021
+   Myers SS, 2014, NATURE, V510, P139, DOI 10.1038/nature13179
+   Myneni R, 2021, NASA EOSDIS LAND PROCESSES DAAC. 2023-1-08, V0, P0, DOI DOI 10.5067/MODIS/MCD15A3H.061
+   Nayagam L, 2025, REMOTE SENS-BASEL, V17, P0, DOI 10.3390/rs17030450
+   Oda T, 2011, ATMOS CHEM PHYS, V11, P543, DOI 10.5194/acp-11-543-2011
+   Oktay O, 2018, ARXIV, V0, P0
+   Pan GN, 2021, J ENVIRON MANAGE, V277, P0, DOI 10.1016/j.jenvman.2020.111423
+   Pan YD, 2024, NATURE, V631, P0, DOI 10.1038/s41586-024-07602-x
+   Peters W, 2007, P NATL ACAD SCI USA, V104, P18925, DOI 10.1073/pnas.0708986104
+   Qin K, 2024, EARTH SYST. SCI. DATA DISCUSS., V2024, P1
+   Reichstein M, 2013, NATURE, V500, P287, DOI 10.1038/nature12350
+   Rodgers CD, 2003, J GEOPHYS RES-ATMOS, V108, P0, DOI 10.1029/2002JD002299
+   Ronneberger O, 2015, LECT NOTES COMPUT SC, V9351, P234, DOI 10.1007/978-3-319-24574-4_28
+   Running S, 2021, MODIS/AQUA GROSS PRIMARY PRODUCTIVITY GAP-FILLED 8-DAYL4 GLOBAL 500 M SIN GRID V061, V0, P0, DOI DOI 10.5067/MODIS/MYD17A2HGF.061
+   Sheng MY, 2023, BIG EARTH DATA, V7, P180, DOI 10.1080/20964471.2022.2033149
+   Siabi Z, 2019, J ENVIRON MANAGE, V244, P110, DOI 10.1016/j.jenvman.2019.05.049
+   Tian WJ, 2024, IEEE T GEOSCI REMOTE, V62, P0, DOI 10.1109/TGRS.2024.3462589
+   Uddin MS, 2022, J GEOVIS SPAT ANAL, V6, P0, DOI 10.1007/s41651-022-00105-1
+   van der Laan-Luijkx IT, 2017, GEOSCI MODEL DEV, V10, P2785, DOI 10.5194/gmd-10-2785-2017
+   van der Werf GR, 2017, EARTH SYST SCI DATA, V9, P697, DOI 10.5194/essd-9-697-2017
+   Varkkey H, 2024, MITIGATING CARBON EMISSIONS AND HAZE IN SOUTHEAST ASIAS PEATLANDS: OPPORTUNITIES AND CHALLENGES IN INTEGRATING POLICY AND GOVERNANCE, V0, P0
+   Wang DD, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12010168
+   Wang HM, 2022, J REMOTE SENS-PRC, V2022, P0, DOI 10.34133/2022/9816536
+   Wang W, 2022, INT J ENV RES PUB HE, V19, P0, DOI 10.3390/ijerph191710853
+   Wang Y, 2023, EARTH SYST SCI DATA, V15, P3597, DOI 10.5194/essd-15-3597-2023
+   Wang YX, 2023, NATURE, V623, P0, DOI 10.1038/s41586-023-06642-z
+   Wei J, 2023, NAT COMMUN, V14, P0, DOI 10.1038/s41467-023-43862-3
+   Xiao X, 2018, 2018 NINTH INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY IN MEDICINE AND EDUCATION (ITME 2018), V0, PP327, DOI 10.1109/ITME.2018.00080
+   Yang HJ, 2025, GEO-SPAT INF SCI, V28, P131, DOI 10.1080/10095020.2023.2252017
+   Yu Z, 2022, NAT COMMUN, V13, P0, DOI 10.1038/s41467-022-32961-2
+   Yue TX, 2015, J CLEAN PROD, V103, P819, DOI 10.1016/j.jclepro.2014.08.080
+   Zeng ZC, 2017, INT J DIGIT EARTH, V10, P426, DOI 10.1080/17538947.2016.1156777
+   Zhang LF, 2022, INT J APPL EARTH OBS, V114, P0, DOI 10.1016/j.jag.2022.103063
+   Zhang MQ, 2023, SCI TOTAL ENVIRON, V858, P0, DOI 10.1016/j.scitotenv.2022.159588
+   Zhang Q, 2021, EARTH SYST SCI DATA, V13, P1385, DOI 10.5194/essd-13-1385-2021
+   Zhang T, 2022, EARTH SYST SCI DATA, V14, P651, DOI 10.5194/essd-14-651-2022
+   Zhang X, 2024, EARTH SYST SCI DATA, V16, P1353, DOI 10.5194/essd-16-1353-2024
+   Zhang YF, 2023, EARTH SYST SCI DATA, V15, P2055, DOI 10.5194/essd-15-2055-2023
+   Zheng CL, 2022, J HYDROL, V613, P0, DOI 10.1016/j.jhydrol.2022.128444
+   Zheng Y, 2020, EARTH SYST SCI DATA, V12, P2725, DOI 10.5194/essd-12-2725-2020
+NR 81
+TC 0
+Z9 0
+U1 16
+U2 16
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0195-9255
+EI 1873-6432
+J9 ENVIRON IMPACT ASSES
+JI Environ. Impact Assess. Rev.
+PD MAR 15
+PY 2026
+VL 117
+IS 
+BP 
+EP 
+DI 10.1016/j.eiar.2025.108146
+PG 22
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 7CK8Z
+UT WOS:001567712000003
+DA 2025-11-21
+ER
+
+PT J
+AU Zhou, W
+   Wang, T
+   Peng, Y
+   Yu, WP
+   Sun, XF
+   Tian, YZ
+   Li, SB
+   Du, ZP
+   Yue, TX
+AF Zhou, Wei
+   Wang, Ting
+   Peng, Yao
+   Yu, Wenping
+   Sun, Xiaofang
+   Tian, Yongzhong
+   Li, Saibo
+   Du, Zhengping
+   Yue, Tianxiang
+TI Data fusion enhances the accuracy of soil organic carbon estimation by using high accuracy surface modeling
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE High accuracy surface modeling; Soil organic carbon; Multisource remote sensing; Machine learning; Tibetan Plateau
+ID land-use; prediction; resolution
+AB Having the ability to accurately and effectively obtain soil organic carbon (SOC) spatial information is critical for assessing soil carbon sequestration capacity and mitigating climate change. However, there remains a significant research gap in the collaborative application of multi-source data and their impact on model estimation accuracy. This gap limits the ability to assess soil carbon pools accurately. Therefore, we propose a data-model fusion framework that uses three types of multi-source data-environmental variables, optical remote sensing, and synthetic aperture radar (SAR)- along with three machine learning algorithms to predict SOC. We conducted data fusion of SOC field observation data and model simulations using high-accuracy surface modeling (HASM). The results showed that: (1) The data VII combination, which incorporates all three data types, paired with support vector machine (SVM), random forest (RF), and Extreme Gradient Boosting (XGBoost) models, obtained higher prediction accuracy (R2 increased by 4 % - 53 %, and RMSE decreased by 18 % - 25 %) compared to other data combinations. (2) After data fusion using HASM, simulation accuracy improved significantly (R2 increased by 18 % - 22 %, and RMSE decreased by 2 % - 12 %). Additionally, the spatial distribution pattern was more reasonable, with corrections made to previously underestimated and overestimated SOC content. This study demonstrates that multi-source data fusion combined with machine learning techniques can achieve optimal results for SOC prediction. This approach provides an accurate and novel method for estimating SOC at national and global scales and offers scientific guidance for the spatial planning of terrestrial carbon sink strategies.
+C1 [Zhou, Wei; Wang, Ting; Peng, Yao; Yu, Wenping; Tian, Yongzhong; Yue, Tianxiang] Southwest Univ, Sch Geog Sci, Chongqing 400715, Peoples R China.
+   [Zhou, Wei; Li, Saibo; Du, Zhengping; Yue, Tianxiang] Chinese Acad Sci, State Key Lab Resources & Environm Informat Syst, Inst Geog Sci & Nat Resources Res, Beijing 100101, Peoples R China.
+   [Zhou, Wei; Sun, Xiaofang] Qufu Normal Univ, Sch Geog & Tourism, Rizhao 276826, Peoples R China.
+C3 Southwest University - China; Chinese Academy of Sciences; Institute of Geographic Sciences & Natural Resources Research, CAS; Qufu Normal University
+RP Zhou, W; Yue, TX (corresponding author), Southwest Univ, Sch Geog Sci, Chongqing 400715, Peoples R China.
+EM zw20201109@swu.edu.cn; yue@lreis.ac.cn
+FU National Natural Science Foundation of China [42330707, 42530108, 72221002, 42471355]; Fundamental Research Funds for the Central Universities of China [SWU-KT24012]; Chongqing Jinfo Mountain Karst Ecosystem National Research and Observation Station [JFS2023B01]; National Key Research & Development Program of China [2024YFD1700904]; Special Fund for Youth Team of the Southwest University [SWU-XJPY202307, SWU-XJLJ202305]
+CR Bacour C, 2019, J GEOPHYS RES-BIOGEO, V0, P0, DOI DOI 10.1029/2019JG005040
+   Ballabio C, 2012, GEODERMA, V187, P102, DOI 10.1016/j.geoderma.2012.04.002
+   Beillouin D, 2023, NAT COMMUN, V14, P0, DOI 10.1038/s41467-023-39338-z
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Buck HJ, 2023, NAT CLIM CHANGE, V13, P317, DOI 10.1038/s41558-023-01614-7
+   Castaldi F, 2019, REMOTE SENS-BASEL, V11, P0, DOI 10.3390/rs11030309
+   Ceddia MB, 2017, REMOTE SENS-BASEL, V9, P0, DOI 10.3390/rs9020124
+   Chaplot V, 2000, GEODERMA, V97, P405, DOI 10.1016/S0016-7061(00)00048-3
+   Demattê JAM, 2017, GEODERMA, V302, P39, DOI 10.1016/j.geoderma.2017.04.019
+   Don A, 2011, GLOBAL CHANGE BIOL, V17, P1658, DOI 10.1111/j.1365-2486.2010.02336.x
+   Drusch M, 2012, REMOTE SENS ENVIRON, V120, P25, DOI 10.1016/j.rse.2011.11.026
+   Egbert GD, 2022, NAT GEOSCI, V15, P607, DOI 10.1038/s41561-022-00984-5
+   Fang X, 2012, CATENA, V88, P6, DOI 10.1016/j.catena.2011.07.012
+   Garnier J, 2022, GEODERMA, V407, P0, DOI 10.1016/j.geoderma.2021.115538
+   Gholizadeh A, 2018, REMOTE SENS ENVIRON, V218, P89, DOI 10.1016/j.rse.2018.09.015
+   HANSEN LK, 1990, IEEE T PATTERN ANAL, V12, P993, DOI 10.1109/34.58871
+   Hengl T, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0169748
+   Hu BF, 2024, CATENA, V237, P0, DOI 10.1016/j.catena.2024.107813
+   Huang YJ, 2023, IEEE T GEOSCI REMOTE, V61, P0, DOI 10.1109/TGRS.2023.3317482
+   IPCC, 2016, INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE (IPCC), V0, P0
+   Jiang RZ, 2024, GEODERMA, V444, P0, DOI 10.1016/j.geoderma.2024.116874
+   Lal R, 2004, SCIENCE, V304, P1623, DOI 10.1126/science.1097396
+   Liu F, 2022, SCI BULL, V67, P328, DOI 10.1016/j.scib.2021.10.013
+   Liu JY, 2008, J GEOGR SCI, V18, P259, DOI 10.1007/s11442-008-0259-2
+   Liu LC, 2024, NAT COMMUN, V15, P0, DOI 10.1038/s41467-023-43860-5
+   Mahmoudabadi E, 2017, ENVIRON MONIT ASSESS, V189, P0, DOI 10.1007/s10661-017-6197-7
+   Norton AJ, 2018, GEOSCI MODEL DEV, V11, P1517, DOI 10.5194/gmd-11-1517-2018
+   Parvizi Y, 2025, SCI REP-UK, V15, P0, DOI 10.1038/s41598-025-88062-9
+   Peng L, 2024, CATENA, V245, P0, DOI 10.1016/j.catena.2024.108312
+   Qian JX, 2025, REMOTE SENS-BASEL, V17, P0, DOI 10.3390/rs17020333
+   Shen L, 2024, ECOL INDIC, V168, P0, DOI 10.1016/j.ecolind.2024.112746
+   Taghizadeh-Mehrjardi R, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12071095
+   Tao F, 2023, NATURE, V618, P981, DOI 10.1038/s41586-023-06042-3
+   Vu HL, 2022, J ENVIRON MANAGE, V311, P0, DOI 10.1016/j.jenvman.2022.114869
+   Wadoux AMJC, 2020, EARTH-SCI REV, V210, P0, DOI 10.1016/j.earscirev.2020.103359
+   Wagner W, 2003, J GEOPHYS RES-ATMOS, V108, P0, DOI 10.1029/2003JD003663
+   Wang T, 2023, REMOTE SENS-BASEL, V15, P0, DOI 10.3390/rs15082118
+   Yang RM, 2016, ECOL INDIC, V60, P870, DOI 10.1016/j.ecolind.2015.08.036
+   Yue TX, 2007, GEOMORPHOLOGY, V91, P161, DOI 10.1016/j.geomorph.2007.02.006
+   Yue TX, 2023, SCI CHINA EARTH SCI, V66, P1937, DOI 10.1007/s11430-022-1144-7
+   Yue TX, 2020, SCI CHINA EARTH SCI, V63, P1092, DOI 10.1007/s11430-019-9594-3
+   Yue TX, 2016, ENVIRON EARTH SCI, V75, P0, DOI 10.1007/s12665-016-5310-5
+   Zhao YC, 2018, P NATL ACAD SCI USA, V115, P4045, DOI 10.1073/pnas.1700292114
+   Zhou T, 2020, ECOL INDIC, V114, P0, DOI 10.1016/j.ecolind.2020.106288
+   Zhou W, 2021, ECOL INDIC, V121, P0, DOI 10.1016/j.ecolind.2020.107215
+   Zhou Y, 2019, GEODERMA, V334, P124, DOI 10.1016/j.geoderma.2018.07.037
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD MAR 15
+PY 2026
+VL 257
+IS 
+BP 
+EP 
+DI 10.1016/j.still.2025.106945
+PG 12
+WC Soil Science
+SC Agriculture
+GA 9QU2K
+UT WOS:001612811500001
+DA 2025-11-21
+ER
+

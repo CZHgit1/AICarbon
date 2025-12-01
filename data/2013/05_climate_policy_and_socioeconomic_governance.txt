@@ -1,0 +1,70 @@
+PT J
+AU Higgins, A
+   Foliente, G
+AF Higgins, Andrew
+   Foliente, Greg
+TI Evaluating intervention options to achieve environmental benefits in the residential sector
+SO SUSTAINABILITY SCIENCE
+LA English
+DT Article
+DE Diffusion model; Housing stock; Carbon; Optimisation; Policy; Fiscal instruments
+ID model; diffusion; choice
+AB Government intervention schemes in the form of policy instruments and financial incentives or rebates can have a major influence on the adoption of technologies by residential consumers to reduce their natural resource consumption and greenhouse gas emissions. However, the pattern and rate of consumer uptake of voluntary schemes are not always well-understood or easily taken into account in future scenarios analyses. This paper presents an innovative extension of the Bass diffusion model that has been integrated with multi-criteria analysis to enable explicit consideration and balancing of the impacts of technology cost, financial benefits, demographic suitability and household income on the likelihood of adoption. This 'Intervention Options' model is formulated into a constrained integer programming problem to allow optimisation of the size and timing of government rebates to maximise adoption rate and, ultimately, environmental benefits. The model's capability is demonstrated using an Australian case study of 25,000 households, and historical information on the uptake of solar hot water and solar photovoltaic panels in Brisbane, Queensland. Case study results reveal new insights and important context-relevant trends that could assist policy makers to substantially improve the effectiveness of intervention schemes to achieve environmental goals within desired budgets.
+C1 [Higgins, Andrew] CSIRO Ecosyst Sci, Dutton Pk, Qld 4102, Australia.
+   [Foliente, Greg] CSIRO Ecosyst Sci, Highett, Vic 3190, Australia.
+C3 Commonwealth Scientific & Industrial Research Organisation (CSIRO); Commonwealth Scientific & Industrial Research Organisation (CSIRO)
+RP Higgins, A (corresponding author), CSIRO Ecosyst Sci, 41 Boggo Rd, Dutton Pk, Qld 4102, Australia.
+EM Andrew.Higgins@csiro.au; Greg.Foliente@csiro.au
+CR Unknown -, 2008, CARB POLL RED SCHEM, V0, P0
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   BASS FM, 1994, MARKET SCI, V13, P203, DOI 10.1287/mksc.13.3.203
+   Bhat CR, 2004, TRANSPORT RES B-METH, V38, P147, DOI 10.1016/S0191-2615(03)00005-5
+   Cochrane JL, 1973, MULTIPLE CRITERIA DECISION MAKING, V0, P0
+   Greene DL, 2005, ENERG POLICY, V33, P757, DOI 10.1016/j.enpol.2003.10.003
+   Guidolin M, 2010, TECHNOL FORECAST SOC, V77, P279, DOI 10.1016/j.techfore.2009.07.003
+   Higgins A, 2011, TECHNOL FORECAST SOC, V78, P621, DOI 10.1016/j.techfore.2010.12.003
+   Horne M, 2005, ENERG ECON, V27, P59, DOI 10.1016/j.eneco.2004.11.003
+   HORSKY D, 1990, MARKET SCI, V9, P342, DOI 10.1287/mksc.9.4.342
+   Jaccard M, 2006, ENVIRON MODEL ASSESS, V11, P91, DOI 10.1007/s10666-005-9036-0
+   Jager W, 2006, ENERG POLICY, V34, P1935, DOI 10.1016/j.enpol.2004.12.022
+   JAIN DC, 1990, J BUS ECON STAT, V8, P163, DOI 10.2307/1391978
+   Kemp R, 2008, J CLEAN PROD, V16, PS14, DOI 10.1016/j.jclepro.2007.10.019
+   Koeppel S, 2007, ASSESSMENT OF POLICY INSTRUMENTS FOR REDUCING GREENHOUSE GAS EMISSIONS FROM BUILDINGS, V0, P0
+   Lobel Ruben, 2011, CONSUMER CHOICE MODE, V0, P0
+   MANSFIELD E, 1961, ECONOMETRICA, V29, P741, DOI 10.2307/1911817
+   Marsden Jacobs Associates, 2007, EC RAINW TANKS ALT W, V0, P0
+   Paevere P, 2011, WORLD SUST BUILD C S, V0, P0
+   Palangkaraya A, 2009, EUR J HEALTH ECON, V10, P135, DOI 10.1007/s10198-008-0111-8
+   Queensland Government, 2008, HOUSE PROJ QUEENSL L, V0, P0
+   Rao KU, 2010, RENEW SUST ENERG REV, V14, P1070, DOI 10.1016/j.rser.2009.11.007
+   Scarpa R, 2010, ENERG ECON, V32, P129, DOI 10.1016/j.eneco.2009.06.004
+   Sener I, 2009, TRANSP RES BOARD ANN, V0, P0
+   Söderholm P, 2007, ENVIRON RESOUR ECON, V36, P163, DOI 10.1007/s10640-006-9025-z
+   van Everdingen YM, 2005, INT J RES MARK, V22, P293, DOI 10.1016/j.ijresmar.2004.11.003
+NR 27
+TC 6
+Z9 7
+U1 0
+U2 20
+PU SPRINGER JAPAN KK
+PI TOKYO
+PA SHIROYAMA TRUST TOWER 5F, 4-3-1 TORANOMON, MINATO-KU, TOKYO, 105-6005, JAPAN
+SN 1862-4065
+EI 1862-4057
+J9 SUSTAIN SCI
+JI Sustain. Sci.
+PD JAN 15
+PY 2013
+VL 8
+IS 1
+BP 25
+EP 36
+DI 10.1007/s11625-012-0160-x
+PG 12
+WC Green & Sustainable Science & Technology; Environmental Sciences
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 063VB
+UT WOS:000313029000003
+DA 2025-11-05
+ER
+

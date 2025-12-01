@@ -1,0 +1,100 @@
+PT J
+AU Elberling, B
+   Jakobsen, BH
+   Berg, P
+   Sondergaard, J
+   Sigsgaard, C
+AF Elberling, B
+   Jakobsen, BH
+   Berg, P
+   Sondergaard, J
+   Sigsgaard, C
+TI Influence of vegetation, temperature, and water content on soil carbon distribution and mineralization in four high Arctic soils
+SO ARCTIC ANTARCTIC AND ALPINE RESEARCH
+LA English
+DT Article
+ID co2 efflux; dioxide evolution; microbial biomass; field responses; organic-matter; gas-diffusion; brooks range; tundra; respiration; dependence
+AB Soil organic matter distributions, reservoirs, and mineralization rates in tundra soils are important factors for understanding biogeochemical carbon cycling. This study focuses on spatial trends and environmental controls of soil carbon distribution and microbial soil respiration in 4 tundra vegetation communities in an arctic valley in NE-Greenland (74 degrees N), including Dryas and Cassiope heaths, Salix snow bed, and fen vegetation. Measured total soil organic carbon in the upper 50 cm averaged (-+/-SD) 11.0 +/- 1.5 kg C m(-2) with spatial variations strongly affected by vegetation, hydrology, and buried organic layers. Observed Soil CO2 concentrations and effluxes were simulated with a steady-state diffusion model using laboratory measured CO2 productions as input. Simulated CO2 profiles and CO2 effluxes (up to 3 mu mol CO2 m(-2) s(-1)) agreed with field observations and revealed the importance of both vegetation- and depth-specific CO2 production and CO2 diffusion for understanding the spatial variation in near-surface Soil CO2 gas dynamics. These results confirm that molecular diffusion dominates gas transport in the studied soils; but also that the complexity Of CO2 production/transport coupled to soil heterogeneity (in particular the litter layer) complicates the application of soil-diffusion models to estimate seasonal trends of soil gas effluxes.
+C1 Univ Copenhagen, Inst Geog, DK-1350 Copenhagen, Denmark.
+   Univ Virginia, Dept Environm Sci, Charlottesville, VA 22904 USA.
+C3 University of Copenhagen; University of Virginia
+RP Elberling, B (corresponding author), Univ Copenhagen, Inst Geog, Oster Voldgade 10, DK-1350 Copenhagen, Denmark.
+CR ANDERSON JPE, 1978, SOIL BIOL BIOCHEM, V10, P215, DOI 10.1016/0038-0717(78)90099-8
+   Bay C, 1998, VEGETATION MAPPING OF ZACKENBERG VALLEY NORTHEAST GREENLAND, V0, P0
+   BAY C, 1992, MEDDELELSER GRONLAND, V36, P3
+   Berg P, 1998, LIMNOL OCEANOGR, V43, P1500, DOI 10.4319/lo.1998.43.7.1500
+   BILLINGS WD, 1977, ARCTIC ALPINE RES, V9, P129, DOI 10.2307/1550575
+   Blodau C, 2003, SOIL BIOL BIOCHEM, V35, P535, DOI 10.1016/S0038-0717(03)00008-7
+   Bremner J M, 1965, METHODS OF SOIL ANALYSIS. PART 2. CHEMICAL AND MICROBIOLOGICAL PROPERTIES. ED, V0, P0
+   Buchmann N, 2000, SOIL BIOL BIOCHEM, V32, P1625, DOI 10.1016/S0038-0717(00)00077-8
+   Burkins MB, 2001, GLOB CHANGE BIOL, V7, P113, DOI 10.1046/j.1365-2486.2001.00393.x
+   CANING K, 2000, 5 MIN RES INF TECHN, V0, P0
+   Chapman SJ, 1996, AGR FOREST METEOROL, V79, P205, DOI 10.1016/0168-1923(95)02283-X
+   Christensen TR, 1998, J GEOPHYS RES-ATMOS, V103, P29015, DOI 10.1029/98JD00084
+   Christiansen HH, 2002, J QUATERNARY SCI, V17, P145, DOI 10.1002/jqs.665
+   COYNE PI, 1971, NATURE, V234, P407, DOI 10.1038/234407a0
+   Elberling B, 2000, CAN J SOIL SCI, V80, P283, DOI 10.4141/S99-061
+   Elberling B, 2003, SOIL BIOL BIOCHEM, V35, P263, DOI 10.1016/S0038-0717(02)00258-4
+   Elberling B, 2003, J HYDROL, V276, P159, DOI 10.1016/S0022-1694(03)00067-2
+   EVANS BM, 1989, HOLARCTIC ECOL, V12, P270
+   Fahnestock JT, 1999, GLOBAL BIOGEOCHEM CY, V13, P775, DOI 10.1029/1999GB900006
+   Fahnestock JT, 2000, ECOGRAPHY, V23, P623, DOI 10.1034/j.1600-0587.2000.230513.x
+   Fahnestock JT, 1998, J GEOPHYS RES-ATMOS, V103, P29023, DOI 10.1029/98JD00805
+   Fang C, 2001, SOIL BIOL BIOCHEM, V33, P155, DOI 10.1016/S0038-0717(00)00125-5
+   Grogan P, 1999, ECOSYSTEMS, V2, P451, DOI 10.1007/s100219900093
+   Grogan P, 2000, OECOLOGIA, V125, P512, DOI 10.1007/s004420000490
+   Hobbie SE, 1996, ECOL MONOGR, V66, P503, DOI 10.2307/2963492
+   Hobbie SE, 2000, GLOBAL CHANGE BIOL, V6, P196, DOI 10.1046/j.1365-2486.2000.06021.x
+   HOWARD DM, 1993, SOIL BIOL BIOCHEM, V25, P1537, DOI 10.1016/0038-0717(93)90008-Y
+   JAKOBSEN BH, 1991, SOIL SCI, V152, P414, DOI 10.1097/00010694-199112000-00003
+   Jin Y, 1996, SOIL SCI SOC AM J, V60, P66, DOI 10.2136/sssaj1996.03615995006000010012x
+   Jones MH, 2000, ARCT ANTARCT ALP RES, V32, P104, DOI 10.2307/1552415
+   Jong EDe, 1972, SOIL SCIENCE, V113, P328, DOI 10.1097/00010694-197205000-00006
+   KIRSCHBAUM MUF, 1995, SOIL BIOL BIOCHEM, V27, P753, DOI 10.1016/0038-0717(94)00242-S
+   Kuo S, 1996, METHODS OF SOIL ANALYSIS. PART 3 - CHEMICAL METHODS., V0, P869
+   Lomander A, 1998, SOIL BIOL BIOCHEM, V30, P2017, DOI 10.1016/S0038-0717(98)00076-5
+   Lundegardh H, 1927, SOIL SCI, V23, P417, DOI 10.1097/00010694-192706000-00001
+   Maxwell B, 1997, GLOBAL CHANGE AND ARCTIC TERRESTRIAL SYSTEMS, V0, P21
+   MCKEAGUE JA, 1966, CAN J SOIL SCI, V46, P13, DOI 10.4141/cjss66-003
+   MILLINGTON RJ, 1959, SCIENCE, V130, P100, DOI 10.1126/science.130.3367.100-a
+   NADELHOFFER KJ, 1991, ECOLOGY, V72, P242, DOI 10.2307/1938918
+   Oberbauer SF, 1996, ARCTIC ALPINE RES, V28, P328, DOI 10.2307/1552112
+   OBERBAUER SF, 1992, OECOLOGIA, V92, P568, DOI 10.1007/BF00317851
+   OBERBAUER SF, 1991, ARCTIC ALPINE RES, V23, P162, DOI 10.2307/1551380
+   Oechel WC, 1998, J GEOPHYS RES-ATMOS, V103, P28993, DOI 10.1029/1998JD200015
+   OECHEL WC, 1993, NATURE, V361, P520, DOI 10.1038/361520a0
+   POST WM, 1982, NATURE, V298, P156, DOI 10.1038/298156a0
+   Sims JT, 1996, METHODS OF SOIL ANALYSIS. PART 3 - CHEMICAL METHODS., V0, P491
+   Soegaard H, 2000, GLOBAL BIOGEOCHEM CY, V14, P725, DOI 10.1029/1999GB001137
+   Van Cleeve K, 1974, SOIL ORGANISMS DECOM, V0, P311
+   Welker JM, 1999, ARCT ANTARCT ALP RES, V31, P272, DOI 10.2307/1552257
+   Welker JM, 2000, CLIMATIC CHANGE, V44, P139, DOI 10.1023/A:1005555012742
+   Welles JM, 2001, CHEM GEOL, V177, P3, DOI 10.1016/S0009-2541(00)00388-0
+   Zimov SA, 1996, CLIMATIC CHANGE, V33, P111, DOI 10.1007/BF00140516
+NR 52
+TC 39
+Z9 46
+U1 0
+U2 56
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1523-0430
+EI 1938-4246
+J9 ARCT ANTARCT ALP RES
+JI Arct. Antarct. Alp. Res.
+PD NOV 15
+PY 2004
+VL 36
+IS 4
+BP 528
+EP 538
+DI 10.1657/1523-0430(2004)036[0528:IOVTAW]2.0.CO;2
+PG 11
+WC Environmental Sciences; Geography, Physical
+SC Environmental Sciences & Ecology; Physical Geography
+GA 907GB
+UT WOS:000227702800020
+DA 2025-11-03
+ER
+

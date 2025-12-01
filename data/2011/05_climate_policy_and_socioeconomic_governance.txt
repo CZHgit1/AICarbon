@@ -1,0 +1,80 @@
+PT J
+AU Higgins, A
+   Foliente, G
+   McNamara, C
+AF Higgins, Andrew
+   Foliente, Greg
+   McNamara, Cheryl
+TI Modelling intervention options to reduce GHG emissions in housing stock - A diffusion approach
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+LA English
+DT Article
+DE Bass diffusion; Adoption forecasting
+ID innovation diffusion; demand; dynamics; price; products; adoption
+AB The building sector is regarded as having one of the highest benefit-cost ratios from greenhouse gas (GHG) emission reduction strategies. However, because of uncertainties around household behaviour patterns, it is very difficult to assess and compare the GHG reduction impacts of different intervention schemes for whole housing stock. Intervention schemes include policy instruments such as incentives or rebates for energy efficient appliances or renewable energy, and regulatory building code requirements for energy efficiency. This paper presents a decision support tool based on mathematical diffusion that evaluates the adoption levels of different schemes or pathways towards reducing GHG emissions in housing stock. It is an extension of the Bass diffusion model that accommodates financial and non-financial benefits, ceilings of adoption and interactions between intervention options. The model capability was tested using a case study of seven suburbs in Brisbane, Australia, comprising of 25,000 houses and units. Estimates of GHG emission reductions to 2019 of a household rebate scheme for solar panels and a rebate scheme for solar hot water compared to a base case of no rebates were presented and analysed. Modelling also allowed identification of important characteristics of adoption trends that could assist policy makers and industry to substantially improve the design of effective intervention options. (C) 2010 Elsevier Inc. All rights reserved.
+C1 [Higgins, Andrew] CSIRO Sustainable Ecosyst, St Lucia, Qld 4067, Australia.
+   [Foliente, Greg; McNamara, Cheryl] CSIRO Sustainable Ecosyst, Highett, Vic 3190, Australia.
+C3 Commonwealth Scientific & Industrial Research Organisation (CSIRO); Commonwealth Scientific & Industrial Research Organisation (CSIRO)
+RP Higgins, A (corresponding author), CSIRO Sustainable Ecosyst, 306 Carmody Rd, St Lucia, Qld 4067, Australia.
+EM Andrew.higgins@csiro.au; Greg.Foliente@csiro.au; Cheryl.Mcnamara@csiro.au
+CR Unknown -, 2008, CARB POLL RED SCHEM, V0, P0
+   Australian Government Department of Environment, 2009, WAT HER ARTS NUMB SO, V0, P0
+   Australian Governmet-Department of Climate Change and Energy Efficiency, 2008, STAT TERR GREENH GAS, V0, P0
+   Aydinalp M, 2003, INT J ENERG RES, V27, P441, DOI 10.1002/er.887
+   Aynsley R M, 1998, OPTIONS FOR ASSESSMENT OF THERMAL COMFORT/DISCOMFORT FOR AGGREGATION INTO NATHERS STAR RATINGS, V0, P0
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bell M, 2000, ENERG BUILDINGS, V32, P267, DOI 10.1016/S0378-7788(00)00053-0
+   Centrone F, 2007, TECHNOL FORECAST SOC, V74, P247, DOI 10.1016/j.techfore.2006.02.006
+   Chun SY, 2008, J FORECASTING, V27, P357, DOI 10.1002/for.1058
+   Enkvist P, 2007, MCKINSEY QUARTERLY, V0, P35
+   Gardner J, 2007, P2008944 CSIRO, V0, P0
+   Harrington L, 2008, WORLD SUST BUILD C M, V0, P0
+   Hens H, 2001, ENERG BUILDINGS, V33, P275, DOI 10.1016/S0378-7788(00)00092-X
+   Ho TH, 2002, MANAGE SCI, V48, P187, DOI 10.1287/mnsc.48.2.187.257
+   HORSKY D, 1990, MARKET SCI, V9, P342, DOI 10.1287/mksc.9.4.342
+   JAIN DC, 1990, J BUS ECON STAT, V8, P163, DOI 10.2307/1391978
+   Johnston D, 2005, ENERG POLICY, V33, P1643, DOI 10.1016/j.enpol.2004.02.003
+   KALISH S, 1985, MANAGE SCI, V31, P1569, DOI 10.1287/mnsc.31.12.1569
+   Kim WJ, 2005, TECHNOL FORECAST SOC, V72, P825, DOI 10.1016/j.techfore.2003.09.003
+   Lee J, 2006, TECHNOL FORECAST SOC, V73, P362, DOI 10.1016/j.techfore.2004.12.002
+   Levine M, 2007, CLIMATE CHANGE 2007, V0, P0
+   Li YG, 2000, BUILD ENVIRON, V35, P191, DOI 10.1016/S0360-1323(99)00011-6
+   Lund P, 2006, ENERG POLICY, V34, P3317, DOI 10.1016/j.enpol.2005.07.002
+   MANSFIELD E, 1961, ECONOMETRICA, V29, P741, DOI 10.2307/1911817
+   Natarajan S, 2007, ENERG POLICY, V35, P5728, DOI 10.1016/j.enpol.2007.05.033
+   Natarajan S, 2007, ENERG POLICY, V35, P5719, DOI 10.1016/j.enpol.2007.05.034
+   Nguyen D, 2006, MANAGE SCI, V52, P965, DOI 10.1287/mnsc.1060.0509
+   NORTON JA, 1987, MANAGE SCI, V33, P1069, DOI 10.1287/mnsc.33.9.1069
+   Office of Economic and Statistical Research, 2007, QUEENSL HOUS SURV SU, V0, P0
+   Queensland Government, 2008, HOUS PROJ QUEENSL LO, V0, P0
+   Ren Z, 2009, J ENERGY BU IN PRESS, V0, P0
+   ROBINSON B, 1975, MANAGE SCI B-APPL, V21, P1113, DOI 10.1287/mnsc.21.10.1113
+   SHARIF MN, 1981, TECHNOL FORECAST SOC, V20, P63, DOI 10.1016/0040-1625(81)90041-X
+   van Everdingen YM, 2005, INT J RES MARK, V22, P293, DOI 10.1016/j.ijresmar.2004.11.003
+NR 38
+TC 28
+Z9 31
+U1 1
+U2 30
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0040-1625
+EI 1873-5509
+J9 TECHNOL FORECAST SOC
+JI Technol. Forecast. Soc. Chang.
+PD MAY 15
+PY 2011
+VL 78
+IS 4
+BP 621
+EP 634
+DI 10.1016/j.techfore.2010.12.003
+PG 14
+WC Business; Regional & Urban Planning
+SC Business & Economics; Public Administration
+GA 751FP
+UT WOS:000289603200007
+DA 2025-11-05
+ER
+

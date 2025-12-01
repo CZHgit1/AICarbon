@@ -1,0 +1,1278 @@
+PT J
+AU Cao, C
+   Liao, JX
+   Hou, ZM
+   Wang, G
+   Feng, WT
+   Fang, YL
+AF Cao, Cheng
+   Liao, Jianxing
+   Hou, Zhengmeng
+   Wang, Gui
+   Feng, Wentao
+   Fang, Yanli
+TI Parametric uncertainty analysis for CO2 sequestration based on distance correlation and support vector regression
+SO JOURNAL OF NATURAL GAS SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE CO2 storage; Uncertainty quantification; Caprock integrity; Distance correlation; Support vector regression
+ID carbon-dioxide injection; sensitivity-analysis; storage; quantification; sandstone; equation; capture; machine; project; models
+AB The uncertainty of reservoir and operating parameters challenges the accuracy of risk assessment, as well as the efficiency of optimization in carbon capture and storage (CCS) operation. To quantitatively analyze the role of uncertainty parameters on the response of CO2 injection, the effects of geomechanical and hydrogeological parameters on CCS are investigated using the approaches of distance correlation and machine learning support vector regression (SVR). In addition, a risk factor is introduced as a combination of brittleness and stress increment to assess the potential risk of caprock integrity. Using quantitative analysis, the order of importance of the parameters on the fluid pressure in the reservoir and the caprock, and the formation deformation at the ground surface and the bottom and top of the caprock are obtained. Compared to formation deformation, the pressure change can provide more valuable information regarding the assessment of the integrity of the caprock. The trained SVR surrogate model based on SVR can predict both the pressure change as well as formation deformation with reliable accuracy.
+C1 [Cao, Cheng; Liao, Jianxing; Hou, Zhengmeng; Feng, Wentao; Fang, Yanli] Tech Univ Clausthal, Energy Res Ctr Lower Saxony, D-38640 Goslar, Germany.
+   [Cao, Cheng; Liao, Jianxing; Hou, Zhengmeng; Feng, Wentao; Fang, Yanli] Tech Univ Clausthal, Inst Petr Engn, D-38678 Clausthal Zellerfeld, Germany.
+   [Wang, Gui] Southwest Petr Univ, State Key Lab Oil & Gas Reservoir Geol & Exploita, Chengdu 610500, Peoples R China.
+C3 TU Clausthal; TU Clausthal; Southwest Petroleum University
+RP Liao, JX (corresponding author), Tech Univ Clausthal, Energy Res Ctr Lower Saxony, D-38640 Goslar, Germany.
+EM jianxing.liao@tu-clausthal.de
+FU China Scholarship Council (CSC) [201808080067, 201708080145]
+CR Unknown -, 1999, AN OVERVIEW OF STATISTICAL LEARNING THEORY, V0, P0
+   Unknown -, 2003, P TOUGH S, V0, P0
+   Unknown -, 2009, CCS SITE CHARACTERIS, V0, P0
+   Arts R, 2008, FIRST BREAK, V26, P65, DOI 10.3997/1365-2397.26.1115.27807
+   Audigane P, 2006, P TOUGH S, V0, P8
+   Audigane P, 2007, AM J SCI, V307, P974, DOI 10.2475/07.2007.02
+   Bachu S, 2013, ENRGY PROCED, V37, P4428, DOI 10.1016/j.egypro.2013.07.001
+   Bao J, 2014, INT J GREENH GAS CON, V20, P160, DOI 10.1016/j.ijggc.2013.10.023
+   Bao J, 2013, GREENH GASES, V3, P338, DOI 10.1002/ghg.1362
+   Bian XQ, 2017, CHEM ENG RES DES, V123, P284, DOI 10.1016/j.cherd.2017.05.008
+   Bourne S, 2014, INT J GREENH GAS CON, V26, P109, DOI 10.1016/j.ijggc.2014.04.026
+   Bratley P, 2003, ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE, V29, P49
+   Brinckerhoff P, 2011, ACCELERATING THE UPTAKE OF CCS: INDUSTRIAL USE OF CAPTURED CARBON DIOXIDE, V0, P0
+   Burges CJC, 1998, DATA MIN KNOWL DISC, V2, P121, DOI 10.1023/A:1009715923555
+   Chang CC, 2011, ACM T INTEL SYST TEC, V2, P1, DOI 10.1145/1961189.1961199
+   Chen BL, 2018, APPL ENERG, V225, P332, DOI 10.1016/j.apenergy.2018.05.044
+   Clavaud JB, 2008, J GEOPHYS RES-SOL EA, V113, P0, DOI 10.1029/2007JB005004
+   Corey AT, 1954, PRODUCERS MONTHLY, V19, P38, DOI 10.3720/JAPT.78.243
+   Dai ZX, 2018, APPL ENERG, V225, P876, DOI 10.1016/j.apenergy.2018.05.038
+   Davies M, 1999, OVERLAND, V0, P3
+   Dempsey D, 2014, INT J GREENH GAS CON, V22, P223, DOI 10.1016/j.ijggc.2014.01.005
+   Drucker H, 1997, ADV NEUR IN, V9, P155
+   Flett Matthew, 2008, SPE AS PAC OIL GAS C, V0, P0
+   Gercek H, 2007, INT J ROCK MECH MIN, V44, P1, DOI 10.1016/j.ijrmms.2006.04.011
+   Gou Y, 2014, ACTA GEOTECH, V9, P49, DOI 10.1007/s11440-013-0221-z
+   GRABOSKI MS, 1978, IND ENG CHEM PROC DD, V17, P443, DOI 10.1021/i260068a009
+   Hansen O, 2013, ENRGY PROCED, V37, P3565, DOI 10.1016/j.egypro.2013.06.249
+   HART DJ, 1995, J GEOPHYS RES-SOL EA, V100, P17741, DOI 10.1029/95JB01242
+   Homma T, 1996, RELIAB ENG SYST SAFE, V52, P1, DOI 10.1016/0951-8320(96)00002-6
+   Hou ZS, 2014, INT J GREENH GAS CON, V27, P69, DOI 10.1016/j.ijggc.2014.05.004
+   Huang XW, 2014, INT J GREENH GAS CON, V20, P73, DOI 10.1016/j.ijggc.2013.11.004
+   Jayne RS, 2019, INT J GREENH GAS CON, V83, P128, DOI 10.1016/j.ijggc.2019.02.001
+   Jeong H, 2016, INT J GREENH GAS CON, V49, P387, DOI 10.1016/j.ijggc.2016.03.001
+   Jin X, 2014, P SPE HYDR FRACT TEC, V0, P0
+   Li C, 2017, ENRGY PROCED, V114, P3202, DOI 10.1016/j.egypro.2017.03.1683
+   Li Jun Li Jun, 2012, ACTA AGRICULTURAE ZHEJIANGENSIS, V24, P314
+   MacDowell N, 2010, ENERG ENVIRON SCI, V3, P1645, DOI 10.1039/c004106h
+   Metz B, 2005, IPCC SPECIAL REPORT ON CARBON DIOXIDE CAPTURE AND STORAGE, V0, P1
+   Michael K, 2010, INT J GREENH GAS CON, V4, P659, DOI 10.1016/j.ijggc.2009.12.011
+   Namhata A, 2016, SCI REP-UK, V6, P0, DOI 10.1038/srep39536
+   Newell P, 2017, J PETROL SCI ENG, V155, P34, DOI 10.1016/j.petrol.2016.11.012
+   Palmström A, 2001, TUNN UNDERGR SP TECH, V16, P115, DOI 10.1016/S0886-7798(01)00038-4
+   Pan F, 2016, INT J GREENH GAS CON, V51, P18, DOI 10.1016/j.ijggc.2016.04.010
+   Pruess K, 2002, TMVOC, V0, P0
+   Rahman FA, 2017, RENEW SUST ENERG REV, V71, P112, DOI 10.1016/j.rser.2017.01.011
+   Raza A, 2016, J NAT GAS SCI ENG, V28, P317, DOI 10.1016/j.jngse.2015.11.053
+   Rickman R, 2008, SOCIETY OF PETROLEUM ENGINEERS, V0, P0
+   Ringrose PS, 2013, ENRGY PROCED, V37, P6226, DOI 10.1016/j.egypro.2013.06.551
+   Rutqvist J, 2005, DEV WATER SCI, V52, P649
+   Rutqvist J, 2002, ENVIRON GEOL, V42, P296, DOI 10.1007/s00254-001-0499-2
+   Rutqvist J, 2010, INT J GREENH GAS CON, V4, P225, DOI 10.1016/j.ijggc.2009.10.017
+   Rybacki E, 2015, J PETROL SCI ENG, V135, P702, DOI 10.1016/j.petrol.2015.10.028
+   Sarkarfarshi M, 2014, INT J GREENH GAS CON, V23, P61, DOI 10.1016/j.ijggc.2014.02.003
+   Shirangi MG, 2016, COMPUT GEOSCI-UK, V96, P109, DOI 10.1016/j.cageo.2016.08.002
+   Singh H, 2019, J NAT GAS SCI ENG, V69, P0, DOI 10.1016/j.jngse.2019.102933
+   Székely GJ, 2007, ANN STAT, V35, P2769, DOI 10.1214/009053607000000505
+   Szulczewski ML, 2012, P NATL ACAD SCI USA, V109, P5185, DOI 10.1073/pnas.1115347109
+   Tang Y, 2014, SCI WORLD J, V0, P0, DOI DOI 10.1155/2014/381854
+   VANGENUCHTEN MT, 1980, SOIL SCI SOC AM J, V44, P892, DOI 10.2136/sssaj1980.03615995004400050002x
+   Wriedt J, 2014, INT J GREENH GAS CON, V20, P196, DOI 10.1016/j.ijggc.2013.10.021
+   Zhang DC, 2016, J PETROL SCI ENG, V143, P158, DOI 10.1016/j.petrol.2016.02.011
+   Zhang K, 2008, LBNL315E, V0, P0
+NR 68
+TC 25
+Z9 26
+U1 4
+U2 47
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1875-5100
+EI 2212-3865
+J9 J NAT GAS SCI ENG
+JI J. Nat. Gas Sci. Eng.
+PD MAY 15
+PY 2020
+VL 77
+IS 
+BP 
+EP 
+DI 10.1016/j.jngse.2020.103237
+PG 16
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA LF4HG
+UT WOS:000527379600016
+DA 2025-11-07
+ER
+
+PT J
+AU Thanh, HV
+   Sugai, Y
+   Nguele, R
+   Sasaki, K
+AF Hung Vo Thanh
+   Sugai, Yuichi
+   Nguele, Ronald
+   Sasaki, Kyuro
+TI Robust optimization of CO2 sequestration through a water alternating gas process under geological uncertainties in Cuu Long Basin, Vietnam
+SO JOURNAL OF NATURAL GAS SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE Artificial intelligence; CO2 sequestration; Geological uncertainties; Robust optimization; Trapping mechanism; WAG process; Artificial neural network; CO2 storage
+ID enhanced oil-recovery; carbon-dioxide storage; numerical-simulation; aquifer disposal; site selection; heterogeneity; reservoir; wettability; containment; salinity
+AB This study presents a robust optimization workflow to determine the optimal water alternating gas (WAG) process for CO2 sequestration in a heterogeneous fluvial sandstone reservoir. As depicted in this study, WAG injection could enhance CO2 residual and solubility trapping based on an integrated modeling workflow. First, continuous CO2 injection and WAG were compared to demonstrate the efficiency of the WAG process for CO2 trapping enhancement. To achieve this while highlighting the impact of reservoir heterogeneity, 200 geological realizations were generated considering a wide range of plausible geological conditions. The ranking of these realizations was performed by quantifying the CO2 cumulative injection (P10, P50, and P90 realizations) that represent the overall geological uncertainties. Then, an innovative robust workflow was used Artificial Intelligence optimizer to determine the optimal solution for CO2 trapping. For comparison, a nominal optimization workflow of P50 realization was also conducted. The proposed robust optimization workflow resulted in higher CO2 trapping than the nominal optimization workflow. Thus, this study demonstrates a fast and reliable workflow that can accurately represent for optimization the cycle length injection in the WAG process under geological uncertainties.
+C1 [Hung Vo Thanh; Sugai, Yuichi; Nguele, Ronald; Sasaki, Kyuro] Kyushu Univ, Fac Engn, Dept Earth Resources Engn, Nishi Ku, 744 Motooka, Fukuoka 8190395, Japan.
+C3 Kyushu University
+RP Thanh, HV (corresponding author), Kyushu Univ, Fac Engn, Dept Earth Resources Engn, Nishi Ku, 744 Motooka, Fukuoka 8190395, Japan.
+EM vothanhhung198090@gmail.com
+FU Japan International Cooperation Agency (JICA)
+CR Al-Khdheeawi EA, 2018, GREENH GASES, V8, P920, DOI 10.1002/ghg.1805
+   Al-Khdheeawi EA, 2018, INT J GREENH GAS CON, V68, P216, DOI 10.1016/j.ijggc.2017.11.016
+   Al-Khdheeawi EA, 2017, THE APPEA JOURNAL, V57, P100, DOI 10.1071/aj16248
+   Al-Khdheeawi EA, 2018, GREENH GASES, V8, P93, DOI 10.1002/ghg.1723
+   Al-Menhali A, 2015, WATER RESOUR RES, V51, P7895, DOI 10.1002/2015WR016947
+   Al-Mudhafar WJ, 2018, J PETROL SCI ENG, V166, P490, DOI 10.1016/j.petrol.2018.03.044
+   Al-Mudhafar Watheq Jasim Mohammed, 2016, THESIS, V0, P0
+   Aminu MD, 2017, APPL ENERG, V208, P1389, DOI 10.1016/j.apenergy.2017.09.015
+   Ampomah W, 2017, APPL ENERG, V195, P80, DOI 10.1016/j.apenergy.2017.03.017
+   Ampomah W, 2017, ENRGY PROCED, V114, P6928, DOI 10.1016/j.egypro.2017.03.1835
+   Unknown -, 2019, ENERGY SOURCE, V0, P0
+   BACHU S, 1994, ENERG CONVERS MANAGE, V35, P269, DOI 10.1016/0196-8904(94)90060-4
+   Bachu S, 2000, ENERG CONVERS MANAGE, V41, P953, DOI 10.1016/S0196-8904(99)00149-1
+   Bachu S, 2002, ENERG CONVERS MANAGE, V43, P87, DOI 10.1016/S0196-8904(01)00009-7
+   Bhat CR, 2001, TRANSPORT RES B-METH, V35, P677, DOI 10.1016/S0191-2615(00)00014-X
+   Bruant RG Jr, 2002, ENVIRON SCI TECHNOL, V36, P240A, DOI 10.1021/es0223325
+   Christensen JR, 2001, SPE RESERV EVAL ENG, V4, P97, DOI 10.2118/71203-PA
+   Dang C, 2017, J PETROL SCI ENG, V152, P330, DOI 10.1016/j.petrol.2017.03.009
+   Dai ZX, 2018, APPL ENERG, V225, P876, DOI 10.1016/j.apenergy.2018.05.038
+   Dai ZX, 2016, ENVIRON SCI TECHNOL, V50, P7546, DOI 10.1021/acs.est.6b01744
+   Dang C, 2018, J PETROL SCI ENG, V169, P578, DOI 10.1016/j.petrol.2018.06.017
+   Dang C, 2016, J NAT GAS SCI ENG, V35, P237, DOI 10.1016/j.jngse.2016.08.018
+   Doughty C, 2007, ENERG CONVERS MANAGE, V48, P1768, DOI 10.1016/j.enconman.2007.01.022
+   Doughty C, 2010, TRANSPORT POROUS MED, V82, P49, DOI 10.1007/s11242-009-9396-z
+   Du Hung N, 2004, P AAPG INT C, V0, P21
+   Ennis-King J, 2005, SPE J, V10, P349, DOI 10.2118/84344-PA
+   Eshraghi SE, 2016, J NAT GAS SCI ENG, V32, P304, DOI 10.1016/j.jngse.2016.04.012
+   Ettehadtavakkol A, 2014, INT J GREENH GAS CON, V25, P79, DOI 10.1016/j.ijggc.2014.04.006
+   Flett M, 2007, J PETROL SCI ENG, V57, P106, DOI 10.1016/j.petrol.2006.08.016
+   Foroud T, 2016, J NAT GAS SCI ENG, V32, P476, DOI 10.1016/j.jngse.2016.04.059
+   Gaus I, 2010, INT J GREENH GAS CON, V4, P73, DOI 10.1016/j.ijggc.2009.09.015
+   Hassanzadeh H, 2009, ENERG FUEL, V23, P3328, DOI 10.1021/ef900125m
+   Herring AL, 2016, GEOPHYS RES LETT, V43, P9677, DOI 10.1002/2016GL070304
+   Hesse MA, 2010, GEOPHYS RES LETT, V37, P0, DOI 10.1029/2009GL041128
+   HOLLOWAY S, 1993, ENERG CONVERS MANAGE, V34, P925, DOI 10.1016/0196-8904(93)90038-C
+   Thanh HV, 2019, INT J GREENH GAS CON, V90, P0, DOI 10.1016/j.ijggc.2019.102826
+   IEA, 2021, ABOUT US, V0, P0
+   Iglauer S, 2017, ACCOUNTS CHEM RES, V50, P1134, DOI 10.1021/acs.accounts.6b00602
+   Iglauer S, 2015, GEOPHYS RES LETT, V42, P9279, DOI 10.1002/2015GL065787
+   Jesmani M, 2020, J PETROL SCI ENG, V184, P0, DOI 10.1016/j.petrol.2019.106414
+   Juanes R, 2006, WATER RESOUR RES, V42, P0, DOI 10.1029/2005WR004806
+   Kumar A, 2005, SPE J, V10, P336, DOI 10.2118/89343-PA
+   Lackner KS, 2003, SCIENCE, V300, P1677, DOI 10.1126/science.1079033
+   LAND CS, 1968, SOC PETROL ENG J, V8, P149, DOI 10.2118/1942-PA
+   Li Y, 2016, ENERG SOURCE PART A, V38, P442, DOI 10.1080/15567036.2012.724148
+   Mac Dowell N, 2017, NAT CLIM CHANGE, V7, P243, DOI 10.1038/NCLIMATE3231
+   MCKAY MD, 1979, TECHNOMETRICS, V21, P239, DOI 10.2307/1268522
+   McPherson BJOL, 2000, J GEOCHEM EXPLOR, V69, P65, DOI 10.1016/S0375-6742(00)00046-7
+   Meng QL, 2014, APPL ENERG, V130, P581, DOI 10.1016/j.apenergy.2014.01.037
+   Min B, 2018, J PETROL SCI ENG, V170, P244, DOI 10.1016/j.petrol.2018.06.035
+   Morley CK, 2002, TECTONOPHYSICS, V347, P189, DOI 10.1016/S0040-1951(02)00061-6
+   Naylor M, 2011, MAR PETROL GEOL, V28, P1083, DOI 10.1016/j.marpetgeo.2010.10.005
+   Nwachukwu A, 2018, SPE IMPROVED OIL REC, V0, P0, DOI DOI 10.2118/190239-MS
+   Pentland CH, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2011GL046683
+   Pinto H, 2019, REG CITIES, V0, P41
+   Rasmusson K, 2016, INT J GREENH GAS CON, V52, P52, DOI 10.1016/j.ijggc.2016.06.020
+   Safarzadeh MA, 2014, PETROL SCI, V11, P460, DOI 10.1007/s12182-014-0362-1
+   Schmidt WJ, 2019, TECTONOPHYSICS, V757, P36, DOI 10.1016/j.tecto.2019.03.001
+   Shamshiri H, 2012, WATER RESOUR RES, V48, P0, DOI 10.1029/2011WR010455
+   Sibaweihi N, 2015, COMPUTAT GEOSCI, V19, P31, DOI 10.1007/s10596-014-9446-7
+   Song ZJ, 2014, COMPUT FLUIDS, V99, P93, DOI 10.1016/j.compfluid.2014.03.022
+   Span R, 1996, J PHYS CHEM REF DATA, V25, P1509, DOI 10.1063/1.555991
+   Spiteri E, 2005, SPE ANN TECHNICAL C, V0, P0, DOI DOI 10.2118/96448-MS
+   Spycher N, 2005, GEOCHIM COSMOCHIM AC, V69, P3309, DOI 10.1016/j.gca.2005.01.015
+   VANGENUCHTEN MT, 1980, SOIL SCI SOC AM J, V44, P892, DOI 10.2136/sssaj1980.03615995004400050002x
+   Welkenhuysen K, 2017, APPL ENERG, V185, P745, DOI 10.1016/j.apenergy.2016.10.105
+   Xu TF, 2004, APPL GEOCHEM, V19, P917, DOI 10.1016/j.apgeochem.2003.11.003
+   Yan W, 2011, INT J GREENH GAS CON, V5, P1460, DOI 10.1016/j.ijggc.2011.08.004
+   Yang C, 2007, RESERVOIR MODEL UNCERTAINTY QUANTIFICATION THROUGH COMPUTER ASSISTED HISTORY MATCHING, V0, P0
+   Yang CN, 2011, QUANTUM MECHANICS, V0, P0
+   Yasari E, 2015, J PETROL SCI ENG, V132, P18, DOI 10.1016/j.petrol.2015.04.038
+   Zhang ZM, 2013, COMPUT FLUIDS, V80, P79, DOI 10.1016/j.compfluid.2012.04.027
+   Zhong Z, 2019, ENRGY PROCED, V158, P6079, DOI 10.1016/j.egypro.2019.01.507
+NR 78
+TC 59
+Z9 60
+U1 0
+U2 26
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1875-5100
+EI 2212-3865
+J9 J NAT GAS SCI ENG
+JI J. Nat. Gas Sci. Eng.
+PD APR 15
+PY 2020
+VL 76
+IS 
+BP 
+EP 
+DI 10.1016/j.jngse.2020.103208
+PG 15
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA KZ9IT
+UT WOS:000523573600034
+DA 2025-11-07
+ER
+
+PT J
+AU Zhu, XZ
+   Tsang, DCW
+   Wang, L
+   Su, ZS
+   Hou, DY
+   Li, LC
+   Shang, J
+AF Zhu, Xinzhe
+   Tsang, Daniel C. W.
+   Wang, Lei
+   Su, Zhishan
+   Hou, Deyi
+   Li, Liangchun
+   Shang, Jin
+TI Machine learning exploration of the critical factors for CO2 adsorption capacity on porous carbon materials at different pressures
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE CO2 sequestration; Carbon adsorbents; Sustainable waste management; Low-carbon development; Biomass utilization
+ID single-step synthesis; sodium amide activation; dioxide capture; low-temperature; combining ammoxidation; koh activation; pore-size; adsorbents; energy; texture
+AB The growing environmental issues caused by CO2 emission accelerate the development of carbon capture and storage (CCS), especially bio-energy CCS as an environment-friendly and sustainable technique to capture CO2 using porous carbon materials (PCMs) produced from various biomass wastes. This study developed quantitative structure-property relationship models based on 6244 CO2 adsorption datasets of 155 PCMs to predict the CO2 adsorption capacity and analyze the relative significance of physicochemical properties. The results suggested that random forest (RF) models showed good accuracy and predictive performance based on physicochemical parameters of PCMs and adsorption conditions with the test dataset (R-2 > 0.9). In general, textural properties were more crucial than chemical compositions of porous carbons to the change of CO2 adsorption capacity. At a low pressure (0.1 bar), the volumes of mesopore and micropore played an important role according to the RF analysis, but had a negative correlation with CO2 adsorption capacity based on the Pearson correlation coefficient (PCC) analysis. The relative importance of ultra-micropore increased along with the increase of pressure. The PCC value between ultra-micropore volume and CO2 uptake amount was up to 0.715 (p < 0.01) at 1 bar and 0 degrees C. The influence of chemical compositions was complex. The N content was confirmed to positively correlate to the CO2 adsorption capacity but its contribution was much lower than that of ultra-micropores. This study provided a new approach for fostering the rational design of porous carbons for CO2 capture via statistical analysis and machine learning method, which facilitated adsorbents screening for the cleaner production. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Zhu, Xinzhe; Tsang, Daniel C. W.; Wang, Lei] Hong Kong Polytech Univ, Dept Civil & Environm Engn, Kowloon, Hung Hom, Hong Kong, Peoples R China.
+   [Wang, Lei] Tech Univ Dresden, Inst Construct Mat, D-01062 Dresden, Germany.
+   [Su, Zhishan] Sichuan Univ, Coll Chem, Key Lab Green Chem & Technol, Minist Educ, 29 Wangjiang Rd, Chengdu 610064, Sichuan, Peoples R China.
+   [Hou, Deyi] Tsinghua Univ, Sch Environm, Beijing 100084, Peoples R China.
+   [Li, Liangchun] Tongji Univ, Sch Chem Sci & Engn, Shanghai Key Lab Chem Assessment & Sustainabil, Shanghai 200092, Peoples R China.
+   [Shang, Jin] City Univ Hong Kong, Kowloon, Sch Energy & Environm, Tat Chee Ave, Hong Kong, Peoples R China.
+C3 Hong Kong Polytechnic University; Technische Universitat Dresden; Sichuan University; Tsinghua University; Tongji University; City University of Hong Kong
+RP Tsang, DCW (corresponding author), Hong Kong Polytech Univ, Dept Civil & Environm Engn, Kowloon, Hung Hom, Hong Kong, Peoples R China.; Shang, J (corresponding author), City Univ Hong Kong, Kowloon, Sch Energy & Environm, Tat Chee Ave, Hong Kong, Peoples R China.
+EM dan.tsang@polyu.edu.hk; jinshang@cityu.edu.hk
+FU Hong Kong Research Grants Council [PolyU 15217818, CityU 21301817]; Hong Kong International Airport Environmental Fund (Phase 2)
+CR Abdelnaby MM, 2018, J MATER CHEM A, V6, P6455, DOI 10.1039/c8ta00012c
+   Adeniran B, 2016, CHEM MATER, V28, P994, DOI 10.1021/acs.chemmater.5b05020
+   Ahmed MB, 2019, J CLEAN PROD, V225, P405, DOI 10.1016/j.jclepro.2019.03.342
+   Ahmed R, 2020, J CLEAN PROD, V242, P0, DOI 10.1016/j.jclepro.2019.118409
+   An LY, 2019, IND ENG CHEM RES, V58, P3349, DOI 10.1021/acs.iecr.8b06122
+   Auret L, 2012, MINER ENG, V35, P27, DOI 10.1016/j.mineng.2012.05.008
+   Bai RZ, 2015, CARBON, V81, P465, DOI 10.1016/j.carbon.2014.09.079
+   Boyjoo Y, 2017, CARBON, V116, P490, DOI 10.1016/j.carbon.2017.02.030
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Chen J, 2016, ACS SUSTAIN CHEM ENG, V4, P1439, DOI 10.1021/acssuschemeng.5b01425
+   Dissanayake PD, 2019, RENEW SUST ENERG REV, V0, P0
+   Guo LP, 2016, ACS SUSTAIN CHEM ENG, V4, P2806, DOI 10.1021/acssuschemeng.6b00327
+   Hao GP, 2010, ADV MATER, V22, P853, DOI 10.1002/adma.200903765
+   Hao WM, 2013, APPL ENERG, V112, P526, DOI 10.1016/j.apenergy.2013.02.028
+   Haslwanter T, 2016, STAT COMPUT SER, V0, PP51, DOI 10.1007/978-3-319-28316-6_4
+   Hu X, 2011, ENVIRON SCI TECHNOL, V45, P7068, DOI 10.1021/es200782s
+   Hussin F, 2020, J CLEAN PROD, V253, P0
+   Jain A, 2016, CHEM ENG J, V283, P789, DOI 10.1016/j.cej.2015.08.014
+   Jaschik M, 2020, INT J GREENH GAS CON, V97, P0, DOI 10.1016/j.ijggc.2020.103037
+   Jiménez V, 2012, ENVIRON SCI TECHNOL, V46, P7407, DOI 10.1021/es2046553
+   Kunze C, 2012, APPL ENERG, V94, P109, DOI 10.1016/j.apenergy.2012.01.013
+   Li DW, 2015, FUEL, V139, P68, DOI 10.1016/j.fuel.2014.08.027
+   Liu SF, 2020, J ENVIRON SCI, V93, P109, DOI 10.1016/j.jes.2020.04.006
+   Liu SF, 2020, IND ENG CHEM RES, V59, P7046, DOI 10.1021/acs.iecr.9b02127
+   Liu SF, 2019, ENERG FUEL, V33, P11544, DOI 10.1021/acs.energyfuels.9b03233
+   Liu SF, 2019, ENERG FUEL, V33, P6568, DOI 10.1021/acs.energyfuels.9b00886
+   Liu SH, 2018, J CLEAN PROD, V175, P354, DOI 10.1016/j.jclepro.2017.12.076
+   Louppe G, 2013, ADV NEURAL INFORM PR, V0, P0
+   Lu WG, 2013, J PHYS CHEM C, V117, P4057, DOI 10.1021/jp311512q
+   Lu WG, 2011, J AM CHEM SOC, V133, P18126, DOI 10.1021/ja2087773
+   Meng M, 2019, CHEM ENG J, V368, P847, DOI 10.1016/j.cej.2019.03.008
+   Möllersten K, 2003, BIOMASS BIOENERG, V25, P273, DOI 10.1016/S0961-9534(03)00013-8
+   Parshetti GK, 2015, FUEL, V148, P246, DOI 10.1016/j.fuel.2015.01.032
+   Plaza MG, 2010, CHEM ENG J, V163, P41, DOI 10.1016/j.cej.2010.07.030
+   Probst P, 2019, WIRES DATA MIN KNOWL, V9, P0, DOI 10.1002/widm.1301
+   Rahman FA, 2017, RENEW SUST ENERG REV, V71, P112, DOI 10.1016/j.rser.2017.01.011
+   Rao LL, 2019, CHEM ENG J, V362, P794, DOI 10.1016/j.cej.2019.01.093
+   Rao LL, 2018, ENERG FUEL, V32, P12787, DOI 10.1021/acs.energyfuels.8b03473
+   Rao LL, 2019, CHEM ENG J, V359, P428, DOI 10.1016/j.cej.2018.11.065
+   Rao LL, 2018, ENERG FUEL, V32, P10830, DOI 10.1021/acs.energyfuels.8b02659
+   Rehman A, 2020, CARBON, V159, P625, DOI 10.1016/j.carbon.2019.12.068
+   Samanta A, 2012, IND ENG CHEM RES, V51, P1438, DOI 10.1021/ie200686q
+   Sánchez-Sánchez A, 2014, ACS APPL MATER INTER, V6, P21237, DOI 10.1021/am506176e
+   Sevilla M, 2013, ACS APPL MATER INTER, V5, P6360, DOI 10.1021/am401423b
+   Shafeeyan MS, 2010, J ANAL APPL PYROL, V89, P143, DOI 10.1016/j.jaap.2010.07.006
+   Singh G, 2019, CARBON, V148, P164, DOI 10.1016/j.carbon.2019.03.050
+   Singh J, 2018, J IND ENG CHEM, V60, P321, DOI 10.1016/j.jiec.2017.11.018
+   Smit Berend, 2014, INTRO CARBON CAPTURE, V0, P0
+   Su FS, 2012, ENERG ENVIRON SCI, V5, P9021, DOI 10.1039/c2ee22647b
+   Sumida K, 2011, ABSTR PAP AM CHEM S, V242, P0
+   Sun LB, 2015, ACS SUSTAIN CHEM ENG, V3, P3077, DOI 10.1021/acssuschemeng.5b00544
+   Wang JC, 2012, J MATER CHEM, V22, P23710, DOI 10.1039/c2jm34066f
+   Yang J, 2017, ENERG FUEL, V31, P11060, DOI 10.1021/acs.energyfuels.7b01795
+   Yang ML, 2016, IND ENG CHEM RES, V55, P757, DOI 10.1021/acs.iecr.5b04038
+   Yang ML, 2015, ENVIRON SCI TECHNOL, V49, P7063, DOI 10.1021/acs.est.5b01311
+   Yang PP, 2020, IND ENG CHEM RES, V59, P6194, DOI 10.1021/acs.iecr.0c00073
+   Yue LM, 2018, ENERG FUEL, V32, P2081, DOI 10.1021/acs.energyfuels.7b03646
+   Yue LM, 2017, IND ENG CHEM RES, V56, P14115, DOI 10.1021/acs.iecr.7b02692
+   Yue LM, 2018, J COLLOID INTERF SCI, V511, P259, DOI 10.1016/j.jcis.2017.09.040
+   Zeng YF, 2016, ADV MATER, V28, P2855, DOI 10.1002/adma.201505004
+   Zheng BS, 2011, J AM CHEM SOC, V133, P748, DOI 10.1021/ja110042b
+   Zhu XZ, 2019, J HAZARD MATER, V378, P0, DOI 10.1016/j.jhazmat.2019.06.004
+   Zhu XZ, 2019, BIORESOURCE TECHNOL, V288, P0, DOI 10.1016/j.biortech.2019.121527
+   Zhu XZ, 2018, ENERG FUEL, V32, P5779, DOI 10.1021/acs.energyfuels.8b00470
+NR 64
+TC 147
+Z9 162
+U1 9
+U2 186
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD NOV 10
+PY 2020
+VL 273
+IS 
+BP 
+EP 
+DI 10.1016/j.jclepro.2020.122915
+PG 10
+WC Green & Sustainable Science & Technology; Engineering, Environmental; Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences & Ecology
+GA NR3DH
+UT WOS:000571442300002
+DA 2025-11-07
+ER
+
+PT J
+AU You, JY
+   Ampomah, W
+   Sun, Q
+   Kutsienyo, E
+   Balch, RS
+   Dai, ZX
+   Cather, M
+   Zhang, XY
+AF You, Junyu
+   Ampomah, William
+   Sun, Qian
+   Kutsienyo, Eusebius Junior
+   Balch, Robert Scott
+   Dai, Zhenxue
+   Cather, Martha
+   Zhang, Xiaoying
+TI Machine learning based co-optimization of carbon dioxide sequestration and oil recovery in CO2-EOR project
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Carbon dioxide sequestration; CO2-EOR; Artificial neural network; Optimization
+ID decision-making; economic-growth; capture; storage; injection; emissions
+AB This paper presents a machine learning assisted computational workflow to optimize a CO2-WAG project considering both hydrocarbon recovery and CO2 sequestration efficacies. A compositional field-scaled numerical simulation model is structured to investigate the fluid flow dynamics of an on-going CO2-EOR project in the Farnsworth Unit (Texas, US). Artificial-neural-network (ANN) based proxy models are trained to predict time-series project responses including hydrocarbon production, CO2 storage and reservoir pressure data. The outputs of the proxy model not only serve for evaluating the objective function but also provide significant physical and economic constraints to the optimization processes. In this work, the objective function considers both the oil recovery and CO2 sequestration volume. Moreover, the project net present values (NPV) and reservoir pressure are employed to screen the optimum solutions. The proposed optimization workflow couples the Particle Swarm Optimization (PSO) algorithm and the ANN proxies to maximize the prescribed objective function. The results of this work indicate that the presented workflow is a more robust approach to co-optimize the CO2-EOR projects. Results show that the optimized case can store about 94% of the purchased CO2 within Farnsworth Unit. Comparing to the baseline case, the CO2 storage amount of the found optimal case increases by 21.69%, and the oil production improves 8.74%. More importantly, the improvements in CO2 storage and hydrocarbon recovery lead to 8.74% greater project NPV and 19.79% higher overall objective function value, which confirms the success of the developed co-optimization approach for CO2 sequestration and oil recovery. The lessons and experiences earned from this work provides significant insights into the decision-making process of similar CO2-EOR cases. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [You, Junyu; Ampomah, William; Sun, Qian; Kutsienyo, Eusebius Junior; Balch, Robert Scott; Cather, Martha] New Mexico Inst Min & Technol, Petr Recovery Res Ctr, Socorro, NM 87801 USA.
+   [Dai, Zhenxue; Zhang, Xiaoying] Jilin Univ, Coll Construct Engn, Changchun 130026, Peoples R China.
+C3 New Mexico Institute of Mining Technology; Jilin University
+RP You, JY (corresponding author), New Mexico Inst Min & Technol, Petr Recovery Res Ctr, Socorro, NM 87801 USA.
+EM Junyu.You@student.nmt.edu
+FU U.S. Department of Energy's (DOE) National Energy Technology Laboratory (NETL) through the Southwest Regional Partnership on Carbon Sequestration (SWP) [DE-FC26-05NT42591]
+CR Ampomah W, 2017, GEOMECH GEOPHYS GEO, V3, P245, DOI 10.1007/s40948-017-0059-1
+   Ampomah W, 2017, APPL ENERG, V195, P80, DOI 10.1016/j.apenergy.2017.03.017
+   Ampomah W, 2017, GREENH GASES, V7, P128, DOI 10.1002/ghg.1618
+   BLUNT M, 1993, ENERG CONVERS MANAGE, V34, P1197, DOI 10.1016/0196-8904(93)90069-M
+   Cai YF, 2018, J CLEAN PROD, V182, P1001, DOI 10.1016/j.jclepro.2018.02.035
+   Cao M, 2013, FUEL, V109, P157, DOI 10.1016/j.fuel.2013.01.018
+   Chen JL, 2019, J CLEAN PROD, V228, P1088, DOI 10.1016/j.jclepro.2019.04.267
+   Chiandussi G, 2012, COMPUT MATH APPL, V63, P912, DOI 10.1016/j.camwa.2011.11.057
+   Coello CAC, 2004, IEEE T EVOLUT COMPUT, V8, P256, DOI 10.1109/TEVC.2004.826067
+   Dai ZX, 2018, APPL ENERG, V225, P876, DOI 10.1016/j.apenergy.2018.05.038
+   Dai ZX, 2016, ENVIRON SCI TECHNOL, V50, P7546, DOI 10.1021/acs.est.6b01744
+   Dai ZX, 2014, ENVIRON SCI TECH LET, V1, P49, DOI 10.1021/ez4001033
+   Eberhart RC, 2001, IEEE C EVOL COMPUTAT, V0, PP81, DOI 10.1109/CEC.2001.934374
+   Faltinson J, 2011, J CAN PETROL TECHNOL, V50, P55
+   Fasihi M, 2019, J CLEAN PROD, V224, P957, DOI 10.1016/j.jclepro.2019.03.086
+   Guevara JL, 2015, SPE LAT AM CAR PETR, V0, P0
+   Hadi Memarian Hadi Memarian, 2012, JOURNAL OF WATER RESOURCE AND PROTECTION, V4, P870, DOI 10.4236/jwarp.2012.410102
+   Han J, 2016, APPL ENERG, V161, P85, DOI 10.1016/j.apenergy.2015.10.021
+   Han LY, 2014, ENERG FUEL, V28, P6811, DOI 10.1021/ef501547x
+   He J, 2015, SPE W REG M, V0, P0
+   Jarrell PM, 2002, PRACTICAL ASPECTS OF CO2 FLOODING, V22, P0
+   Ji G, 2017, RECENT ADV CARBON CA, V0, P59
+   Kennedy J, 2017, ENCY MACHINE LEARNIN, V0, P967
+   Kumar M, 2011, COMPUT MATH APPL, V62, P3796, DOI 10.1016/j.camwa.2011.09.028
+   Leung DYC, 2014, RENEW SUST ENERG REV, V39, P426, DOI 10.1016/j.rser.2014.07.093
+   Mac Dowell N, 2017, NAT CLIM CHANGE, V7, P243, DOI 10.1038/NCLIMATE3231
+   Martínez I, 2018, J CLEAN PROD, V187, P638, DOI 10.1016/j.jclepro.2018.03.189
+   Mikayilov JI, 2018, J CLEAN PROD, V197, P1558, DOI 10.1016/j.jclepro.2018.06.269
+   Onwunalu JE, 2010, COMPUTAT GEOSCI, V14, P183, DOI 10.1007/s10596-009-9142-1
+   Pan F, 2016, INT J GREENH GAS CON, V51, P18, DOI 10.1016/j.ijggc.2016.04.010
+   Qiao WB, 2020, J CLEAN PROD, V244, P0, DOI 10.1016/j.jclepro.2019.118612
+   Sepehri A, 2020, J CLEAN PROD, V247, P0, DOI 10.1016/j.jclepro.2019.119164
+   Sepehri A, 2019, APPL WATER SCI, V9, P0, DOI 10.1007/s13201-019-1017-6
+   Sun Q, 2017, J PETROL SCI ENG, V154, P564, DOI 10.1016/j.petrol.2016.10.042
+   Tamiz M, 1998, EUR J OPER RES, V111, P569, DOI 10.1016/S0377-2217(97)00317-2
+   Tapia JFD, 2016, APPL ENERG, V184, P337, DOI 10.1016/j.apenergy.2016.09.093
+   Wang JW, 2017, J CLEAN PROD, V148, P148, DOI 10.1016/j.jclepro.2017.01.123
+   White MD, 2014, ENRGY PROCED, V63, P7891, DOI 10.1016/j.egypro.2014.11.825
+   Yilmaz AS, 2009, EXPERT SYST APPL, V36, P9767, DOI 10.1016/j.eswa.2009.02.014
+   Zubarev DI, 2009, SOCIETY OF PETROLEUM ENGINEERS, V0, P0, DOI DOI 10.2118/0710-0041-JPT
+NR 45
+TC 90
+Z9 99
+U1 7
+U2 88
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD JUL 1
+PY 2020
+VL 260
+IS 
+BP 
+EP 
+DI 10.1016/j.jclepro.2020.120866
+PG 13
+WC Green & Sustainable Science & Technology; Engineering, Environmental; Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences & Ecology
+GA LL3WW
+UT WOS:000531487800008
+DA 2025-11-07
+ER
+
+PT J
+AU Sinha, S
+   de Lima, RP
+   Lin, YZ
+   Sun, AY
+   Symons, N
+   Pawar, R
+   Guthrie, G
+AF Sinha, Saurabh
+   de Lima, Rafael Pires
+   Lin, Youzuo
+   Sun, Alexander Y.
+   Symons, Neill
+   Pawar, Rajesh
+   Guthrie, George
+TI Normal or abnormal? Machine learning for the leakage detection in carbon sequestration projects using pressure field data
+SO INTERNATIONAL JOURNAL OF GREENHOUSE GAS CONTROL
+LA English
+DT Article
+DE Deep learning; Anomaly detector; Pressure data; Automation; Carbon capture
+ID anomaly detection; geological media; co2 storage; reservoirs; water
+AB The international commitments for atmospheric carbon reduction will require a rapid increase in carbon capture and storage (CCS) projects. The key to any successful CCS project lies in the long term storage and prevention of leakage of stored carbon dioxide (CO2). In addition to being a greenhouse gas, CO2 leaks reaching the surface can accumulate in low-lying areas resulting in a serious health risk. Among several alternatives, some of the more promising CCS storage formations are depleted oil and gas reservoirs, where the reservoirs had good geological seals prior to hydrocarbon extraction. With more CCS wells coming online, it is imperative to implement permanent, automated monitoring tools. We apply machine learning models to automate the leakage detection process in carbon storage reservoirs using rates of (CO2) injection and pressure data measured by simple harmonic pulse testing (HPT). To validate the feasibility of this machine learning based workflow, we use data from HPT experiments carried out in the Cranfield oil field, Mississippi, USA. The data consist of a series of pulse tests conducted with baseline parameters and with an artificially introduced leak. Here, we pose the leakage detection task as an anomaly detection problem where deviation from the predicted behavior indicates leaks in the reservoir. Results show that different machine learning architectures such as multi-layer feed forward network, Long Short-Term Memory, and convolutional neural network are able to identify leakages and can provide early warning. These warnings can then be used to take remedial measures.
+C1 [Sinha, Saurabh; Lin, Youzuo; Symons, Neill; Pawar, Rajesh; Guthrie, George] Los Alamos Natl Lab, Los Alamos, NM 87545 USA.
+   [Sinha, Saurabh] Univ Oklahoma, Norman, OK 73019 USA.
+   [de Lima, Rafael Pires] Geol Survey Brazil, Belo Horizonte, MG, Brazil.
+   [Sun, Alexander Y.] Univ Texas Austin, Bur Econ Geol, Austin, TX 78712 USA.
+C3 United States Department of Energy (DOE); Los Alamos National Laboratory; University of Oklahoma System; University of Oklahoma - Norman; University of Texas System; University of Texas Austin
+RP Sinha, S; Lin, YZ (corresponding author), Los Alamos Natl Lab, Los Alamos, NM 87545 USA.
+EM saurabh.sinha@ou.edu; ylin@lanl.gov
+FU U.S. DOE Office of Fossil Energy's Carbon Storage program
+CR Alexander DC, 2019, 755058 BIORXIV, V0, P0
+   Amid S, 2017, ENVIRON PROG SUSTAIN, V36, P577, DOI 10.1002/ep.12448
+   Bachu S, 2003, ENVIRON GEOL, V44, P277, DOI 10.1007/s00254-003-0762-9
+   Bachu S, 2000, ENERG CONVERS MANAGE, V41, P953, DOI 10.1016/S0196-8904(99)00149-1
+   Barraza J, 2017, EUR ASS GEOSC ENG EA, V0, P0
+   Behnke S, 2003, HIERARCHICAL NEURAL NETWORKS FOR IMAGE INTERPRETATION, V0, P2766
+   Bergmann P, 2010, CHEM ERDE-GEOCHEM, V70, P173, DOI 10.1016/j.chemer.2010.05.007
+   Bontemps L, 2016, LECT NOTES COMPUT SC, V10018, P141, DOI 10.1007/978-3-319-48057-2_9
+   BRIGHAM WE, 1970, J PETROL TECHNOL, V22, P618, DOI 10.2118/2417-PA
+   Callegari C, 2014, IEEE INT WORKSH COMP, V0, PP310, DOI 10.1109/CAMAD.2014.7033256
+   Castelletto N, 2013, J GEOPHYS RES-SOL EA, V118, P2417, DOI 10.1002/jgrb.50180
+   Dietterich TG, 2002, STRUCTURAL SYNTACTIC, V0, PP15, DOI 10.1007/3-540-70659-3_2
+   Dondurur Derman, 2018, ACQUISITION AND PROCESSING OF MARINE SEISMIC DATA, V0, P0, DOI DOI 10.1016/C2016-0-01591-7
+   Fernández-Montiel I, 2015, INT J GREENH GAS CON, V36, P51, DOI 10.1016/j.ijggc.2015.02.012
+   Fokker PA, 2018, J PETROL SCI ENG, V162, P446, DOI 10.1016/j.petrol.2017.12.053
+   Fokker PA, 2011, J PETROL SCI ENG, V79, P125, DOI 10.1016/j.petrol.2011.09.004
+   Gal F, 2019, APPL SCI-BASEL, V9, P0, DOI 10.3390/app9040645
+   Gaus I, 2010, INT J GREENH GAS CON, V4, P73, DOI 10.1016/j.ijggc.2009.09.015
+   GLUMOV NI, 1995, OPT LASER TECHNOL, V27, P241, DOI 10.1016/0030-3992(95)93752-D
+   Gu JX, 2018, PATTERN RECOGN, V77, P354, DOI 10.1016/j.patcog.2017.10.013
+   HARRIS FJ, 1978, P IEEE, V66, P51, DOI 10.1109/PROC.1978.10837
+   Hawthorn A, 2017, SPE ANN TECHN C EXH, V0, P0
+   Heideman MT, 1984, IEEE ASSP MAGAZINE, V1, P14, DOI 10.1109/MASSP.1984.1162257
+   Hochreiter S, 2001, GRADIENT FLOW RECURR, V0, P0, DOI DOI 10.1109/9780470544037.CH14
+   Ivanova A, 2012, GEOPHYS PROSPECT, V60, P957, DOI 10.1111/j.1365-2478.2012.01045.x
+   Jan B, 2019, COMPUT ELECTR ENG, V75, P275, DOI 10.1016/j.compeleceng.2017.12.009
+   Kaur H, 2013, ARXIV13077286, V0, P0
+   Khan A, 2020, ARTIF INTELL REV, V53, P5455, DOI 10.1007/s10462-020-09825-6
+   Kingma DP, 2015, INT C LEARN REPRESEN, V0, PP1, DOI 10.48550/arXiv.1412.6980
+   LeCun Yann, 1995, HDB BRAIN THEORY NEU, V0, P0
+   Lin Y, 2019, SEG INT EXP ANN M, V0, P0
+   May F, 2014, GREENH GASES, V4, P176, DOI 10.1002/ghg.1394
+   McRory J, 2011, OFFSH EUR, V0, P0
+   Moore J, 2005, CHEM GEOL, V217, P365, DOI 10.1016/j.chemgeo.2004.12.019
+   Nwankpa C, 2018, ACTIVATION FUNCTIONS, V0, P0
+   Oelkers EH, 2008, ELEMENTS, V4, P333, DOI 10.2113/gselements.4.5.333
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Prasad NR, 2009, CMC-COMPUT MATER CON, V14, P1, DOI 10.1145/1541880.1541882
+   Roach LAN, 2015, GEOPHYSICS, V80, PWA1, DOI 10.1190/GEO2014-0201.1
+   Rutqvist J, 2012, GEOTECH GEOL ENG, V30, P525, DOI 10.1007/s10706-011-9491-0
+   Rynkiewicz J, 2012, NEUROCOMPUTING, V90, P106, DOI 10.1016/j.neucom.2011.11.028
+   Sathyanarayana S, 2014, NUMER INSIGHT, V7, P1
+   Seigo SL, 2014, RENEW SUST ENERG REV, V38, P848, DOI 10.1016/j.rser.2014.07.017
+   Shan HB, 2019, INT J GREENH GAS CON, V86, P112, DOI 10.1016/j.ijggc.2019.04.012
+   Shi XJ, 2015, ADV NEUR IN, V28, P0
+   Simonyan K, 2015, ARXIV, V0, P0
+   Smith KL, 2013, ENRGY PROCED, V37, P791, DOI 10.1016/j.egypro.2013.05.169
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Stork AL, 2018, INT J GREENH GAS CON, V71, P20, DOI 10.1016/j.ijggc.2018.02.007
+   Sun AY, 2016, INT J GREENH GAS CON, V46, P215, DOI 10.1016/j.ijggc.2016.01.015
+   Sun AY, 2014, ENRGY PROCED, V63, P4051, DOI 10.1016/j.egypro.2014.11.437
+   Sun AY, 2015, WATER RESOUR RES, V51, P4263, DOI 10.1002/2014WR016567
+   Vafaeipour M, 2014, INT J ENERGY ENVIR E, V5, P0, DOI 10.1007/s40095-014-0105-5
+   Verdon JP, 2010, GEOPHYSICS, V75, PMA1, DOI 10.1190/1.3377789
+   Wang Z, 2018, P SOC EXPLOR GEOPHYS, V0, P2136
+   Yilmaz I, 2011, EXPERT SYST APPL, V38, P5958, DOI 10.1016/j.eswa.2010.11.027
+   Zeiler MD, 2014, LECT NOTES COMPUT SC, V8689, P818, DOI 10.1007/978-3-319-10590-1_53
+   Zhong Z, 2019, J HYDROL, V573, P885, DOI 10.1016/j.jhydrol.2019.04.015
+   Zhou Z, 2019, INT J GREENH GAS CON, V90, P0, DOI 10.1016/j.ijggc.2019.102790
+NR 59
+TC 24
+Z9 31
+U1 2
+U2 32
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1750-5836
+EI 1878-0148
+J9 INT J GREENH GAS CON
+JI Int. J. Greenh. Gas Control
+PD DEC 15
+PY 2020
+VL 103
+IS 
+BP 
+EP 
+DI 10.1016/j.ijggc.2020.103189
+PG 12
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering, Environmental; Engineering, Chemical
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA PA0DI
+UT WOS:000595287100002
+DA 2025-11-07
+ER
+
+PT J
+AU Deng, T
+   Liu, FH
+   Jia, GZ
+AF Deng, Tong
+   Liu, Feng-hai
+   Jia, Guo-zhu
+TI Prediction carbon dioxide solubility in ionic liquids based on deep learning
+SO MOLECULAR PHYSICS
+LA English
+DT Article
+DE Ionic liquids; carbon dioxide; solubility; deep learning
+ID neural-networks; connectionist model; co2 solubility; pressure; tf2n
+AB Ionic liquids have a great potential in capture and separation of carbon dioxide (CO2), and the solubility of CO2 in ionic liquids is one of key data for engineering applications. In this paper, the critical properties of ionic liquids are combined with deep learning models (CP-DNN, CP-CNN, CP-RNN) to establish theoretical prediction models of CO2 solubility in ionic liquids. The predictive performance of these framworks is able to meet or exceed the predicted effects of the method based on thermodynamic models (PR,SRK) and machine learning method (XGBoost). For CP-RNN, the coefficient of determination (R-2) between experimental and predicted values is 0.988, CP-CNN is 0.999, and CP-DNN is 0.984. This research can avoid complex computational characterisation, it is to provide a theoretical method to further enrich and improve the data information analysis of the solubility of CO2 in ionic liquids.
+C1 [Deng, Tong; Liu, Feng-hai; Jia, Guo-zhu] Sichuan Normal Univ, Coll Phys & Elect Engn, Chengdu, Sichuan, Peoples R China.
+C3 Sichuan Normal University
+RP Jia, GZ (corresponding author), Sichuan Normal Univ, Coll Phys & Elect Engn, Chengdu, Sichuan, Peoples R China.
+EM jia1689500@126.com
+FU Major Cultivation Project of Education Department in Sichuan Province, China [18CZ0006]; Major Project of Education Department in Sichuan Province, China [18ZA0402]
+CR Ahmadi MA, 2015, PETROLEUM-PRC, V1, P118, DOI 10.1016/j.petlm.2015.06.004
+   Ahmadi MA, 2016, J SUPERCRIT FLUID, V107, P122, DOI 10.1016/j.supflu.2015.08.012
+   Ahmadi MA, 2016, INT J LOW-CARBON TEC, V11, P325, DOI 10.1093/ijlct/ctu034
+   Ahmadi MA, 2015, MATH PROBL ENG, V2015, P0, DOI 10.1155/2015/706897
+   Ahmadi MA, 2014, J PETROL SCI ENG, V123, P7, DOI 10.1016/j.petrol.2014.05.023
+   Ahmadi MA, 2014, ENERGY TECHNOL-GER, V2, P811, DOI 10.1002/ente.201402043
+   Ahmadi MA, 2014, FUEL, V124, P241, DOI 10.1016/j.fuel.2014.01.073
+   Ahmadi MA, 2014, FUEL, V117, P1074, DOI 10.1016/j.fuel.2013.10.010
+   Ahmadi MA, 2011, J PET EXPLOR PROD TE, V1, P99, DOI 10.1007/s13202-011-0013-7
+   Ahmadi MA, 2012, FUEL, V102, P716, DOI 10.1016/j.fuel.2012.05.050
+   Ahmadi MA, 2014, J PETROL SCI ENG, V123, P183, DOI 10.1016/j.petrol.2014.08.026
+   Ahmadi MA, 2015, FUEL, V139, P154, DOI 10.1016/j.fuel.2014.08.044
+   Baghban A, 2015, J SUPERCRIT FLUID, V98, P50, DOI 10.1016/j.supflu.2015.01.002
+   Chen HM, 2018, DRUG DISCOV TODAY, V23, P1241, DOI 10.1016/j.drudis.2018.01.039
+   Cho K, 2014, LEARNING PHRASE REPR, V0, P0, DOI DOI 10.3115/V1/D14-1179
+   Deng L, 2014, FOUND TRENDS SIGNAL, V7, P197, DOI 10.1561/2000000039
+   Deng T, 2019, MOL. PHYS., V0, P1
+   Dor O, 2007, PROTEINS, V68, P76, DOI 10.1002/prot.21408
+   Gawehn E, 2016, MOL INFORM, V35, P3, DOI 10.1002/minf.201501008
+   Gers FA, 1999, IEE CONF PUBL, V0, PP850, DOI 10.1162/089976600300015015
+   Glorot X, 2010, INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND STATISTICS, V0, P249
+   Kim JE, 2014, FLUID PHASE EQUILIBR, V367, P151, DOI 10.1016/j.fluid.2014.01.042
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Li GB, 2016, IEEE T IMAGE PROCESS, V25, P5012, DOI 10.1109/TIP.2016.2602079
+   Lusci A, 2013, J CHEM INF MODEL, V53, P1563, DOI 10.1021/ci400187y
+   Mortazavi-Manesh S, 2013, CAN J CHEM ENG, V91, P783, DOI 10.1002/cjce.21687
+   Ni L, 2013, J LOSS PREVENT PROC, V26, P1085, DOI 10.1016/j.jlp.2013.04.004
+   Qian N, 1988, J MOL BIOL, V202, P865, DOI 10.1016/0022-2836(88)90564-5
+   Razavian AS, 2014, IEEE COMPUT SOC CONF, V0, PP512, DOI 10.1109/CVPRW.2014.131
+   Reutlinger M, 2012, J MOL GRAPH MODEL, V34, P108, DOI 10.1016/j.jmgm.2011.12.006
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003
+   Shafiei A, 2014, J SUPERCRIT FLUID, V95, P525, DOI 10.1016/j.supflu.2014.08.011
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Sundermeyer M, 2012, 13TH ANNUAL CONFERENCE OF THE INTERNATIONAL SPEECH COMMUNICATION ASSOCIATION 2012 (INTERSPEECH 2012), VOLS 1-3, P194
+   Sutskever I, 2014, ADV NEUR IN, V27, P0
+   Tagiuri A, 2014, FLUID PHASE EQUILIBR, V380, P39, DOI 10.1016/j.fluid.2014.07.015
+   Wang CM, 2010, ANGEW CHEM INT EDIT, V49, P5978, DOI 10.1002/anie.201002641
+   Wlazlo M, 2016, FLUID PHASE EQUILIBR, V424, P16, DOI 10.1016/j.fluid.2015.08.032
+   Yang B, 2015, IEEE I CONF COMP VIS, V0, PP82, DOI 10.1109/ICCV.2015.18
+   Yim JH, 2013, FLUID PHASE EQUILIBR, V352, P67, DOI 10.1016/j.fluid.2013.05.005
+   Zhang ZH, 2019, ANGEW CHEM INT EDIT, V58, P259, DOI 10.1002/anie.201812363
+   Zhao N, 2016, J CHEM ENG DATA, V61, P2160, DOI 10.1021/acs.jced.6b00161
+   Zhao X, 2011, PROG CHEM, V23, P2258
+   Zoubeik M, 2014, FLUID PHASE EQUILIBR, V376, P22, DOI 10.1016/j.fluid.2014.05.021
+NR 49
+TC 33
+Z9 36
+U1 5
+U2 134
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0026-8976
+EI 1362-3028
+J9 MOL PHYS
+JI Mol. Phys.
+PD MAR 18
+PY 2020
+VL 118
+IS 6
+BP 
+EP 
+DI 10.1080/00268976.2019.1652367
+EA AUG 2019
+PG 8
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA LH5VO
+UT WOS:000481174500001
+DA 2025-11-06
+ER
+
+PT J
+AU Burns, TD
+   Pai, KN
+   Subraveti, SG
+   Collins, SP
+   Krykunov, M
+   Rajendran, A
+   Woo, TK
+AF Burns, Thomas D.
+   Pai, Kasturi Nagesh
+   Subraveti, Sai Gokul
+   Collins, Sean P.
+   Krykunov, Mykhaylo
+   Rajendran, Arvind
+   Woo, Tom K.
+TI Prediction of MOF Performance in Vacuum Swing Adsorption Systems for Postcombustion CO2 Capture Based on Integrated Molecular Simulations, Process Optimizations, and Machine Learning Models
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+LA English
+DT Article
+ID metal-organic frameworks; carbon-dioxide capture; flue-gas; adsorbent; equilibrium; separations; nitrogen; energy
+AB Postcombustion CO2 capture and storage (CCS) is a key technological approach to reducing greenhouse gas emission while we transition to carbon-free energy production. However, current solvent-based CO2 capture processes are considered too energetically expensive for widespread deployment. Vacuum swing adsorption (VSA) is a low-energy CCS that has the potential for industrial implementation if the right sorbents can be found. Metal-organic framework (MOF) materials are often promoted as sorbents for low-energy CCS by highlighting select adsorption properties without a clear understanding of how they perform in real-world VSA processes. In this work, atomistic simulations have been fully integrated with a detailed VSA simulator, validated at the pilot scale, to screen 1632 experimentally characterized MOFs. A total of 482 materials were found to meet the 95% CO2 purity and 90% CO2 recovery targets (95/90-PRTs)-365 of which have parasitic energies below that of solvent-based capture (similar to 290 kWh(e)/MT CO2) with a low value of 217 kWh(e)/MT CO2. Machine learning models were developed using common adsorption metrics to predict a material's ability to meet the 95/90-PRT with an overall prediction accuracy of 91%. It was found that accurate parasitic energy and productivity estimates of a VSA process require full process simulations.
+C1 [Pai, Kasturi Nagesh; Subraveti, Sai Gokul; Rajendran, Arvind] Univ Alberta, Dept Chem & Mat Engn, Edmonton, AB T6G 1H9, Canada.
+   [Burns, Thomas D.; Collins, Sean P.; Krykunov, Mykhaylo; Woo, Tom K.] Univ Ottawa, Dept Chem & Biomol Sci, Ottawa, ON K1N 6N5, Canada.
+C3 University of Alberta; University of Ottawa
+RP Rajendran, A (corresponding author), Univ Alberta, Dept Chem & Mat Engn, Edmonton, AB T6G 1H9, Canada.; Woo, TK (corresponding author), Univ Ottawa, Dept Chem & Biomol Sci, Ottawa, ON K1N 6N5, Canada.
+EM arvind.rajendran@ualberta.ca; twoo@uottawa.ca
+FU Natural Sciences and Engineering Research Council of Canada; Canada First Excellence Research Fund through the University of Alberta Future Energy Systems
+CR Ackley M, 2000, PATENT NO. US6027548A 6027548, V0, P0
+   Ackley MW, 1997, US PAT., V0, Patent No. [5,674,311, US5,674,311]
+   Bae TH, 2013, ENERG ENVIRON SCI, V6, P128, DOI 10.1039/c2ee23337a
+   Basdogan Y, 2015, IND ENG CHEM RES, V54, P8479, DOI 10.1021/acs.iecr.5b01901
+   Bui M, 2018, ENERG ENVIRON SCI, V11, P1062, DOI 10.1039/c7ee02342a
+   Cavenati S, 2004, J CHEM ENG DATA, V49, P1095, DOI 10.1021/je0498917
+   Chanut N, 2017, CHEMSUSCHEM, V10, P1543, DOI 10.1002/cssc.201601816
+   CHARNELL JF, 1971, J CRYST GROWTH, V8, P291, DOI 10.1016/0022-0248(71)90074-1
+   Chung YG, 2016, SCI ADV, V2, P0, DOI 10.1126/sciadv.1600909
+   Chung YG, 2014, CHEM MATER, V26, P6185, DOI 10.1021/cm502594j
+   Colón YJ, 2014, CHEM SOC REV, V43, P5735, DOI 10.1039/c4cs00070f
+   DAlessandro DM, 2010, ANGEW CHEM INT EDIT, V49, P6058, DOI 10.1002/anie.201000431
+   Daglar H, 2018, J PHYS CHEM C, V122, P17347, DOI 10.1021/acs.jpcc.8b05416
+   Farmahini AH, 2018, IND ENG CHEM RES, V57, P15491, DOI 10.1021/acs.iecr.8b03065
+   Fernandez M, 2014, J PHYS CHEM LETT, V5, P3056, DOI 10.1021/jz501331m
+   Fernandez M, 2013, J PHYS CHEM C, V117, P14095, DOI 10.1021/jp404287t
+   Fout T, 2015, NATL ENERGY TECHNOL, V1a, P240
+   Freeman SA, 2009, ENRGY PROCED, V1, P1489, DOI 10.1016/j.egypro.2009.01.195
+   Furukawa H, 2013, SCIENCE, V341, P974, DOI 10.1126/science.1230444
+   Groom CR, 2016, ACTA CRYSTALLOGR B, V72, P171, DOI 10.1107/S2052520616003954
+   Haghpanah R, 2013, AICHE J, V59, P4735, DOI 10.1002/aic.14192
+   Haghpanah R, 2013, IND ENG CHEM RES, V52, P4249, DOI 10.1021/ie302658y
+   Hasan MMF, 2013, PHYS CHEM CHEM PHYS, V15, P17601, DOI 10.1039/c3cp53627k
+   Huck JM, 2014, ENERG ENVIRON SCI, V7, P4132, DOI 10.1039/c4ee02636e
+   Jiang JJ, 2018, J AM CHEM SOC, V140, P17825, DOI 10.1021/jacs.8b07589
+   Khurana M, 2019, AICHE J, V65, P184, DOI 10.1002/aic.16362
+   Khurana M, 2017, AICHE J, V63, P2987, DOI 10.1002/aic.15602
+   Khurana M, 2016, IND ENG CHEM RES, V55, P2447, DOI 10.1021/acs.iecr.5b04531
+   Krishna R, 2017, RSC ADV, V7, P35724, DOI 10.1039/c7ra07363a
+   Krishnamurthy S, 2014, IND ENG CHEM RES, V53, P14462, DOI 10.1021/ie5024723
+   Krishnamurthy S, 2014, AICHE J, V60, P1830, DOI 10.1002/aic.14435
+   Leperi KT, 2019, ACS SUSTAIN CHEM ENG, V7, P11529, DOI 10.1021/acssuschemeng.9b01418
+   Liang LF, 2017, NAT COMMUN, V8, P0, DOI 10.1038/s41467-017-01166-3
+   Lin LC, 2012, NAT MATER, V11, P633, DOI 10.1038/NMAT3336
+   Maruyama RT, 2020, INT J GREENH GAS CON, V93, P0, DOI 10.1016/j.ijggc.2019.102902
+   Masson-Delmotte V, 2018, IPCC SPECIAL REPORT, V1, P1, DOI 10.1017/9781009157940.008
+   McDonald TM, 2015, NATURE, V519, P303, DOI 10.1038/nature14327
+   Mission Innovation, 2017, ACC BREAKTHR INN CAR, V0, P1
+   Moghadam PZ, 2017, CHEM MATER, V29, P2618, DOI 10.1021/acs.chemmater.7b00441
+   Nandi S, 2017, J AM CHEM SOC, V139, P1734, DOI 10.1021/jacs.6b10455
+   Nikolaidis GN, 2018, CHEM ENG RES DES, V131, P362, DOI 10.1016/j.cherd.2017.06.016
+   Nugent P, 2013, NATURE, V495, P80, DOI 10.1038/nature11893
+   Pai KN, 2019, SEP PURIF TECHNOL, V211, P540, DOI 10.1016/j.seppur.2018.10.015
+   Payra P, 2003, HANDBOOK OF ZEOLITE SCIENCE AND TECHNOLOGY, V0, P0, DOI DOI 10.1201/9780203911167
+   Rajagopalan AK, 2018, INT J GREENH GAS CON, V78, P437, DOI 10.1016/j.ijggc.2018.09.002
+   Rajagopalan AK, 2016, INT J GREENH GAS CON, V46, P76, DOI 10.1016/j.ijggc.2015.12.033
+   Rege SU, 2001, SEPAR SCI TECHNOL, V36, P3355, DOI 10.1081/SS-100107907
+   Rogelj J, 2018, P93, V0, P0, DOI DOI 10.1017/9781009157940.004
+   Ruthven DM, 2014, CHEM ENG SCI, V114, P128, DOI 10.1016/j.ces.2014.04.020
+   Verma MK, 2015, FUNDAMENTALS CARBON, V0, P1
+   Walton KS, 2017, JOULE, V1, P208, DOI 10.1016/j.joule.2017.06.005
+   Wiersum AD, 2013, LANGMUIR, V29, P3301, DOI 10.1021/la3044329
+   Wilmer CE, 2012, NAT CHEM, V4, P83, DOI 10.1038/NCHEM.1192
+   Xiang SC, 2005, J AM CHEM SOC, V127, P16352, DOI 10.1021/ja0546065
+   Yu JM, 2017, CHEM REV, V117, P9674, DOI 10.1021/acs.chemrev.6b00626
+   Zhou HC, 2012, CHEM REV, V112, P673, DOI 10.1021/cr300014x
+NR 56
+TC 161
+Z9 166
+U1 8
+U2 235
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0013-936X
+EI 1520-5851
+J9 ENVIRON SCI TECHNOL
+JI Environ. Sci. Technol.
+PD APR 7
+PY 2020
+VL 54
+IS 7
+BP 4536
+EP 4544
+DI 10.1021/acs.est.9b07407
+PG 9
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA LE0MB
+UT WOS:000526418000084
+PM 32091203
+DA 2025-11-07
+ER
+
+PT J
+AU Wang, Z
+   Dilmore, RM
+   Harbert, W
+AF Wang, Zan
+   Dilmore, Robert M.
+   Harbert, William
+TI Inferring CO2 saturation from synthetic surface seismic and downhole monitoring data using machine learning for leakage detection at CO2 sequestration sites
+SO INTERNATIONAL JOURNAL OF GREENHOUSE GAS CONTROL
+LA English
+DT Article
+DE Carbon sequestration; Machine learning; Leakage detection; Seismic inversion; CO2 saturation inversion; Seismic monitoring
+ID storage
+AB Inferring CO2 saturation from seismic data is important when seismic methods are applied at CO2 sequestration sites for verification and accounting purposes, such as verifying the total injected CO2 volume, comparing with model predictions for concordance evaluation, tracking the migration of CO2 plume, and detecting possible leakage from the storage reservoir. In this work, we infer CO2 saturation levels at three depths from simulated surface seismic, downhole pressure and total dissolved solids (TDS) data using machine learning (ML) methods. The simulated monitoring data are based on 6000 numerical multi-phase flow simulations of hypothetical wellbore CO2 and brine leakage from a legacy well into shallow aquifers at a model CO2 storage site. We conduct rock physics modeling to estimate changes in seismic velocity due to the simulated CO2 and brine leakage at each time step in the flow simulation outputs, resulting in 120,000 forward seismic velocity models. 2D finite-difference acoustic wave modeling is performed for each velocity model to generate synthetic shot gathers, along a sparse 2D seismic line with only 5 shots and 40 receivers. We extract 6 time-lapse seismic attribute anomalies from each trace in the time window relevant to each geologic layer, and use the seismic features, together with downhole pore pressure, TDS features to train the machine learning algorithms. The impact of seismic noise on the performance of the trained machine learning models has also been investigated. Inferred CO2 saturations from the trained classifiers are in good agreement with observations. Direct pressure and TDS measurements from downhole monitoring can increase the accuracy of the inferred CO2 saturation class from the forward modeled 2D surface seismic data. Our ML workflow represents a promising way to combine measurements from multiple monitoring techniques, together with seismic monitoring to achieve more accurate seismic quantitative interpretation.
+C1 [Wang, Zan; Harbert, William] US DOE, ORISE, Natl Energy Technol Lab, Pittsburgh, PA 15236 USA.
+   [Dilmore, Robert M.] US DOE, Natl Energy Technol Lab, Pittsburgh, PA 15236 USA.
+   [Harbert, William] Univ Pittsburgh, Dept Geol & Environm Sci, Pittsburgh, PA 15260 USA.
+C3 United States Department of Energy (DOE); National Energy Technology Laboratory - USA; Oak Ridge Associated Universities; Oak Ridge Institute for Science & Education; United States Department of Energy (DOE); National Energy Technology Laboratory - USA; Pennsylvania Commonwealth System of Higher Education (PCSHE); University of Pittsburgh
+RP Wang, Z (corresponding author), US DOE, ORISE, Natl Energy Technol Lab, Pittsburgh, PA 15236 USA.
+EM Zan.Wang@NETL.DOE.GOV
+FU U.S. Department of Energy
+CR Unknown -, 2015, GOOGLE RES., V0, P0
+   Araya-Polo Mauricio, 2018, LEADING EDGE, V37, P58, DOI 10.1190/tle37010058.1
+   Bertin MJ, 2013, ENVIRON SCI TECHNOL, V47, P2728, DOI 10.1021/es3033549
+   Biot MA, 1941, J APPL PHYS, V12, P155, DOI 10.1063/1.1712886
+   Bridle JS, 1990, ADV NEURAL INFORM PR, V0, P0
+   Buscheck TA, 2017, LLNLTR731055, V0, P0
+   Chadwick R, 2004, GEOL SOC LONDON, V29, P311, DOI 10.1144/GSL.MEM.2004.029.01.29
+   Chadwick RA, 2009, ENERGY PROCEDIA, V1, P2103, DOI 10.1016/J.EGYPRO.2009.01.274
+   Chadwick RA, 2015, GREENH GASES, V5, P305, DOI 10.1002/ghg.1488
+   Chen YK, 2015, IEEE GEOSCI REMOTE S, V12, P2316, DOI 10.1109/LGRS.2015.2475280
+   Chowdhury KR, 2011, ENCY SOLID EARTH GEO, V0, PP1081, DOI 10.1007/978-90-481-8702-7
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   CORTES C, 1995, MACH LEARN, V20, P273, DOI 10.1007/BF00994018
+   Daley TM, 2019, GEOPHYSICS AND GEOSEQUESTRATION, V0, P54
+   Gassmann F, 1951, VIERTELJAHRSSCHRIFT DER NATURFORSCHENDEN GESELLSCHAFT IN ZURICH, V96, P1
+   Gunning J, 2004, COMPUT GEOSCI-UK, V30, P619, DOI 10.1016/j.cageo.2003.10.013
+   Hochreiter S, 1997, NEURAL COMPUTATION, V9, P1735, DOI 10.1162/neco.1997.9.8.1735
+   Ivandic M, 2015, INT J GREENH GAS CON, V32, P90, DOI 10.1016/j.ijggc.2014.10.015
+   Kragh ED, 2002, THE LEADING EDGE, V21, P640, DOI 10.1190/1.1497316
+   Lin YZ, 2018, J ACOUST SOC AM, V144, P1683, DOI 10.1121/1.5067485
+   Liu Y, 2017, ADV MAT SCI ENG-BOCA, V0, P1
+   Lüth S, 2015, INT J GREENH GAS CON, V42, P329, DOI 10.1016/j.ijggc.2015.08.005
+   Lumley David, 2010, LEADING EDGE, V29, P150, DOI 10.1190/1.3304817
+   Margrave GF, 2003, NUMERICAL METHODS OF EXPLORATION SEISMOLOGY WITH ALGORITHMS IN MATLAB, V0, P0
+   Mavko G, 2009, ROCK PHYS HDB, V0, P0, DOI DOI 10.1017/CBO9780511626753
+   Meadows M, 2008, P INT C LEAD EDG MAN, V27, P441, DOI 10.1190/1.2907183
+   Meadows MA, 2013, INT J GREENH GAS CON, V16, PS103, DOI 10.1016/j.ijggc.2013.01.030
+   MINDLIN RD, 1949, J APPL MECH-T ASME, V16, P259
+   NETLHPC, 2020, JOUL 2 0 SUP, V0, P0
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Reading AM, 2015, COMBINING MACHINE LE, V0, P0, DOI DOI 10.1071/ASEG2015ab070
+   Reid CE, 2015, ENVIRON SCI TECHNOL, V49, P3887, DOI 10.1021/es505846r
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Saghafi H, 2017, INT J GREENH GAS CON, V58, P256, DOI 10.1016/j.ijggc.2016.12.014
+   Stockwell JW, 2008, NEW USERS MANUAL VER, V0, P0
+   USEPA, 2013, PROGR CLASS 6 WELL T, V0, P0
+   USEPA, 2016, PROGR CLASS 6 WELL P, V0, P0
+   Wang Z, 2018, INT J GREENH GAS CON, V76, P39, DOI 10.1016/j.ijggc.2018.06.011
+   Wu TF, 2004, J MACH LEARN RES, V5, P975
+   Yang X, 2018, LLNLTR752304, V0, P0
+   Yang XJ, 2019, INT J GREENH GAS CON, V90, P0, DOI 10.1016/j.ijggc.2019.102803
+   Zhang R, 2015, INTERPRETATION-J SUB, V3, PSM37, DOI 10.1190/INT-2014-0141.1
+NR 42
+TC 20
+Z9 24
+U1 5
+U2 34
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1750-5836
+EI 1878-0148
+J9 INT J GREENH GAS CON
+JI Int. J. Greenh. Gas Control
+PD SEP 15
+PY 2020
+VL 100
+IS 
+BP 
+EP 
+DI 10.1016/j.ijggc.2020.103115
+PG 11
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering, Environmental; Engineering, Chemical
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA NM1SA
+UT WOS:000567882900005
+DA 2025-11-07
+ER
+
+PT J
+AU Sun, AY
+AF Sun, Alexander Y.
+TI Optimal carbon storage reservoir management through deep reinforcement learning
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Reinforcement learning; Multistage decision-making; Deep autoregressive model; Deep Q network; Surrogate modeling; Markov decision process; Geological carbon sequestration
+ID stochastic collocation method; energy-management; uncertainty quantification; oil-recovery; co2 sequestration; probabilistic-collocation; monitoring networks; experimental-design; data assimilation; multiphase flow
+AB Model-based optimization plays a central role in energy system design and management. The complexity and high-dimensionality of many process-level models, especially those used for geosystem energy exploration and utilization, often lead to formidable computational costs when the dimension of decision space is also large. This work adopts elements of recently advanced deep learning techniques to solve a sequential decision making problem in applied geosystem management. Specifically, a deep reinforcement learning framework was formed for optimal multiperiod planning, in which a deep Q-learning network (DQN) agent was trained to maximize rewards by learning from high-dimensional inputs and from exploitation of its past experiences. To expedite computation, deep multitask learning was used to approximate high-dimensional, multistate transition functions. Both DQN and deep multitask learning are pattern based. As a demonstration, the framework was applied to optimal carbon sequestration reservoir planning using two different types of management strategies: monitoring only and brine extraction. Both strategies are designed to mitigate potential risks due to pressure buildup. Results show that the DQN agent can identify the optimal policies to maximize the reward for given risk and cost constraints. Experiments also show that knowledge the agent gained from interacting with one environment is largely preserved when deploying the same agent in other similar environments.
+C1 [Sun, Alexander Y.] Univ Texas Austin, Bur Econ Geol, Jackson Sch Geosci, Austin, TX 78712 USA.
+C3 University of Texas System; University of Texas Austin
+RP Sun, AY (corresponding author), Univ Texas Austin, Bur Econ Geol, Jackson Sch Geosci, Austin, TX 78712 USA.
+EM alex.sun@beg.utexas.edu
+FU U.S. Department of Energy, United States of America, National Energy Technology Laboratory, United States of America (NETL) [DE-FE0026515]
+CR Akhtar T, 2016, J GLOBAL OPTIM, V64, P17, DOI 10.1007/s10898-015-0270-y
+   Ampomah W, 2017, APPL ENERG, V195, P80, DOI 10.1016/j.apenergy.2017.03.017
+   Nguyen AT, 2014, APPL ENERG, V113, P1043, DOI 10.1016/j.apenergy.2013.08.061
+   Babaei M, 2016, COMPUT GEOSCI-UK, V91, P19, DOI 10.1016/j.cageo.2016.02.022
+   BELLMAN R, 1966, SCIENCE, V153, P34, DOI 10.1126/science.153.3731.34
+   Bielicki JM, 2016, ENVIRON SCI TECHNOL, V50, P4923, DOI 10.1021/acs.est.5b05329
+   Birkholzer JT, 2009, INT J GREENH GAS CON, V3, P181, DOI 10.1016/j.ijggc.2008.08.002
+   Breunig HM, 2013, INT J GREENH GAS CON, V14, P39, DOI 10.1016/j.ijggc.2013.01.003
+   Buscheck TA, 2012, INT J GREENH GAS CON, V6, P230, DOI 10.1016/j.ijggc.2011.11.007
+   Cameron DA, 2012, INT J GREENH GAS CON, V10, P100, DOI 10.1016/j.ijggc.2012.06.003
+   Caruana R, 1997, MACH LEARN, V28, P41, DOI 10.1023/A:1007379606734
+   Chehouri A, 2015, APPL ENERG, V142, P361, DOI 10.1016/j.apenergy.2014.12.043
+   Chen BL, 2018, APPL ENERG, V225, P332, DOI 10.1016/j.apenergy.2018.05.044
+   Chen BL, 2016, SPE J, V21, P786, DOI 10.2118/173217-PA
+   Chen Y, 2009, SPE J, V14, P634, DOI 10.2118/112873-PA
+   Computer Modeling Group, 2019, CMG GEM, V0, P0
+   Dai ZX, 2016, ENVIRON SCI TECHNOL, V50, P7546, DOI 10.1021/acs.est.6b01744
+   DeCarolis J, 2017, APPL ENERG, V194, P184, DOI 10.1016/j.apenergy.2017.03.001
+   Dinske C, 2010, SEG EXPANDED ABSTR, V29, P2125, DOI 10.1190/1.3513264
+   Fan C, 2017, APPL ENERG, V195, P222, DOI 10.1016/j.apenergy.2017.03.064
+   Fernández D, 2017, APPL ENERG, V206, P667, DOI 10.1016/j.apenergy.2017.08.064
+   FERREIRA JM, 1995, B SEISMOL SOC AM, V85, P1483
+   Fong KF, 2010, APPL ENERG, V87, P3494, DOI 10.1016/j.apenergy.2010.05.002
+   Forrester AIJ, 2009, PROG AEROSP SCI, V45, P50, DOI 10.1016/j.paerosci.2008.11.001
+   Francois-Lavet V, 2016, EUROPEAN WORKSHOP RE, V0, P0
+   Geneva N, 2020, J COMPUT PHYS, V403, P0, DOI 10.1016/j.jcp.2019.109056
+   Golzari A, 2015, J PETROL SCI ENG, V133, P677, DOI 10.1016/j.petrol.2015.07.012
+   González-Nicolás A, 2019, INT J GREENH GAS CON, V83, P176, DOI 10.1016/j.ijggc.2019.02.009
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P1
+   Han XF, 2019, APPL ENERG, V254, P0, DOI 10.1016/j.apenergy.2019.113708
+   Internal Revenue Service, 2018, SECTION 45Q, V0, P0
+   Jang I, 2018, ENERG EXPLOR EXPLOIT, V36, P433, DOI 10.1177/0144598717729490
+   Jenkins C, 2015, INT J GREENH GAS CON, V40, P312, DOI 10.1016/j.ijggc.2015.05.009
+   Jeong H, 2018, ADV WATER RESOUR, V118, P95, DOI 10.1016/j.advwatres.2018.05.015
+   Jeong H, 2018, INT J GREENH GAS CON, V71, P278, DOI 10.1016/j.ijggc.2018.02.014
+   Kingma DP, 2014, ADV NEUR IN, V27, P0
+   Laloy E, 2013, WATER RESOUR RES, V49, P2664, DOI 10.1002/wrcr.20226
+   Li B, 2017, APPL ENERG, V188, P547, DOI 10.1016/j.apenergy.2016.12.038
+   Li BY, 2013, APPL ENERG, V102, P1439, DOI 10.1016/j.apenergy.2012.09.009
+   Li H, 2011, SPE J, V16, P429, DOI 10.2118/140738-PA
+   Liao QZ, 2017, J COMPUT PHYS, V330, P828, DOI 10.1016/j.jcp.2016.10.061
+   Lillicrap TP, 2015, CONTINUOUS CONTROL D, V0, P0, DOI DOI 10.48550/arXiv.1509.02971
+   Liu T, 2017, IEEE-ASME T MECH, V22, P1497, DOI 10.1109/TMECH.2017.2707338
+   Lu RZ, 2018, APPL ENERG, V220, P220, DOI 10.1016/j.apenergy.2018.03.072
+   Middleton RS, 2009, ENERG POLICY, V37, P1052, DOI 10.1016/j.enpol.2008.09.049
+   Mnih KKavukcuoglu, 2013, PLAYING ATARI WITH DEEP REINFORCEMENT LEARNING, V0, P0, DOI DOI 10.48550/ARXIV.1312.5602
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Mo SX, 2019, WATER RESOUR RES, V55, P3856, DOI 10.1029/2018wr024638
+   Mo SX, 2019, WATER RESOUR RES, V55, P703, DOI 10.1029/2018wr023528
+   Mo SX, 2017, WATER RESOUR RES, V53, P10802, DOI 10.1002/2017WR021622
+   Mocanu Elena, 2019, IEEE TRANSACTIONS ON SMART GRID, V10, P3698, DOI 10.1109/TSG.2018.2834219
+   Nanduri V, 2013, APPL ENERG, V111, P186, DOI 10.1016/j.apenergy.2013.04.033
+   Nwankwor E, 2013, COMPUTAT GEOSCI, V17, P249, DOI 10.1007/s10596-012-9328-9
+   Oladyshkin S, 2012, RELIAB ENG SYST SAFE, V106, P179, DOI 10.1016/j.ress.2012.05.002
+   Pawar RJ, 2015, INT J GREENH GAS CON, V40, P292, DOI 10.1016/j.ijggc.2015.06.014
+   Peaceman D, 1987, SPE ANN TECHNICAL C, V0, P457
+   Pekala LM, 2010, APPL ENERG, V87, P1903, DOI 10.1016/j.apenergy.2009.12.012
+   Queipo NV, 2005, PROG AEROSP SCI, V41, P1, DOI 10.1016/j.paerosci.2005.02.001
+   Razavi S, 2012, WATER RESOUR RES, V48, P0, DOI 10.1029/2011WR011527
+   Remy N, 2009, APPL GEOSTATISTICS S, V0, PP1, DOI 10.1017/CBO9781139150019
+   Ronneberger O, 2015, LECT NOTES COMPUT SC, V9351, P234, DOI 10.1007/978-3-319-24574-4_28
+   Ruder S, 2016, OVERVIEW GRADIENT DE, V0, P0, DOI DOI 10.48550/ARXIV.1609.04747
+   Rudolfsson M, 2015, APPL ENERG, V140, P378, DOI 10.1016/j.apenergy.2014.11.041
+   Shapiro SA, 1997, GEOPHYS J INT, V131, PF15, DOI 10.1111/j.1365-246X.1997.tb01215.x
+   Shen FF, 2020, APPL ENERG, V259, P0, DOI 10.1016/j.apenergy.2019.114199
+   Silva BN, 2018, SUSTAIN CITIES SOC, V38, P697, DOI 10.1016/j.scs.2018.01.053
+   Strnad FM, 2019, CHAOS, V29, P0, DOI 10.1063/1.5124673
+   Sullivan EJ, 2013, INT J GREENH GAS CON, V12, P372, DOI 10.1016/j.ijggc.2012.11.007
+   Sun AY, 2019, WATER RESOUR RES, V55, P1179, DOI 10.1029/2018WR023333
+   Sun AY, 2018, GEOPHYS RES LETT, V45, P11137, DOI 10.1029/2018GL080404
+   Sun AY, 2018, COMPUT GEOSCI-UK, V113, P70, DOI 10.1016/j.cageo.2018.01.006
+   Sun AY, 2013, INT J GREENH GAS CON, V19, P251, DOI 10.1016/j.ijggc.2013.09.005
+   Sun AY, 2013, ADV WATER RESOUR, V56, P49, DOI 10.1016/j.advwatres.2012.11.017
+   Sun AY, 2012, ADV WATER RESOUR, V44, P20, DOI 10.1016/j.advwatres.2012.04.006
+   Sun Ne-Zheng, 2015, MODEL CALIBRATION AND PARAMETER ESTIMATION: FOR ENVIRONMENTAL AND WATER RESOURCE SYSTEMS, V0, P0
+   Sutton RS, 1988, MACHINE LEARNING, V3, P9, DOI 10.1007/BF00115009
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tang M, 2019, J COMPUT PHYS, V0, P0, DOI DOI 10.1016/J.JCP.2020.109456
+   Tapia JFD, 2016, APPL ENERG, V184, P337, DOI 10.1016/j.apenergy.2016.09.093
+   Nguyen TT, 2014, APPL ENERG, V132, P276, DOI 10.1016/j.apenergy.2014.07.017
+   van Otterlo M, 2012, ADAPT LEARN OPTIM, V12, P3
+   Wang X, 2018, APPL ENERG, V222, P132, DOI 10.1016/j.apenergy.2018.03.166
+   Wang Z, 2004, IEEE T IMAGE PROCESS, V13, P600, DOI 10.1109/TIP.2003.819861
+   WATKINS CJCH, 1992, MACH LEARN, V8, P279, DOI 10.1007/BF00992698
+   Wei M, 2016, APPL ENERG, V164, P607, DOI 10.1016/j.apenergy.2015.11.107
+   Wen Z, 2011, SPE RESERVOIR SIMULA, V0, P0
+   Wu JD, 2018, APPL ENERG, V222, P799, DOI 10.1016/j.apenergy.2018.03.104
+   Xiao L, 2018, ARXIV, V0, P0
+   Xu B, 2020, APPL ENERG, V259, P0, DOI 10.1016/j.apenergy.2019.114200
+   Zeng LZ, 2012, ADV WATER RESOUR, V37, P1, DOI 10.1016/j.advwatres.2011.09.011
+   Zhang GN, 2013, WATER RESOUR RES, V49, P6871, DOI 10.1002/wrcr.20467
+   Zhang JJ, 2016, WATER RESOUR RES, V52, P5971, DOI 10.1002/2016WR018598
+   Zhang XD, 2016, APPL ENERG, V183, P77, DOI 10.1016/j.apenergy.2016.08.156
+   Zhao J, 2019, APPL ENERG, V255, P0, DOI 10.1016/j.apenergy.2019.113833
+   Zheng Q, 2019, WATER RESOUR RES, V55, P203, DOI 10.1029/2018WR023615
+   Zhong Z, 2020, J GEOPHYS RES-SOL EA, V125, P0, DOI 10.1029/2019JB018408
+   Zhong Z, 2019, WATER RESOUR RES, V55, P5830, DOI 10.1029/2018WR024592
+   Zhu JY, 2017, IEEE I CONF COMP VIS, V0, PP2242, DOI 10.1109/ICCV.2017.244
+   Zhu YH, 2019, J COMPUT PHYS, V394, P56, DOI 10.1016/j.jcp.2019.05.024
+   Zia MF, 2018, APPL ENERG, V222, P1033, DOI 10.1016/j.apenergy.2018.04.103
+NR 101
+TC 47
+Z9 52
+U1 2
+U2 56
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD NOV 15
+PY 2020
+VL 278
+IS 
+BP 
+EP 
+DI 10.1016/j.apenergy.2020.115660
+PG 15
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA PB5UA
+UT WOS:000596384600008
+DA 2025-11-07
+ER
+
+PT J
+AU Yan, H
+   Zhang, JX
+   Zhou, N
+   Li, M
+AF Yan, Hao
+   Zhang, Jixiong
+   Zhou, Nan
+   Li, Meng
+TI Application of hybrid artificial intelligence model to predict coal strength alteration during CO2 geological sequestration in coal seams
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Coal strength alteration; Back propagation neural network; Genetic algorithm; Adaptive boosting algorithm; Predictive model
+ID bp neural-network; carbon-dioxide; mechanical-property; saturation; ensemble; permeability; deformation; adsorption; backfill; concrete
+AB CO2 geological sequestration in coal seams has gradually become one of the effective means to deal with the global greenhouse effect. However, the injection of CO2 into the coal seam can have an important impact on the physical and chemical properties of coal, which in turn affects the CO2 sequestration performance in coal seams and causes a large number of environmental problems. In order to better evaluate the strength alteration of coal in CO2 geological sequestration, a hybrid artificial intelligence model integrating back propagation neural network (BPNN), genetic algorithm (GA) and adaptive boosting algorithm (AdaBoost) is proposed. A total of 112 data samples for unconfined compressive strength (UCS) are retrieved from the reported studies to train and verify the proposed model. The input variables for the predictive model include coal rank, CO2 interaction time, CO2 interaction temperature and CO2 saturation pressure, and the corresponding output variable is the measured UCS. The predictive model performance is evaluated by correlation coefficient (R), root mean square error (RMSE), mean absolute error (MAE) and mean absolute percentage error (MAPE). The predictive results denote that the GA-BPNN-AdaBoost predictive model is an efficient and accurate method to predict coal strength alteration induced by CO2 adsorption. The simultaneous optimization of BPNN by GA and AdaBoost algorithm can greatly improve the prediction accuracy and generalization ability of the model. At the same time, the mean impact value (MIV) is used to investigate the relative importance of each input variable. The relative importance scores of coal rank, CO2 interaction time, CO2 interaction temperature and CO2 saturation pressure are 0.5475, 0.2822, 0.0373, 0.1330, respectively. The research results in this paper can provide important guiding significance for CO2 geological sequestration in coal seams. (C) 2019 Elsevier B.V. All rights reserved.
+C1 [Yan, Hao; Zhang, Jixiong; Zhou, Nan; Li, Meng] China Univ Min & Technol, State Key Lab Coal Resources & Safe Min, Xuzhou 221116, Jiangsu, Peoples R China.
+   [Yan, Hao; Zhang, Jixiong; Zhou, Nan; Li, Meng] China Univ Min & Technol, Sch Mines, Xuzhou 221116, Jiangsu, Peoples R China.
+   [Yan, Hao] Univ New South Wales, Sch Minerals & Energy Resources Engn, Sydney, NSW 2052, Australia.
+C3 China University of Mining & Technology; China University of Mining & Technology; University of New South Wales Sydney
+RP Zhang, JX (corresponding author), China Univ Min & Technol, Sch Mines, State Key Lab Coal Resources & Safe Min, Xuzhou 221116, Jiangsu, Peoples R China.
+EM zjxiong@cumt.edu.cn
+FU National Key R&D Program of China [2018YFC0604704]; National Natural Science Foundation of China [51874287]; National Postdoctoral Program for Innovative Talents [BX20180361]
+CR Baig MM, 2017, NEUROCOMPUTING, V248, P120, DOI 10.1016/j.neucom.2017.02.077
+   Beck J, 2007, GLOBAL ECOL BIOGEOGR, V16, P341, DOI 10.1111/j.1466-8238.2007.00289.x
+   Bustin RM, 1998, INT J COAL GEOL, V38, P3, DOI 10.1016/S0166-5162(98)00030-5
+   Chan CM, 2018, APPL ENERG, V213, P148, DOI 10.1016/j.apenergy.2018.01.029
+   Chang JF, 2016, GLOBAL CHANGE BIOL, V22, P338, DOI 10.1111/gcb.13050
+   He F, 2018, INT J ADV MANUF TECH, V95, P4081, DOI 10.1007/s00170-017-1517-1
+   He W, 2018, THESIS, V0, P0
+   Jiang JL, 2013, CHEM BIOL DRUG DES, V81, P650, DOI 10.1111/cbdd.12111
+   Johansson EM, 1991, INTERNATIONAL JOURNAL OF NEURAL SYSTEMS, V2, P291, DOI 10.1142/S0129065791000261
+   Karsoliya S, 2012, INTERNATIONAL JOURNAL OF ENGINEERING TRENDS AND TECHNOLOGY, V31, P714
+   McInnes KL, 2016, CLIMATIC CHANGE, V139, P69, DOI 10.1007/s10584-016-1647-8
+   Mukherjee M, 2018, EARTH-SCI REV, V179, P392, DOI 10.1016/j.earscirev.2018.02.018
+   Perera MSA, 2013, APPL ENERG, V110, P73, DOI 10.1016/j.apenergy.2013.03.069
+   Perera MSA, 2011, ENERGY, V36, P6941, DOI 10.1016/j.energy.2011.09.026
+   Perera MSA, 2011, ENERGY, V36, P6442, DOI 10.1016/j.energy.2011.09.023
+   Qi CC, 2019, MINER ENG, V133, P69, DOI 10.1016/j.mineng.2019.01.004
+   Qi CC, 2018, INT J NUMER ANAL MET, V42, P1823, DOI 10.1002/nag.2834
+   Qi CC, 2018, J CLEAN PROD, V183, P566, DOI 10.1016/j.jclepro.2018.02.154
+   Ranathunga AS, 2016, INT J COAL GEOL, V167, P148, DOI 10.1016/j.coal.2016.08.027
+   Ranathunga AS, 2016, J SUPERCRIT FLUID, V109, P134, DOI 10.1016/j.supflu.2015.11.010
+   Ranjith PG, 2012, ENERGY, V45, P1069, DOI 10.1016/j.energy.2012.05.041
+   Renato Z, 2017, THESIS, V0, P0
+   Roy DG, 2016, ENVIRON EARTH SCI, V75, P0, DOI 10.1007/s12665-016-5587-4
+   Sampath KHSM, 2019, MEASUREMENT, V135, P47, DOI 10.1016/j.measurement.2018.11.031
+   Saridemir M, 2009, CONSTR BUILD MATER, V23, P1279, DOI 10.1016/j.conbuildmat.2008.07.021
+   Su EL, 2019, ENERG FUEL, V33, P6606, DOI 10.1021/acs.energyfuels.9b01190
+   Viete DR, 2007, FUEL, V86, P2667, DOI 10.1016/j.fuel.2007.03.020
+   Vishal V, 2015, J NAT GAS SCI ENG, V22, P428, DOI 10.1016/j.jngse.2014.12.020
+   Wang SX, 2016, RENEW ENERG, V94, P629, DOI 10.1016/j.renene.2016.03.103
+   Wang WZ, 2013, APPL ENG AGRIC, V29, P783
+   Xia YY, 1997, ENG GEOL, V47, P149, DOI 10.1016/S0013-7952(97)00015-X
+   Xiao J, 2018, ENERGY, V159, P534, DOI 10.1016/j.energy.2018.06.161
+   Yan H, 2019, B ENG GEOL ENVIRON, V78, P3741, DOI 10.1007/s10064-018-1335-1
+   Yan H, 2019, J NAT GAS SCI ENG, V65, P275, DOI 10.1016/j.jngse.2019.03.021
+   Yan H, 2018, ENVIRON EARTH SCI, V77, P0, DOI 10.1007/s12665-018-7641-x
+   Yang L, 2019, ENG STRUCT, V189, P309, DOI 10.1016/j.engstruct.2019.03.105
+   Zagorkak R, 2018, INT J COAL GEOL, V199, P113, DOI 10.1016/j.coal.2018.10.002
+   Zeng YR, 2017, ENERGY, V127, P381, DOI 10.1016/j.energy.2017.03.094
+   Zhang XD, 2018, SPECTROCHIM ACTA A, V193, P133, DOI 10.1016/j.saa.2017.12.019
+   Zhao NN, 2018, GREENH GASES, V8, P510, DOI 10.1002/ghg.1759
+   Zhu Q, 2014, COAL SAMPLING AND ANALYSIS STANDARDS, V0, P0
+NR 41
+TC 66
+Z9 72
+U1 3
+U2 132
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD APR 1
+PY 2020
+VL 711
+IS 
+BP 
+EP 
+DI 10.1016/j.scitotenv.2019.135029
+PG 9
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA KF6IZ
+UT WOS:000509344700015
+PM 31812377
+DA 2025-11-07
+ER
+
+PT J
+AU Zhong, Z
+   Sun, AY
+   Wu, XM
+AF Zhong, Zhi
+   Sun, Alexander Y.
+   Wu, Xinming
+TI Inversion of Time-Lapse Seismic Reservoir Monitoring Data Using CycleGAN: A Deep Learning-Based Approach for Estimating Dynamic Reservoir Property Changes
+SO JOURNAL OF GEOPHYSICAL RESEARCH-SOLID EARTH
+LA English
+DT Article
+ID stringtown oil-field; co2 sequestration; west-virginia; storage; prediction
+AB Carbon capture and storage is being pursued globally as a geoengineering measure for reducing the emission of anthropogenic CO2 into the atmosphere. Comprehensive monitoring, verification, and accounting programs must be established for demonstrating the safe storage of injected CO2. One of the most commonly deployed monitoring techniques is time-lapse seismic reservoir monitoring (also known as 4-D seismic), which involves comparing 3-D seismic survey data taken at the same study site but over different times. Analyses of 4-D seismic data volumes can help improve the quality of storage reservoir characterization, track the movement of injected CO2 plume, and identify potential CO2 spillover/leakage from the storage reservoirblue. However, the derivation of high-resolution CO2 saturation maps from 4-D seismic data is a highly nonlinear and ill-posed inverse problem, often requiring significant computational effort. In this research, we apply a physics-based deep learning method to facilitate the solution of both the forward and inverse problems in seismic inversion while honoring physical constraints. A cycle generative adversarial neural network (CycleGAN) model is trained to learn the bidirectional functional mappings between the reservoir dynamic property changes and seismic attribute changes, such that both forward and inverse solutions can be obtained efficiently from the trained model. We show that our CycleGAN-based approach not only improves the reliability of 4-D seismic inversion but also expedites the quantitative interpretation. Our deep learning-based workflow is generic and can be readily used for reservoir characterization and reservoir model updates involving the use of 4-D seismic data.
+C1 [Zhong, Zhi] China Univ Geosci, Key Lab Tecton & Petr Resources, Minist Educ, Wuhan, Peoples R China.
+   [Zhong, Zhi; Sun, Alexander Y.; Wu, Xinming] Univ Texas Austin, Bur Econ Geol, Jackson Sch Geosci, Austin, TX 78712 USA.
+   [Wu, Xinming] Univ Sci & Technol China, Sch Earth & Space Sci, Hefei, Peoples R China.
+C3 China University of Geosciences; University of Texas System; University of Texas Austin; Chinese Academy of Sciences; University of Science & Technology of China, CAS
+RP Zhong, Z (corresponding author), China Univ Geosci, Key Lab Tecton & Petr Resources, Minist Educ, Wuhan, Peoples R China.; Zhong, Z; Sun, AY (corresponding author), Univ Texas Austin, Bur Econ Geol, Jackson Sch Geosci, Austin, TX 78712 USA.
+EM zhi.zhong@beg.utexas.edu; Alex.sun@beg.utexas.edu
+FU U.S. Department of Energy, National Energy Technology Laboratory (NETL) [DE-FE0026515]
+CR Unknown -, 2018, ARXIV180705207, V0, P0
+   Unknown -, 2004, SEG TECHNICAL PROGRAM EXPANDED ABSTRACTS, V0, P0, DOI DOI 10.1190/1.1845162
+   Unknown -, 2018, 80 EAGE C EXH 2018, V0, P0
+   Arts R, 2004, ENERGY, V29, P1383, DOI 10.1016/j.energy.2004.03.072
+   Bachrach R, 2006, GEOPHYSICS, V71, PO53, DOI 10.1190/1.2235991
+   Brie A, 1995, SPE ANN TECHN C EXH, V0, P0
+   CASTAGNA JP, 1985, GEOPHYSICS, V50, P571, DOI 10.1190/1.1441933
+   Castelletto N, 2013, J GEOPHYS RES-SOL EA, V118, P2417, DOI 10.1002/jgrb.50180
+   Chadwick RA, 2009, ENERGY PROCEDIA, V1, P2103, DOI 10.1016/J.EGYPRO.2009.01.274
+   Dadashpour M, 2008, J GEOPHYS ENG, V5, P54, DOI 10.1088/1742-2132/5/1/006
+   Demirbag E, 1993, OFFSET-DEPENDENT REFLECTIVITY-THEORY AND PRACTICE OF AVO ANALYSIS, V0, P287
+   Fu PC, 2017, J GEOPHYS RES-SOL EA, V122, P9931, DOI 10.1002/2017JB014942
+   Ganin Y, 2016, J MACH LEARN RES, V17, P0
+   Gassmann F, 1951, GEOPHYSICS, V16, P673, DOI 10.1190/1.1437718
+   Goodfellow I, 2016, DEEP LEARNING-GOOGLE SCHOLAR, V0, P0
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672
+   Grana D, 2015, GEOPHYS PROSPECT, V63, P637, DOI 10.1111/1365-2478.12203
+   Haszeldine RS, 2009, SCIENCE, V325, P1647, DOI 10.1126/science.1172246
+   Isola P, 2017, PROC CVPR IEEE, V0, PP5967, DOI 10.1109/CVPR.2017.632
+   Jiang X, 2011, APPL ENERG, V88, P3557, DOI 10.1016/j.apenergy.2011.05.004
+   Johansen TA, 2013, GEOPHYSICS, V78, PM1, DOI 10.1190/GEO2012-0215.1
+   Jun Cao, 2017, LEADING EDGE, V36, P234, DOI 10.1190/tle36030234.1
+   Karri SP, 2017, INTRIGUING PROPERTIE, V0, PP579, DOI 10.1364/BOE.8.000579
+   Laloy E, 2018, WATER RESOUR RES, V54, P381, DOI 10.1002/2017WR022148
+   Ledig C, 2017, P IEEE C COMP VIS PA, V0, P4681
+   Liu MY, 2016, ADV NEUR IN, V29, P0
+   Lumley David, 2010, LEADING EDGE, V29, P150, DOI 10.1190/1.3304817
+   Maleki M, 2018, PETROL GEOSCI, V24, P335, DOI 10.1144/petgeo2017-032
+   Mariethoz G, 2015, MULTIPLE-POINT GEOSTATISTICS: STOCHASTIC MODELING WITH TRAINING IMAGES, V0, P0, DOI DOI 10.1002/9781118662953
+   Mavko G, 2020, ROCK PHYS HDB, V0, P0, DOI DOI 10.1017/CBO9780511626753
+   PENG D, 1976, IND ENG CHEM FUND, V15, P59, DOI 10.1021/i160057a011
+   Radford A, 2015, CORR ABS151106434, V0, P0
+   Remy N, 2009, APPL GEOSTATISTICS S, V0, PP1, DOI 10.1017/CBO9781139150019
+   Reuss A, 1929, Z ANGEW MATH MECH, V9, P49, DOI 10.1002/zamm.19290090104
+   Samangouei Pouya, 2018, DEFENSEGAN: PROTECTING CLASSIFIERS AGAINST ADVERSARIAL ATTACKS USING GENERATIVE MODELS, V0, P0
+   Simm R, 2007, FIRST BREAK, V25, P61
+   Sun AY, 2018, COMPUT GEOSCI-UK, V113, P70, DOI 10.1016/j.cageo.2018.01.006
+   Sun AY, 2013, ADV WATER RESOUR, V56, P49, DOI 10.1016/j.advwatres.2012.11.017
+   Sun Ne-Zheng, 2015, MODEL CALIBRATION AND PARAMETER ESTIMATION: FOR ENVIRONMENTAL AND WATER RESOURCE SYSTEMS, V0, P0
+   Tarantola A, 2005, INVERSE PROBLEM THEO, V89, P0
+   Wang Z, 2004, IEEE T IMAGE PROCESS, V13, P600, DOI 10.1109/TIP.2003.819861
+   Wang Z, 1997, LEADING EDGE, V16, P1327
+   Yi ZL, 2017, IEEE I CONF COMP VIS, V0, PP2868, DOI 10.1109/ICCV.2017.310
+   Zhong Z, 2019, GEOPHYSICS, V84, PB363, DOI 10.1190/GEO2018-0588.1
+   Zhong Z, 2019, WATER RESOUR RES, V55, P5830, DOI 10.1029/2018WR024592
+   Zhong Z, 2019, J HYDROL, V573, P885, DOI 10.1016/j.jhydrol.2019.04.015
+   Zhong Z, 2019, INT J GREENH GAS CON, V80, P61, DOI 10.1016/j.ijggc.2018.10.011
+   Zhong Z, 2018, FUEL, V232, P600, DOI 10.1016/j.fuel.2018.05.168
+   Zhong Z, 2016, FUEL, V184, P590, DOI 10.1016/j.fuel.2016.07.030
+   Zhu JY, 2017, IEEE I CONF COMP VIS, V0, PP2223, DOI 10.1109/ICCV.2017.244
+   Zhu TY, 2019, P NATL ACAD SCI USA, V116, P2464, DOI 10.1073/pnas.1810903116
+NR 57
+TC 54
+Z9 59
+U1 7
+U2 57
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9313
+EI 2169-9356
+J9 J GEOPHYS RES-SOL EA
+JI J. Geophys. Res.-Solid Earth
+PD MAR 15
+PY 2020
+VL 125
+IS 3
+BP 
+EP 
+DI 10.1029/2019JB018408
+PG 27
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA LK5HB
+UT WOS:000530895800015
+DA 2025-11-07
+ER
+
+PT J
+AU Tan, RDR
+   Aviso, KB
+   Janairo, JIB
+   Promentilla, MAB
+AF Tan, Raymond R.
+   Aviso, Kathleen B.
+   Janairo, Jose Isagani B.
+   Promentilla, Michael Angelo B.
+TI A hyperbox classifier model for identifying secure carbon dioxide reservoirs
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Carbon sequestration; CO2 storage; Machine learning; Mixed integer linear programming; Classifier
+ID feature-selection; 0-1 integer
+AB Carbon management technologies such as carbon dioxide capture and storage and direct air capture systems will be needed to mitigate climate change in the coming decades. Both of these technologies will depend on the availability of secure geological storage sites that can permanently hold carbon dioxide with minimal risk of leakage. Machine learning tools that can characterize candidate storage sites based on geological data can aid decision-makers in planning carbon management networks. In this work, a mixed integer linear programming model is developed to generate a binary hyperbox classifier for determining the integrity of a candidate storage site. The model is calibrated and validated using literature data on natural carbon dioxide reservoirs, resulting in a set of IF-THEN rules that are readily interpreted by decision-makers. The approach developed here also includes rule simplification features and the capability to account for statistical Type I (false positive) and Type II (false negative) errors. Different sets of rules can be generated using the model based on user-defined number of hyperboxes. The best set of rules can be selected based on a combination of its performance with the validation data and consistency with expert knowledge. Using the case study for identifying secure CO2 reservoirs, the set of rules which resulted in zero false positives using the validation data was generated using three hyperboxes. However, an alternative set of rules which falsely predicted two out of three insecure sites as positive provides simpler rules indicating CO2 density and reservoir depth as the most important criteria. (c) 2020 Elsevier Ltd. All rights reserved.
+C1 [Tan, Raymond R.; Aviso, Kathleen B.; Promentilla, Michael Angelo B.] De La Salle Univ, Chem Engn Dept, Manila, Philippines.
+   [Janairo, Jose Isagani B.] De La Salle Univ, Biol Dept, Manila, Philippines.
+C3 De La Salle University; De La Salle University
+RP Tan, RDR (corresponding author), De La Salle Univ, Chem Engn Dept, Manila, Philippines.
+EM raymond.tan@dlsu.edu.ph
+CR Unknown -, 2010, APPL INTEGER PROGRAM, V0, P0
+   Unknown -, 2009, CCS SITE CHARACTERIS, V0, P0
+   Aviso KB, 2019, CLEAN TECHNOL ENVIR, V21, P1655, DOI 10.1007/s10098-019-01732-x
+   Bal H, 2011, COMPUT OPER RES, V38, P105, DOI 10.1016/j.cor.2010.04.003
+   Bernstein S, 2019, NAT CLIM CHANGE, V9, P919, DOI 10.1038/s41558-019-0618-2
+   CASSEM, 2011, CO2 AQ STOR SIT EV M, V0, P0
+   CHADWICK RA, 2008, BRIT GEOLOGICAL SURV, V0, P14
+   Chang WB, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11030620
+   Corrêa RC, 2019, ELECTRON NOTES THEOR, V346, P321, DOI 10.1016/j.entcs.2019.08.029
+   Van Fan Y, 2020, J CLEAN PROD, V247, P0, DOI 10.1016/j.jclepro.2019.119181
+   Fasihi M, 2019, J CLEAN PROD, V224, P957, DOI 10.1016/j.jclepro.2019.03.086
+   Goglio P, 2020, J CLEAN PROD, V244, P0, DOI 10.1016/j.jclepro.2019.118896
+   Haszeldine RS, 2018, PHILOS T R SOC A, V376, P0, DOI 10.1098/rsta.2016.0447
+   Iannarilli FJ Jr, 2003, IEEE T PATTERN ANAL, V25, P779, DOI 10.1109/TPAMI.2003.1201827
+   IEA GHG, 2009, CCS SIT CHAR CRIT, V0, P0
+   Kerin M, 2019, J CLEAN PROD, V237, P0, DOI 10.1016/j.jclepro.2019.117805
+   Kim K, 2007, APPL MATH COMPUT, V193, P183, DOI 10.1016/j.amc.2007.03.067
+   Labbé M, 2019, DISCRETE APPL MATH, V261, P276, DOI 10.1016/j.dam.2018.10.025
+   Lee CT, 2018, J CLEAN PROD, V176, P726, DOI 10.1016/j.jclepro.2017.12.110
+   Maskooki A, 2013, COMPUT IND ENG, V66, P383, DOI 10.1016/j.cie.2013.07.005
+   [Masson-Delmotte VIPCC IPCC], 2018, GLOBAL WARMING OF 1.5C. AN IPCC SPECIAL REPORT ON THE IMPACTS OF GLOBAL WARMING OF 1.5C ABOVE PRE-INDUSTRIAL LEVELS AND RELATED GLOBAL GREENHOUSE GAS EMISSION PATHWAYS IN THE CONTEXT OF STRENGTHENING THE GLOBAL RESPONSE TO THE THREAT OF CLIMATE CHANGE, V0, P0, DOI 10.1017/CBO9781107415324, 10.1017/9781009157940
+   Mikulcic H, 2019, RENEW SUST ENERG REV, V114, P0, DOI 10.1016/j.rser.2019.109338
+   Miocic JM, 2016, INT J GREENH GAS CON, V51, P118, DOI 10.1016/j.ijggc.2016.05.019
+   Rudin C, 2018, MATH PROGRAM COMPUT, V10, P659, DOI 10.1007/s12532-018-0143-8
+   Schrage LE, 1997, OPTIMIZATION MODELIN, V0, P0
+   Tan RR, 2020, RESOUR CONSERV RECY, V153, P0, DOI 10.1016/j.resconrec.2019.104540
+   Voll P, 2015, ENERGY, V82, P446, DOI 10.1016/j.energy.2015.01.055
+   Xu G, 2009, COMPUT IND ENG, V56, P1205, DOI 10.1016/j.cie.2008.07.012
+   Xu YT, 2011, KNOWL-BASED SYST, V24, P1341, DOI 10.1016/j.knosys.2011.06.007
+   Yan K, 2017, DISCRETE APPL MATH, V218, P21, DOI 10.1016/j.dam.2016.08.007
+   Yang LJ, 2015, COMPUT IND ENG, V85, P44, DOI 10.1016/j.cie.2015.02.022
+   Yang LJ, 2015, MATH BIOSCI, V260, P25, DOI 10.1016/j.mbs.2014.09.005
+NR 32
+TC 9
+Z9 10
+U1 0
+U2 27
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD NOV 1
+PY 2020
+VL 272
+IS 
+BP 
+EP 
+DI 10.1016/j.jclepro.2020.122181
+PG 10
+WC Green & Sustainable Science & Technology; Engineering, Environmental; Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences & Ecology
+GA NP5TN
+UT WOS:000570238600007
+DA 2025-11-07
+ER
+

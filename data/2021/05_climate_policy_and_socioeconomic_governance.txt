@@ -1,0 +1,969 @@
+PT J
+AU Wang, JJ
+   Sun, X
+   Cheng, Q
+   Cui, Q
+AF Wang, Jujie
+   Sun, Xin
+   Cheng, Qian
+   Cui, Quan
+TI An innovative random forest-based nonlinear ensemble paradigm of improved feature extraction and deep learning for carbon price forecasting
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Carbon price prediction; Hybrid model; Improved feature extraction; Long short-term memory network; Nonlinear ensemble algorithm; Random forest
+ID short-term-memory; empirical mode decomposition; recurrent neural-network; support vector machines; hybrid model; prediction; algorithm; lstm; co2
+AB Carbon price is the basis of developing a low carbon economy. The accurate carbon price forecast can not only stimulate the actions of enterprises and families, but also encourage the study and development of low carbon technology. However, as the original carbon price series is non-stationary and nonlinear, traditional methods are less robust to predict it. In this study, an innovative nonlinear ensemble paradigmof improved feature extraction and deep learning algorithm is proposed for carbon price forecasting, which includes complete ensemble empirical mode decomposition (CEEMDAN), sample entropy (SE), long short-term memory (LSTM) and random forest (RF). As the core of the proposed model, LSTM enhanced from the recurrent neural network is utilized to establish appropriate prediction models by extracting memory features of the long and short term. Improved feature extraction, as assistant data preprocessing, represents its unique advantage for improving calculating efficiency and accuracy. Removing irrelevant features from original time series through CEEMDAN lets learning easier and it's even better for using SE to recombine similar-complexity modes. Furthermore, compared with simple linear ensemble learning, RF increases the generalization ability for robustness to achieve the final nonlinear output results. Two markets' real data of carbon trading in china are as the experiment cases to test the effectiveness of the above model. The final simulation results indicate that the proposed model performs better than the other four benchmark methods reflected by the smaller statistical errors. Overall, the developed approach provides an effective method for predicting carbon price. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Wang, Jujie; Sun, Xin; Cheng, Qian; Cui, Quan] Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.
+   [Wang, Jujie] Nanjing Univ Informat Sci & Technol, Collaborat Innovat Ctr Forecast & Evaluat Meteoro, Nanjing 210044, Peoples R China.
+C3 Nanjing University of Information Science & Technology; Nanjing University of Information Science & Technology
+RP Wang, JJ (corresponding author), Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.
+EM jujiewang@126.com
+FU National Natural Science Foundation of China [71971122, 71501101]; National Social Science Foundation of China [18ZDA052]; Postgraduate research and innovation plan project of Jiangsu Province [SJCX20_0283]
+CR Unknown -, 2014, CHIN. POPULAT. RESOURCES ENVIRON., V0, P0
+   Benz E, 2009, ENERG ECON, V31, P4, DOI 10.1016/j.eneco.2008.07.003
+   Breiman L, 2001, J. CLIN. MICROBIOL, V0, P0, DOI DOI 10.1023/A:1010933404324
+   Byun SJ, 2013, ENERG ECON, V40, P207, DOI 10.1016/j.eneco.2013.06.017
+   Cao J, 2019, PHYSICA A, V519, P127, DOI 10.1016/j.physa.2018.11.061
+   Che JX, 2015, NEUROCOMPUTING, V151, P364, DOI 10.1016/j.neucom.2014.09.028
+   Chen PA, 2013, J HYDROL, V497, P71, DOI 10.1016/j.jhydrol.2013.05.038
+   Chevallier J, 2011, ECON BULL, V31, P1731
+   Fan JL, 2020, RENEW ENERG, V145, P2034, DOI 10.1016/j.renene.2019.07.104
+   Fan XH, 2015, EXPERT SYST APPL, V42, P3945, DOI 10.1016/j.eswa.2014.12.047
+   García-Martos C, 2013, APPL ENERG, V101, P363, DOI 10.1016/j.apenergy.2012.03.046
+   Gilles J, 2013, IEEE T SIGNAL PROCES, V61, P3999, DOI 10.1109/TSP.2013.2265222
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI 10.1162/neco.1997.9.1.1
+   Huang GM, 2019, J HYDROL, V574, P1029, DOI 10.1016/j.jhydrol.2019.04.085
+   Huang NE, 1998, P ROY SOC A-MATH PHY, V454, P903, DOI 10.1098/rspa.1998.0193
+   Huang YC, 2020, SCI TOTAL ENVIRON, V725, P0, DOI 10.1016/j.scitotenv.2020.138350
+   Huang YS, 2019, J CLEAN PROD, V209, P415, DOI 10.1016/j.jclepro.2018.10.128
+   Krishan M, 2019, AIR QUAL ATMOS HLTH, V12, P899, DOI 10.1007/s11869-019-00696-7
+   Li Y, 2020, ENERGY SCI ENG, V8, P2274, DOI 10.1002/ese3.662
+   Liao GC, 2006, IEEE T EVOLUT COMPUT, V10, P330, DOI 10.1109/TEVC.2005.857075
+   Lin T, 1998, NEURAL NETWORKS, V11, P861, DOI 10.1016/S0893-6080(98)00018-5
+   Liu H, 2020, CARBON MANAG, V11, P25, DOI 10.1080/17583004.2019.1686930
+   Patel J, 2015, EXPERT SYST APPL, V42, P2162, DOI 10.1016/j.eswa.2014.10.031
+   Qin QD, 2015, COMPUT EC, V55, P1249
+   Rather AM, 2015, EXPERT SYST APPL, V42, P3234, DOI 10.1016/j.eswa.2014.12.003
+   Richman JS, 2000, AM J PHYSIOL-HEART C, V278, P0
+   Song YZ, 2019, FUZZY STOCHASTIC MOD, V0, P0
+   Song YZ, 2018, J CLEAN PROD, V181, P374, DOI 10.1016/j.jclepro.2018.01.102
+   Sun W, 2020, POL J ENVIRON STUD, V29, P3305, DOI 10.15244/pjoes/114261
+   Sun W, 2020, CARBON MANAG, V11, P315, DOI 10.1080/17583004.2020.1755597
+   Sun W, 2018, CARBON MANAG, V9, P605, DOI 10.1080/17583004.2018.1522095
+   Tian CS, 2020, APPL MATH MODEL, V79, P126, DOI 10.1016/j.apm.2019.10.022
+   Wang JJ, 2018, APPL ENERG, V230, P429, DOI 10.1016/j.apenergy.2018.08.114
+   Wu QL, 2020, ENERGY SCI ENG, V8, P2708, DOI 10.1002/ese3.703
+   Wu YX, 2019, PHYSICA A, V516, P114, DOI 10.1016/j.physa.2018.09.120
+   Wu ZH, 2009, ADV DATA SCI ADAPT, V1, P1, DOI 10.1142/S1793536909000047
+   Yang SM, 2020, SCI TOTAL ENVIRON, V716, P0, DOI 10.1016/j.scitotenv.2020.137117
+   [杨星 Yang Xing], 2017, 系统工程理论与实践 SYSTEMS ENGINEERING-THEORY & PRACTICE, V37, P1420
+   Zhang JL, 2018, J CLEAN PROD, V204, P958, DOI 10.1016/j.jclepro.2018.09.071
+   Zhang YJ, 2010, APPL ENERG, V87, P1804, DOI 10.1016/j.apenergy.2009.12.019
+   Zhu BZ, 2018, ENERG ECON, V70, P143, DOI 10.1016/j.eneco.2017.12.030
+   Zhu BZ, 2017, APPL ENERG, V191, P521, DOI 10.1016/j.apenergy.2017.01.076
+   Zhu BZ, 2016, J FORECASTING, V35, P633, DOI 10.1002/for.2395
+   Zhu BZ, 2015, COMPUT ECON, V45, P195, DOI 10.1007/s10614-013-9417-4
+   Zhu BZ, 2013, OMEGA-INT J MANAGE S, V41, P517, DOI 10.1016/j.omega.2012.06.005
+   Zhu JM, 2019, PHYSICA A, V519, P140, DOI 10.1016/j.physa.2018.12.017
+NR 46
+TC 139
+Z9 151
+U1 2
+U2 239
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD MAR 25
+PY 2021
+VL 762
+IS 
+BP 
+EP 
+DI 10.1016/j.scitotenv.2020.143099
+EA JAN 2021
+PG 13
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA PS4RL
+UT WOS:000607910300033
+PM 33127140
+DA 2025-11-07
+ER
+
+PT J
+AU Cao, K
+   Zhang, ZD
+   Li, Y
+   Xie, M
+   Zheng, WB
+AF Cao, Kai
+   Zhang, Zhenduo
+   Li, Ying
+   Xie, Ming
+   Zheng, Wenbo
+TI Surveillance of ship emissions and fuel sulfur content based on imaging detection and multi-task deep learning
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Ship exhaust; Air pollutants; Fuel sulfur content; Imaging detection; Convolutional neural network; Multi-task learning
+ID doas measurements; so2; no2; aerosols; dioxide; camera
+AB Shipping makes up the major proportion of global transportation and results in an increasing emission of air pollutants. It accounts for 3.1%, 13%, and 15% of the annual global emissions of CO2, SOx, and NOx, respectively. Hence, effective regulatory measures in line with the International Maritime Organization requirements regarding the fuel sulfur content (FSC) used in emission control areas are essential. An imaging detection approach is proposed to estimate SO2, CO2, and NO concentrations of exhaust gas and then calculate FSC based on the estimated gas concentrations. A multi-task deep neural network was used to extract the features from the ultraviolet and thermal infrared images of the exhaust plume. The network was trained to predict various gas concentrations. The results show high prediction accuracy for the remote monitoring of ship emissions.
+C1 [Cao, Kai; Zhang, Zhenduo; Li, Ying; Xie, Ming; Zheng, Wenbo] Dalian Maritime Univ, Nav Coll, Environm Informat Inst, Dalian 116026, Peoples R China.
+C3 Dalian Maritime University
+RP Zhang, ZD (corresponding author), Dalian Maritime Univ, Nav Coll, Environm Informat Inst, Dalian 116026, Peoples R China.
+EM zhenduo69@163.com
+FU National Key Research and Development Project [2017YFC0211904]; Science and Technology Innovation Project of Dalian [2018J11CY024]; Fundamental Research Funds for the Central Universities [3132021137]
+CR Al-Saffar AAM, 2017, 2017 INTERNATIONAL CONFERENCE ON RADAR, V0, P0
+   Unknown -, 2017, REV MAR TRANSP, V0, P0
+   Bahdanau D, 2015, 3 INT C LEARNING REP, V0, P0
+   Barnie T, 2015, J VOLCANOL GEOTH RES, V300, P167, DOI 10.1016/j.jvolgeores.2014.10.003
+   Becagli S, 2012, ATMOS CHEM PHYS, V12, P3479, DOI 10.5194/acp-12-3479-2012
+   Beecken J, 2015, ATMOS CHEM PHYS, V15, P5229, DOI 10.5194/acp-15-5229-2015
+   Beecken J, 2014, ATMOS MEAS TECH, V7, P1957, DOI 10.5194/amt-7-1957-2014
+   Berg N, 2012, ATMOS MEAS TECH, V5, P1085, DOI 10.5194/amt-5-1085-2012
+   Bluth GJS, 2007, J VOLCANOL GEOTH RES, V161, P47, DOI 10.1016/j.jvolgeores.2006.11.004
+   Brynolf S, 2014, TRANSPORT RES D-TR E, V28, P6, DOI 10.1016/j.trd.2013.12.001
+   Cheng YL, 2019, ATMOS CHEM PHYS, V19, P13611, DOI 10.5194/acp-19-13611-2019
+   Coggon MM, 2012, ATMOS CHEM PHYS, V12, P8439, DOI 10.5194/acp-12-8439-2012
+   Cooper DA, 2005, ATMOS ENVIRON, V39, P4901, DOI 10.1016/j.atmosenv.2005.04.037
+   Corbett JJ, 2007, ENVIRON SCI TECHNOL, V41, P8512, DOI 10.1021/es071686z
+   Dalton MP, 2009, J VOLCANOL GEOTH RES, V188, P358, DOI 10.1016/j.jvolgeores.2009.09.013
+   Diesch JM, 2013, ATMOS CHEM PHYS, V13, P3603, DOI 10.5194/acp-13-3603-2013
+   Duan WM, 2020, ACTA PHOTONICA SINIC, V49, P0, DOI 10.3788/gzxb20204904.0404002
+   EDNER H, 1993, APPL OPTICS, V32, P327, DOI 10.1364/AO.32.000327
+   Endres S, 2018, FRONT MAR SCI, V5, P0, DOI 10.3389/fmars.2018.00139
+   Eyring V, 2005, J GEOPHYS RES-ATMOS, V110, P0, DOI 10.1029/2004JD005619
+   Gal Y, 2016, ADV NEUR IN, V29, P0
+   Gordon IE, 2017, J QUANT SPECTROSC RA, V203, P3, DOI 10.1016/j.jqsrt.2017.06.038
+   Hand EM, 2017, AAAI CONF ARTIF INTE, V0, P4068
+   International Maritime Organization, 2013, SULPH OX SOX PART MA, V0, P0
+   Jalkanen JP, 2016, ATMOS CHEM PHYS, V16, P71, DOI 10.5194/acp-16-71-2016
+   Johansson L, 2013, ATMOS CHEM PHYS, V13, P11375, DOI 10.5194/acp-13-11375-2013
+   Kattner L, 2015, ATMOS CHEM PHYS, V15, P10087, DOI 10.5194/acp-15-10087-2015
+   Kern C, 2013, J VOLCANOL GEOTH RES, V262, P80, DOI 10.1016/j.jvolgeores.2013.06.009
+   KINGMA DP, 2015, ARXIV, V0, P0, DOI DOI 10.1145/1830483.1830503
+   Kinney PL, 2018, CURR ENV HLTH REP, V5, P179, DOI 10.1007/s40572-018-0188-x
+   Lauer A, 2007, ATMOS CHEM PHYS, V7, P5061, DOI 10.5194/acp-7-5061-2007
+   Lööv JMB, 2014, ATMOS MEAS TECH, V7, P2597, DOI 10.5194/amt-7-2597-2014
+   Mellqvist J, 2017, CERTIFICATION AIRCRA, V0, P0
+   Mellqvist J, 2017, FIXED REMOTE SURVEILLANCE OF FUEL SULFUR CONTENT IN SHIPS FROM FIXED SITES IN THE GOTEBORG SHIP CHANNEL AND ORESUND BRIDGE, V0, P0
+   Nair V, 2010, ICML, V0, P0
+   Oeder S, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0126536
+   PLATT U, 1979, J GEOPHYS RES-OCEANS, V84, P6329, DOI 10.1029/JC084iC10p06329
+   Platt U, 2018, GEOSCIENCES, V8, P0, DOI 10.3390/geosciences8020044
+   Prata AJ, 2014, ATMOS MEAS TECH, V7, P2807, DOI 10.5194/amt-7-2807-2014
+   Prata AJ, 2014, ATMOS MEAS TECH, V7, P1213, DOI 10.5194/amt-7-1213-2014
+   Ruder Sebastian, 2017, CORR, V0, P0, DOI DOI 10.48550/arXiv.1706.05098
+   Sapcariu SC, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0157964
+   Schiavo B, 2019, J VOLCANOL GEOTH RES, V370, P82, DOI 10.1016/j.jvolgeores.2018.09.001
+   Smith T, 2014, THIRD IMO GHG STUDY 2014, V0, P0
+   Thung KH, 2018, MULTIMED TOOLS APPL, V77, P29705, DOI 10.1007/s11042-018-6463-x
+   Usamentiaga R, 2014, SENSORS-BASEL, V14, P12305, DOI 10.3390/s140712305
+   Wu D, 2018, ENVIRON SCI TECHNOL, V52, P12943, DOI 10.1021/acs.est.8b04471
+   Zhang YN, 2019, ATMOS CHEM PHYS, V19, P4899, DOI 10.5194/acp-19-4899-2019
+   Zhang Y, 2018, NATL SCI REV, V5, P30, DOI 10.1093/nsr/nwx105
+   Zhou F, 2019, ATMOSPHERE-BASEL, V10, P0, DOI 10.3390/atmos10110657
+NR 51
+TC 11
+Z9 11
+U1 10
+U2 91
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD NOV 1
+PY 2021
+VL 288
+IS 
+BP 
+EP 
+DI 10.1016/j.envpol.2021.117698
+EA JUL 2021
+PG 9
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA UR8WP
+UT WOS:000697022600007
+PM 34329058
+DA 2025-11-07
+ER
+
+PT J
+AU Lam, A
+   Mercure, JF
+AF Lam, Aileen
+   Mercure, Jean-Francois
+TI Which policy mixes are best for decarbonising passenger cars? Simulating interactions among taxes, subsidies and regulations for the United Kingdom, the United States, Japan, China, and India
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+LA English
+DT Article
+DE Environmental policy; Technology diffusion; CO2 emission reduction; Passenger cars
+ID greenhouse-gas emissions; electric vehicle; climate policy; energy policy; technology; system; model; incentives; transition; diffusion
+AB Reducing transport emissions, in particular CO2 emissions from passenger vehicles, is a key element in mitigating the risk of climate change. Conventional welfare economics recommends the use of comprehensive pricing of carbon emissions, which may not necessarily be the most effective approach in transport systems. This paper uses an evolutionary technology diffusion model to simulate the impact of climate policies on passenger car emissions in the US, UK, Japan, China and India up to 2050, seeking to understand policy interaction. We analyse six commonly seen policy instruments and explore systematically the impact of combining each of these policies by developing 63 scenarios for the US, the UK, China, Japan, and India. We assess both the policies' effectiveness in achieving emissions reductions and their cost-effectiveness in doing so. We show how the diffusion dynamics of the system can lead to interaction of policy levers, generating synergies in some cases (combined effectiveness more than the sum of its parts), and mutual impediment effects in others (combined effectiveness less than the sum of its parts). The paper identifies particular combinations of regulatory, procurement and fiscal policies that are particularly effective at generating rapid change without needing the use of very high fuel taxes or carbon pricing. Notably, combining electric vehicle mandates with taxes and regulations on combustion vehicles is highly effective, as it simultaneously improves the availability of low-carbon options while penalising high carbon options. Simple principles for policymaking can be inferred.
+C1 [Lam, Aileen] Univ Macao, Fac Social Sci, Dept Econ, E21, Taipa, Macao, Peoples R China.
+   [Lam, Aileen; Mercure, Jean-Francois] Univ Cambridge, Cambridge Ctr Environm Energy & Nat Resource Gove, Cambridge, England.
+   [Mercure, Jean-Francois] Univ Exeter, Coll Life & Environm Sci, Dept Geog, Exeter, Devon, England.
+   [Mercure, Jean-Francois] Cambridge Econometr Ltd, Cambridge, England.
+C3 University of Macau; University of Cambridge; University of Exeter
+RP Lam, A (corresponding author), Univ Macao, Fac Social Sci, Dept Econ, E21, Taipa, Macao, Peoples R China.
+EM mcimeilam@um.edu.mo
+FU EPSRC [EP/K007254/1] Funding Source: UKRI; NERC [NE/P015093/1] Funding Source: UKRI; Engineering and Physical Sciences Research Council [EP/K007254/1] Funding Source: researchfish; Natural Environment Research Council [NE/P015093/1] Funding Source: researchfish
+CR Unknown -, 2016, MOD SAL COUNTR, V0, P0
+   Unknown -, 2016, WORLD EN OUTL, V0, P0
+   Unknown -, 2011, SUMM PARTS COMB POL, V0, P0
+   Unknown -, 2018, WORLD EN OUTL, V0, P0
+   Unknown -, 2012, WORLD ENERGY OUTLOOK 2012, V0, P0
+   Axsen J, 2020, NAT CLIM CHANGE, V10, P809, DOI 10.1038/s41558-020-0877-y
+   Axsen J, 2018, TRANSPORT RES D-TR E, V65, P596, DOI 10.1016/j.trd.2018.09.012
+   Bansal Gaurav, 2013, IEEE 5TH INTERNATIONAL SYMPOSIUM ON WIRELESS VEHICULAR COMMUNICATIONS (WIVEC), V0, P1
+   Bhardwaj C, 2020, TRANSPORT RES A-POL, V135, P309, DOI 10.1016/j.tra.2020.03.011
+   Brand C, 2013, TRANSPORT RES A-POL, V49, P132, DOI 10.1016/j.tra.2013.01.010
+   Brown A, 2019, PARIS DISAGREEMENT S, V0, P0
+   Chen KD, 2018, ENERGIES, V11, P0, DOI 10.3390/en11113193
+   Davenport Coral, 2018, NEW YORK TIMES, V0, P0
+   Del Río P, 2009, CLIM POLICY, V9, P119, DOI 10.3763/cpol.2007.0424
+   Dhar S, 2017, CHEM ENG TRANS, V56, P31, DOI 10.3303/CET1756006
+   EC, 2018, EUR COMM, V0, P0
+   Fischer C, 2011, 0912 RES FUT, V0, P0, DOI DOI 10.2139/SSRN.1408692
+   Fox J, 2017, ECOL ECON, V137, P133, DOI 10.1016/j.ecolecon.2017.03.002
+   Fridstrom L, 2017, TRANSPORT RES A-POL, V96, P168, DOI 10.1016/j.tra.2016.12.011
+   Gallagher KS, 2012, ANNU REV ENV RESOUR, V37, P137, DOI 10.1146/annurev-environ-060311-133915
+   Geels FW, 2002, RES POLICY, V31, P1257, DOI 10.1016/S0048-7333(02)00062-8
+   Giblin S, 2009, ENERG POLICY, V37, P1404, DOI 10.1016/j.enpol.2008.11.047
+   Givoni M, 2014, TRANSPORT RES A-POL, V60, P1, DOI 10.1016/j.tra.2013.10.012
+   Government of India, 2015, SCHEM FAST AD MAN HY, V0, P0
+   Greene L, 2016, POLICIES PROMOTING L, V0, P0
+   Habibi S, 2019, INT J SUSTAIN TRANSP, V13, P51, DOI 10.1080/15568318.2018.1437237
+   Hao H, 2014, ENERG POLICY, V73, P722, DOI 10.1016/j.enpol.2014.05.022
+   Hove A, 2019, ELECTRIC VEHICLE CHARGING IN CHINA AND THE UNITED STATES, V0, P0
+   ICCT, 2019, CHIN ANN 2019 SUBS N, V0, P0
+   IPCC Intergovernmental Panel on Climate Change (IPCC), 2015, WORK GR 3 MIT CLIM C, V0, P0, DOI DOI 10.1017/CBO9781107415324.031
+   Jaffe AB, 2005, ECOL ECON, V54, P164, DOI 10.1016/j.ecolecon.2004.12.027
+   Jenn A, 2019, TRANSPORT RES A-POL, V124, P396, DOI 10.1016/j.tra.2019.04.003
+   Karplus VJ, 2013, ENERG ECON, V36, P322, DOI 10.1016/j.eneco.2012.09.001
+   Kloess M, 2011, ENERG POLICY, V39, P5045, DOI 10.1016/j.enpol.2011.06.008
+   Knobloch F, 2019, ENERG EFFIC, V12, P521, DOI 10.1007/s12053-018-9710-0
+   Lepitzki J, 2018, ENERG POLICY, V119, P423, DOI 10.1016/j.enpol.2018.03.067
+   Lin BQ, 2018, ENERG POLICY, V112, P233, DOI 10.1016/j.enpol.2017.10.026
+   Lino F, 2010, DEV ASIAS COMPETITIV, V0, P0
+   Lu J, 2018, COMP US CHINESE ELEC, V0, P0
+   Mabit SL, 2014, TRANSPORT RES A-POL, V64, P32, DOI 10.1016/j.tra.2014.03.004
+   McCollum DL, 2018, NAT ENERGY, V3, P664, DOI 10.1038/s41560-018-0195-z
+   McShane BB, 2018, J MARK RES, V0, P0
+   Mercure JF, 2018, CLIMATIC CHANGE, V151, P109, DOI 10.1007/s10584-018-2262-7
+   Mercure JF, 2018, NAT CLIM CHANGE, V8, P588, DOI 10.1038/s41558-018-0182-1
+   Mercure JF, 2015, ENVIRON RES LETT, V10, P0, DOI 10.1088/1748-9326/10/6/064008
+   Mercure JF, 2018, STRUCT CHANGE ECON D, V46, P194, DOI 10.1016/j.strueco.2018.06.001
+   Mercure JF, 2012, ENERG POLICY, V48, P799, DOI 10.1016/j.enpol.2012.06.025
+   METI, 2019, NEW VAL FUEL EFF STA, V0, P0
+   Mir-Artigues P, 2014, ENERG POLICY, V69, P430, DOI 10.1016/j.enpol.2014.01.040
+   Morrow WR, 2010, ENERG POLICY, V38, P1305, DOI 10.1016/j.enpol.2009.11.006
+   Office for Low Emission Vehicles, 2018, CHANG PLUG IN CAR GR, V0, P0
+   Pasaoglu G, 2016, TECHNOL FORECAST SOC, V104, P133, DOI 10.1016/j.techfore.2015.11.028
+   Pettifor H, 2017, J TRANSP GEOGR, V62, P247, DOI 10.1016/j.jtrangeo.2017.06.009
+   Rogers EM, 2010, DIFFUSION INNOVATION, V0, P0, DOI DOI 10.1016/J.ENPOL.2017.03.064
+   Shafiei E, 2018, ENERG POLICY, V114, P431, DOI 10.1016/j.enpol.2017.12.034
+   Sierzchula W, 2015, TECHNOL FORECAST SOC, V100, P213, DOI 10.1016/j.techfore.2015.07.003
+   Small KA, 2012, TRANSPORT RES A-POL, V46, P874, DOI 10.1016/j.tra.2012.02.017
+   Sykes M, 2017, ENERG POLICY, V110, P447, DOI 10.1016/j.enpol.2017.08.031
+   Timperley J, 2018, CARBON PROFILE JAPAN, V0, P0
+   Vercoulen P, 2019, ENERGY ENV EC SUSTAI, V0, P0
+   Viguié V, 2012, NAT CLIM CHANGE, V2, P334, DOI 10.1038/NCLIMATE1434
+   Wolinetz M, 2017, TECHNOL FORECAST SOC, V117, P238, DOI 10.1016/j.techfore.2016.11.022
+   Yang Z, 2017, LIGHT-DUTY VEHICLE GREENHOUSE GAS AND FUEL ECONOMY STANDARDS, V0, P0
+   Yang Z, 2018, COMPLIANCE INDIAS 1, V0, P0
+   Ye Q, 2018, PLANET POLICY, V0, P0
+NR 65
+TC 60
+Z9 67
+U1 4
+U2 93
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2214-6296
+EI 2214-6326
+J9 ENERGY RES SOC SCI
+JI Energy Res. Soc. Sci.
+PD MAY 15
+PY 2021
+VL 75
+IS 
+BP 
+EP 
+DI 10.1016/j.erss.2021.101951
+EA MAR 2021
+PG 15
+WC Green & Sustainable Science & Technology; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA RY2YM
+UT WOS:000647782800007
+DA 2025-11-07
+ER
+
+PT J
+AU Tiwari, AK
+   Abakah, EJA
+   Le, TL
+   Leyva-de la Hiz, D
+AF Tiwari, Aviral Kumar
+   Abakah, Emmanuel Joel Aikins
+   TN-Lan Le
+   Leyva-de la Hiz, Dante, I
+TI Markov-switching dependence between artificial intelligence and carbon price: The role of policy uncertainty in the era of the 4th industrial revolution and the effect of COVID-19 pandemic
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+LA English
+DT Article
+DE Time-varying dependence; Artificial intelligence; Carbon price
+ID emissions; innovation; markets; energy; risk; integration; technology; spillovers; dynamics
+AB This paper investigates the dependence structure and dynamics between artificial intelligence (AI) and carbon prices in the era of the 4th industrial revolution. Using the NASDAQ AI price index as a measure of AI and the European Energy Exchange EU emissions trading system (i.e. certificate prices for CO2 emissions) as a measure of carbon prices, we employ time-varying Markov switching copula models from December 2017 to July 2020 that provide evidence of a time-varying Markov tail dependence structure and dynamics between AI and carbon prices. The result shows a negative dependence structure for the return series between AI and carbon prices. However, the relationship is asymmetric, indicating that there is a stronger tail dependence in the lower tails instead of the upper tails. The finding implies that AI is a favourable hedge against carbon prices, therefore indicating the diversification benefits of AI. To understand the issue in detail, we examine the effect of economic policy uncertainty, equity market volatility, and the recent COVID-19 pandemic; we find their negative effect on the dynamic dependence structure between AI and carbon prices at lower and higher quantiles. This evidence offers additional support for the safe-haven ability of AI for carbon prices.
+C1 [Tiwari, Aviral Kumar] Rajagiri Business Sch, Rajagiri Valley Campus, Kochi, India.
+   [Tiwari, Aviral Kumar] South Ural State Univ, Lenin Prospect 76, Chelyabinsk 454080, Russia.
+   [Abakah, Emmanuel Joel Aikins] Univ Adelaide, Business Sch, Adelaide, SA, Australia.
+   [TN-Lan Le] Queensland Univ Technol, Brisbane, Qld, Australia.
+   [TN-Lan Le] Univ Finance & Mkt, Sch Finance & Banking, Ho Chi Minh City, Vietnam.
+   [Leyva-de la Hiz, Dante, I] Montpellier Business Sch, Dept Entrepreneurship & Strategy, Montpellier, France.
+C3 Rajagiri Business School (RBS); South Ural State University; University of Adelaide; Queensland University of Technology (QUT); Montpellier Business School
+RP Abakah, EJA (corresponding author), Univ Adelaide, Business Sch, Adelaide, SA, Australia.
+EM ejabakah@gmail.com
+CR Abadie LM, 2008, ENERG ECON, V30, P2992, DOI 10.1016/j.eneco.2008.03.008
+   Gil-Alana LA, 2020, RES INT BUS FINANC, V51, P0, DOI 10.1016/j.ribaf.2019.101063
+   Alberola E, 2008, ENERG POLICY, V36, P787, DOI 10.1016/j.enpol.2007.10.029
+   Balcilar M, 2016, ENERG ECON, V54, P159, DOI 10.1016/j.eneco.2015.11.003
+   Barr DG, 2004, J INT MONEY FINANC, V23, P71, DOI 10.1016/j.jimonfin.2003.10.005
+   Basher SA, 2014, J MULTINATL FINANC M, V25-26, P30, DOI 10.1016/j.mulfin.2014.06.008
+   Berben R-P, 2005, 60 DNB, V0, P0
+   Borghesi S, 2015, RES POLICY, V44, P669, DOI 10.1016/j.respol.2014.10.014
+   Boubaker H, 2016, OPEN JOURNAL OF STATISTICS, V06, P565, DOI 10.4236/ojs.2016.64048
+   Bughin J, 2017, ARTIFICIAL INTELLIGENCE: THE NEXT DIGITAL FRONTIER?, V0, P0
+   Clare A, 1995, JOURNAL OF BUSINESS FINANCE AND ACCOUNTING, V22, P313
+   Connolly R, 2005, J FINANC QUANT ANAL, V40, P161, DOI 10.1017/S0022109000001782
+   Corbet S, 2020, FINANC RES LETT, V35, P0, DOI 10.1016/j.frl.2020.101554
+   da Silva OC, 2012, INSUR MATH ECON, V50, P346, DOI 10.1016/j.insmatheco.2012.01.001
+   Degennaro R, 1994, FINANCIAL REVIEW, V29, P577
+   Embrechts Paul, 2002, RISK MANAGEMENT VALU, V0, PP176, DOI 10.1017/CBO9780511615337.008
+   Felten EW, 2018, AEA PAP P, V108, P54, DOI 10.1257/pandp.20181021
+   Garcia R, 2011, J BANK FINANC, V35, P1954, DOI 10.1016/j.jbankfin.2011.01.003
+   Gerlagh R, 2014, ENERG ECON, V45, P381, DOI 10.1016/j.eneco.2014.07.017
+   Gil-Alana L, 2018, REV DEV FINANC, V8, P96, DOI 10.1016/j.rdf.2018.11.003
+   Gil-Alana LA, 2021, REV FINANC ECON, V39, P146, DOI 10.1002/rfe.1113
+   Hafer RW, 1997, J INT MONEY FINANC, V16, P595, DOI 10.1016/S0261-5606(97)00005-3
+   Hammoudeh S, 2014, ENERG POLICY, V70, P201, DOI 10.1016/j.enpol.2014.03.026
+   Hazarika N, 2019, J CLEAN PROD, V238, P0, DOI 10.1016/j.jclepro.2019.117816
+   Hickel J, 2020, NEW POLIT ECON, V25, P469, DOI 10.1080/13563467.2019.1598964
+   Hoffmann Volker H, 2007, EUROPEAN MANAGEMENT JOURNAL, V25, P464, DOI 10.1016/j.emj.2007.07.008
+   Ji Q, 2018, Q REV ECON FINANC, V70, P203, DOI 10.1016/j.qref.2018.05.016
+   Kanen JLM, 2006, CARBON TRADING PRICI, V0, P0
+   Klingelhöfer HE, 2009, EUR J OPER RES, V196, P370, DOI 10.1016/j.ejor.2008.03.016
+   Kwok JKH, 2020, J ASIAN BUS ECON ST, V27, P209, DOI 10.1108/JABES-09-2019-0080
+   Laurikka H, 2006, ENERG POLICY, V34, P3916, DOI 10.1016/j.enpol.2005.09.002
+   Le L, 2020, TECHNOL FORECAST SOC, V162, P0
+   Lee KH, 2015, J CLEAN PROD, V108, P534, DOI 10.1016/j.jclepro.2015.05.114
+   Liu Z, 2015, NATURE, V522, P279, DOI 10.1038/522279a
+   Mensah JO, 2017, ECON MODEL, V60, P1, DOI 10.1016/j.econmod.2016.08.022
+   Menyhart K, 2017, BUILD ENVIRON, V114, P203, DOI 10.1016/j.buildenv.2016.12.009
+   Oberndorfer U, 2009, ECOL ECON, V68, P1116, DOI 10.1016/j.ecolecon.2008.07.026
+   Patton AJ, 2006, INT ECON REV, V47, P527, DOI 10.1111/j.1468-2354.2006.00387.x
+   Peri M, 2011, APPL ECON LETT, V18, P1207, DOI 10.1080/13504851.2010.532092
+   Peters GP, 2020, NAT CLIM CHANGE, V10, P3, DOI 10.1038/s41558-019-0659-6
+   Peters GP, 2007, ENVIRON SCI TECHNOL, V41, P5939, DOI 10.1021/es072023k
+   Piljak V, 2013, EMERG MARK REV, V17, P29, DOI 10.1016/j.ememar.2013.08.001
+   Sakai M, 2019, ENERGIES, V12, P0, DOI 10.3390/en12010110
+   Sharif A, 2020, INT REV FINANC ANAL, V70, P0, DOI 10.1016/j.irfa.2020.101496
+   Subramaniam N, 2015, J CLEAN PROD, V96, P407, DOI 10.1016/j.jclepro.2014.02.013
+   Sun XL, 2012, ECON MODEL, V29, P2494, DOI 10.1016/j.econmod.2012.07.002
+   Tian X, 2013, ENERG POLICY, V53, P279, DOI 10.1016/j.enpol.2012.10.054
+   Tiwari AK, 2020, ENERG ECON, V88, P0, DOI 10.1016/j.eneco.2020.104748
+   Tiwari AK, 2013, ECON MODEL, V30, P636, DOI 10.1016/j.econmod.2012.11.003
+   Huynh TLD, 2020, TECHNOL FORECAST SOC, V159, P0, DOI 10.1016/j.techfore.2020.120188
+   Tsukuda Y, 2017, INT REV ECON FINANC, V51, P193, DOI 10.1016/j.iref.2017.05.013
+   Walters J, 2017, 5 PROFILES EXPLAIN C, V27, P0
+   Webster C, 2020, DIGITAL TRANSFORMATION IN BUSINESS AND SOCIETY: THEORY AND CASES, V0, PP127, DOI 10.1007/978-3-030-08277-2_8
+   Wen Q, 2020, BUILD ENVIRON, V171, P0, DOI 10.1016/j.buildenv.2020.106653
+   Whaley RE, 2009, J PORTFOLIO MANAGE, V35, P98, DOI 10.3905/JPM.2009.35.3.098
+   Zhang YJ, 2017, ENERG POLICY, V100, P18, DOI 10.1016/j.enpol.2016.10.005
+   Zhang YJ, 2010, APPL ENERG, V87, P1804, DOI 10.1016/j.apenergy.2009.12.019
+   Zhuang XY, 2014, PHYSICA A, V399, P113, DOI 10.1016/j.physa.2013.12.048
+NR 58
+TC 87
+Z9 93
+U1 9
+U2 113
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0040-1625
+EI 1873-5509
+J9 TECHNOL FORECAST SOC
+JI Technol. Forecast. Soc. Chang.
+PD FEB 15
+PY 2021
+VL 163
+IS 
+BP 
+EP 
+DI 10.1016/j.techfore.2020.120434
+EA JAN 2021
+PG 11
+WC Business; Regional & Urban Planning
+SC Business & Economics; Public Administration
+GA PT1ZW
+UT WOS:000608420000016
+DA 2025-11-07
+ER
+
+PT J
+AU Buah, E
+   Linnanen, L
+   Wu, HP
+AF Buah, Eric
+   Linnanen, Lassi
+   Wu, Huapeng
+TI Augmenting the communication and engagement toolkit for CO2 capture and storage projects
+SO INTERNATIONAL JOURNAL OF GREENHOUSE GAS CONTROL
+LA English
+DT Article
+DE Artificial intelligence; CCS communication and engagement; CCS toolkit; CCS SWOT; Deep neural network algorithm; Fuzzy logic; Fuzzy deep learning
+AB This paper revisits the Communication and Engagement Toolkit for CO2 Capture and Storage (CCS) projects proposed by Ashworth and colleagues in collaboration with the Global CCS Institute. The paper proposes a new method for understanding the social context where CCS will be deployed based on the toolkit. In practice, the proposed method can be used to harness social data collected on the CCS project. The outcome of this application is a development of a predictive tool for gaining insight into the future, to guide strategic decisions that may enhance deployment. Methodologically, the proposed predictive tool is an artificial intelligence (AI) tool. It uses fuzzy deep neural network to develop computational ability to reason about the social behavior. The hybridization of fuzzy logic and deep neural network algorithms make the predictive tool an explainable AI system. It means that the prediction of the algorithm is interpretable using fuzzy logical rules. The practical feasibility of the proposed system has been demonstrated using an experimental sample of 198 volunteers. Their perceptions, emotions and sentiments were tested using a standard questionnaire from the literature, on a hypothetical CCS project based on 26 predictors. The generalizability of the algorithm to predict future reactions was tested on, 84 out-of-sample respondents. In the simulation experiment, we observed an approximately 90 % performance. This performance was measured when the algorithm?s predictions were compared to the self- reported reactions of the out of sample subjects. The implication of the proposed tool to enhance the predictive power of the conventional CCS Communication and Engagement tool is discussed ? 2020 xx. Hosting by Elsevier B.V. All rights reserved.
+C1 [Buah, Eric; Linnanen, Lassi; Wu, Huapeng] LUT Univ, Sch Energy Syst, FI-53851 Lappeenranta, Finland.
+C3 Lappeenranta-Lahti University of Technology LUT
+RP Buah, E (corresponding author), LUT Univ, Sch Energy Syst, FI-53851 Lappeenranta, Finland.
+EM eric.buah@gmail.com
+CR ARBIB MA, 1987, BRAINS MACHINES MATH, V0, P0
+   Ashworth P, 2011, COMMUNICATION/ENGAGEMENT TOOLKIT FOR CCS PROJECTS, V0, P0
+   Avelino F, 2017, ENVIRON POLICY GOV, V27, P505, DOI 10.1002/eet.1777
+   Avelino F, 2009, EUR J SOC THEORY, V12, P543, DOI 10.1177/1368431009349830
+   Barrett Feldman, 2017, HOW EMOTIONS ARE MADE: THE SECRET LIFE OF THE BRAIN, V0, P0
+   Bonanno D, 2017, PROC SPIE, V10207, P0, DOI 10.1117/12.2268001
+   Breiman L, 2001, STAT SCI, V16, P199, DOI 10.1214/ss/1009213726
+   Buah Eric, 2020, EMOTIONAL RESPONSES, V190, P0
+   Chermack TJ, 2007, HUM RESOUR DEV INT, V10, P383, DOI 10.1080/13678860701718760
+   Coyle FJ, 2016, INT J GREENH GAS CON, V45, P233, DOI 10.1016/j.ijggc.2015.12.006
+   Deng L, 2013, FOUND TRENDS SIGNAL, V7, PI, DOI 10.1561/2000000039
+   Deng Y, 2016, IEEE T FUZZY SYST, V11, P1109
+   Deng Y, 2017, IEEE T NEUR NET LEAR, V28, P653, DOI 10.1109/TNNLS.2016.2522401
+   Ekmekçioglu M, 2011, INT J COMPUT INT SYS, V4, P583
+   Gough C, 2018, INT J GREENH GAS CON, V68, P16, DOI 10.1016/j.ijggc.2017.11.003
+   Haile M, 2016, INTERNATIONAL JOURNAL OF SUPPLY CHAIN MANAGEMENT, V5, P172
+   Hill T, 1997, LONG RANGE PLANN, V30, P46, DOI 10.1016/S0024-6301(96)00095-7
+   Huijts NMA, 2012, RENEW SUST ENERG REV, V16, P525, DOI 10.1016/j.rser.2011.08.018
+   Huijts NMA, 2007, ENERG POLICY, V35, P2780, DOI 10.1016/j.enpol.2006.12.007
+   Huijts NMA, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11082220
+   Krause RM, 2014, RISK ANAL, V34, P529, DOI 10.1111/risa.12119
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Li Q, 2013, EXPERT SYST APPL, V40, P1609, DOI 10.1016/j.eswa.2012.09.015
+   Midden CJH, 2009, RISK ANAL, V29, P743, DOI 10.1111/j.1539-6924.2009.01201.x
+   Roeser Sabine, 2011, PHILOSOPHY TECHNOLOGY, V24, P197, DOI 10.1007/s13347-011-0027-6
+   Ross TJ, 2010, LOGIC FUZZY SYSTEMS, V0, P0
+   Rudin C, 2019, NAT MACH INTELL, V1, P206, DOI 10.1038/s42256-019-0048-x
+   Seigo SL, 2014, RENEW SUST ENERG REV, V38, P848, DOI 10.1016/j.rser.2014.07.017
+   Shinno H, 2006, J ENG DESIGN, V17, P251, DOI 10.1080/09544820500275180
+   Shmueli G, 2010, STAT SCI, V25, P289, DOI 10.1214/10-STS330
+   Shorten C, 2019, J BIG DATA-GER, V6, P0, DOI 10.1186/s40537-019-0197-0
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Steele AJ, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0202344
+   Symeonaki M, 2011, DEV FUZZY LIKERT SCA, V0, P7
+   Taghavifard MT, 2018, INFORMATION, V9, P0, DOI 10.3390/info9030046
+   Terwel BW, 2009, ENRGY PROCED, V1, P4613, DOI 10.1016/j.egypro.2009.02.282
+   Wilson TD, 2003, ADV EXP SOC PSYCHOL, V35, P345, DOI 10.1016/S0065-2601(03)01006-2
+   Xuan Y, 2012, INT P COMPUT SCI INF, V38, P0
+   Yang L, 2016, ENERGY, V96, P69, DOI 10.1016/j.energy.2015.12.044
+   Yarkoni T, 2017, PERSPECT PSYCHOL SCI, V12, P1100, DOI 10.1177/1745691617693393
+   Zadeh LA, 2002, INTERNATIONAL JOURNAL OF APPLIED MATHEMATICS AND COMPUTER SCIENCE, V12, P307
+   ZADEH LA, 1975, INFORM SCIENCES, V8, P199, DOI 10.1016/0020-0255(75)90046-8
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+NR 44
+TC 5
+Z9 7
+U1 0
+U2 13
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1750-5836
+EI 1878-0148
+J9 INT J GREENH GAS CON
+JI Int. J. Greenh. Gas Control
+PD MAY 15
+PY 2021
+VL 107
+IS 
+BP 
+EP 
+DI 10.1016/j.ijggc.2021.103269
+EA FEB 2021
+PG 12
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering, Environmental; Engineering, Chemical
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA RI3ZA
+UT WOS:000636848100002
+DA 2025-11-07
+ER
+
+PT J
+AU Jaramillo-Moran, MA
+   Fernandez-Martinez, D
+   Garcia-Garcia, A
+   Carmona-Fernandez, D
+AF Jaramillo-Moran, Miguel A.
+   Fernandez-Martinez, Daniel
+   Garcia-Garcia, Agustin
+   Carmona-Fernandez, Diego
+TI Improving Artificial Intelligence Forecasting Models Performance with Data Preprocessing: European Union Allowance Prices Case Study
+SO ENERGIES
+LA English
+DT Article
+DE European Union allowances; CO2 price prediction; emission allowances; neural networks; forecasting
+ID carbon price; electricity; prediction; networks
+AB European Union Allowances (EUAs) are rights to emit CO2 that may be sold or bought by enterprises. They were originally created to try to reduce greenhouse gas emissions, although they have become assets that may be used by financial intermediaries to seek for new business opportunities. Therefore, forecasting the time evolution of their price is very important for agents involved in their selling or buying. Neural Networks, an artificial intelligence paradigm, have been proved to be accurate and reliable tools for time series forecasting, and have been widely used to predict economic and energetic variables; two of them are used in this work, the Multilayer Preceptron (MLP) and the Long Short-Term Memories (LSTM), along with another artificial intelligence algorithm (XGBoost). They are combined with two preprocessing tools, decomposition of the time series into its trend and fluctuation and decomposition into Intrinsic Mode Functions (IMF) by the Empirical Mode Decomposition (EMD). The price prediction is obtained by adding those from each subseries. These two tools are combined with the three forecasting tools to provide 20 future predictions of EUA prices. The best results are provided by MLP-EMD, which is able to achieve a Mean Absolute Percentage Error (MAPE) of 2.91% for the first predicted datum and 5.65% for the twentieth, with a mean value of 4.44%.
+C1 [Jaramillo-Moran, Miguel A.; Fernandez-Martinez, Daniel; Carmona-Fernandez, Diego] Univ Extremadura, Sch Ind Engn, Dept Elect Engn Elect & Automat, Avda Elvas S-N, Badajoz 06006, Spain.
+   [Garcia-Garcia, Agustin] Univ Extremadura, Fac Econ & Business Sci, Dept Econ, Avda Elvas S-N, Badajoz 06006, Spain.
+C3 Universidad de Extremadura; Universidad de Extremadura
+RP Jaramillo-Moran, MA (corresponding author), Univ Extremadura, Sch Ind Engn, Dept Elect Engn Elect & Automat, Avda Elvas S-N, Badajoz 06006, Spain.
+EM miguel@unex.es; danielfm@unex.es; agarcia@unex.es; dcarmona@unex.es
+FU Junta de Extremadura [GR18075]; (FEDER funds)
+CR Bak G, 2020, ENERGIES, V13, P0, DOI 10.3390/en13246649
+   Barakat MR, 2015, INTERNATIONAL JOURNAL OF ECONOMICS AND FINANCE, V8, P195, DOI 10.5539/ijef.v8n1p195
+   Benz E, 2009, ENERG ECON, V31, P4, DOI 10.1016/j.eneco.2008.07.003
+   Bishop C, 1995, NEURAL NETWORKS PATT, V0, P0
+   Ciechulski T, 2021, ENERGIES, V14, P0, DOI 10.3390/en14112983
+   Conrad C, 2012, ENERG ECON, V34, P316, DOI 10.1016/j.eneco.2011.02.011
+   Cybenko G, 1989, MATHEMATICS OF CONTROL, V0, P0
+   DeDecker L, 2021, GUT MICROBES, V13, P0, DOI 10.1080/19490976.2020.1854641
+   Dritsaki M, 2020, INTERNATIONAL JOURNAL OF ENERGY ECONOMICS AND POLICY, V10, P411, DOI 10.32479/ijeep.9186
+   Ellerman AD, 2008, LESSONS US EUROPEAN, V0, P0
+   Fan XH, 2015, EXPERT SYST APPL, V42, P3945, DOI 10.1016/j.eswa.2014.12.047
+   Fuss S, 2010, APPL ENERG, V87, P2938, DOI 10.1016/j.apenergy.2009.05.020
+   Fuss S, 2009, ENERG POLICY, V37, P733, DOI 10.1016/j.enpol.2008.10.022
+   Gers FA, 2000, NEURAL COMPUT, V12, P2451, DOI 10.1162/089976600300015015
+   Göçken M, 2016, EXPERT SYST APPL, V44, P320, DOI 10.1016/j.eswa.2015.09.029
+   González-Romera E, 2006, IEEE T POWER SYST, V21, P1946, DOI 10.1109/TPWRS.2006.883666
+   Granger CWJ, 1993, MODELLING NONLINEAR, V0, P0, DOI DOI 10.1002/JAE.3950090412
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI 10.1162/neco.1997.9.1.1
+   Han M, 2019, ENERGY, V171, P69, DOI 10.1016/j.energy.2019.01.009
+   HORNIK K, 1989, NEURAL NETWORKS, V2, P359, DOI 10.1016/0893-6080(89)90020-8
+   Jaramillo-Morán MA, 2019, ENERGIES, V12, P0, DOI 10.3390/en12234439
+   Jin Y, 2020, ENERGIES, V13, P0, DOI 10.3390/en13236241
+   Keles D, 2016, APPL ENERG, V162, P218, DOI 10.1016/j.apenergy.2015.09.087
+   Lago J, 2018, APPL ENERG, V221, P386, DOI 10.1016/j.apenergy.2018.02.069
+   Lamphiere M, 2021, MATHEMATICS-BASEL, V9, P0, DOI 10.3390/math9091005
+   Liang Y, 2019, ENERGY, V166, P653, DOI 10.1016/j.energy.2018.10.119
+   Lucas A, 2020, ENERGIES, V13, P0, DOI 10.3390/en13205420
+   Lutz BJ, 2013, ENERG ECON, V40, P222, DOI 10.1016/j.eneco.2013.05.022
+   Moghaddam Amin Hedayati, 2016, JOURNAL OF ECONOMICS, V0, P0
+   Qi M, 1999, J BUS ECON STAT, V17, P419, DOI 10.2307/1392399
+   Reinaud J, 2007, CO2 ALLOWANCES ELECT, V0, P0
+   Shahnazari M, 2014, APPL ENERG, V118, P271, DOI 10.1016/j.apenergy.2013.12.050
+   Sun GQ, 2016, ENERGIES, V9, P0, DOI 10.3390/en9010054
+   Szoplik J, 2015, ENERGY, V85, P208, DOI 10.1016/j.energy.2015.03.084
+   Tagliapietra S, 2021, BRUEGEL BLOG, V0, P0
+   Viviani E, 2021, ENERGIES, V14, P0, DOI 10.3390/en14020364
+   Wang YY, 2012, ENERG POLICY, V48, P284, DOI 10.1016/j.enpol.2012.05.026
+   Zeiler A, 2010, WORLD C COMPUTATIONA, V0, P0
+   Zheng HT, 2017, ENERGIES, V10, P0, DOI 10.3390/en10081168
+   Zhu BZ, 2017, APPL ENERG, V191, P521, DOI 10.1016/j.apenergy.2017.01.076
+NR 41
+TC 8
+Z9 9
+U1 1
+U2 34
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD DEC 15
+PY 2021
+VL 14
+IS 23
+BP 
+EP 
+DI 10.3390/en14237845
+PG 23
+WC Energy & Fuels
+SC Energy & Fuels
+GA XW5GK
+UT WOS:000735647400001
+DA 2025-11-07
+ER
+
+PT J
+AU Vulova, S
+   Meier, F
+   Rocha, AD
+   Quanz, J
+   Nouri, H
+   Kleinschmit, B
+AF Vulova, Stenka
+   Meier, Fred
+   Rocha, Alby Duarte
+   Quanz, Justus
+   Nouri, Hamideh
+   Kleinschmit, Birgit
+TI Modeling urban evapotranspiration using remote sensing, flux footprints, and artificial intelligence
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Urban water; Eddy covariance; Latent heat flux; 1D convolutional neural networks (CNN); Deep learning; Harmonized Landsat and Sentinel-2
+ID eddy covariance co2; heat waves; energy-balance; water requirements; surface; landscape; berlin; area; validation; exchanges
+AB As climate change progresses, urban areas are increasingly affected by water scarcity and the urban heat island effect. Evapotranspiration (ET) is a crucial component of urban greening initiatives of cities worldwide aimed at mitigating these issues. However, ET estimation methods in urban areas have so far been limited. An expanding number of flux towers in urban environments provide the opportunity to directly measure ET by the eddy covariance method. In this study, we present a novel approach to model urban ET by combining flux footprint modeling, remote sensing and geographic information system (GIS) data, and deep learning and machine learning techniques. This approach facilitates spatio-temporal extrapolation of ET at a half-hourly resolution; we tested this approach with a two-year dataset from two flux towers in Berlin, Germany. The benefit of integrating remote sensing and GIS data into models was investigated by testing four predictor scenarios. Two algorithms (1D convolutional neural networks (CNNs) and random forest (RF)) were compared. The best-performing models were then used to model ET values for the year 2019. The inclusion of GIS data extracted using flux footprints enhanced the predictive accuracy of models, particularly when meteorological data was more limited. The bestperforming scenario (meteorological and GIS data) showed an RMSE of 0.0239 mm/h and R2 of 0.840 with RF and an RMSE of 0.0250 mm/h and a R2 of 0.824 with 1D CNN for the more vegetated site. The 2019 ET sum was substantially higher at the site surrounded by more urban greenery (366 mm) than at the inner-city site (223 mm), demonstrating the substantial influence of vegetation on the urban water cycle. The proposed method is highly promising for modeling ET in a heterogeneous urban environment and can support climate change mitigation initiatives of urban areas worldwide. (c) 2021 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http:// creativecommons.org/licenses/by/4.0/).
+C1 [Vulova, Stenka; Rocha, Alby Duarte; Kleinschmit, Birgit] Tech Univ Berlin, Dept Landscape Architecture & Environm Planning, Geoinformat Environm Planning Lab, D-10623 Berlin, Germany.
+   [Meier, Fred; Quanz, Justus] Tech Univ Berlin, Inst Ecol, Chair Climatol, D-12165 Berlin, Germany.
+   [Quanz, Justus] HafenC Univ Hamburg, Dept Environmentally Sound Urban & Infrastruct Pl, D-20457 Hamburg, Germany.
+   [Nouri, Hamideh] Univ Gottingen, Div Agron, D-37075 Gottingen, Germany.
+   [Vulova, Stenka] Tech Univ Berlin, Fachgebiet Geoinformat Umweltplanung, Sekretariat EB5, Str 17 Juni 145, D-10623 Berlin, Germany.
+   [Meier, Fred; Quanz, Justus] Tech Univ Berlin, Inst Okol, Fachgebiet Klimatol, Rothenburgstr 12, D-12165 Berlin, Germany.
+   [Nouri, Hamideh] Georg August Univ Gottingen, Dept Nutzpflanzenwissensch, Abt Pflanzenbau, Von Siebold Str 8, D-37075 Gottingen, Germany.
+C3 Technical University of Berlin; Technical University of Berlin; University of Gottingen; Technical University of Berlin; Technical University of Berlin; University of Gottingen
+RP Vulova, S (corresponding author), Tech Univ Berlin, Fachgebiet Geoinformat Umweltplanung, Sekretariat EB5, Str 17 Juni 145, D-10623 Berlin, Germany.
+EM stenka.vulova@tu-berlin.de; fred.meier@tu-berlin.de; a.duarterocha@tu-berlin.de; justus.quanz@hcu-hamburg.de; hamideh.nouri@uni-goettingen.de; birgit.kleinschmit@tu-berlin.de
+FU German Research Foundation (DFG) within the Research Training Group 'Urban Water Interfaces' [GRK 20322]; DFG within Research Unit 1736 "Urban Climate and Heat Stress in Mid Latitude Cities in View of Climate Change (UCaHS)" [SCHE 750/8, SCHE 750/9]; research program "Urban Climate Under Change ( [UC] 2)" by German Federal Ministry of Education and Research (BMBF) [FKZ 01LP1602A]
+CR Allaire J, 2020, R INTERFACE KERAS, V0, P0
+   Allen R, 2005, ASCE STANDARDIZED RE, V0, P0, DOI DOI 10.1061/9780784408056
+   Allen RG, 1998, FAO IRRIGATION AND DRAINAGE PAPER, V0, P0
+   Unknown -, 2018, WORLD URBANIZATION P, V0, P0
+   Unknown -, 2019, R LANG ENV STAT COMP, V0, P0
+   Berlin Senate Department for Urban Development and Housing, 2014, BUILD VEG HEIGHTS, V0, P0
+   Besir AB, 2018, RENEW SUST ENERG REV, V82, P915, DOI 10.1016/j.rser.2017.09.106
+   Boegh E, 2004, J HYDROL, V287, P279, DOI 10.1016/j.jhydrol.2003.10.018
+   Boegh E, 2009, J HYDROL, V377, P300, DOI 10.1016/j.jhydrol.2009.08.029
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Chollet F, 2018, DEEP LEARNING WITH R, V1st ed, P0, DOI 10.1002/ecs2.1794
+   Christen A, 2011, ATMOS ENVIRON, V45, P6057, DOI 10.1016/j.atmosenv.2011.07.040
+   Christen A, 2016, GRIDDED TURBULENT SO, V0, P0
+   Chrysoulakis N, 2018, SCI REP-UK, V8, P0, DOI 10.1038/s41598-018-29873-x
+   Claverie M, 2018, REMOTE SENS ENVIRON, V219, P145, DOI 10.1016/j.rse.2018.09.002
+   Cong ZT, 2017, SCI CHINA EARTH SCI, V60, P659, DOI 10.1007/s11430-016-0216-3
+   Crawford B, 2015, THEOR APPL CLIMATOL, V119, P733, DOI 10.1007/s00704-014-1124-0
+   Dettmann Ullrich, 2022, CRAN, V0, P0, DOI DOI 10.32614/CRAN.package.MeTo
+   Dousset B, 2011, INT J CLIMATOL, V31, P313, DOI 10.1002/joc.2222
+   Dwarakish GS, 2015, COGENT GEOSCI, V1, P0, DOI 10.1080/23312041.2015.1115691
+   DWD, 2020, VIELJ MITT, V0, P0
+   DWD, 2020, DWD CLIM DAT CTR CDC, V0, P0
+   European Environment Agency, 2018, URB ATL, V0, P0
+   Olmedo GF, 2016, R J, V8, P352, DOI 10.32614/rj-2016-051
+   Fenner D, 2019, INT J CLIMATOL, V39, P2422, DOI 10.1002/joc.5962
+   Ferreira LB, 2020, AGR WATER MANAGE, V234, P0, DOI 10.1016/j.agwat.2020.106113
+   Foken T, 2016, ANGEWANDTE METEOROLOGIE, V0, P0, DOI DOI 10.1007/978-3-642-25525-0
+   Foltynova L, 2020, THEOR APPL CLIMATOL, V139, P677, DOI 10.1007/s00704-019-02975-w
+   Gabriel KMA, 2011, ENVIRON POLLUT, V159, P2044, DOI 10.1016/j.envpol.2011.01.016
+   Greenwell Brandon M, 2023, CRAN, V0, P0
+   Gunawardena KR, 2017, SCI TOTAL ENVIRON, V584, P1040, DOI 10.1016/j.scitotenv.2017.01.158
+   Haidar A, 2018, IEEE ACCESS, V6, P69053, DOI 10.1109/ACCESS.2018.2880044
+   He BJ, 2019, LAND USE POLICY, V86, P147, DOI 10.1016/j.landusepol.2019.05.003
+   Holl D, 2020, BIOGEOSCIENCES, V17, P2853, DOI 10.5194/bg-17-2853-2020
+   Järvi L, 2012, ATMOS CHEM PHYS, V12, P8475, DOI 10.5194/acp-12-8475-2012
+   Järvi L, 2011, J HYDROL, V411, P219, DOI 10.1016/j.jhydrol.2011.10.001
+   Jiang Y, 2017, GISCI REMOTE SENS, V54, P95, DOI 10.1080/15481603.2016.1258971
+   Karsisto P, 2016, Q J ROY METEOR SOC, V142, P401, DOI 10.1002/qj.2659
+   Kim Y, 2020, GLOBAL CHANGE BIOL, V26, P1499, DOI 10.1111/gcb.14845
+   Kingma DP, 2015, INT C LEARN REPRESEN, V0, PP1, DOI 10.48550/arXiv.1412.6980
+   Kljun N, 2002, BOUND-LAY METEOROL, V103, P205, DOI 10.1023/A:1014556300021
+   Kordowski K, 2010, ATMOS ENVIRON, V44, P2722, DOI 10.1016/j.atmosenv.2010.04.039
+   Kormann R, 2001, BOUND-LAY METEOROL, V99, P207, DOI 10.1023/A:1018991015119
+   Kottek M, 2006, METEOROL Z, V15, P259, DOI 10.1127/0941-2948/2006/0130
+   Kotthaus S, 2014, URBAN CLIM, V10, P281, DOI 10.1016/j.uclim.2013.10.001
+   Kotthaus S, 2012, ATMOS ENVIRON, V57, P301, DOI 10.1016/j.atmosenv.2012.04.024
+   Kuhn M, 2013, APPLIED PREDICTIVE MODELING, V0, P0, DOI DOI 10.1007/978-1-4614-6849-3_3
+   Kuhn M, 2008, J STAT SOFTW, V28, P1, DOI 10.18637/jss.v028.i05
+   Li L, 2018, CITIES, V74, P126, DOI 10.1016/j.cities.2017.11.013
+   Litvak E, 2017, LANDSCAPE URBAN PLAN, V158, P48, DOI 10.1016/j.landurbplan.2016.09.021
+   Meehl GA, 2004, SCIENCE, V305, P994, DOI 10.1126/science.1098704
+   Menzer O, 2015, ATMOS ENVIRON, V101, P312, DOI 10.1016/j.atmosenv.2014.11.006
+   Moffat AM, 2007, AGR FOREST METEOROL, V147, P209, DOI 10.1016/j.agrformet.2007.08.011
+   Moncrieff JB, 1997, J HYDROL, V188, P589
+   Nordbo A, 2012, TELLUS B, V64, P0, DOI 10.3402/tellusb.v64i0.18184
+   NORMAN JM, 1995, AGR FOREST METEOROL, V77, P263, DOI 10.1016/0168-1923(95)02265-Y
+   Nouri H, 2019, LANDSCAPE URBAN PLAN, V190, P0, DOI 10.1016/j.landurbplan.2019.103613
+   Nouri H, 2015, URBAN WATER J, V12, P380, DOI 10.1080/1573062X.2014.900092
+   Nouri H, 2013, URBAN WATER J, V10, P247, DOI 10.1080/1573062X.2012.726360
+   Papale D, 2003, GLOBAL CHANGE BIOL, V9, P525, DOI 10.1046/j.1365-2486.2003.00609.x
+   Pataki DE, 2011, ECOL APPL, V21, P661, DOI 10.1890/09-1717.1
+   Roberts DR, 2017, ECOGRAPHY, V40, P913, DOI 10.1111/ecog.02881
+   Saher R, 2021, URBAN WATER J, V18, P115, DOI 10.1080/1573062X.2020.1857796
+   Scherer D, 2019, METEOROL Z, V28, P121, DOI 10.1127/metz/2019/0911
+   SCHMID HP, 1990, Q J ROY METEOR SOC, V116, P965, DOI 10.1002/qj.49711649409
+   Schmidt A, 2008, BOUND-LAY METEOROL, V126, P389, DOI 10.1007/s10546-007-9249-7
+   Shafieiyoun E, 2020, HYDROL PROCESS, V34, P4000, DOI 10.1002/hyp.13851
+   Shojaei P, 2018, ECOL ENG, V123, P43, DOI 10.1016/j.ecoleng.2018.08.021
+   Statistical Office of Berlin-Brandenburg, 2019, INH STAT BERL 31 DEC, V0, P0
+   Su Z, 2002, HYDROL EARTH SYST SC, V6, P85, DOI 10.5194/hess-6-85-2002
+   Nguyen TT, 2019, SCI TOTAL ENVIRON, V652, P147, DOI 10.1016/j.scitotenv.2018.10.168
+   TUCKER CJ, 1979, REMOTE SENS ENVIRON, V8, P127, DOI 10.1016/0034-4257(79)90013-0
+   Vesala T, 2008, TELLUS B, V60, P188, DOI 10.1111/j.1600-0889.2007.00312.x
+   Vickers D, 1997, J ATMOS OCEAN TECH, V14, P512, DOI 10.1175/1520-0426(1997)014<0512:QCAFSP>2.0.CO;2
+   Vulova S, 2020, IEEE J-STARS, V13, P5074, DOI 10.1109/JSTARS.2020.3019696
+   Vulova S, 2019, JOINT URB REMOTE SEN, V0, P0, DOI DOI 10.1109/jurse.2019.8809011
+   Ward HC, 2016, URBAN CLIM, V18, P1, DOI 10.1016/j.uclim.2016.05.001
+   Ward HC, 2013, ATMOS CHEM PHYS, V13, P4645, DOI 10.5194/acp-13-4645-2013
+   WEBB EK, 1980, Q J ROY METEOR SOC, V106, P85, DOI 10.1002/qj.49710644707
+   Weston S, 2019, DOSNOW FOR PAR AD SN, V0, P0
+   Xenakis Georgios, 2016, CRAN, V0, P0
+NR 81
+TC 47
+Z9 50
+U1 3
+U2 125
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD SEP 10
+PY 2021
+VL 786
+IS 
+BP 
+EP 
+DI 10.1016/j.scitotenv.2021.147293
+EA MAY 2021
+PG 13
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA SQ3IY
+UT WOS:000660250700014
+PM 33975115
+DA 2025-11-07
+ER
+
+PT J
+AU Nguyen, HAT
+   Sophea, T
+   Gheewala, SH
+   Rattanakom, R
+   Areerob, T
+   Prueksakorn, K
+AF Nguyen, Hong Anh Thi
+   Sophea, Tip
+   Gheewala, Shabbir H.
+   Rattanakom, Rawee
+   Areerob, Thanita
+   Prueksakorn, Kritana
+TI Integrating remote sensing and machine learning into environmental monitoring and assessment of land use change
+SO SUSTAINABLE PRODUCTION AND CONSUMPTION
+LA English
+DT Article
+DE Bio-capacity; Greenhouse gasses; Green map; Indicators; Land use change; Sustainable city
+ID random forests; cover; sequestration; management; emissions; product; lidar
+AB Addressing the increasing burden on land use requires effective policy for sustainable land use along with economic development. Analysis of local and global indicators based on land use maps could reveal information on the progress of sustainable development. This study proposes a method that reduces the time and cost of creating land use maps applicable for many purposes of environmental protection. Freely accessible existing data, Sentinel-2 satellite images, together with a machine learning algorithm, Random Forest, are integrated to generate an annual map, sufficient to meet the intended needs. The method is illustrated by a case study of Phuket in Thailand. An annual map for Phuket created using the proposed method was compared to the official map released by the Thai government for the year 2018. The two maps did not differ significantly, validating the efficacy of the proposed method. Annual maps were then produced for several years to assess the effect of land use change in the past 19 years on the environmental and sustainable management in Phuket. Although there was evidence of the efforts to develop Phuket island as a sustainable province such as the government policy to conserve green areas, land use change based analytical results indicated Phuket's urban development was not going in an environmentally sustainable direction. (C) 2021 Institution of Chemical Engineers. Published by Elsevier B.V. All rights reserved.
+C1 [Nguyen, Hong Anh Thi; Gheewala, Shabbir H.] King Mongkuts Univ Technol Thonburi, Joint Grad Sch Energy & Environm, Bangkok 10140, Thailand.
+   [Nguyen, Hong Anh Thi; Gheewala, Shabbir H.] Minist Higher Educ Sci Res & Innovat, Ctr Excellence Energy Technol & Environm, PERDO, Bangkok, Thailand.
+   [Sophea, Tip; Prueksakorn, Kritana] Prince Songkla Univ, Andaman Environm & Nat Disaster Res Ctr ANED, Phuket Campus, Phuket 83120, Thailand.
+   [Sophea, Tip; Rattanakom, Rawee; Areerob, Thanita; Prueksakorn, Kritana] Prince Songkla Univ, Fac Technol & Environm, Phuket Campus, Phuket 83120, Thailand.
+   [Sophea, Tip] Minist Environm, Dept Geospatial Informat Serv, Phnom Penh, Cambodia.
+   [Prueksakorn, Kritana] Mahidol Univ, Fac Environm & Resource Studies, Salaya 73170, Nakhon Pathom, Thailand.
+C3 King Mongkuts University of Technology Thonburi; Prince of Songkla University; Prince of Songkla University; Mahidol University
+RP Prueksakorn, K (corresponding author), Prince Songkla Univ, Andaman Environm & Nat Disaster Res Ctr ANED, Phuket Campus, Phuket 83120, Thailand.; Prueksakorn, K (corresponding author), Prince Songkla Univ, Fac Technol & Environm, Phuket Campus, Phuket 83120, Thailand.; Prueksakorn, K (corresponding author), Mahidol Univ, Fac Environm & Resource Studies, Salaya 73170, Nakhon Pathom, Thailand.
+EM honganhnguyen1006@gmail.com; tip.sophea@gmail.com; shabbir_g@jgsee.kmutt.ac.th; rawee.r@phuket.psu.ac.th; thanita.a@phuket.psu.ac.th; kritana.pru@mahidol.ac.th
+FU National Science and Technology Development Agency (NSTDA), project, "An analysis of green gross provincial product (GPP) of Phuket, a Tourist city" [P16-50628]; Royal Scholarship under Her Royal Highness Princess Maha Chakri Sirindhorn Education Project; Joint Graduate School of Energy and Environment (JGSEE), the King Mongkut's University of Technology Thonburi; Center of Excellence on Energy Technology and Environment (CEE), PERDO, Ministry of Higher Education, Science, Research and Innovation
+CR Abd-Elmabod SK, 2019, J ENVIRON MANAGE, V252, P0, DOI 10.1016/j.jenvman.2019.109668
+   Ahmed OS, 2015, ISPRS J PHOTOGRAMM, V101, P89, DOI 10.1016/j.isprsjprs.2014.11.007
+   Unknown -, 2019, PHUKET NEWS, V0, P0
+   Unknown -, 2007, INDICATORS OF SUSTAINABLE DEVELOPMENT: GUIDELINES AND METHODOLOGIES-THIRD EDITION: METHODOLOGY SHEETS, V0, P104
+   Unknown -, 2006, 2006 IPCC GUIDELINES FOR NATIONAL GREENHOUSE GAS INVENTORIES, V0, P0
+   Unknown -, 2017, JOINT USE SENTINEL 1, V0, P0
+   Baral P, 2020, GEOMORPHOLOGY, V371, P0, DOI 10.1016/j.geomorph.2020.107331
+   Belgiu M, 2016, ISPRS J PHOTOGRAMM, V114, P24, DOI 10.1016/j.isprsjprs.2016.01.011
+   Borucke M, 2013, ECOL INDIC, V24, P518, DOI 10.1016/j.ecolind.2012.08.005
+   Boupun P, 2012, 33 AS C REM SENS 201, V1, P278
+   Burkhard B, 2012, ECOL INDIC, V21, P17, DOI 10.1016/j.ecolind.2011.06.019
+   Ceh M, 2018, ISPRS INT J GEO-INF, V7, P0, DOI 10.3390/ijgi7050168
+   Congalton RG, 2008, ASSESSING ACCURACY R, V2nd, P0, DOI 10.1201/9781420055139
+   Dalponte M, 2013, IEEE T GEOSCI REMOTE, V51, P2632, DOI 10.1109/TGRS.2012.2216272
+   De Jong SM, 2005, PHOTOGRAMM REC, V0, P0
+   DEQP (Department of Environmental Quality Promotion), 2020, SUST CIT ASS GUID SUST CIT ASS GUID, V0, P0
+   DFM (Department of Forest Management), 2011, GUIDELINES ASSESSMEN, V0, P0
+   ESA (European Space Agency), 2020, PLATF EUR SPAC AG PLATF EUR SPAC AG, V0, P0
+   European Space Agency (ESA), 2015, SENTINEL-2, V0, P0
+   Feng YJ, 2020, J CLEAN PROD, V252, P0, DOI 10.1016/j.jclepro.2019.119659
+   Ge GBT, 2020, GLOB ECOL CONSERV, V22, P0, DOI 10.1016/j.gecco.2020.e00971
+   GFN (Global Footprint Network), 2018, ECOLOGICAL FOOTPRINT, V0, P0
+   Gkisakis VD, 2020, SUSTAIN PROD CONSUMP, V24, P156, DOI 10.1016/j.spc.2020.07.003
+   Gnanavelrajah N, 2008, LAND DEGRAD DEV, V19, P242, DOI 10.1002/ldr.838
+   Haub C, 2015, SIGMA D33 2 PROTOCOL SIGMA D33 2 PROTOCOL, V0, P0
+   Nguyen HAT, 2020, J CLEAN PROD, V269, P0, DOI 10.1016/j.jclepro.2020.122407
+   Huang YB, 2018, J INTEGR AGR, V17, P1915, DOI 10.1016/S2095-3119(17)61859-8
+   Immitzer M, 2016, REMOTE SENS-BASEL, V8, P0, DOI 10.3390/rs8030166
+   Jiang XM, 2017, ENERG POLICY, V109, P734, DOI 10.1016/j.enpol.2017.07.058
+   Kong L, 2014, SCI TOTAL ENVIRON, V473, P132, DOI 10.1016/j.scitotenv.2013.12.012
+   Kühnlein M, 2014, REMOTE SENS ENVIRON, V141, P129, DOI 10.1016/j.rse.2013.10.026
+   Kunanuntakij K, 2017, J CLEAN PROD, V167, P970, DOI 10.1016/j.jclepro.2017.02.106
+   Li W, 2020, INT J APPL EARTH OBS, V92, P0, DOI 10.1016/j.jag.2020.102163
+   Lu D, 2004, INT J REMOTE SENS, V25, P2365, DOI 10.1080/0143116031000139863
+   Main-Knorn M, 2017, PROC SPIE, V10427, P0, DOI 10.1117/12.2278218
+   Mbow HOP, 2019, SPECIAL REPORT CLIMA, V0, P0
+   McCandless T, 2020, ENERGIES, V13, P0, DOI 10.3390/en13071671
+   Meng YR, 2021, ECOL INFORM, V61, P0, DOI 10.1016/j.ecoinf.2020.101204
+   MNRE (Ministry of Natural Resources and Environment, 2010, PLANTATION CERTIFICATION PROCESS IN THAI, V0, P0
+   MRC (Mekong River Commission), 2017, MEK RIV COMM PLANN D MEK RIV COMM PLANN D, V0, P1
+   Mustard J, 2004, LAND CHANGE SCI OBSE, V0, P0
+   NESDB (Office of the National Economic and Social Development Board), 1977, 4 NAT EC SOC DEV PLA 4 NAT EC SOC DEV PLA, V0, P0
+   Nikkei BP, 2012, LIM 2 LIF CYCL IMP A LIM 2 LIF CYCL IMP A, V0, P0
+   NSO (National Statistical Office), 2021, PROVL TOUR STAT 2016 PROVL TOUR STAT 2016, V0, P0
+   NSO (National Statistical Office), 2000, NUMB HOT VIS 2000 NUMB HOT VIS 2000, V0, P0
+   NSO (National Statistics Office), 2020, STAT DAT CENS SURV P STAT DAT CENS SURV P, V0, P0
+   ONEP (Office of Natural Resources and Environmental Policy and Planning), 2013, BUILDING REGULATIONS, V0, P0
+   Pacca L, 2020, SCI TOTAL ENVIRON, V698, P0, DOI 10.1016/j.scitotenv.2019.133614
+   Pflug B, 2020, PROC SPIE, V11533, P0, DOI 10.1117/12.2574035
+   Noi PT, 2018, SENSORS-BASEL, V18, P0, DOI 10.3390/s18010018
+   Phiri D, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12142291
+   Pons X, 2014, INT J APPL EARTH OBS, V33, P243, DOI 10.1016/j.jag.2014.06.002
+   Pourshamsi M, 2021, ISPRS J PHOTOGRAMM, V172, P79, DOI 10.1016/j.isprsjprs.2020.11.008
+   Pravalie R, 2018, EARTH-SCI REV, V185, P544, DOI 10.1016/j.earscirev.2018.06.010
+   Prueksakorn K, 2017, CHEM ENG TRANS, V56, P331, DOI 10.3303/CET1756056
+   Puttiwongrak A, 2019, J CLEAN PROD, V218, P108, DOI 10.1016/j.jclepro.2019.01.254
+   Ranasinghe CS, 2012, J NATL SCI FOUND SRI, V40, P77, DOI 10.4038/jnsfsr.v40i1.4171
+   Ribeiro K, 2016, SCI TOTAL ENVIRON, V571, P1048, DOI 10.1016/j.scitotenv.2016.07.095
+   Rodrigues VP, 2016, J CLEAN PROD, V139, P416, DOI 10.1016/j.jclepro.2016.08.046
+   Sagnika Santwana, 2014, JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY, V64, P820
+   Sagnika S, 2015, ADV INTELLIGENT SYST, V308, P0
+   Saowanee C, 2012, 33 AS C REM SENS 201 33 AS C REM SENS 201, V0, P732
+   Schulz K, 2018, PROC SPIE, V10790, P0, DOI 10.1117/12.2503653
+   Shirvani Z, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12030434
+   Sperow M, 2020, SOIL TILL RES, V204, P0, DOI 10.1016/j.still.2020.104719
+   Stumpf A, 2011, PROCEDIA ENVIRON SCI, V3, P123, DOI 10.1016/j.proenv.2011.02.022
+   THAI -GLOB, 2011, IPCC TARC REP KNOWL IPCC TARC REP KNOWL, V0, P0
+   Tookwinas S, 2004, MITIGATION PLAN USE, V0, P0
+   Tsuchiya K, 2021, J CLEAN PROD, V292, P0, DOI 10.1016/j.jclepro.2021.126043
+   UN (United Nations), 2020, THE 17 GOALS, V0, P0
+   UN (United Nations) European Commission International Monetary Fund Organisation for Economic Co-operation and Development Word Bank, 2003, HDB NAT ACC INT ENV HDB NAT ACC INT ENV, V0, P0
+   Wackernagel M, 1997, ECOLOGICAL FOOTPRINTS OF NATIONS: HOW MUCH NATURE DO THEY USE? HOW MUCH NATURE DO THEY HAVE? COMMISSIONED BY THE EARTH COUNCIL FOR THE RIO+5 FORUM, V0, P0
+   Wang Q, 2020, SCI TOTAL ENVIRON, V746, P0, DOI 10.1016/j.scitotenv.2020.141158
+   Wannasai N, 2008, LAND USE POLICY, V25, P214, DOI 10.1016/j.landusepol.2007.07.003
+   World Bank, 2019, PPP ORDINANCE, V0, P0
+   Wu S, 2020, J CLEAN PROD, V251, P0, DOI 10.1016/j.jclepro.2019.119764
+   Yaman C, 2020, J CLEAN PROD, V264, P0, DOI 10.1016/j.jclepro.2020.121432
+   Zhang F, 2020, PHYS CHEM EARTH, V120, P0, DOI 10.1016/j.pce.2020.102948
+   Zhang HKK, 2017, REMOTE SENS ENVIRON, V197, P15, DOI 10.1016/j.rse.2017.05.024
+NR 79
+TC 39
+Z9 40
+U1 0
+U2 29
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-5509
+EI 
+J9 SUSTAIN PROD CONSUMP
+JI Sustain. Prod. Consump.
+PD JUL 15
+PY 2021
+VL 27
+IS 
+BP 1239
+EP 1254
+DI 10.1016/j.spc.2021.02.025
+EA MAR 2021
+PG 16
+WC Green & Sustainable Science & Technology; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA TK5JW
+UT WOS:000674195700028
+DA 2025-11-07
+ER
+
+PT J
+AU Yang, Y
+   Guo, HG
+   Jin, Y
+   Song, AY
+AF Yang, Yi
+   Guo, Honggang
+   Jin, Yu
+   Song, Aiyi
+TI An Ensemble Prediction System Based on Artificial Neural Networks and Deep Learning Methods for Deterministic and Probabilistic Carbon Price Forecasting
+SO FRONTIERS IN ENVIRONMENTAL SCIENCE
+LA English
+DT Article
+DE carbon price forecasting; ensemble prediction system; deep learning methods; error distribution function; multiobjective optimization algorithm
+ID decomposition; model
+AB Carbon price prediction is important for decreasing greenhouse gas emissions and coping with climate change. At present, a variety of models are widely used to predict irregular, nonlinear, and nonstationary carbon price series. However, these models ignore the importance of feature extraction and the inherent defects of using a single model; thus, accurate and stable prediction of carbon prices by relevant industry practitioners and the government is still a huge challenge. This research proposes an ensemble prediction system (EPS) that includes improved data feature extraction technology, three prediction submodels (GBiLSTM, CNN, and ELM), and a multiobjective optimization algorithm weighting strategy. At the same time, based on the best fitting distribution of the prediction error of the EPS, the carbon price prediction interval is constructed as a way to explore its uncertainty. More specifically, EPS integrates the advantages of various submodels and provides more accurate point prediction results; the distribution function based on point prediction error is used to establish the prediction interval of carbon prices and to mine and analyze the volatility characteristics of carbon prices. Numerical simulation of the historical data available for three carbon price markets is also conducted. The experimental results show that the ensemble prediction system can provide more effective and stable carbon price forecasting information and that it can provide valuable suggestions that enterprise managers and governments can use to improve the carbon price market.
+C1 [Yang, Yi] Lanzhou Univ, Sch Informat Sci & Engn, Lanzhou, Peoples R China.
+   [Guo, Honggang; Jin, Yu; Song, Aiyi] Dongbei Univ Finance & Econ, Sch Stat, Dalian, Peoples R China.
+C3 Lanzhou University; Dongbei University of Finance & Economics
+RP Guo, HG (corresponding author), Dongbei Univ Finance & Econ, Sch Stat, Dalian, Peoples R China.
+EM ghg970612@163.com
+FU Major Project of the National Social Science Fund [17ZDA093]
+CR Arouri MEH, 2012, ECON MODEL, V29, P884, DOI 10.1016/j.econmod.2011.11.003
+   Atsalakis GS, 2016, APPL SOFT COMPUT, V43, P107, DOI 10.1016/j.asoc.2016.02.029
+   Benz E, 2009, ENERG ECON, V31, P4, DOI 10.1016/j.eneco.2008.07.003
+   Byun SJ, 2013, ENERG ECON, V40, P207, DOI 10.1016/j.eneco.2013.06.017
+   Chen C, 2021, ADV ENG INFORM, V48, P0, DOI 10.1016/j.aei.2021.101290
+   Cheng ZS, 2020, APPL SOFT COMPUT, V92, P0, DOI 10.1016/j.asoc.2020.106294
+   Chevallier J, 2009, ENERG ECON, V31, P614, DOI 10.1016/j.eneco.2009.02.008
+   Colominas MA, 2014, BIOMED SIGNAL PROCES, V14, P19, DOI 10.1016/j.bspc.2014.06.009
+   Du P, 2020, RESOUR POLICY, V69, P0, DOI 10.1016/j.resourpol.2020.101881
+   Fan XH, 2015, EXPERT SYST APPL, V42, P3945, DOI 10.1016/j.eswa.2014.12.047
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI 10.1162/neco.1997.9.1.1
+   Huang GB, 2006, NEUROCOMPUTING, V70, P489, DOI 10.1016/j.neucom.2005.12.126
+   Jiang H, 2021, INFORM SCIENCES, V571, P154, DOI 10.1016/j.ins.2021.04.047
+   Jiang H, 2021, EUR J OPER RES, V295, P634, DOI 10.1016/j.ejor.2020.12.024
+   Jiang H, 2021, EUR J OPER RES, V289, P214, DOI 10.1016/j.ejor.2020.06.045
+   Jiang P, 2021, ENERGY, V217, P0, DOI 10.1016/j.energy.2020.119361
+   Jin Y, 2020, ENERGIES, V13, P0, DOI 10.3390/en13236241
+   Junyoung ChungCaglar Gulcehre, 2014, EMPIRICAL EVALUATION, V0, P0, DOI DOI 10.48550/ARXIV.1412.3555
+   Liu Z, 2021, EXPERT SYST APPL, V177, P0, DOI 10.1016/j.eswa.2021.114974
+   Liu ZK, 2020, APPL ENERG, V259, P0, DOI 10.1016/j.apenergy.2019.114137
+   Lu HF, 2020, J CLEAN PROD, V249, P0, DOI 10.1016/j.jclepro.2019.119386
+   Mirjalili S, 2016, NEURAL COMPUT APPL, V27, P1053, DOI 10.1007/s00521-015-1920-1
+   Niu T, 2020, EXPERT SYST APPL, V148, P0, DOI 10.1016/j.eswa.2020.113237
+   Shi XJ, 2015, ADV NEUR IN, V28, P0
+   Song J, 2017, IEEE INT C INF AUTOM, V0, P0, DOI DOI 10.1109/ICInfA.2017.8079080
+   Song YL, 2015, ATMOS ENVIRON, V118, P58, DOI 10.1016/j.atmosenv.2015.06.032
+   Sun W, 2018, CARBON MANAG, V9, P605, DOI 10.1080/17583004.2018.1522095
+   Sun YJ, 2018, EXPERT SYST APPL, V114, P563, DOI 10.1016/j.eswa.2018.08.027
+   Tian CS, 2020, APPL MATH MODEL, V79, P126, DOI 10.1016/j.apm.2019.10.022
+   Torres ME, 2011, INT CONF ACOUST SPEE, V0, P4144
+   Wang G, 2018, CONCURR COMP-PRACT E, V30, P0, DOI 10.1002/cpe.4891
+   Wang JZ, 2021, RESOUR POLICY, V73, P0, DOI 10.1016/j.resourpol.2021.102222
+   Wang JZ, 2020, APPL SOFT COMPUT, V95, P0, DOI 10.1016/j.asoc.2020.106509
+   Wang JB, 2020, IEEE ACCESS, V8, P140767, DOI 10.1109/ACCESS.2020.3007599
+   Wang R, 2018, ENERGIES, V11, P0, DOI 10.3390/en11071712
+   Wang Y, 2019, IEEE T SMART GRID, V10, P3664, DOI 10.1109/TSG.2018.2833869
+   Xiao LY, 2017, ENERG CONVERS MANAGE, V143, P410, DOI 10.1016/j.enconman.2017.04.012
+   Zhang XB, 2018, APPL SOFT COMPUT, V65, P478, DOI 10.1016/j.asoc.2018.01.017
+   Zhang XB, 2017, ELECTR POW SYST RES, V146, P270, DOI 10.1016/j.epsr.2017.01.035
+   Zhu BZ, 2019, PHYSICA A, V517, P392, DOI 10.1016/j.physa.2018.11.016
+   Zhu BZ, 2013, OMEGA-INT J MANAGE S, V41, P517, DOI 10.1016/j.omega.2012.06.005
+   Zhu JM, 2019, PHYSICA A, V519, P140, DOI 10.1016/j.physa.2018.12.017
+NR 42
+TC 17
+Z9 17
+U1 4
+U2 117
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 
+EI 2296-665X
+J9 FRONT ENV SCI-SWITZ
+JI Front. Environ. Sci.
+PD SEP 17
+PY 2021
+VL 9
+IS 
+BP 
+EP 
+DI 10.3389/fenvs.2021.740093
+PG 22
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA WV5OV
+UT WOS:000717287300001
+DA 2025-11-07
+ER
+

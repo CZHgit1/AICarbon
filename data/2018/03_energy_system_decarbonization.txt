@@ -1,0 +1,327 @@
+PT J
+AU Wu, N
+   Wang, HL
+AF Wu, Nan
+   Wang, Honglei
+TI Deep learning adaptive dynamic programming for real time energy management and control strategy of micro-grid
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Micro-grid; Deep learning; Adaptive dynamic programming; Real-time energy management; Distributed energy
+AB With the widespread application of distributed renewable energy in power systems, energy management problems in micro-grids have become increasingly significant. Offline or static optimization methods are frequently employed to solve the problems which are typically discrete and nonlinear. There are few online optimization methods and they are not only complex but also normally consider the distributed generations and loads in micro-grid as a whole. The outcome is that the online methods fail to reflect the composing characteristic of distributed multi-energy and the contribution made by developing renewable energy to reduce the consumption of traditional fossil energy. Moreover, results obtained by either the offline or the on-line methods can deviate to certain extents from the true values. This paper treats the management of distributed energy in micro-grids as an optimal control problem. Using the system control theory, a framework of real-time management of distributed energy in micro grids is proposed. A deep learning adaptive dynamic programming is proposed for this framework. Due to the introduction of the concept of closed-loop feedback, the proposed management and control strategy is a real-time algorithm. Furthermore, the accuracy of managing and controlling the objective function can be improved. The gap of the flexible load after the optimization can be helpful in terms of guiding the flexible load consumers to change their habits of energy consumption, thereby reducing the coal-fired power generation and providing room for reducing carbon emissions. Because it is real-time, micro-grid operators can also realize intra-day scheduling, which can be done through combining this optimized management and control strategy with the mechanism of energy operating and managing. Moreover, some data sets of the real-time optimal control strategy are obtained in this paper. These intuitive and accurate data sets can be used to further optimize energy operating and managing of micro grids, thereby realizing effective energy management for micro-grids. Finally, the real-time and effectiveness of the proposed management and control strategy are proved by the simulations. Some positive conclusions are drawn. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Wu, Nan; Wang, Honglei] Guizhou Univ, Sch Management, Guiyang 550025, Guizhou, Peoples R China.
+   [Wu, Nan] Guizhou Normal Univ, Sch Mech & Elect Engn, Guiyang 550025, Guizhou, Peoples R China.
+C3 Guizhou University; Guizhou Normal University
+RP Wang, HL (corresponding author), Guizhou Univ, Sch Management, Guiyang 550025, Guizhou, Peoples R China.
+EM eenwu@gznu.edu.cn; gzdxhlwang@163.com
+FU key science and technology projects of China Southern Power Grid Co., Ltd [GZKJQQ00000417]
+CR Unknown -, 2009, REINFORCEMENT LEARNI, V0, P0
+   BELLMAN R, 1966, SCIENCE, V153, P34, DOI 10.1126/science.153.3731.34
+   Cecati C, 2011, IEEE T SUSTAIN ENERG, V2, P468, DOI 10.1109/TSTE.2011.2161624
+   Chaouachi A, 2013, IEEE T IND ELECTRON, V60, P1688, DOI 10.1109/TIE.2012.2188873
+   Huang YS, 2014, IEEE T SMART GRID, V5, P270, DOI 10.1109/TSG.2013.2282823
+   Ipakchi A, 2009, IEEE POWER ENERGY M, V7, P52, DOI 10.1109/MPE.2008.931384
+   Katiraei F, 2008, IEEE POWER ENERGY M, V6, P54, DOI 10.1109/MPE.2008.918702
+   Khodaei A, 2014, IEEE T POWER SYST, V29, P1383, DOI 10.1109/TPWRS.2013.2290006
+   Massoud Amin S, 2005, IEEE POWER & ENERGY MAGAZINE, V3, P34, DOI 10.1109/MPAE.2005.1507024
+   Newbery DM, 2012, ECON ENERGY ENV POL, V1, P69, DOI 10.5547/2160-5890.1.1.7
+   Nodland D, 2013, IEEE T NEUR NET LEAR, V24, P1061, DOI 10.1109/TNNLS.2013.2251747
+   Palma-Behnke R, 2013, IEEE T SMART GRID, V4, P996, DOI 10.1109/TSG.2012.2231440
+   Pourmousavi SA, 2010, IEEE T SUSTAIN ENERG, V1, P193, DOI 10.1109/TSTE.2010.2061881
+   Powell WB, 2009, APPROXIMATE DYNAMIC PROGRAMMING: SOLVING THE CURSES OF DIMENSIONALITY, V0, P0
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Salinas S, 2013, IEEE T SMART GRID, V4, P2139, DOI 10.1109/TSG.2013.2265556
+   Shi WB, 2015, IEEE T SMART GRID, V6, P1137, DOI 10.1109/TSG.2014.2373150
+   Siano P, 2012, IEEE T IND INFORM, V8, P944, DOI 10.1109/TII.2012.2205391
+   Soojeong Choi, 2011, 2011 IEEE SECOND INTERNATIONAL CONFERENCE ON SMART GRID COMMUNICATIONS (SMARTGRIDCOMM 2011), V0, PP19, DOI 10.1109/SmartGridComm.2011.6102317
+   Sun S, 2014, INT CONF SMART GRID, V0, PP109, DOI 10.1109/SmartGridComm.2014.7007631
+   Tang GY, 2007, NONLINEAR ANAL-THEOR, V66, P1365, DOI 10.1016/j.na.2006.01.021
+   Vamvoudakis K, 2009, ADPRL: 2009 IEEE SYMPOSIUM ON ADAPTIVE DYNAMIC PROGRAMMING AND REINFORCEMENT LEARNING, V0, P36
+   Vamvoudakis KG, 2012, INT J ROBUST NONLIN, V22, P1460, DOI 10.1002/rnc.1760
+   Vamvoudakis KG, 2010, AUTOMATICA, V46, P878, DOI 10.1016/j.automatica.2010.02.018
+   Vojdani A, 2008, IEEE POWER ENERGY M, V6, P71, DOI 10.1109/MPE.2008.929744
+   Yadav V, 2007, IEEE T NEURAL NETWOR, V18, P1115, DOI 10.1109/TNN.2007.899229
+   Zhang TP, 2012, CHIN CONTR CONF, V0, P2859
+NR 29
+TC 54
+Z9 59
+U1 2
+U2 118
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD DEC 10
+PY 2018
+VL 204
+IS 
+BP 1169
+EP 1177
+DI 10.1016/j.jclepro.2018.09.052
+PG 9
+WC Green & Sustainable Science & Technology; Engineering, Environmental; Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences & Ecology
+GA GX9BC
+UT WOS:000448092500098
+DA 2025-11-06
+ER
+
+PT J
+AU Liu, XH
+   Shan, MY
+   Zhang, RL
+   Zhang, LH
+AF Liu, Xiao-Hong
+   Shan, Mi-Yuan
+   Zhang, Ren-Long
+   Zhang, Li-Hong
+TI Green Vehicle Routing Optimization Based on Carbon Emission and Multiobjective Hybrid Quantum Immune Algorithm
+SO MATHEMATICAL PROBLEMS IN ENGINEERING
+LA English
+DT Article
+ID particle swarm optimization; ant colony optimization; fuel consumption; model
+AB Green Vehicle Routing Optimization Problem (GVROP) is currently a scientific research problem that takes into account the environmental impact and resource efficiency. Therefore, the optimal allocation of resources and the carbon emission in GVROP are becoming more and more important. In order to improve the delivery efficiency and reduce the cost of distribution requirements through intelligent optimization method, a novel multiobjective hybrid quantum immune algorithm based on cloud model (C-HQIA) is put forward. Simultaneously, the computational results have proved that the C-HQIA is an efficient algorithm for the GVROP. We also found that the parameter optimization of the C-HQIA is related to the types of artificial intelligence algorithms. Consequently, the GVROP and the C-HQIA have important theoretical and practical significance.
+C1 [Liu, Xiao-Hong; Shan, Mi-Yuan] Hunan Univ, Coll Business Adm, 11 Lushan South Rd, Changsha 410082, Hunan, Peoples R China.
+   [Zhang, Ren-Long] Hunan Univ Sci & Technol, Business Sch, Taoyuan Rd, Xiangtan 411201, Peoples R China.
+   [Zhang, Li-Hong] Liverpool John Moores Univ, Liverpool Business Sch, Redmonds Bldg,Brownlow Hill, Liverpool L3 5UX, Merseyside, England.
+C3 Hunan University; Hunan University of Science & Technology; University of Liverpool; Liverpool John Moores University
+RP Shan, MY (corresponding author), Hunan Univ, Coll Business Adm, 11 Lushan South Rd, Changsha 410082, Hunan, Peoples R China.
+EM shanmiyuangj@163.com
+FU Hunan Provincial Natural Science Foundation [2017JJ2093]; Hunan Provincial Department of Education Foundation [17C0667]; National Natural Science Foundation of China [70372039, 70671037, 70971036]; National Social Science Fund of China [13FGL005]
+CR AbdAllah AMFM, 2017, APPL SOFT COMPUT, V55, P1, DOI 10.1016/j.asoc.2017.01.047
+   Sicilia JA, 2016, J COMPUT APPL MATH, V291, P468, DOI 10.1016/j.cam.2015.03.050
+   Ding QL, 2012, NEUROCOMPUTING, V98, P101, DOI 10.1016/j.neucom.2011.09.040
+   Errico F, 2016, EUR J OPER RES, V249, P55, DOI 10.1016/j.ejor.2015.07.027
+   Fraile A, 2016, J COMPUT APPL MATH, V291, P478, DOI 10.1016/j.cam.2014.12.012
+   Goksal FP, 2013, COMPUT IND ENG, V65, P39, DOI 10.1016/j.cie.2012.01.005
+   Jabir E, 2015, PROCD SOC BEHV, V189, P33, DOI 10.1016/j.sbspro.2015.03.189
+   Lefever W, 2016, COMPUT OPER RES, V72, P97, DOI 10.1016/j.cor.2016.02.010
+   Li HQ, 2016, TRANSPORT RES D-TR E, V49, P231, DOI 10.1016/j.trd.2016.10.002
+   Liang ZP, 2015, APPL SOFT COMPUT, V35, P161, DOI 10.1016/j.asoc.2015.06.022
+   Lin QZ, 2015, COMPUT OPER RES, V62, P95, DOI 10.1016/j.cor.2015.04.003
+   Marinaki M, 2016, EXPERT SYST APPL, V46, P145, DOI 10.1016/j.eswa.2015.10.012
+   Marinakis Y, 2014, SWARM EVOL COMPUT, V15, P80, DOI 10.1016/j.swevo.2013.12.003
+   Marinakis Y, 2013, APPL SOFT COMPUT, V13, P1693, DOI 10.1016/j.asoc.2013.01.007
+   Narasimha KV, 2013, SWARM EVOL COMPUT, V13, P63, DOI 10.1016/j.swevo.2013.05.005
+   Norouzi N, 2015, MEASUREMENT, V62, P162, DOI 10.1016/j.measurement.2014.10.024
+   Osaba E, 2016, INT J INTERACT MULTI, V4, P89, DOI 10.9781/ijimai.2016.4213
+   Qian J, 2016, EUR J OPER RES, V248, P840, DOI 10.1016/j.ejor.2015.09.009
+   Shang RH, 2016, APPL SOFT COMPUT, V49, P748, DOI 10.1016/j.asoc.2016.09.005
+   Sicilia-Montalvo JA, 2015, DYNA-BILBAO, V90, P105, DOI 10.6036/7190
+   Tan LJ, 2015, NEUROCOMPUTING, V151, P1208, DOI 10.1016/j.neucom.2014.03.082
+   Turkensteen M, 2017, EUR J OPER RES, V262, P647, DOI 10.1016/j.ejor.2017.04.005
+   Zhang JH, 2015, INT J PROD ECON, V170, P234, DOI 10.1016/j.ijpe.2015.09.031
+   Zhao YW, 2016, PROCEDIA COMPUT SCI, V91, P978, DOI 10.1016/j.procs.2016.07.127
+NR 24
+TC 10
+Z9 13
+U1 0
+U2 46
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1024-123X
+EI 1563-5147
+J9 MATH PROBL ENG
+JI Math. Probl. Eng.
+PD JUN 15
+PY 2018
+VL 2018
+IS 
+BP 
+EP 
+DI 10.1155/2018/8961505
+PG 9
+WC Engineering, Multidisciplinary; Mathematics, Interdisciplinary Applications
+SC Engineering; Mathematics
+GA GD7OG
+UT WOS:000430700800001
+DA 2025-11-06
+ER
+
+PT J
+AU Kuo, CFJ
+   Lin, CH
+   Lee, MH
+AF Kuo, Chung-Feng Jeffrey
+   Lin, Chieh-Hung
+   Lee, Ming-Hao
+TI Analyze the the energy consumption characteristics and affecting factors of Taiwan's convenience stores-using the big data mining approach
+SO ENERGY AND BUILDINGS
+LA English
+DT Article
+DE Convenience store; Data mining; Machine learning; Energy consumption characteristics; Energy consumption affecting factor
+ID management; system; opportunity; independence; technology; performance; challenges; prediction; knowledge
+AB This study applies big data mining, machine learning analysis technique and uses the Waikato Environment for Knowledge Analysis (WEKA) as a tool to discuss the convenience stores energy consumption performance in Taiwan which consists of (a). Influential factors of architectural space environment and geographical conditions; (b). Influential factors of management type; (c). Influential factors of business equipment; (d). Influential factors of local climatic conditions; (e). Influential factors of service area socioeconomic conditions. The survey data of 1,052 chain convenience stores belong to 7-Eleven, Family Mart and Hi-Life groups by Taiwan Architecture and Building Center (TABC) in 2014. The implicit knowledge will be explored in order to improve the traditional analysis technique which is unlikely to build a model for complex, inexact and uncertain dynamic energy consumption system for convenience stores. The analysis process comprises of (a). Problem definition and objective setting; (b). Data source selection; (c). Data collection; (d). Data preprocessing/preparation; (e). Data attributes selection; (f). Data mining and model construction; (g). Results analysis and evaluation; (h). Knowledge discovery and dissemination. The key factors influencing the convenience stores energy consumption and the influence intensity order can be explored by data attributes selection. The numerical prediction model for energy consumption is built by applying regression analysis and classification techniques. The optimization thresholds of various influential factors are obtained. The different cluster data are compared by using clustering analysis to verify the correlation between the factors influencing the convenience stores energy consumption characteristic. The implicit knowledge of energy consumption characteristic obtained by the aforesaid analysis can be used to (a). Provide the owners with accurate predicted energy consumption performance to optimize architectural space, business equipment and operations management mode; (b). The design planners can obtain the optimum design proposal of Cost Performance Ratio (C/P) by planning the thresholds of various key factors and the validation of prediction model; (c). Provide decision support for government energy and environment departments, to make energy saving and carbon emission reduction policies, in order to estimate and set the energy consumption scenarios of convenience store industry. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Kuo, Chung-Feng Jeffrey; Lin, Chieh-Hung] Natl Taiwan Univ Sci & Technol, Dept Mat Sci & Engn, 43,Sec 4,Keelung Rd, Taipei 10607, Taiwan.
+   [Lin, Chieh-Hung; Lee, Ming-Hao] Taiwan Architecture & Bldg Ctr, 3F,95 Minquan Rd, New Taipei 23141, Taiwan.
+C3 National Taiwan University of Science & Technology
+RP Kuo, CFJ (corresponding author), Natl Taiwan Univ Sci & Technol, Dept Mat Sci & Engn, 43,Sec 4,Keelung Rd, Taipei 10607, Taiwan.
+EM jeffreykuo@mail.ntust.edu.tw
+CR AOECD, 2003, ENV SUST BUILD CHALL, V0, P0
+   Unknown -, 2012, LIQUID REDOX ELECTROLYTES FOR DYE-SENSITIZED SOLAR CELLS ZE YU, V0, P0
+   Antonios GZ, 2014, GREECE EUROMED J BUS, V2, P175
+   Bilal M, 2016, ADV ENG INFORM, V30, P500, DOI 10.1016/j.aei.2016.07.001
+   BOE Taiwan, 2001, CONV STOR EN SAV TEC, V0, P0
+   BOE Taiwan, 2016, EN STAT HDB, V0, P28
+   Bryant R, 2008, BIG DATA COMPUTING C, V0, P0
+   Chang KF, 2007, BUILD ENVIRON, V42, P310, DOI 10.1016/j.buildenv.2005.08.015
+   Chawla NV, 2005, DATA MINING AND KNOWLEDGE DISCOVERY HANDBOOK, V0, PP853, DOI 10.1007/0-387-25465-X_40
+   Chen CLP, 2014, INFORM SCIENCES, V275, P314, DOI 10.1016/j.ins.2014.01.015
+   Chen HH, 2013, CONF TECHNOL APPL, V0, PP37, DOI 10.1109/TAAI.2013.21
+   Chen JL, 2006, POLICY EVALUATION SY, V0, P0
+   Chen Q-L, 2014, GREEN CONVENIENCE ST, V0, P0
+   Cheng CL, 2003, BUILD ENVIRON, V38, P369, DOI 10.1016/S0360-1323(02)00062-8
+   Chi S, 2012, ADV ENG INFORM, V26, P574, DOI 10.1016/j.aei.2012.03.005
+   Cho CU, 2013, THESIS, V0, P0
+   Chou DC, 2016, ENERG BUILDINGS, V133, P670, DOI 10.1016/j.enbuild.2016.10.010
+   Chu S-Y, 2012, J GLOB BUS MANAG, V8, P0
+   Dean J, 2014, WILEY SAS BUS SER, V0, PP1, DOI 10.1002/9781118691786
+   DHR MOI Taiwan (Deptof Household Registration Ministry of the Interior Taiwan ROC), 2017, RES POP POP DENS STA, V0, P0
+   DOS MOEA Taiwan, 2017, IND EC STAT, V0, P0
+   DOS MOEA Taiwan, 2017, IND PROD SHIPM INV S, V0, P0
+   Fan C, 2015, ENERG BUILDINGS, V109, P75, DOI 10.1016/j.enbuild.2015.09.060
+   FIA MOF Taiwan (Fiscal Information Agency Ministry of Finance Taiwan ROC), 2017, COMPR INC STAT ACC T, V0, P0
+   Fu J-C, 2015, THESIS, V0, P0
+   Fujimoto J, 2012, 2012 ELECTRONICS GOES GREEN 2012+ (EGG), V0, P0
+   García-Nieto J, 2009, INFORM PROCESS LETT, V109, P887, DOI 10.1016/j.ipl.2009.03.029
+   Ghafouri Amin, 2017, INT WORKSH SCI SMART, V0, P1
+   Ghotra B, 2017, IEEE WORK CONF MIN S, V0, PP146, DOI 10.1109/MSR.2017.18
+   Goodwin S, 2012, IEEE CONF VIS ANAL, V0, PP217, DOI 10.1109/VAST.2012.6400545
+   Hall M, 2009, SIGKDD EXPLORATIONS, V11, P0, DOI 10.1145/1656274.1656278
+   Hashem IAT, 2016, INT J INFORM MANAGE, V36, P748, DOI 10.1016/j.ijinfomgt.2016.05.002
+   Ho MC, 2006, W0622006 CIB, V0, P0
+   John Lu Z, 2010, JOURNAL OF THE ROYAL STATISTICAL SOCIETY: SERIES A STATISTICS IN SOCIETY, V173, P693, DOI 10.1111/j.1467-985X.2010.006466.x
+   Jung JJ, 2017, FUTURE GENER COMP SY, V66, P87, DOI 10.1016/j.future.2016.08.021
+   KIRA K, 1992, AAAI-92 PROCEEDINGS : TENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P129
+   Koebel CT, 2015, ENERG BUILDINGS, V97, P175, DOI 10.1016/j.enbuild.2015.03.037
+   Koprinska I, 2015, KNOWL-BASED SYST, V82, P29, DOI 10.1016/j.knosys.2015.02.017
+   Kuo C-FJ, 2017, ENERGY BUILD, V0, P0
+   Kuo CFJ, 2016, ENERG POLICY, V95, P291, DOI 10.1016/j.enpol.2016.04.046
+   Kuo PY, 2014, ANAL USAGE CHARACTER, V0, P0
+   La Roche P, 2014, ENERG BUILDINGS, V82, P492, DOI 10.1016/j.enbuild.2014.07.055
+   Li J, 2014, J CLEAN PROD, V0, P0
+   Lin JJ, 2015, J BIOPHARM STAT, V25, P438, DOI 10.1080/10543406.2014.920851
+   Lu WS, 2015, RESOUR CONSERV RECY, V105, P49, DOI 10.1016/j.resconrec.2015.10.013
+   Meeker WQ, 2014, QUAL ENG, V26, P102, DOI 10.1080/08982112.2014.846119
+   Molina-Solana M, 2017, RENEW SUST ENERG REV, V70, P598, DOI 10.1016/j.rser.2016.11.132
+   NDC Taiwan, 2017, GOVT DAT OP PLATF, V0, P0
+   Rajaraman A, 2017, TEASING PATTERNS DAT, V0, P0
+   Schlomer BJ, 2014, J UROLOGY, V191, P587, DOI 10.1016/j.juro.2013.09.091
+   Shandiz MA, 2016, COMP MATER SCI, V117, P270, DOI 10.1016/j.commatsci.2016.02.021
+   Shen H, 2014, STUDY ENERGY PERFORM, V0, P0
+   Siu MF, 2013, COMPUTING IN CIVIL ENGINEERING. 2013 ASCE INTERNATIONAL WORKSHOP ON COMPUTING IN CIVIL ENGINEERING. PROCEEDINGS, V0, P669
+   Smith TC, 2016, METHODS MOL BIOL, V1418, P353, DOI 10.1007/978-1-4939-3578-9_17
+   Son H, 2015, J CLEAN PROD, V109, P144, DOI 10.1016/j.jclepro.2014.08.071
+   Sun TR, 2015, INTERNATIONAL JOURNAL OF MANAGEMENT, V2, P1048
+   Taneichi N, 2007, J MULTIVARIATE ANAL, V98, P1630, DOI 10.1016/j.jmva.2007.04.005
+   TPC Taiwan, 2017, EL BILL SERV SYST, V0, P0
+   Tsai PC, 2012, COMPUT OPER RES, V39, P328, DOI 10.1016/j.cor.2011.04.007
+   Wang AP, 2008, ENERG BUILDINGS, V40, P1437, DOI 10.1016/j.enbuild.2008.01.007
+   Wang JC, 2012, ENERG BUILDINGS, V49, P268, DOI 10.1016/j.enbuild.2012.02.016
+   Wang MT, 2014, APPEARANCE INNOVATIO, V0, P0
+   Witten IH, 2011, MOR KAUF D, V0, P1
+   Witten IH, 2011, MOR KAUF D, V0, PP61, DOI 10.1016/B978-0-12-374856-0.00003-1
+   Xiao F, 2014, ENERG BUILDINGS, V75, P109, DOI 10.1016/j.enbuild.2014.02.005
+   Yaqoob I, 2016, INT J INFORM MANAGE, V36, P1231, DOI 10.1016/j.ijinfomgt.2016.07.009
+   Yu Z, 2016, SUSTAIN CITIES SOC, V25, P33, DOI 10.1016/j.scs.2015.12.001
+   Yu Z, 2013, BUILD SIMUL-CHINA, V6, P207, DOI 10.1007/s12273-013-0117-8
+   Zhou KL, 2016, RENEW SUST ENERG REV, V56, P215, DOI 10.1016/j.rser.2015.11.050
+   Zucker G, 2014, IMPROVING ENERGY EFF, V0, P0
+NR 70
+TC 37
+Z9 37
+U1 2
+U2 80
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7788
+EI 1872-6178
+J9 ENERG BUILDINGS
+JI Energy Build.
+PD JUN 1
+PY 2018
+VL 168
+IS 
+BP 120
+EP 136
+DI 10.1016/j.enbuild.2018.03.021
+PG 17
+WC Construction & Building Technology; Energy & Fuels; Engineering, Civil
+SC Construction & Building Technology; Energy & Fuels; Engineering
+GA GH7RC
+UT WOS:000433650100012
+DA 2025-11-06
+ER
+
+PT J
+AU Cogoljevic, D
+   Alizamir, M
+   Piljan, I
+   Piljan, T
+   Prijic, K
+   Zimonjic, S
+AF Cogoljevic, Dusan
+   Alizamir, Meysam
+   Piljan, Ivan
+   Piljan, Tatjana
+   Prijic, Katarina
+   Zimonjic, Stefan
+TI A machine learning approach for predicting the relationship between energy resources and economic development
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Economic development; Energy usage; Prediction
+ID emissions; growth
+AB The linkage between energy resources and economic development is a topic of great interest. Research in this area is also motivated by contemporary concerns about global climate change, carbon emissions fluctuating crude oil prices, and the security of energy supply. The purpose of this research is to develop and apply the machine learning approach to predict gross domestic product (GDP) based on the mix of energy resources. Our results indicate that GDP predictive accuracy can be improved slightly by applying a machine learning approach. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Cogoljevic, Dusan; Piljan, Ivan; Piljan, Tatjana; Zimonjic, Stefan] Fac Business Econ & Entrepreneurship, Mitropolita Petra 8, Belgrade 11000, Serbia.
+   [Alizamir, Meysam] Islamic Azad Univ, Hamedan Branch, Young Researchers & Elite Club, Hamadan, Iran.
+   [Prijic, Katarina] Univ Kragujevac, Fac Engn, Sestre Janjic 6, Kragujevac 34000, Serbia.
+C3 Islamic Azad University; University of Kragujevac
+RP Alizamir, M (corresponding author), Islamic Azad Univ, Hamedan Branch, Young Researchers & Elite Club, Hamadan, Iran.
+EM meysamalizamir@gmail.com
+CR Alshehry AS, 2015, RENEW SUST ENERG REV, V41, P237, DOI 10.1016/j.rser.2014.08.004
+   Unknown -, 2016, NEURAL COMPUT APPL, V0, P0
+   Huang GB, 2004, IEEE IJCNN, V0, P985
+   Huang GB, 2006, NEUROCOMPUTING, V70, P489, DOI 10.1016/j.neucom.2005.12.126
+   Huang GB, 2006, IEEE T NEURAL NETWOR, V17, P879, DOI 10.1109/TNN.2006.875977
+   Kemp F, 2003, JOURNAL OF THE ROYAL STATISTICAL SOCIETY, V52, P691, DOI 10.1046/j.1467-9884.2003.t01-2-00383_4.x
+   MASON CH, 1991, J MARKETING RES, V28, P268, DOI 10.2307/3172863
+   Mbarek MB, 2016, J. KNOWL. ECON., V0, P1
+   Mohammadhassani M, 2013, STRUCT ENG MECH, V46, P853, DOI 10.12989/sem.2013.46.6.853
+   Nian R, 2014, NEUROCOMPUTING, V128, P273, DOI 10.1016/j.neucom.2013.03.054
+   Safa M, 2016, STEEL COMPOS STRUCT, V21, P679, DOI 10.12989/scs.2016.21.3.679
+   Shi C, 2004, CHINESE GEOGR SCI, V14, P1, DOI 10.1007/s11769-004-0001-7
+   Toghroli Ali, 2014, STEEL AND COMPOSITE STRUCTURES, V0, P0
+   Wang DH, 2005, IEEE IJCNN, V0, P1406
+NR 17
+TC 11
+Z9 16
+U1 3
+U2 26
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD APR 1
+PY 2018
+VL 495
+IS 
+BP 211
+EP 214
+DI 10.1016/j.physa.2017.12.082
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA FW0CI
+UT WOS:000424958600021
+DA 2025-11-06
+ER
+

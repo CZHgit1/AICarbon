@@ -1,0 +1,495 @@
+PT J
+AU Che, JX
+   Dong, W
+   Sun, Q
+   Zhang, YH
+AF Che, Jinxing
+   Dong, Wei
+   Sun, Qian
+   Zhang, Yuhua
+TI A study on the modeling of long-term trend and short-term fluctuation: Fourier-enhanced adaptive Koopman operator for carbon emission forecasting
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Carbon emissions forecasting; Koopman operator; Decomposition method; Deep learning
+ID spectral property; dynamical-systems; network
+AB The Koopman operator provides a new way to model complex data patterns, revealing the intrinsic dynamics of time series from a dynamical system perspective. Despite its potential, the Koopman operator has received limited attention in time series forecasting, particularly in addressing these complex, real-world challenges such as carbon emission dynamics characterized by nonlinearity, non-stationarity, and multi-scale coupling effects. To this end, this study proposes a novel forecasting paradigm, Fourier-Enhanced adaptive Koopman operator for carbon emission forecasting (F-KOCE). This approach conceptually extends traditional Koopman frameworks by embedding a spectral-decoupled time series representation into a dual Koopman learning structure, which enables the model to linearize nonlinear dynamics across multiple time scales in a theoretically grounded and practically adaptive manner. By integrating Fourier filter decomposition into Koopman operator theory, F-KOCE separates raw emissions into long-term trends and short-term fluctuations while achieving global linearization of system dynamics. A learnable Koopman operator captures intrinsic temporal structures, while a multi-granularity adaptive weight learning strategy enhances resilience against data variability. To further improve robustness, we introduce an adaptive residual fusion structure for block-level feature compression, noise suppression, and crossscale information fusion. Additionally, the effective Trend Corrector mechanism dynamically modulates the influence of trend and fluctuation components, refining predictive accuracy. Beyond point forecasting, the framework is also extended to interval forecasting, providing uncertainty-aware predictions. Extensive experiments conducted on 36 Carbon Monitor datasets across six regions and six sectors demonstrate the superiority of F-KOCE over advanced existing models across multiple evaluation metrics. These results confirm the framework's efficacy in capturing high-dimensional emission dynamics and underscore the potential of Koopman operator theory in carbon forecasting. By offering a robust, interpretable, and data-driven approach, F-KOCE provides valuable insights for climate policy formulation.
+C1 [Che, Jinxing; Dong, Wei; Sun, Qian; Zhang, Yuhua] Jiangxi Univ Water Resources & Elect Power, Sch Sci, Nanchang 330099, Jiangxi, Peoples R China.
+RP Che, JX (corresponding author), Jiangxi Univ Water Resources & Elect Power, Sch Sci, Nanchang 330099, Jiangxi, Peoples R China.
+EM jinxingche@nit.edu.cn; 2023320002@nit.edu.cn; 2023320010@nit.edu.cn; 1984zhangyuhua@163.com
+FU National Natural Science Foundation of China [72471108, 71971105]
+CR Abdar M, 2021, INFORM FUSION, V76, P243, DOI 10.1016/j.inffus.2021.05.008
+   Acheampong AO, 2019, J CLEAN PROD, V225, P833, DOI 10.1016/j.jclepro.2019.03.352
+   Akan T, 2025, APPL ENERG, V382, P0, DOI 10.1016/j.apenergy.2024.125146
+   Ameyaw B, 2019, ENERG POLICY, V130, P7, DOI 10.1016/j.enpol.2019.03.056
+   Bergougui B, 2024, J CLEAN PROD, V483, P0, DOI 10.1016/j.jclepro.2024.144215
+   Brunton SL, 2025, ANNUAL REVIEW OF CONTROL: ROBOTICS, V0, P8
+   Budisic M, 2012, JOURNAL OF NONLINEAR SCIENCE, V22, P0
+   Cao L, 2024, J CLEAN PROD, V434, P0, DOI 10.1016/j.jclepro.2023.139827
+   Cao Q, 2025, ENERGY ECONOMICS: A GLOBAL PERSPECTIVE, V0, P0
+   Chen B, 2024, APPL ENERG, V365, P0, DOI 10.1016/j.apenergy.2024.123218
+   Chen Z, 2023, TUNN UNDERGR SP TECH, V139, P0, DOI 10.1016/j.tust.2023.105235
+   Ding JQ, 2024, APPL ENERG, V364, P0, DOI 10.1016/j.apenergy.2024.123138
+   Ding Q, 2023, ENERGY, V263, P0, DOI 10.1016/j.energy.2022.126005
+   Du MZ, 2023, ENERG ECON, V124, P0, DOI 10.1016/j.eneco.2023.106791
+   Gomes H, 2023, J SAFETY RES, V86, P30, DOI 10.1016/j.jsr.2023.06.005
+   Gong JQ, 2025, ENERGY, V320, P0, DOI 10.1016/j.energy.2025.135286
+   He YY, 2018, ENERG CONVERS MANAGE, V164, P374, DOI 10.1016/j.enconman.2018.03.010
+   Hong XH, 2023, SCI TOTAL ENVIRON, V866, P0, DOI 10.1016/j.scitotenv.2023.161387
+   Koopman BO, 1932, P NATL ACAD SCI USA, V18, P255, DOI 10.1073/pnas.18.3.255
+   Koopman BO, 1931, P NATL ACAD SCI USA, V17, P315, DOI 10.1073/pnas.17.5.315
+   Langevin HM, 2021, J PAIN, V22, P1, DOI 10.1016/j.jpain.2020.02.006
+   Li QX, 2017, CHAOS, V27, P0, DOI 10.1063/1.4993854
+   Li QY, 2024, ENERGY, V299, P0, DOI 10.1016/j.energy.2024.131448
+   Li XW, 2021, CSEE J POWER ENERGY, V7, P1140, DOI 10.17775/CSEEJPES.2021.02000
+   Lin XY, 2021, SCI TOTAL ENVIRON, V792, P0, DOI 10.1016/j.scitotenv.2021.148444
+   Liu F, 2021, IEEE T FUZZY SYST, V29, P986, DOI 10.1109/TFUZZ.2020.2966182
+   Lusch B, 2018, NAT COMMUN, V9, P0, DOI 10.1038/s41467-018-07210-0
+   Maino C, 2021, ENERGY AI, V5, P0, DOI 10.1016/j.egyai.2021.100073
+   Mardani A, 2019, J CLEAN PROD, V231, P446, DOI 10.1016/j.jclepro.2019.05.153
+   Mezic I, 2005, NONLINEAR DYNAM, V41, P309, DOI 10.1007/s11071-005-2824-x
+   Mezic I, 2013, ANNU REV FLUID MECH, V45, P357, DOI 10.1146/annurev-fluid-011212-140652
+   Nie Y, 2022, P INT C LEARN REPR I, V0, P1
+   Oreshkin Boris N, 2020, P INT C LEARN REPR J, V0, P0
+   Otto SE, 2019, SIAM J APPL DYN SYST, V18, P558, DOI 10.1137/18M1177846
+   Pan HZ, 2023, BUILD SIMUL-CHINA, V16, P1451, DOI 10.1007/s12273-023-1024-2
+   Salinas D, 2020, INT J FORECASTING, V36, P1181, DOI 10.1016/j.ijforecast.2019.07.001
+   Schmid PJ, 2010, J FLUID MECH, V656, P5, DOI 10.1017/S0022112010001217
+   Shao Z, 2024, J ENVIRON MANAGE, V352, P0, DOI 10.1016/j.jenvman.2023.119976
+   Sun W, 2021, SCI TOTAL ENVIRON, V754, P0, DOI 10.1016/j.scitotenv.2020.142052
+   Surawski NC, 2016, NAT COMMUN, V7, P0, DOI 10.1038/ncomms11536
+   Takeishi N, 2017, ADV NEUR IN, V30, P0
+   Wen D, 2024, INFORM SCIENCES, V679, P0, DOI 10.1016/j.ins.2024.121006
+   Williams MO, 2015, J NONLINEAR SCI, V25, P1307, DOI 10.1007/s00332-015-9258-5
+   Wu BR, 2024, APPL SOFT COMPUT, V159, P0, DOI 10.1016/j.asoc.2024.111639
+   Xiao YP, 2023, SCI TOTAL ENVIRON, V879, P0, DOI 10.1016/j.scitotenv.2023.163032
+   Xie ZH, 2021, J CLEAN PROD, V307, P0, DOI 10.1016/j.jclepro.2021.127133
+   Yang H, 2023, MEASUREMENT, V222, P0, DOI 10.1016/j.measurement.2023.113554
+   Yu SJ, 2024, J CLEAN PROD, V484, P0, DOI 10.1016/j.jclepro.2024.144341
+   Zeng LL, 2024, APPL SOFT COMPUT, V157, P0, DOI 10.1016/j.asoc.2024.111543
+   Zhang Y, 2024, CONTEXTUAL CORRESPONDENCE MATTERS: BIDIRECTIONAL GRAPH MATCHING FOR VIDEO SUMMARIZATION, V0, P300
+   Zhang YZ, 2025, PATTERN RECOGN LETT, V194, P48, DOI 10.1016/j.patrec.2025.04.027
+   Zhang YZ, 2025, IEEE GEOSCI REMOTE S, V22, P0, DOI 10.1109/LGRS.2025.3532983
+   Zhang YZ, 2025, J ELECTRON IMAGING, V34, P0, DOI 10.1117/1.JEI.34.1.013005
+   Zhang YZ, 2024, IEEE T CIRC SYST VID, V34, P2775, DOI 10.1109/TCSVT.2023.3312325
+   Zhang YZ, 2023, IEEE T GEOSCI REMOTE, V61, P0, DOI 10.1109/TGRS.2023.3273314
+   Zhao BY, 2025, J CLEAN PROD, V494, P0, DOI 10.1016/j.jclepro.2025.144957
+   Zhong WY, 2024, APPL ENERG, V376, P0, DOI 10.1016/j.apenergy.2024.124232
+   Zhou FT, 2022, APPL ENERG, V311, P0, DOI 10.1016/j.apenergy.2022.118601
+   Zhou XK, 2023, IEEE WIREL COMMUN, V30, P82, DOI 10.1109/MWC.004.2200381
+   Zhou ZR, 2024, J CLEAN PROD, V460, P0, DOI 10.1016/j.jclepro.2024.142605
+NR 60
+TC 1
+Z9 1
+U1 3
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD MAR 1
+PY 2026
+VL 298
+IS 
+BP 
+EP 
+DI 10.1016/j.eswa.2025.129388
+PG 21
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA 7YF1X
+UT WOS:001582475600006
+DA 2025-11-21
+ER
+
+PT J
+AU Cang, YJ
+   Luo, ZX
+   Zhang, SS
+   Si, Q
+AF Cang, Yujie
+   Luo, Zhixing
+   Zhang, Shuaishuai
+   Si, Qi
+TI Prediction of building operational carbon emissions to support conceptual design decisions: A data-driven method based on the overall design parameters
+SO BUILDING AND ENVIRONMENT
+LA English
+DT Article
+DE Operational carbon emissions; Conceptual design; Data-driven; Overall design parameters; Calculation method
+AB Controlling building operational carbon emissions is a critical pathway to achieving carbon neutrality. For the building conceptual design stage, it is difficult to meet the operating parameters required for energy consumption simulation due to the limited design information, which directly hinders the prediction of carbon emissions in this stage. To address this issue, this paper proposes a data-driven calculation method to predict operational carbon emissions during the conceptual design stage, based on obtainable overall design parameters. The method is implemented through the following steps: Grasshopper-based parametric modeling, Honeybee- powered parametric performance simulation to generate cumulative loads databases of 572 simulated scenarios, machine learning-based development of loads prediction models, and ultimately prediction of energy consumption and carbon emissions based on target energy efficiency values. Additionally, to validate the reliability of the proposed method, the comparative case study was conducted. The results demonstrate that the multilayer perceptronbased prediction model achieves satisfactory accuracy, reaching 90.73 %. The application of this method realizes the operational carbon emissions quantification in the conceptual design stage, enabling integrated assessment of design decisions and low-carbon performance. Its data-driven framework provides parameter analysis and emission reduction guidance for design optimization, which promotes low-carbon building from low-carbon design.
+C1 [Cang, Yujie; Si, Qi] Jiangsu Univ Sci & Technol, Coll Civil Engn & Architecture, Zhenjiang 212100, Jiangsu, Peoples R China.
+   [Luo, Zhixing] Xian Univ Architecture & Technol, Coll Architecture, Xian 710055, Shaanxi, Peoples R China.
+   [Zhang, Shuaishuai] Huafeng Technol Nanjing Co Ltd, Nanjing 210022, Jiangsu, Peoples R China.
+C3 Jiangsu University of Science & Technology; Xi'an University of Architecture & Technology
+RP Luo, ZX (corresponding author), Xian Univ Architecture & Technol, Coll Architecture, Xian 710055, Shaanxi, Peoples R China.
+EM luozhixing@xauat.edu.cn
+FU Natural Science Foundation of Jiangsu Province of China [BK20241019]; General Project of Philosophy and Social Science Research of Jiangsu Provincial Colleges and Universities of China [2024SJYB1615]; Key Research and Development Projects of Shaanxi Province [2023-ZDLSF66]
+CR American Society of Heating Refrigerating and Air-Conditioning Engineers, 2022, ASHRAE GUIDELINE 14-2022: MEASUREMENT OF ENERGY, V0, P0
+   Boodi A, 2020, ENERGIES, V13, P0, DOI 10.3390/en13112899
+   Chen RJ, 2022, J CLEAN PROD, V359, P0, DOI 10.1016/j.jclepro.2022.131978
+   Chu XL, 2021, J INTELL FUZZY SYST, V41, P7473, DOI 10.3233/JIFS-211435
+   Gao H, 2023, BUILDINGS-BASEL, V13, P0, DOI 10.3390/buildings13071617
+   Gupta V, 2023, RENEW SUST ENERG REV, V186, P0, DOI 10.1016/j.rser.2023.113650
+   Kong L, 2025, ADV ENG INFORM, V64, P0, DOI 10.1016/j.aei.2024.103094
+   Lee TK, 2024, ENERG BUILDINGS, V303, P0, DOI 10.1016/j.enbuild.2023.113800
+   Li LY, 2021, CLEAN ENG TECHNOL, V5, P0, DOI 10.1016/j.clet.2021.100286
+   Li XQ, 2023, ENVIRON SCI POLLUT R, V0, P0, DOI DOI 10.1007/s11356-023-30428-5
+   Luo SL, 2024, ENERGIES, V17, P0, DOI 10.3390/en17184641
+   Pan YQ, 2023, ADV APPL ENERGY, V10, P0, DOI 10.1016/j.adapen.2023.100135
+   Quaranta G, 2020, NONLINEAR DYNAM, V99, P1709, DOI 10.1007/s11071-019-05430-7
+   Schubert G, 2023, BUILDINGS-BASEL, V13, P0, DOI 10.3390/buildings13081952
+   Shanbhag SS, 2024, SUSTAIN CITIES SOC, V111, P0, DOI 10.1016/j.scs.2024.105560
+   Tang WJ, 2022, ENERGY, V240, P0, DOI 10.1016/j.energy.2021.122500
+   Utkucu D, 2023, J ARCHIT ENG, V29, P0, DOI 10.1061/(ASCE)AE.1943-5568.0000573
+   Xiong L, 2024, BUILDINGS-BASEL, V14, P0, DOI 10.3390/buildings14030777
+   Yin MT, 2020, AUTOMAT CONSTR, V113, P0, DOI 10.1016/j.autcon.2020.103082
+   Zhan SC, 2021, RENEW SUST ENERG REV, V142, P0, DOI 10.1016/j.rser.2021.110835
+   Zhang YJ, 2022, BUILDINGS-BASEL, V12, P0, DOI 10.3390/buildings12020238
+   Zhang Y, 2023, ENERGY, V262, P0, DOI 10.1016/j.energy.2022.125468
+   Zheng L, 2024, APPL ENERG, V357, P0, DOI 10.1016/j.apenergy.2023.122472
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-1323
+EI 1873-684X
+J9 BUILD ENVIRON
+JI Build. Environ.
+PD JAN 15
+PY 2026
+VL 288
+IS 
+BP 
+EP 
+DI 10.1016/j.buildenv.2025.113923
+PG 13
+WC Construction & Building Technology; Engineering, Environmental; Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA 9TL7Q
+UT WOS:001614626800001
+DA 2025-11-21
+ER
+
+PT J
+AU Zhang, YT
+   Pakrashi, A
+   Dev, S
+AF Zhang, Yiteng
+   Pakrashi, Arjun
+   Dev, Soumyabrata
+TI Multi-regional CO2 emission forecasting using advanced machine learning and temporal feature engineering
+SO ENVIRONMENTAL MODELLING & SOFTWARE
+LA English
+DT Article
+DE CO2 prediction; XGboost; LSTM
+AB Accurate CO2 emission prediction is essential for climate policy, yet existing models often fail to capture regional variability and temporal patterns. This study introduces a hybrid machine learning framework combining Random Forest, XGBoost, and LSTM with temporal feature engineering - lagged features and rolling statistics - to improve emission forecasts across diverse regions (Japan, Brazil, Ireland, Hawaii). Using multi-regional greenhouse gas datasets (CO2, CH4, N2O, CO, SF6) from NOAA monitoring stations, the framework leverages inter-gas correlations rather than socio-economic proxies, enhancing predictive accuracy. Results reveal that XGBoost and Random Forest perform best in volatile regions like Brazil (MSE = 1.72), while LSTM excels in trend-driven settings such as Japan, reducing errors by 80% with lagged features. Incorporating a 7-day rolling mean and standard deviation stabilizes performance, lowering short-term forecast uncertainty by 30%-40%. By combining methodological innovation with strong cross-regional generalization, this approach offers policymakers a scalable, adaptable tool for emission monitoring and climate mitigation.
+C1 [Zhang, Yiteng; Dev, Soumyabrata] ADAPT SFI Res Ctr, Dublin, Ireland.
+   [Zhang, Yiteng; Pakrashi, Arjun; Dev, Soumyabrata] Univ Coll Dublin, Sch Comp Sci, Dublin, Ireland.
+C3 University College Dublin
+RP Pakrashi, A (corresponding author), Univ Coll Dublin, Sch Comp Sci, Dublin, Ireland.
+EM yiteng.zhang@ucdconnect.ie; arjun.pakrashi@ucd.ie; soumyabrata.dev@ucd.ie
+FU Science Foundation Ireland, Ireland [13/RC/2106_P2]; SFI Research Centre for AI-Driven Digital Content Technology - Science Foundation Ireland, Ireland through the SFI Research Centres Programme; China Scholarship Council [202306540014]
+CR Al-Nefaie AH, 2023, SUSTAINABILITY-BASEL, V15, P0, DOI 10.3390/su15097615
+   Alnuaimi A, 2023, ENVIRON. MODEL. SOFTW., V166, P0, DOI 10.1016/j.envsoft.2023.105576
+   Altikat S, 2021, INT J ENVIRON SCI TE, V18, P3169, DOI 10.1007/s13762-020-03079-z
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Chen TQ, 2016, KDD16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP785, DOI 10.1145/2939672.2939785
+   Doe J, 2023, PREDICTING CARBON DIOXIDE EMISSIONS IN THE UNITED STATES OF AMERICA USING MACHINE LEARNING ALGORITHMS, V0, P0
+   Global Monitoring Laboratory N, 2023, ABOUT THE CARBON CYCLE GREENHOUSE GASES GROUP, V0, P0
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI 10.1162/neco.1997.9.8.1735
+   Hall BD, 2011, ATMOS MEAS TECH, V4, P2441, DOI 10.5194/amt-4-2441-2011
+   Hyndman RJ, 2018, FORECASTING PRINCIPL, V2nd, P0
+   Jones E, 2023, ENVIRON. RES. LETT., V18, P0
+   Kadam P, 2018, 2018 3RD INTERNATIONAL CONFERENCE FOR CONVERGENCE IN TECHNOLOGY (I2CT), V0, P0
+   Kim J, 2022, J. ENVIRON. SCI. TECHNOL., V56, P45, DOI 10.1016/j.jest.2022.03.005
+   Lee H, 2021, SUSTAIN. CITIES SOC., V67, P0
+   Lee H, 2023, CLIMATE CHANGE 2023, V0, PP35, DOI 10.59327/IPCC/AR6-9789291691647
+   Leerbeck K, 2020, ARXIV, V0, P0
+   Levin I, 2010, ATMOS. MEAS. TECH., V3, P131
+   Liu H, 2021, FRONT. ENERGY RES., V0, P0, DOI DOI 10.3389/fenrg.2021.756311
+   Mardani A, 2020, CLUST. MACH. LEARN. TECH. J. CLEAN. PROD., V275, P0, DOI 10.1016/j.jclepro.2020.122942
+   Mardani A, 2020, J CLEAN PROD, V275, P0, DOI 10.1016/j.jclepro.2020.122942
+   Quinlan JR, 1986, MACHINE LEARNING, V1, P81, DOI 10.1007/BF00116251
+   Rao M, 2021, ENGINEERING PROBLEMS, V0, PPCH13, DOI 10.5772/intechopen.97452
+   Salehnia N, 2025, NPJ CLIM ATMOS SCI, V8, P0, DOI 10.1038/s41612-025-01153-2
+   Schuck TJ, 2024, ATMOS CHEM PHYS, V24, P689, DOI 10.5194/acp-24-689-2024
+   Shah S, 2023, P 3 INT C SUST EXP S, V0, P749
+   Shaw JT, 2022, ATMOS POLLUT RES, V13, P0, DOI 10.1016/j.apr.2022.101563
+   Shokouhi P, 2021, J CONTAM HYDROL, V241, P0, DOI 10.1016/j.jconhyd.2021.103835
+   Smith J, 2022, J. ENVIRON. MANAG., V304, P0
+   Snoek Jasper, 2012, ADV NEURAL INFORM PR, V0, P2951
+   Tian X, 2023, SUSTAINABILITY, V15, P1471, DOI 10.3390/su15041471
+   Vlattodo J, 2022, PREDICTION OF YEARLY CO2 EMISSIONS FROM COUNTRY DATA, V0, P0
+   Wang J, 2024, ENVIRON. SYST. RES., V13, P24, DOI 10.1186/s40068-024-00403-9
+   Wang L, 2020, ENERGY REP., V6, P0
+   Xie WJ, 2025, ARXIV, V0, P0
+   Zhang L, 2023, FORECASTING AND MITIGATION OF GLOBAL ENVIRONMENTAL CARBON DIOXIDE EMISSIONS, V0, P0
+   Zhao X, 2022, ENVIRON. ECON. POLICY STUD., V24, P345, DOI 10.1007/s10018-022-00345-6
+NR 36
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1364-8152
+EI 1873-6726
+J9 ENVIRON MODELL SOFTW
+JI Environ. Modell. Softw.
+PD JAN 1
+PY 2026
+VL 195
+IS 
+BP 
+EP 
+DI 10.1016/j.envsoft.2025.106728
+PG 22
+WC Computer Science, Interdisciplinary Applications; Engineering, Environmental; Environmental Sciences; Water Resources
+SC Computer Science; Engineering; Environmental Sciences & Ecology; Water Resources
+GA 9EW7M
+UT WOS:001604698300001
+DA 2025-11-21
+ER
+
+PT J
+AU Zheng, ZK
+   Shuang, Q
+AF Zheng, Zhike
+   Shuang, Qing
+TI Dynamic scenario analysis and prediction of embodied carbon emissions in China's building sector: A hybrid interpretable machine learning model
+SO ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+LA English
+DT Article
+DE Building sector in China; Embodied carbon emission; Hybrid machine learning model; Monte Carlo simulation; Regional heterogeneity
+AB With the rapid urbanization in China, excessive carbon emission has emerged as a primary constraint in sustainable development. Notably, the building sector accounts for a substantial portion of carbon emissions, with embodied carbon emissions particularly prominent. Under the strategies of carbon peaking by 2030 and neutrality by 2060, this study focuses on embodied carbon emissions in China's building sector. Utilizing a hybrid interpretable machine learning model, this study endeavors to predict national and provincial carbon peaking times and emission values through dynamic scenario analysis. The findings offer unique insights: First, based on the materials and resources consumed by the building sector, this study reveals a significant probability of China's embodied carbon emission peaking in 2030 at 6.58 billion tons. Second, the interpretability analysis of the model underscores the profound impacts of economic and demographic factors on national and provincial embodied carbon emissions, collectively explaining over 50 % of its variability. Third, regional heterogeneity analysis reveals the reasons for the rapid carbon peaking in coastal and developed provinces due to the varied developing conditions. These results present a novel perspective on carbon reduction and sustainable development, offering crucial guidance for global carbon mitigation efforts and specific policy recommendations.
+C1 [Zheng, Zhike; Shuang, Qing] Beijing Jiaotong Univ, Sch Econ & Management, Beijing 100044, Peoples R China.
+C3 Beijing Jiaotong University
+RP Shuang, Q (corresponding author), Beijing Jiaotong Univ, Sch Econ & Management, Beijing 100044, Peoples R China.
+EM 23120659@bjtu.edu.cn; qings@bjtu.edu.cn
+FU Fundamental Research Funds for the Central Universities [2019JBW007]; National Natural Science Foundation of China [71501008]; Beijing Municipal Social Sciences Foundation [18GLC070]; Ministry of Education of Humanities and Social Science Foundation [20YJC630121]
+CR Ahmed I, 2022, SCI REP-UK, V12, P0, DOI 10.1038/s41598-022-15983-0
+   Unknown -, 2020, IN KEY WORLD ENERGY STATISTICS 2020, V0, P0, DOI DOI 10.1787/295F00F5-EN
+   Bai SK, 2025, J ENVIRON MANAGE, V373, P0, DOI 10.1016/j.jenvman.2024.123623
+   Bertin I, 2022, J CLEAN PROD, V349, P0, DOI 10.1016/j.jclepro.2022.131228
+   Brottrager M, 2023, NAT COMMUN, V14, P0, DOI 10.1038/s41467-023-37074-y
+   Chang RD, 2023, J CONSTR ENG M, V149, P0, DOI 10.1061/JCEMD4.COENG-12971
+   Chen CK, 2023, J SAF SCI RESIL, V4, P380, DOI 10.1016/j.jnlssr.2023.10.001
+   Chen HY, 2025, SUSTAIN CITIES SOC, V122, P0, DOI 10.1016/j.scs.2025.106248
+   Chen RJ, 2024, URBAN CLIM, V55, P0, DOI 10.1016/j.uclim.2024.101959
+   Cheng ZH, 2024, ENVIRON IMPACT ASSES, V105, P0, DOI 10.1016/j.eiar.2024.107417
+   Cui SN, 2023, ENVIRON IMPACT ASSES, V103, P0, DOI 10.1016/j.eiar.2023.107291
+   Dong J, 2022, TECHNOL FORECAST SOC, V185, P0, DOI 10.1016/j.techfore.2022.122074
+   Dong KY, 2023, ENERG POLICY, V183, P0, DOI 10.1016/j.enpol.2023.113820
+   Du YJ, 2024, ECOTOX ENVIRON SAFE, V287, P0, DOI 10.1016/j.ecoenv.2024.117285
+   Fang YX, 2025, ENVIRON IMPACT ASSES, V111, P0, DOI 10.1016/j.eiar.2024.107733
+   Feng YD, 2022, ENERG POLICY, V164, P0, DOI 10.1016/j.enpol.2022.112866
+   Gao H, 2024, RENEW SUST ENERG REV, V203, P0, DOI 10.1016/j.rser.2024.114775
+   Gao JF, 2023, SUSTAIN CITIES SOC, V96, P0, DOI 10.1016/j.scs.2023.104652
+   Gautam D, 2025, ENG STRUCT, V322, P0, DOI 10.1016/j.engstruct.2024.119104
+   Goerigk M, 2023, EUR J OPER RES, V310, P529, DOI 10.1016/j.ejor.2023.03.019
+   Gowd SC, 2023, SCI TOTAL ENVIRON, V883, P0, DOI 10.1016/j.scitotenv.2023.163656
+   Grazieschi G, 2021, CLEAN ENVIRON SYST, V2, P0, DOI 10.1016/j.cesys.2021.100032
+   Guo QB, 2022, APPL ENERG, V313, P0, DOI 10.1016/j.apenergy.2022.118879
+   Guo SH, 2023, J CLEAN PROD, V416, P0, DOI 10.1016/j.jclepro.2023.137942
+   Habib M, 2023, SUSTAIN CITIES SOC, V99, P0, DOI 10.1016/j.scs.2023.104892
+   Hao JL, 2023, ENERGY, V281, P0, DOI 10.1016/j.energy.2023.128201
+   Hao JH, 2022, SCI TOTAL ENVIRON, V841, P0, DOI 10.1016/j.scitotenv.2022.156788
+   He MY, 2024, ENVIRON IMPACT ASSES, V108, P0, DOI 10.1016/j.eiar.2024.107606
+   Hossain M, 2025, ECOL INDIC, V171, P0, DOI 10.1016/j.ecolind.2025.113188
+   Hu CG, 2025, ENVIRON IMPACT ASSES, V114, P0, DOI 10.1016/j.eiar.2025.107895
+   Hu J, 2023, ENVIRON TECHNOL INNO, V29, P0, DOI 10.1016/j.eti.2022.102960
+   Hu QD, 2025, BUILD ENVIRON, V269, P0, DOI 10.1016/j.buildenv.2024.112358
+   Hu QD, 2023, ENERG BUILDINGS, V278, P0, DOI 10.1016/j.enbuild.2022.112641
+   Huang JB, 2021, TECHNOL FORECAST SOC, V173, P0, DOI 10.1016/j.techfore.2021.121110
+   Huang RM, 2024, BUILD ENVIRON, V250, P0, DOI 10.1016/j.buildenv.2024.111176
+   Huo TF, 2024, J CLEAN PROD, V457, P0, DOI 10.1016/j.jclepro.2024.142310
+   Huo TF, 2023, ENERGY, V274, P0, DOI 10.1016/j.energy.2023.127330
+   Huo TF, 2022, ENERGY, V254, P0, DOI 10.1016/j.energy.2022.124395
+   Jiang L, 2024, ECON MODEL, V139, P0, DOI 10.1016/j.econmod.2024.106814
+   Jin Y, 2024, ENERG ECON, V133, P0, DOI 10.1016/j.eneco.2024.107485
+   Kong XS, 2022, LAND USE POLICY, V113, P0, DOI 10.1016/j.landusepol.2021.105895
+   Lee K, 2024, J CLEAN PROD, V452, P0, DOI 10.1016/j.jclepro.2024.142141
+   Lenton TM, 2023, NAT SUSTAIN, V6, P1237, DOI 10.1038/s41893-023-01132-6
+   Li W, 2022, SCI TOTAL ENVIRON, V831, P0, DOI 10.1016/j.scitotenv.2022.154909
+   Liang DZ, 2022, GEOGR SUSTAIN, V3, P258, DOI 10.1016/j.geosus.2022.08.003
+   Liao W, 2024, APPL ENERG, V361, P0, DOI 10.1016/j.apenergy.2024.122832
+   Liu BC, 2023, ATMOS POLLUT RES, V14, P0, DOI 10.1016/j.apr.2023.101865
+   Liu HJ, 2024, ENVIRON IMPACT ASSES, V108, P0, DOI 10.1016/j.eiar.2024.107595
+   Liu JJ, 2025, ENERG ECON, V141, P0, DOI 10.1016/j.eneco.2024.108121
+   Liu MZ, 2023, ENVIRON IMPACT ASSES, V100, P0, DOI 10.1016/j.eiar.2023.107043
+   Liu ML, 2025, ENERGY, V317, P0, DOI 10.1016/j.energy.2025.134693
+   Liu Y, 2024, ENVIRON IMPACT ASSES, V104, P0, DOI 10.1016/j.eiar.2023.107321
+   Lu BQ, 2023, SCI TOTAL ENVIRON, V905, P0, DOI 10.1016/j.scitotenv.2023.167054
+   Lu ML, 2024, APPL ENERG, V370, P0, DOI 10.1016/j.apenergy.2024.123620
+   Lu P, 2024, BUILDINGS-BASEL, V14, P0, DOI 10.3390/buildings14051190
+   Luo HZ, 2024, APPL ENERG, V360, P0, DOI 10.1016/j.apenergy.2024.122819
+   Lv LJ, 2024, J ENVIRON MANAGE, V351, P0, DOI 10.1016/j.jenvman.2023.119906
+   Ma T, 2023, NAT COMMUN, V14, P0, DOI 10.1038/s41467-023-41707-7
+   Meng WL, 2023, ENERG POLICY, V174, P0, DOI 10.1016/j.enpol.2023.113460
+   National Bureau of Statistic, 2021, 7 NATL CENSUS, V0, P0
+   OECD, 2024, AIR GHG EMISSIONS OE, V0, P0
+   Reia SM, 2022, NAT COMMUN, V13, P0, DOI 10.1038/s41467-022-33527-y
+   Ropo M, 2023, ENVIRON IMPACT ASSES, V101, P0, DOI 10.1016/j.eiar.2023.107100
+   Sayed GI, 2024, CHAOS SOLITON FRACT, V188, P0, DOI 10.1016/j.chaos.2024.115533
+   Shuang Q, 2024, J ENVIRON MANAGE, V355, P0, DOI 10.1016/j.jenvman.2024.120568
+   Shuang Q, 2021, WATER-SUI, V13, P0, DOI 10.3390/w13030310
+   Su S, 2024, CASE STUD CONSTR MAT, V20, P0, DOI 10.1016/j.cscm.2024.e02887
+   Su S, 2023, SUSTAIN PROD CONSUMP, V37, P142, DOI 10.1016/j.spc.2023.02.014
+   Tan JY, 2024, APPL ENERG, V376, P0, DOI 10.1016/j.apenergy.2024.124330
+   Thorpe A, 2024, NATURE CITIES, V1, P760, DOI 10.1038/s44284-024-00145-2
+   Wang CH, 2023, NAT COMMUN, V14, P0, DOI 10.1038/s41467-023-41458-5
+   Wang M, 2024, SCI TOTAL ENVIRON, V929, P0, DOI 10.1016/j.scitotenv.2024.172727
+   Wang WT, 2024, ENVIRON IMPACT ASSES, V107, P0, DOI 10.1016/j.eiar.2024.107573
+   Wang YX, 2024, ENVIRON IMPACT ASSES, V104, P0, DOI 10.1016/j.eiar.2023.107362
+   Wen YF, 2022, APPL ENERG, V305, P0, DOI 10.1016/j.apenergy.2021.117916
+   Xia XY, 2024, SUSTAIN PROD CONSUMP, V50, P445, DOI 10.1016/j.spc.2024.08.015
+   Xian YJ, 2025, ENVIRON IMPACT ASSES, V112, P0, DOI 10.1016/j.eiar.2024.107789
+   Xu F, 2024, ENERG POLICY, V188, P0, DOI 10.1016/j.enpol.2024.114085
+   Yan R, 2022, SCI TOTAL ENVIRON, V847, P0, DOI 10.1016/j.scitotenv.2022.157679
+   Yang M, 2023, J ENVIRON MANAGE, V329, P0, DOI 10.1016/j.jenvman.2022.117081
+   Yao F, 2021, SUSTAIN CITIES SOC, V73, P0, DOI 10.1016/j.scs.2021.103113
+   Yi YQ, 2024, ENERG BUILDINGS, V324, P0, DOI 10.1016/j.enbuild.2024.114932
+   Zhang B, 2024, ISCIENCE, V27, P0, DOI 10.1016/j.isci.2024.110669
+   Zhang XC, 2024, BUILD ENVIRON, V258, P0, DOI 10.1016/j.buildenv.2024.111595
+   Zhao L, 2024, J CLEAN PROD, V452, P0, DOI 10.1016/j.jclepro.2024.142219
+   Zhao YY, 2025, RENEW SUST ENERG REV, V211, P0, DOI 10.1016/j.rser.2024.115237
+   Zheng ZK, 2025, J CLEAN PROD, V495, P0, DOI 10.1016/j.jclepro.2025.145086
+   Zhu C, 2023, RENEW SUST ENERG REV, V186, P0, DOI 10.1016/j.rser.2023.113651
+   Zhu C, 2022, ENERG POLICY, V170, P0, DOI 10.1016/j.enpol.2022.113222
+   Zhu C, 2022, ENERG BUILDINGS, V255, P0, DOI 10.1016/j.enbuild.2021.111607
+NR 90
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0195-9255
+EI 1873-6432
+J9 ENVIRON IMPACT ASSES
+JI Environ. Impact Assess. Rev.
+PD JAN 15
+PY 2026
+VL 116
+IS 
+BP 
+EP 
+DI 10.1016/j.eiar.2025.108119
+PG 16
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 7NB1E
+UT WOS:001574912900002
+DA 2025-11-21
+ER
+
+PT J
+AU Jin, XD
+   Zhang, LZ
+   Li, FY
+   Xie, W
+   Ma, DW
+   Wu, Y
+AF Jin, Xiaodong
+   Zhang, Lingzhen
+   Li, Fangyi
+   Xie, Wu
+   Ma, Dawei
+   Wu, Yan
+TI An explainable transfer learning approach to predict carbon emission intensity of coal-fired power plants with multi-source monitoring data
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Explainable transfer learning; Carbon emission intensity; Carbon reduction; Coal-fired power plants; Graft learning technologies
+ID energy
+AB Carbon mitigation policies and emission trading systems have heightened the need to monitor and predict the carbon emission intensity (CEI) of coal-fired power plants. Leveraging big data and machine learning (ML) technologies, this study trains predictive models of CEI using operational parameters, load rate, and coal-quality data from three Chinese power plants. The performance of Random Forest (RF), eXtreme Gradient Boosting (XGBoost), Support Vector Machine (SVM), and Artificial Neural Network (ANN) was evaluated, and the challenge of limited data in individual plants was mitigated through instance-based transfer learning (ITL) and graft learning (GL) technologies. The results indicate that while traditional ML models struggle with poor data quality and limited samples, transfer learning between different plants will improve predictive accuracy substantially, and GL delivers the greatest gains. Among the most influential features, air supply temperature and load rate critically impact CEI and therefore should be carefully managed to achieve emission reductions. Nevertheless, the effectiveness of transfer learning depends on source data quality and model choice, and the proposed operational strategies require further validation before practical adoption. Our findings offer a robust framework for enhancing the predictive accuracy of plant CEI under data-scarce conditions and inform effective strategies for promoting a low-carbon transition in the energy sector.
+C1 [Jin, Xiaodong; Li, Fangyi; Xie, Wu] Hefei Univ Technol, Sch Management, Hefei 230009, Peoples R China.
+   [Zhang, Lingzhen; Li, Fangyi; Xie, Wu] Hefei Univ Technol, Anhui Key Lab Philosophy & Social Sci Energy & Env, Hefei 230009, Peoples R China.
+   [Zhang, Lingzhen; Li, Fangyi; Xie, Wu] Minist Educ, Philosophy & Social Sci Lab Data Sci & Smart Soc G, Hefei 230009, Peoples R China.
+   [Ma, Dawei] State Grid Anhui Elect Power Co Ltd, Elect Power Res Inst, Hefei 230601, Peoples R China.
+   [Wu, Yan] Anhui Xinli Power Technol Co Ltd, Hefei 230601, Peoples R China.
+C3 Hefei University of Technology; Hefei University of Technology; State Grid Corporation of China
+RP Li, FY (corresponding author), Hefei Univ Technol, Hefei 230009, Peoples R China.
+EM fyli@hfut.edu.cn
+FU National Natural Science Foundation of China [62473125]; Foundation of Anhui Xinli Electric Technology Co., Ltd.
+CR Ashraf WM, 2022, ENERG CONVERS MANAGE, V268, P0, DOI 10.1016/j.enconman.2022.116025
+   Bak S, 2025, IEEE ACCESS, V13, P136175, DOI 10.1109/ACCESS.2025.3591040
+   Birol F, 2021, ITS CRITICAL TO TACKLE COAL EMISSIONS, V2025, P0
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Bu JY, 2025, GEOENERGY SCI ENG, V253, P0, DOI 10.1016/j.geoen.2025.213969
+   Chatterjee S, 2023, TECHNOL FORECAST SOC, V196, P0, DOI 10.1016/j.techfore.2023.122824
+   Chen HY, 2025, ENERGY, V320, P0, DOI 10.1016/j.energy.2025.135314
+   Chen JC, 2024, CASE STUD THERM ENG, V63, P0, DOI 10.1016/j.csite.2024.105334
+   Chen TQ, 2016, KDD16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP785, DOI 10.1145/2939672.2939785
+   CORTES C, 1995, MACH LEARN, V20, P273, DOI 10.1007/BF00994018
+   Cristóbal J, 2012, APPL ENERG, V98, P266, DOI 10.1016/j.apenergy.2012.03.036
+   Dash CSK, 2023, DECISION ANALYTICS JOURNAL, V6, P100164, DOI 10.1016/j.dajour.2023.100164
+   Gultom E, 2025, THERM SCI ENG PROG, V63, P0, DOI 10.1016/j.tsep.2025.103716
+   2025, 1900, V18, V0, PP484, DOI 10.22266/ijies2025.0430.33
+   Hope TM, 2020, MACHINE LEARNING METHODS AND APPLICATIONS TO BRAIN DISORDERS, V0, PP67, DOI 10.1016/B978-0-12-815739-8.00004-3
+   Jiang YQ, 2025, SCI REP-UK, V15, P0, DOI 10.1038/s41598-024-82188-y
+   Kaushik SC, 2011, RENEW SUST ENERG REV, V15, P1857, DOI 10.1016/j.rser.2010.12.007
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Li JF, 2023, ELECTR POW SYST RES, V218, P0, DOI 10.1016/j.epsr.2023.109215
+   Li YX, 2024, ENERGIES, V17, P0, DOI 10.3390/en17246346
+   Liu FG, 2024, FUELS-BASEL, V6, P0, DOI 10.3390/fuels6010001
+   Liu XP, 2025, ENERGIES, V18, P0, DOI 10.3390/en18071715
+   Mahdavinejad MS, 2018, DIGIT COMMUN NETW, V4, P161, DOI 10.1016/j.dcan.2017.10.002
+   Milic V, 2024, FRONTIERS IN ENERGY RESEARCH, V0, P12
+   Mondal S, 2021, ENERGY AI, V5, P0, DOI 10.1016/j.egyai.2021.100085
+   Nikpour M, 2025, J NETW COMPUT APPL, V235, P0, DOI 10.1016/j.jnca.2024.104089
+   Pan SJ, 2010, IEEE T KNOWL DATA EN, V22, P1345, DOI 10.1109/TKDE.2009.191
+   Rui Liu, 2014, ADVANCED MATERIALS RESEARCH, V962-965, P1368, DOI 10.4028/www.scientific.net/AMR.962-965.1368
+   Salman AM, 2025, VOKASI UNESA BULLETIN OF ENGINEERING, V0, P0
+   Secretariat I, 2022, THE EVIDENCE IS CLEAR: THE TIME FOR ACTION IS NOW. WE CAN HALVE EMISSIONS BY 2030, V0, P0
+   Shan YL, 2016, APPL ENERG, V184, P742, DOI 10.1016/j.apenergy.2016.03.073
+   Shapley LS, 1953, CLASSICS GAME THEORY, V0, P0, DOI DOI 10.1515/9781400881970-018
+   Tao SY, 2025, ENERG ENVIRON SCI, V18, P0, DOI 10.1039/d5ee02217g
+   Tao SY, 2024, NAT COMMUN, V15, P0, DOI 10.1038/s41467-024-54454-0
+   Tao SY, 2023, ACS ENERGY LETT, V8, P3269, DOI 10.1021/acsenergylett.3c01012
+   Wang CD, 2022, ENERGY, V239, P0, DOI 10.1016/j.energy.2021.122309
+   Wang TS, 2025, EXPERT SYST APPL, V288, P0, DOI 10.1016/j.eswa.2025.128235
+   Wang W, 2025, EXPERT SYST APPL, V275, P0, DOI 10.1016/j.eswa.2025.127068
+   Wang Y, 2021, CHINA GEOL, V4, P720, DOI 10.31035/cg2021083
+   Xu YJ, 2021, INNOVATION-AMSTERDAM, V2, P0, DOI 10.1016/j.xinn.2021.100179
+   Yin LF, 2021, APPL ENERG, V283, P0, DOI 10.1016/j.apenergy.2020.116328
+   You KC, 2021, PR MACH LEARN RES, V139, P0
+   Yuan T, 2025, ENERGY, V315, P0, DOI 10.1016/j.energy.2024.134303
+   Zhou SL, 2023, ENERGIES, V16, P0, DOI 10.3390/en16041646
+NR 44
+TC 1
+Z9 1
+U1 8
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD MAR 1
+PY 2026
+VL 298
+IS 
+BP 
+EP 
+DI 10.1016/j.eswa.2025.129743
+EA MAR 2026
+PG 19
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA 7SM9M
+UT WOS:001578616600005
+DA 2025-11-21
+ER
+

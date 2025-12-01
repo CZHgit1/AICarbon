@@ -1,0 +1,473 @@
+PT J
+AU Ilie, I
+   Dittrich, P
+   Carvalhais, N
+   Jung, M
+   Heinemeyer, A
+   Migliavacca, M
+   Morison, JIL
+   Sippel, S
+   Subke, JA
+   Wilkinson, M
+   Mahecha, MD
+AF Ilie, Iulia
+   Dittrich, Peter
+   Carvalhais, Nuno
+   Jung, Martin
+   Heinemeyer, Andreas
+   Migliavacca, Mirco
+   Morison, James I. L.
+   Sippel, Sebastian
+   Subke, Jens-Arne
+   Wilkinson, Matthew
+   Mahecha, Miguel D.
+TI Reverse engineering model structures for soil and ecosystem respiration: the potential of gene expression programming
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID cma evolution strategy; co2 efflux; carbon-dioxide; climate-change; fluxes; regression; uncertainty; temperature; complexity; parameters
+AB Accurate model representation of land-atmosphere carbon fluxes is essential for climate projections. However, the exact responses of carbon cycle processes to climatic drivers often remain uncertain. Presently, knowledge derived from experiments, complemented by a steadily evolving body of mechanistic theory, provides the main basis for developing such models. The strongly increasing availability of measurements may facilitate new ways of identifying suitable model structures using machine learning. Here, we explore the potential of gene expression programming (GEP) to derive relevant model formulations based solely on the signals present in data by automatically applying various mathematical transformations to potential predictors and repeatedly evolving the resulting model structures. In contrast to most other machine learning regression techniques, the GEP approach generates "readable" models that allow for prediction and possibly for interpretation. Our study is based on two cases: artificially generated data and real observations. Simulations based on artificial data show that GEP is successful in identifying prescribed functions, with the prediction capacity of the models comparable to four state-of-the-art machine learning methods (random forests, support vector machines, artificial neural networks, and kernel ridge regressions). Based on real observations we explore the responses of the different components of terrestrial respiration at an oak forest in south-eastern England. We find that the GEP-retrieved models are often better in prediction than some established respiration models. Based on their structures, we find previously unconsidered exponential dependencies of respiration on seasonal ecosystem carbon assimilation and water dynamics. We noticed that the GEP models are only partly portable across respiration components, the identification of a "general" terrestrial respiration model possibly prevented by equifinality issues. Overall, GEP is a promising tool for uncovering new model structures for terrestrial ecology in the data-rich era, complementing more traditional modelling approaches.
+C1 [Ilie, Iulia; Carvalhais, Nuno; Jung, Martin; Migliavacca, Mirco; Sippel, Sebastian; Mahecha, Miguel D.] Max Planck Inst Biogeochem, Dept Biogeochem Integrat, Hans Knoell Str 10, D-07745 Jena, Germany.
+   [Dittrich, Peter] Jena Ctr Bioinformat, Inst Comp Sci, Bio Syst Anal Grp, D-07745 Jena, Germany.
+   [Dittrich, Peter] Friedrich Schiller Univ, D-07745 Jena, Germany.
+   [Dittrich, Peter; Mahecha, Miguel D.] Michael Stifel Ctr Jena Data Driven & Simulat Sci, D-07745 Jena, Germany.
+   [Carvalhais, Nuno] Univ Nova Lisboa, Fac Ciencias & Tecnol, CENSE, Dept Ciencias & Engn Ambiente, Caparica, Portugal.
+   [Heinemeyer, Andreas] Univ York, Stockholm Environm Inst, Dept Environm, York YO10 5NG, N Yorkshire, England.
+   [Subke, Jens-Arne] Univ Stirling, Sch Nat Sci, Biol & Environm Sci, Stirling, Scotland.
+   [Mahecha, Miguel D.] German Ctr Integrat Biodivers Res iDiv, Deutsch Pl 5e, D-04103 Leipzig, Germany.
+   [Morison, James I. L.; Wilkinson, Matthew] Forest Res, Farnham GU10 4LH, Surrey, England.
+C3 Max Planck Society; Friedrich Schiller University of Jena; Universidade Nova de Lisboa; University of York - UK; University of Stirling; German Research Foundation (DFG); German Centre for Integrative Biodiversity Research (iDiv)
+RP Ilie, I; Mahecha, MD (corresponding author), Max Planck Inst Biogeochem, Dept Biogeochem Integrat, Hans Knoell Str 10, D-07745 Jena, Germany.; Mahecha, MD (corresponding author), Michael Stifel Ctr Jena Data Driven & Simulat Sci, D-07745 Jena, Germany.; Mahecha, MD (corresponding author), German Ctr Integrat Biodivers Res iDiv, Deutsch Pl 5e, D-04103 Leipzig, Germany.
+EM ilie@bgc-jena.mpg.de; mmahecha@bgc-jena.mpg.de
+FU International Max Planck Research School for global Biogeochemical Cycles (IMPRS-gBGC), Jena; European Union's H2020 research and innovation programme project BACI [640176]; NOVA [UID/AMB/04085/2013]; UK Forestry Commission; H2020 - Industrial Leadership [640176] Funding Source: H2020 - Industrial Leadership
+CR Arnold DV, 2002, IEEE T EVOLUT COMPUT, V6, P30, DOI 10.1023/A:1015059928466
+   Ashworth J, 2012, CURR OPIN BIOTECH, V23, P598, DOI 10.1016/j.copbio.2011.12.005
+   Auger A, 2005, IEEE C EVOL COMPUTAT, V0, P1769
+   Bandt C, 2002, PHYS REV LETT, V88, P0, DOI 10.1103/PhysRevLett.88.174102
+   Bennett ND, 2010, 2010 INT C ENV MOD S, V0, P1
+   Bonan GB, 2008, SCIENCE, V320, P1444, DOI 10.1126/science.1155121
+   Bongard J, 2007, P NATL ACAD SCI USA, V104, P9943, DOI 10.1073/pnas.0609476104
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   BROOMHEAD DS, 1986, PHYSICA D, V20, P217, DOI 10.1016/0167-2789(86)90031-X
+   Chang CC, 2011, ACM T INTEL SYST TEC, V2, P0, DOI 10.1145/1961189.1961199
+   Coello CAC, 2002, ADV ENG INFORM, V16, P193, DOI 10.1016/S1474-0346(02)00011-3
+   Ehrenfeld JG, 2005, ANNU REV ENV RESOUR, V30, P75, DOI 10.1146/annurev.energy.30.050504.144212
+   Fernando DAK, 2009, 18TH WORLD IMACS CONGRESS AND MODSIM09 INTERNATIONAL CONGRESS ON MODELLING AND SIMULATION, V0, P748
+   Ferreira C, 2001, COMPLEX SYSTEMS, V13, P87
+   Ferreira C, 2006, GENE EXPRESSION PROG, V21, P0
+   Friedlingstein P, 2006, J CLIMATE, V19, P3337, DOI 10.1175/JCLI3800.1
+   Gilmanov TG, 2010, RANGELAND ECOL MANAG, V63, P16, DOI 10.2111/REM-D-09-00072.1
+   Gupta HV, 2012, WATER RESOUR RES, V48, P0, DOI 10.1029/2011WR011044
+   Hansen N, 2003, EVOL COMPUT, V11, P1, DOI 10.1162/106365603321828970
+   Hansen N, 2006, STUD FUZZ SOFT COMP, V192, P75
+   Hanson PJ, 2000, BIOGEOCHEMISTRY, V48, P115, DOI 10.1023/A:1006244819642
+   Hashmi MZ, 2014, ADV WATER RESOUR, V68, P1, DOI 10.1016/j.advwatres.2014.02.009
+   Hearst MA, 1998, IEEE INTELL SYST APP, V13, P18, DOI 10.1109/5254.708428
+   Heimann M, 2008, NATURE, V451, P289, DOI 10.1038/nature06591
+   Heinemeyer A, 2012, BIOGEOSCIENCES, V9, P79, DOI 10.5194/bg-9-79-2012
+   Heinemeyer A, 2011, EUR J SOIL SCI, V62, P82, DOI 10.1111/j.1365-2389.2010.01331.x
+   HOERL AE, 1970, TECHNOMETRICS, V12, P55, DOI 10.1080/00401706.1970.10488634
+   Hoffmann M, 2015, AGR FOREST METEOROL, V200, P30, DOI 10.1016/j.agrformet.2014.09.005
+   Hölttä T, 2011, PLANT CELL ENVIRON, V34, P1819, DOI 10.1111/j.1365-3040.2011.02377.x
+   Ilie I, 2017, GENET PROGRAM UNPUB, V0, P0
+   Jakeman AJ, 2006, ENVIRON MODELL SOFTW, V21, P602, DOI 10.1016/j.envsoft.2006.01.004
+   Kabanikhin SI, 2008, J INVERSE ILL-POSE P, V16, P317, DOI 10.1515/JIIP.2008.019
+   KEENE ON, 1995, STAT MED, V14, P811, DOI 10.1002/sim.4780140810
+   Khatibi R, 2013, ATMOS ENVIRON, V68, P286, DOI 10.1016/j.atmosenv.2012.11.020
+   Kotanchek Mark E, 2013, GENETIC PROGRAMMING THEORY AND PRACTICE X, V2013, P187
+   Kowalski AM, 2011, ENTROPY-SWITZ, V13, P1055, DOI 10.3390/e13061055
+   Kuzyakov Y, 2006, SOIL BIOL BIOCHEM, V38, P425, DOI 10.1016/j.soilbio.2005.08.020
+   Lasslop G, 2008, BIOGEOSCIENCES, V5, P1311, DOI 10.5194/bg-5-1311-2008
+   Lasslop G, 2012, BIOGEOSCIENCES, V9, P5243, DOI 10.5194/bg-9-5243-2012
+   Lavoie M, 2015, J GEOPHYS RES-BIOGEO, V120, P128, DOI 10.1002/2014JG002773
+   Lázaro-Gredilla M, 2014, IEEE GEOSCI REMOTE S, V11, P838, DOI 10.1109/LGRS.2013.2279695
+   LLOYD J, 1994, FUNCT ECOL, V8, P315, DOI 10.2307/2389824
+   Luo YQ, 2015, GLOBAL CHANGE BIOL, V21, P1737, DOI 10.1111/gcb.12766
+   Mahecha MD, 2010, SCIENCE, V329, P838, DOI 10.1126/science.1189587
+   Manning WG, 1998, J HEALTH ECON, V17, P283, DOI 10.1016/S0167-6296(98)00025-3
+   Migliavacca M, 2012, BIOGEOSCIENCES, V9, P2063, DOI 10.5194/bg-9-2063-2012
+   Migliavacca M, 2015, GLOBAL CHANGE BIOL, V21, P363, DOI 10.1111/gcb.12671
+   Migliavacca M, 2011, GLOBAL CHANGE BIOL, V17, P390, DOI 10.1111/j.1365-2486.2010.02243.x
+   Mitchell S, 2009, ECOL MODEL, V220, P3259, DOI 10.1016/j.ecolmodel.2009.08.021
+   Moncrieff JB, 1997, JOURNAL OF HYDROLOGY (AMSTERDAM), V188-189, P589, DOI 10.1016/S0022-1694(96)03194-0
+   Moyano FE, 2008, AGR FOREST METEOROL, V148, P135, DOI 10.1016/j.agrformet.2007.09.006
+   Nash JE, 1970, J. HYDROL, V10, P282, DOI 10.1016/0022-1694(70)90255-6
+   NEWMAN MC, 1993, ENVIRON TOXICOL CHEM, V12, P1129, DOI 10.1002/etc.5620120618
+   Peng SS, 2015, GLOBAL BIOGEOCHEM CY, V29, P46, DOI 10.1002/2014GB004931
+   Peng YZ, 2014, NEUROCOMPUTING, V137, P293, DOI 10.1016/j.neucom.2013.05.062
+   Pérez-Priego O, 2015, PLANT SOIL, V393, P229, DOI 10.1007/s11104-015-2481-x
+   Reichstein M, 2005, GLOBAL CHANGE BIOL, V11, P1424, DOI 10.1111/j.1365-2486.2005.001002.x
+   Reichstein M, 2008, J PLANT NUTR SOIL SC, V171, P344, DOI 10.1002/jpln.200700075
+   Richardson AD, 2008, AGR FOREST METEOROL, V148, P38, DOI 10.1016/j.agrformet.2007.09.001
+   Rosso OA, 2007, PHYS REV LETT, V99, P0, DOI 10.1103/PhysRevLett.99.154102
+   Ryan MG, 2005, BIOGEOCHEMISTRY, V73, P3, DOI 10.1007/s10533-004-5167-7
+   Shannon CE, 1948, THE BELL SYSTEM TECHNICAL JOURNAL, V27, P379, DOI 10.1002/j.1538-7305.1948.tb01338.x
+   Shi Z, 2012, J SOIL SCI PLANT NUT, V12, P411, DOI 10.4067/S0718-95162013005000053
+   Sippel S, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0164960
+   Subke JA, 2006, GLOBAL CHANGE BIOL, V12, P921, DOI 10.1111/j.1365-2486.2006.01117.x
+   Tramontana G, 2016, BIOGEOSCIENCES, V13, P4291, DOI 10.5194/bg-13-4291-2016
+   Traore S, 2013, IRRIGATION SCI, V31, P1, DOI 10.1007/s00271-011-0288-y
+   Trumbore S, 2006, GLOBAL CHANGE BIOL, V12, P141, DOI 10.1111/j.1365-2486.2006.01067.x
+   von Buttlar J, 2014, NONLINEAR PROC GEOPH, V21, P203, DOI 10.5194/npg-21-203-2014
+   Wehr R, 2016, NATURE, V534, P680, DOI 10.1038/nature17966
+   Wilkinson M, 2012, BIOGEOSCIENCES, V9, P5373, DOI 10.5194/bg-9-5373-2012
+   Williams M, 2009, BIOGEOSCIENCES, V6, P1341, DOI 10.5194/bg-6-1341-2009
+   Yegnanarayana B, 2006, ARTIFICIAL NEURAL NETWORKS", V0, P0
+   Zanin M, 2012, ENTROPY-SWITZ, V14, P1553, DOI 10.3390/e14081553
+NR 74
+TC 11
+Z9 12
+U1 0
+U2 17
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD SEP 25
+PY 2017
+VL 10
+IS 9
+BP 3519
+EP 3545
+DI 10.5194/gmd-10-3519-2017
+PG 27
+WC Geosciences, Multidisciplinary
+SC Geology
+GA FI0FE
+UT WOS:000411598200001
+DA 2025-11-05
+ER
+
+PT J
+AU Sánchez-Cañete, EP
+   Scott, RL
+   van Haren, J
+   Barron-Gafford, GA
+AF Sanchez-Canete, Enrique P.
+   Scott, Russell L.
+   van Haren, Joost
+   Barron-Gafford, Greg A.
+TI Improving the accuracy of the gradient method for determining soil carbon dioxide efflux
+SO JOURNAL OF GEOPHYSICAL RESEARCH-BIOGEOSCIENCES
+LA English
+DT Article
+DE soil respiration; diffusion coefficient; conservative tracers; carbon emissions; CO2 sensors; soil CO2 flux
+ID gas-diffusion coefficient; net ecosystem exchange; in-situ measurement; floor co2 fluxes; eddy-covariance; forest soil; porous-media; temperature sensitivity; modeling diffusion; filling strategy
+AB Soil CO2 efflux (F-soil) represents a significant source of ecosystem CO2 emissions that is rarely quantified with high-temporal-resolution data in carbon flux studies. F-soil estimates can be obtained by the low-cost gradient method (GM), but the utility of the method is hindered by uncertainties in the application of published models for the diffusion coefficient. Therefore, to address and resolve these uncertainties, we compared F-soil measured by 2 soil CO2 efflux chambers and F-soil estimated by 16 gas transport models using the GM across 1year. We used 14 published empirical gas diffusion models and 2 in situ models: (1) a gas transfer model called Chamber model obtained using a calibration between the chamber and the gradient method and (2) a diffusion model called SF6 model obtained through an interwell conservative tracer experiment. Most of the published models using the GM underestimated cumulative annual F-soil by 55% to 361%, while the Chamber model closely approximated cumulative F-soil (0.6% error). Surprisingly, the SF6 model combined with the GM underestimated F-soil by 32%. Differences between in situ models could stem from the Chamber model implicitly accounting for production of soil CO2, while the conservative tracer model does not. Therefore, we recommend using the GM only after calibration with chamber measurements to generate reliable long-term ecosystem F-soil measurements. Accurate estimates of F-soil will improve our understanding of soil respiration's contribution to ecosystem fluxes.
+C1 [Sanchez-Canete, Enrique P.; van Haren, Joost; Barron-Gafford, Greg A.] Univ Arizona, Biosphere 2, Earthsci B2, Tucson, AZ USA.
+   [Sanchez-Canete, Enrique P.] Ctr Andaluz Medio Ambiente IISTA CEAMA, Granada, Spain.
+   [Scott, Russell L.] USDA ARS, Southwest Watershed Res Ctr, Tucson, AZ USA.
+   [van Haren, Joost] Univ Arizona, Honors Coll, Tucson, AZ USA.
+   [Barron-Gafford, Greg A.] Univ Arizona, Sch Geog & Dev, Tucson, AZ USA.
+C3 University of Arizona; Universidad de Cordoba; Universidad de Jaen; University of Granada; Instituto Interuniversitario de Investigacion del Sistema Tierra en Andalucia; United States Department of Agriculture (USDA); University of Arizona; University of Arizona
+RP Sánchez-Cañete, EP (corresponding author), Univ Arizona, Biosphere 2, Earthsci B2, Tucson, AZ USA.; Sánchez-Cañete, EP (corresponding author), Ctr Andaluz Medio Ambiente IISTA CEAMA, Granada, Spain.
+EM enripsc@ugr.es
+FU NSF [1417101, 1331408]; Marie Curie International Outgoing Fellowship within the Seventh European Community, DIESEL project [625988]; Directorate For Geosciences; Division Of Earth Sciences [1331408] Funding Source: National Science Foundation; Directorate For Geosciences; Division Of Earth Sciences [1417444, 1417101] Funding Source: National Science Foundation
+CR Allaire SE, 2008, J ENVIRON MONITOR, V10, P1326, DOI 10.1039/b809461f
+   Unknown -, 2012, BIOGEOSCIENCES DISCU, V0, P0
+   BALL BC, 1994, EUR J SOIL SCI, V45, P3, DOI 10.1111/j.1365-2389.1994.tb00480.x
+   Barr AG, 2013, AGR FOREST METEOROL, V171, P31, DOI 10.1016/j.agrformet.2012.11.023
+   Barron-Gafford GA, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001442
+   Bond-Lamberty B, 2010, BIOGEOSCIENCES, V7, P1915, DOI 10.5194/bg-7-1915-2010
+   Bowling DR, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2011JG001722
+   Buckingham E, 1904, CONTRIBUTIONS OUR KN, V0, P0
+   Comas X, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2011JG001701
+   CURRIE JA, 1970, MONOGRAPH SOC CHEM I, V37, P152
+   Davidson EA, 2006, NATURE, V440, P165, DOI 10.1038/nature04514
+   DAVIDSON EA, 1995, TELLUS B, V47, P550, DOI 10.1034/j.1600-0889.47.issue5.3.x
+   Davidson EA, 2006, GLOBAL CHANGE BIOL, V12, P944, DOI 10.1111/j.1365-2486.2005.01142.x
+   Desai AR, 2008, AGR FOREST METEOROL, V148, P821, DOI 10.1016/j.agrformet.2007.11.012
+   Drewitt GB, 2005, CAN J SOIL SCI, V85, P213, DOI 10.4141/S04-041
+   Drewitt GB, 2002, AGR FOREST METEOROL, V110, P299, DOI 10.1016/S0168-1923(01)00294-5
+   Falge E, 2001, AGR FOREST METEOROL, V107, P43, DOI 10.1016/S0168-1923(00)00225-2
+   Finkelstein PL, 2001, J GEOPHYS RES-ATMOS, V106, P3503, DOI 10.1029/2000JD900731
+   Franzluebbers K, 2002, SOIL SCI SOC AM J, V66, P254, DOI 10.2136/sssaj2002.0254
+   Fujiyoshi R, 2010, ENVIRON GEOCHEM HLTH, V32, P73, DOI 10.1007/s10653-009-9266-1
+   Ghanbarian-Alavijeh B, 2012, WATER RESOUR RES, V48, P0, DOI 10.1029/2011WR011758
+   Goffin S, 2015, PLANT SOIL, V390, P195, DOI 10.1007/s11104-015-2381-0
+   Goffin S, 2014, AGR FOREST METEOROL, V188, P45, DOI 10.1016/j.agrformet.2013.11.005
+   Gomez-Casanovas N, 2013, GLOBAL CHANGE BIOL, V19, P1941, DOI 10.1111/gcb.12127
+   Hamerlynck EP, 2013, J GEOPHYS RES-BIOGEO, V118, P1593, DOI 10.1002/2013JG002495
+   Hirsch AI, 2004, TELLUS B, V56, P312, DOI 10.1111/j.1600-0889.2004.00113.x
+   Jabro JD, 2012, ARCH AGRON SOIL SCI, V58, P1, DOI 10.1080/03650340.2010.506482
+   Janssens IA, 2001, GLOBAL CHANGE BIOL, V7, P269, DOI 10.1046/j.1365-2486.2001.00412.x
+   Janssens IA, 2001, AGR FOREST METEOROL, V106, P61, DOI 10.1016/S0168-1923(00)00177-5
+   Jassal R, 2005, AGR FOREST METEOROL, V130, P176, DOI 10.1016/j.agrformet.2005.03.005
+   Johnson PC, 1998, ENVIRON SCI TECHNOL, V32, P3405, DOI 10.1021/es980186q
+   Jones HG, 1992, PLANT MICROCLIMATE, V2nd, P0
+   Knohl A, 2008, PLANT SOIL, V302, P189, DOI 10.1007/s11104-007-9467-2
+   Köppen W, 1918, PETERMANNS MITT, V64, P193
+   Kowalski AS, 2008, AGR FOREST METEOROL, V148, P1045, DOI 10.1016/j.agrformet.2008.02.004
+   Kowalski AS, 2011, TELLUS B, V63, P1059, DOI 10.1111/j.1600-0889.2011.00579.x
+   Kowalski AS, 2010, J APPL METEOROL CLIM, V49, P1692, DOI 10.1175/2010JAMC2534.1
+   LAI SH, 1976, SOIL SCI SOC AM J, V40, P3, DOI 10.2136/sssaj1976.03615995004000010006x
+   Langford B, 2015, ATMOS MEAS TECH, V8, P4197, DOI 10.5194/amt-8-4197-2015
+   Lavigne MB, 1997, J GEOPHYS RES-ATMOS, V102, P28977, DOI 10.1029/97JD01173
+   Longdoz B, 2000, GLOB CHANGE BIOL, V6, P907, DOI 10.1046/j.1365-2486.2000.00369.x
+   Mahecha MD, 2010, SCIENCE, V329, P838, DOI 10.1126/science.1189587
+   Maier M, 2014, AGR FOREST METEOROL, V192, P78, DOI 10.1016/j.agrformet.2014.03.006
+   Maier M, 2010, EUR J SOIL SCI, V61, P877, DOI 10.1111/j.1365-2389.2010.01287.x
+   MARSHALL TJ, 1959, J SOIL SCI, V10, P79, DOI 10.1111/j.1365-2389.1959.tb00667.x
+   Massman WJ, 1997, J GEOPHYS RES-ATMOS, V102, P18851, DOI 10.1029/97JD00844
+   McFarlane K, 2014, RECOMMENDATIONS FOR BELOWGROUND CARBON DATA AND MEASUREMENTS FOR THE AMERIFLUX NETWORK, V0, P0
+   MILLINGTON R, 1961, T FARADAY SOC, V57, P1200, DOI 10.1039/tf9615701200
+   MILLINGTON RJ, 1959, SCIENCE, V130, P100, DOI 10.1126/science.130.3367.100-a
+   Moldrup P, 1997, SOIL SCI, V162, P632, DOI 10.1097/00010694-199709000-00004
+   Moldrup P, 2000, SOIL SCI SOC AM J, V64, P1588, DOI 10.2136/sssaj2000.6451588x
+   Moldrup P, 1999, SOIL SCI, V164, P542, DOI 10.1097/00010694-199908000-00002
+   Moldrup P, 1996, SOIL SCI, V161, P0
+   Moore JR, 2011, EARTH SURF PROC LAND, V36, P1985, DOI 10.1002/esp.2217
+   Nachshon U, 2012, J GEOPHYS RES-BIOGEO, V117, P0, DOI 10.1029/2011JG001898
+   Oishi AC, 2013, AGR FOREST METEOROL, V171, P256, DOI 10.1016/j.agrformet.2012.12.007
+   Ota M, 2010, ATMOS ENVIRON, V44, P4529, DOI 10.1016/j.atmosenv.2010.08.031
+   Penman HL, 1940, J AGR SCI, V30, P437, DOI 10.1017/S0021859600048164
+   Pingintha N, 2010, TELLUS B, V62, P47, DOI 10.1111/j.1600-0889.2009.00445.x
+   Pumpanen J, 2004, AGR FOREST METEOROL, V123, P159, DOI 10.1016/j.agrformet.2003.12.001
+   Pumpanen J, 2003, SOIL SCI SOC AM J, V67, P402, DOI 10.2136/sssaj2003.0402
+   RAICH JW, 1992, TELLUS B, V44, P81, DOI 10.1034/j.1600-0889.1992.t01-1-00001.x
+   Rains FA, 2016, COLD REG SCI TECHNOL, V121, P16, DOI 10.1016/j.coldregions.2015.10.003
+   Rey A, 2012, GLOBAL CHANGE BIOL, V18, P539, DOI 10.1111/j.1365-2486.2011.02534.x
+   Risk D, 2013, SOIL BIOL BIOCHEM, V66, P193, DOI 10.1016/j.soilbio.2013.07.006
+   Rogie JD, 2001, EARTH PLANET SC LETT, V188, P535, DOI 10.1016/S0012-821X(01)00344-2
+   Roland M, 2015, J GEOPHYS RES-BIOGEO, V120, P502, DOI 10.1002/2014JG002788
+   SADEGHI AM, 1989, SOIL SCI SOC AM J, V53, P15, DOI 10.2136/sssaj1989.03615995005300010003x
+   Sánchez-Cañete EP, 2013, BIOGEOSCIENCES, V10, P6591, DOI 10.5194/bg-10-6591-2013
+   Sanchez-Cañete EP, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2011GL047077
+   Sánchez-Cañete EP, 2017, J GEOPHYS RES-BIOGEO, V122, P50, DOI 10.1002/2016JG003530
+   Sanchez-Cañete EP, 2014, AGR FOREST METEOROL, V197, P254, DOI 10.1016/j.agrformet.2014.07.002
+   Sánchez-Cañete EP, 2013, INT J SPELEOL, V42, P1, DOI 10.5038/1827-806X.42.1.1
+   Schack-Kirchner H, 2011, VADOSE ZONE J, V10, P169, DOI 10.2136/vzj2009.0193
+   Scott RL, 2015, J GEOPHYS RES-BIOGEO, V120, P2612, DOI 10.1002/2015JG003181
+   Scott RL, 2009, J GEOPHYS RES-BIOGEO, V114, P0, DOI 10.1029/2008JG000900
+   Seok B, 2009, BIOGEOCHEMISTRY, V95, P95, DOI 10.1007/s10533-009-9302-3
+   Serrano-Ortiz P, 2010, AGR FOREST METEOROL, V150, P321, DOI 10.1016/j.agrformet.2010.01.002
+   Shcherbak I, 2014, SOIL SCI SOC AM J, V78, P1492, DOI 10.2136/sssaj2013.05.0181er
+   Sponseller RA, 2007, GLOBAL CHANGE BIOL, V13, P426, DOI 10.1111/j.1365-2486.2006.01307.x
+   Stoy PC, 2006, AGR FOREST METEOROL, V141, P2, DOI 10.1016/j.agrformet.2006.09.001
+   Subke JA, 2003, SOIL BIOL BIOCHEM, V35, P1467, DOI 10.1016/S0038-0717(03)00241-4
+   Takle ES, 2004, AGR FOREST METEOROL, V124, P193, DOI 10.1016/j.agrformet.2004.01.014
+   Tang JW, 2003, AGR FOREST METEOROL, V118, P207, DOI 10.1016/S0168-1923(03)00112-6
+   Uchida M, 1997, AGR FOREST METEOROL, V87, P301, DOI 10.1016/S0168-1923(97)00001-4
+   van Gorsel E, 2008, AGR FOREST METEOROL, V148, P1174, DOI 10.1016/j.agrformet.2008.01.015
+   Vargas R, 2012, GLOBAL CHANGE BIOL, V18, P1401, DOI 10.1111/j.1365-2486.2011.02628.x
+   Vargas R, 2011, BIOGEOCHEMISTRY, V102, P1, DOI 10.1007/s10533-010-9462-1
+   Vargas R, 2010, ECOL APPL, V20, P1569, DOI 10.1890/09-0693.1
+   Vaz CMP, 2013, VADOSE ZONE J, V12, P0, DOI 10.2136/vzj2012.0160
+   Weisbrod N, 2009, GEOPHYS RES LETT, V36, P0, DOI 10.1029/2008GL036096
+   Werner D, 2004, VADOSE ZONE J, V3, P1240
+   WILHELM E, 1977, CHEM REV, V77, P219, DOI 10.1021/cr60306a003
+   Wooton EO, 1898, BULLETIN OF THE TORREY BOTANICAL CLUB, V25, P451
+   XU X, 1992, SOIL SCI SOC AM J, V56, P1743, DOI 10.2136/sssaj1992.03615995005600060014x
+   Zhang Q, 2015, J GEOPHYS RES-BIOGEO, V120, P1605, DOI 10.1002/2015JG003047
+NR 96
+TC 28
+Z9 31
+U1 1
+U2 20
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-8953
+EI 2169-8961
+J9 J GEOPHYS RES-BIOGEO
+JI J. Geophys. Res.-Biogeosci.
+PD JAN 15
+PY 2017
+VL 122
+IS 1
+BP 50
+EP 64
+DI 10.1002/2016JG003530
+PG 15
+WC Environmental Sciences; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA EL9MM
+UT WOS:000394944400004
+DA 2025-11-05
+ER
+
+PT J
+AU Lu, XY
+   Ota, KR
+   Dong, MX
+   Yu, C
+   Jin, H
+AF Lu, Xiangyong
+   Ota, Kaoru
+   Dong, Mianxiong
+   Yu, Chen
+   Jin, Hai
+TI Predicting Transportation Carbon Emission with Urban Big Data
+SO IEEE TRANSACTIONS ON SUSTAINABLE COMPUTING
+LA English
+DT Article
+DE Transportation carbon emission; urban big data; multilayer perceptron neural network; real-time prediction
+ID network
+AB Transportation carbon emission is a significant contributor to the increase of greenhouse gases, which directly threatens the change of climate and human health. Under the pressure of the environment, it is very important to master the information of transportation carbon emission in real time. In the traditional way, we get the information of the transportation carbon emission by calculating the combustion of fossil fuel in the transportation sector. However, it is very difficult to obtain the real-time and accurate fossil fuel combustion in the transportation field. In this paper, we predict the real-time and fine-grained transportation carbon emission information in the whole city, based on the spatio-temporal datasets we observed in the city, that is taxi GPS data, transportation carbon emission data, road networks, points of interests (POIs), and meteorological data. We propose a three-layer perceptron neural network (3-layer PNN) to learn the characteristics of collected data and infer the transportation carbon emission. We evaluate our method with extensive experiments based on five real data sources obtained in Zhuhai, China. The results show that our method has advantages over the well-known three machine learning methods (Gaussian Naive Bayes, Linear Regression, and Logistic Regression) and two deep learning methods (Stacked Denoising Autoencoder and Deep Belief Networks).
+C1 [Lu, Xiangyong; Yu, Chen; Jin, Hai] Huazhong Univ Sci & Technol, Sch Comp Sci & Technol, Serv Comp Technol & Syst Lab, Cluster & Grid Comp Lab,Big Data Technol & Syst L, Wuhan 430074, Peoples R China.
+   [Lu, Xiangyong; Ota, Kaoru; Dong, Mianxiong] Muroran Inst Technol, Dept Informat & Elect Engn, Muroran, Hokkaido 0508585, Japan.
+C3 Huazhong University of Science & Technology; Muroran Institute of Technology
+RP Dong, MX (corresponding author), Muroran Inst Technol, Dept Informat & Elect Engn, Muroran, Hokkaido 0508585, Japan.
+EM m201572848@hust.edu.cn; ota@csse.muroran-it.ac.jp; mx.dong@csse.muroran-it.ac.jp; yuchen@hust.edu.cn; hJin@hust.edu.cn
+FU NSFC [61472149]; Fundamental Research Funds for the Central Universities [2015QN67]; National 863 Hi-Tech Research; JSPS KAKENHI [JP16K00117, JP15K15976]; KDDI Foundation; Grants-in-Aid for Scientific Research [16K00117, 15K15976] Funding Source: KAKEN
+CR Abadi A, 2015, IEEE T INTELL TRANSP, V16, P653, DOI 10.1109/TITS.2014.2337238
+   Chan KY, 2013, IEEE T IND ELECTRON, V60, P4714, DOI 10.1109/TIE.2012.2213556
+   Chen LB, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING (UBICOMP 2015), V0, PP571, DOI 10.1145/2750858.2804291
+   Fan ZP, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING (UBICOMP 2015), V0, PP559, DOI 10.1145/2750858.2804277
+   Hinton GE, 2006, NEURAL COMPUT, V18, P1527, DOI 10.1162/neco.2006.18.7.1527
+   Hosmer DW, 2004, APPLIED LOGISTIC REGRESSION, V0, P0
+   Karamshuk D, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD13), V0, P793
+   Li DR, 2015, SCI CHINA INFORM SCI, V58, P0, DOI 10.1007/s11432-015-5396-5
+   Ota K, 2017, ACM T MULTIM COMPUT, V13, P0, DOI 10.1145/3092831
+   Ota K, 2011, 2011 IEEE WIRELESS COMMUNICATIONS AND NETWORKING CONFERENCE (WCNC), V0, PP1021, DOI 10.1109/WCNC.2011.5779275
+   Seber GA, 2012, LINEAR REGRESSION AN, V0, P0
+   Shimosaka M, 2015, PROCEEDINGS OF THE 2015 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING (UBICOMP 2015), V0, PP535, DOI 10.1145/2750858.2807527
+   Social Development Squad of the Ministry of Science and Technology, 2007, HDB EN SAV EM RED, V0, P0
+   Sowe SK, 2014, 2014 38TH ANNUAL IEEE INTERNATIONAL COMPUTER SOFTWARE AND APPLICATIONS CONFERENCE WORKSHOPS (COMPSACW 2014), V0, PP295, DOI 10.1109/COMPSACW.2014.52
+   Sun YC, 2016, IEEE ACCESS, V4, P766, DOI 10.1109/ACCESS.2016.2529723
+   USEPA, 2015, INV US GREENH GAS EM, V0, P114
+   USEPA, 2017, INV US GREENH GAS EM, V0, P0
+   Vincent P, 2010, J MACH LEARN RES, V11, P3371
+   Wang ZH, 2015, IEEE COMMUN MAG, V53, P216, DOI 10.1109/MCOM.2015.7105668
+   Wang ZC, 2013, IEEE T VIS COMPUT GR, V19, P2159, DOI 10.1109/TVCG.2013.228
+   Yang DQ, 2015, IEEE T SYST MAN CY-S, V45, P129, DOI 10.1109/TSMC.2014.2327053
+   Yang JC, 2015, SENSORS-BASEL, V15, P29535, DOI 10.3390/s151129535
+   Zhang FZ, 2013, UBICOMP13: PROCEEDINGS OF THE 2013 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING, V0, P13
+   Zhang JQ, 2004, 18TH INTERNATIONAL CONFERENCE ON ADVANCED INFORMATION NETWORKING AND APPLICATIONS, VOL 1 (LONG PAPERS), PROCEEDINGS
+   Zhang J, 2015, IEEE ACM T NETWORK, V23, P1257, DOI 10.1109/TNET.2014.2320577
+   Zheng Y, 2014, ACM T INTEL SYST TEC, V5, P0, DOI 10.1145/2629592
+   Zheng Y, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD13), V0, PP1436, DOI 10.1145/2487575.2488188
+   Zhuhai Bureau of Transportation, 2015, TRAFFIC TRANSP, V0, P14
+NR 29
+TC 62
+Z9 70
+U1 7
+U2 146
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2377-3782
+EI 
+J9 IEEE T SUST COMPUT
+JI IEEE Trans. Sustain. Comput.
+PD OCT-DEC 15
+PY 2017
+VL 2
+IS 4
+BP 333
+EP 344
+DI 10.1109/TSUSC.2017.2728805
+PG 12
+WC Computer Science, Hardware & Architecture; Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA VK5HE
+UT WOS:000719472700003
+DA 2025-11-05
+ER
+
+PT J
+AU Hosseinzadeh-Bandbafha, H
+   Nabavi-Pelesaraei, A
+   Shamshirband, S
+AF Hosseinzadeh-Bandbafha, Homo
+   Nabavi-Pelesaraei, Ashkan
+   Shamshirband, Shahaboddin
+TI Investigations of Energy Consumption and Greenhouse Gas Emissions of Fattening Farms Using Artificial Intelligence Methods
+SO ENVIRONMENTAL PROGRESS & SUSTAINABLE ENERGY
+LA English
+DT Article
+DE artificial intelligence; energy; fattening; greenhouse gas emission; prediction
+ID fuzzy inference system; life-cycle assessment; neural-networks; exhaust emissions; wheat production; iran; province; yield; performance; engine
+AB The aim o f this study was to assess artificial intelligence methods (adaptive neuro-fuzzy inference systems and artificial neural network, ANN) for modeling and predicting energy output and greenhouse gas emissions from calf fattening farms in Abyek and Alborz cities of Iran. The modeling was done based on the amount of energy input. From the total energy input of 24,003 (MJ calf(-1)), feed and fossil fuels have the most significant share. The analysis of greenhouse gas emissions showed that 1174 kg of carbon dioxide equivalent per head of calf was released for the fattening period of 6-12 months. The best model of ANN had 6-16-2 structure. The best adaptive neuro-fuzzy inference systems model was designed using four adaptive neuro-fuzzy inference systems sub-networks, which were developed at two stages. Comparison between the models showed that, due to employing fuzzy rules, the adaptive neuro-fuzzy inference systems models could model energy output and greenhouse gas emissions more accurately than the ANN model. Regression coefficient, root means square error, and mean absolute percentage error for the ANN model were 0.721, 0.055, and 0.9 for energy output, while 0.733, 0.048, and 2.49 for greenhouse gas emissions. These values for the best topology adaptive neuro-fuzzy inference systems were 0.999, 0.006, and 0.098 for energy output, while 0.996, 0.005, and 0.362 for greenhouse gas emissions. (C) 2017 American Institute of Chemical Engineers
+C1 [Hosseinzadeh-Bandbafha, Homo; Nabavi-Pelesaraei, Ashkan] Univ Tehran, Fac Agr Engn & Technol, Dept Agr Machinery Engn, Karaj, Iran.
+   [Nabavi-Pelesaraei, Ashkan] Management Fruit & Vegetables Org, Tehran, Iran.
+   [Shamshirband, Shahaboddin] Islamic Azad Univ, Dept Comp Sci, Chalous Branch, Chalus, Mazandaran Prov, Iran.
+C3 University of Tehran; Islamic Azad University
+RP Nabavi-Pelesaraei, A (corresponding author), Univ Tehran, Fac Agr Engn & Technol, Dept Agr Machinery Engn, Karaj, Iran.; Nabavi-Pelesaraei, A (corresponding author), Management Fruit & Vegetables Org, Tehran, Iran.
+EM ashkan.nabavi@ut.ac.ir
+CR Amid S, 2017, ENVIRON PROG SUSTAIN, V36, P577, DOI 10.1002/ep.12448
+   Çakmak G, 2011, COMPUT ELECTRON AGR, V75, P132, DOI 10.1016/j.compag.2010.10.008
+   Ceylan H, 2002, THESIS, V0, P0
+   Cochran WG, 2007, SAMPLING TECHNIQUES, V0, P0
+   Erenturk S, 2007, J FOOD ENG, V78, P905, DOI 10.1016/j.jfoodeng.2005.11.031
+   Farokhnia A, 2011, THEOR APPL CLIMATOL, V104, P71, DOI 10.1007/s00704-010-0317-4
+   Frorip J, 2012, AGRONOMY RESEARCH, V10, P39
+   Ghobadian B, 2009, RENEW ENERG, V34, P976, DOI 10.1016/j.renene.2008.08.008
+   GROSSBERG S, 1988, NEURAL NETWORKS, V1, P17, DOI 10.1016/0893-6080(88)90021-4
+   Grzesiak W, 2006, COMPUT ELECTRON AGR, V54, P69, DOI 10.1016/j.compag.2006.08.004
+   Heidari MD, 2011, ENERGY, V36, P6536, DOI 10.1016/j.energy.2011.09.011
+   Hernandez-Perez JA, 2004, INNOVATIVE FOOD SCIENCE & EMERGING TECHNOLOGIES, V5, P57, DOI 10.1016/j.ifset.2003.10.004
+   Herrero M, 2008, AGR ECOSYST ENVIRON, V126, P122, DOI 10.1016/j.agee.2008.01.017
+   Hosoz M, 2013, APPL THERM ENG, V60, P24, DOI 10.1016/j.applthermaleng.2013.06.040
+   Hosseinzadeh-Bandbafha H, 2018, JOURNAL OF THE SAUDI SOCIETY OF AGRICULTURAL SCIENCES, V17, P217, DOI 10.1016/j.jssas.2016.04.006
+   Hosseinzadeh-Bandbafha H, 2015, BIOLOGICAL FORUM, V7, P743
+   Hosseinzadeh-Bandbafha H, 2017, ENERGY, V120, P652, DOI 10.1016/j.energy.2016.11.117
+   IPCC, 2003, GOOD PRACTICE GUIDANCE FOR LAND USE, V0, P0
+   IPCC, 2007, CLIM CHANG 2007 PHYS, V0, P0
+   Jang JSR, 1997, NEURO FUZZY SOFT COM, V0, P0
+   Jiao HP, 2014, AGR ECOSYST ENVIRON, V183, P160, DOI 10.1016/j.agee.2013.11.004
+   Khashei-Siuki A, 2011, J AGR SCI TECH-IRAN, V13, P627
+   Khoshnevisan B, 2015, J AGR SCI TECH-IRAN, V17, P49
+   Khoshnevisan B, 2014, INFORMATION PROCESSING IN AGRICULTURE, V1, P14, DOI 10.1016/J.INPA.2014.04.001
+   Khoshnevisan B, 2014, MEASUREMENT, V47, P903, DOI 10.1016/j.measurement.2013.10.018
+   Khoshnevisan B, 2014, MEASUREMENT, V47, P521, DOI 10.1016/j.measurement.2013.09.020
+   Khoshnevisan B, 2013, ENERGY, V52, P333, DOI 10.1016/j.energy.2013.01.028
+   Kiani MKD, 2010, ENERGY, V35, P65, DOI 10.1016/j.energy.2009.08.034
+   Kiran TR, 2011, APPL SOFT COMPUT, V11, P3525, DOI 10.1016/j.asoc.2011.01.025
+   Kitani O, 1999, CIGR HDB AGR ENG, V5, P0
+   Kouchaki-Penchah H, 2016, J CLEAN PROD, V112, P343, DOI 10.1016/j.jclepro.2015.07.056
+   Lahiri SK, 2010, ASIA-PAC J CHEM ENG, V5, P763, DOI 10.1002/apj.403
+   Lal R, 2004, ENVIRON INT, V30, P981, DOI 10.1016/j.envint.2004.03.005
+   Mandal KG, 2002, BIOMASS BIOENERG, V23, P337, DOI 10.1016/S0961-9534(02)00058-2
+   Mc Court a, 2006, INT. CONGR. SER, V1293, P46, DOI 10.1016/J.ICS.2006.01.073
+   Nabavi-Pelesaraei A, 2016, JOURNAL OF THE SAUDI SOCIETY OF AGRICULTURAL SCIENCES, V15, P38, DOI 10.1016/j.jssas.2014.05.001
+   Nabavi-Pelesaraei A, 2017, J CLEAN PROD, V148, P427, DOI 10.1016/j.jclepro.2017.01.172
+   Nabavi-Pelesaraei A, 2016, STOCH ENV RES RISK A, V30, P413, DOI 10.1007/s00477-015-1152-z
+   Nabavi-Pelesaraei A, 2014, J CLEAN PROD, V65, P311, DOI 10.1016/j.jclepro.2013.08.019
+   Naderloo L, 2012, MEASUREMENT, V45, P1406, DOI 10.1016/j.measurement.2012.03.025
+   Najafi G, 2009, APPL ENERG, V86, P630, DOI 10.1016/j.apenergy.2008.09.017
+   Oguz H, 2010, EXPERT SYST APPL, V37, P6579, DOI 10.1016/j.eswa.2010.02.128
+   Ozkan B, 2004, RENEW ENERG, V29, P39, DOI 10.1016/S0960-1481(03)00135-6
+   Qasemi-Kordkheili Peyman, 2014, INTERNATIONAL JOURNAL OF ENERGY AND ENVIRONMENT, V5, P207
+   Safa M, 2011, ENERGY, V36, P5140, DOI 10.1016/j.energy.2011.06.016
+   Sayed T, 2003, J COMPUT CIVIL ENG, V17, P123, DOI 10.1061/(ASCE)0887-3801(2003)17:2(123)
+   Sefeedpari P, 2015, INTERNATIONAL JOURNAL OF DAIRY SCIENCE, V10, P173, DOI 10.3923/ijds.2015.173.185
+   Sefeedpari P, 2014, COMPUT ELECTRON AGR, V109, P80, DOI 10.1016/j.compag.2014.09.010
+   Singh R, 2012, APPL SOFT COMPUT, V12, P40, DOI 10.1016/j.asoc.2011.09.010
+   Singh S, 1992, ENERGY IN PRODUCTION AGRICULTURE, V0, P0
+   Soyguder S, 2009, ENERG BUILDINGS, V41, P814, DOI 10.1016/j.enbuild.2009.03.003
+   Tabatabaie SMH, 2012, ENERGY, V44, P211, DOI 10.1016/j.energy.2012.06.036
+   Tzilivakis J, 2005, AGR SYST, V85, P101, DOI 10.1016/j.agsy.2004.07.015
+   Vasseghian Y, 2016, JOURNAL OF FOOD BIOSCIENCES AND TECHNOLOGY, V6, P1
+   Wuebbles DJ, 2002, EARTH-SCI REV, V57, P177, DOI 10.1016/S0012-8252(01)00062-9
+   Zangeneh M, 2010, ENERGY, V35, P2927, DOI 10.1016/j.energy.2010.03.024
+NR 56
+TC 32
+Z9 34
+U1 5
+U2 33
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1944-7442
+EI 1944-7450
+J9 ENVIRON PROG SUSTAIN
+JI Environ. Prog. Sustain. Energy
+PD SEP 15
+PY 2017
+VL 36
+IS 5
+BP 1546
+EP 1559
+DI 10.1002/ep.12604
+PG 14
+WC Green & Sustainable Science & Technology; Engineering, Environmental; Engineering, Chemical; Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences & Ecology
+GA FL5LL
+UT WOS:000414284700032
+DA 2025-11-05
+ER
+

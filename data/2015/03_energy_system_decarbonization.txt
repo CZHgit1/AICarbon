@@ -1,0 +1,208 @@
+PT J
+AU Rigas, ES
+   Ramchurn, SD
+   Bassiliades, N
+AF Rigas, Emmanouil S.
+   Ramchurn, Sarvapali D.
+   Bassiliades, Nick
+TI Managing Electric Vehicles in the Smart Grid Using Artificial Intelligence: A Survey
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+LA English
+DT Article
+DE Artificial intelligence (AI); electric vehicles (EVs); smart grid
+ID charging load; algorithm; forecasts; network; design; model
+AB Along with the development of smart grids, the wide adoption of electric vehicles (EVs) is seen as a catalyst to the reduction of CO2 emissions and more intelligent transportation systems. In particular, EVs augment the grid with the ability to store energy at some points in the network and give it back at others and, therefore, help optimize the use of energy from intermittent renewable energy sources and let users refill their cars in a variety of locations. However, a number of challenges need to be addressed if such benefits are to be achieved. On the one hand, given their limited range and costs involved in charging EV batteries, it is important to design algorithms that will minimize costs and, at the same time, avoid users being stranded. On the other hand, collectives of EVs need to be organized in such a way as to avoid peaks on the grid that may result in high electricity prices and overload local distribution grids. In order to meet such challenges, a number of technological solutions have been proposed. In this paper, we focus on those that utilize artificial intelligence techniques to render EVs and the systems that manage collectives of EVs smarter. In particular, we provide a survey of the literature and identify the commonalities and key differences in the approaches. This allows us to develop a classification of key techniques and benchmarks that can be used to advance the state of the art in this space.
+C1 [Rigas, Emmanouil S.; Bassiliades, Nick] Aristotle Univ Thessaloniki, Dept Informat, Thessaloniki 54124, Greece.
+   [Ramchurn, Sarvapali D.] Univ Southampton, Sch Elect & Comp Sci, AIC Grp, Southampton SO17 1BJ, Hants, England.
+C3 Aristotle University of Thessaloniki; University of Southampton
+RP Rigas, ES (corresponding author), Aristotle Univ Thessaloniki, Dept Informat, Thessaloniki 54124, Greece.
+EM erigas@csd.auth.gr; sdr1@soton.ac.uk; nbassili@csd.auth.gr
+FU EPSRC [EP/K012347/1]; EPSRC [EP/K012347/1] Funding Source: UKRI; Engineering and Physical Sciences Research Council [EP/K012347/1] Funding Source: researchfish
+CR Ahn C, 2011, P AMER CONTR CONF, V0, P3924
+   Unknown -, 1953, 17 VALUE N PERSON GA, V0, P0, DOI DOI 10.1515/9781400881970-018
+   Unknown -, 2010, REINVENTING THE AUTOMOBILE: PERSONAL URBAN MOBILITY FOR THE 21ST CENTURY, V0, P0
+   Unknown -, 2013, GLOBAL EV OUTLOOK, V0, P0
+   Unknown -, 2014, BODY SENSOR NETWORKS, V0, P0, DOI DOI 10.1007/978-1-4471-6374-9_8
+   Unknown -, 2011, P 17 POW SYST COMP C, V0, P0
+   Unknown -, 2011, P 2011 IEEE TRONDH P, V0, P0, DOI DOI 10.1109/PTC.2011.6019360
+   Unknown -, 2011, ARXIV11065063, V0, P0
+   Unknown -, 2012, PROC AAAI C ARTIF IN, V0, P0
+   Unknown -, 1995, IEEE INT C NEUR NETW, V0, P0
+   Unknown -, 2009, P 8 INT C AUT AG MUL, V0, P0
+   Ardakanian Omid, 2013, PROCEEDINGS OF THE FOURTH INTERNATIONAL CONFERENCE ON FUTURE ENERGY SYSTEMS, V0, PP101, DOI 10.1145/2487166.2487178
+   Artmeier A, 2010, LECT NOTES ARTIF INT, V6359, P309, DOI 10.1007/978-3-642-16111-7_35
+   Balmer M, 2006, TRANSPORT RES REC, V0, PP125, DOI 10.3141/1985-14
+   Bayram IS, 2013, IEEE GLOB COMM CONF, V0, PP2785, DOI 10.1109/GLOCOM.2013.6831496
+   Bayram IS, 2013, INT CONF SMART GRID, V0, PP133, DOI 10.1109/SmartGridComm.2013.6687946
+   Bayram IS, 2013, IEEE J SEL AREA COMM, V31, P1235, DOI 10.1109/JSAC.2013.130707
+   Bayram IS, 2012, POWER ELECTRON POWER, V0, PP133, DOI 10.1007/978-1-4614-1605-0_6
+   Becker R, 2013, COMMUN ACM, V56, P74, DOI 10.1145/2398356.2398375
+   Bent R, 2004, ICAPS, V0, P219
+   Boucke N, 2011, 10TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS-VOLUME 2, V2, P803
+   Caramanis M, 2009, IEEE DECIS CONTR P, V0, PP4717, DOI 10.1109/CDC.2009.5399955
+   Chan CC, 2004, IEEE POWER & ENERGY MAGAZINE, V2, P24, DOI 10.1109/memc.0.8272269
+   Clement-Nyns K, 2010, IEEE T POWER SYST, V25, P371, DOI 10.1109/TPWRS.2009.2036481
+   Couillet R, 2012, IEEE J SEL AREA COMM, V30, P1086, DOI 10.1109/JSAC.2012.120707
+   de Weerdt MM, 2013, P 23 INT JOINT C ART, V0, PP83, DOI 10.1145/2516911.2516923
+   Dean B, 2004, TECHNICAL REPORT, V0, P0
+   Eisner J, 2011, PROC. OF THE 25TH ASSOC. ADVANCEMENT ARTIFICIAL INTELL. CONF, V0, P1108
+   Ermon Stefano, 2012, MACHINE LEARNING AND KNOWLEDGE DISCOVERY IN DATABASES. PROCEEDINGS OF THE EUROPEAN CONFERENCE (ECML PKDD 2012), V0, PP195, DOI 10.1007/978-3-642-33486-3_13
+   Escudero-Garzas JJ, 2012, INNOVATIVE SMART GRID TECHNOLOGIES (ISGT), V0, P1
+   Farhangi H, 2010, IEEE POWER ENERGY M, V8, P18, DOI 10.1109/MPE.2009.934876
+   Foster JM, 2013, IEEE T POWER SYST, V28, P2065, DOI 10.1109/TPWRS.2012.2232682
+   Funke S, 2014, AAAI CONF ARTIF INTE, V0, P417
+   Galus MD, 2013, WIRES ENERGY ENVIRON, V2, P384, DOI 10.1002/wene.56
+   Gan LW, 2013, IEEE T POWER SYST, V28, P940, DOI 10.1109/TPWRS.2012.2210288
+   Geisberger R, 2008, LECT NOTES COMPUT SC, V5038, P319, DOI 10.1007/978-3-540-68552-4_24
+   Gerding EH, 2013, PROC. OF THE 2013 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTI-AGENT SYSTEMS, V0, P989
+   Gerding EH, 2011, THE 10TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS - VOLUME 2, V2, P811
+   GREINER R, 1989, ARTIF INTELL, V41, P79, DOI 10.1016/0004-3702(89)90079-9
+   Hall DL, 1997, P IEEE, V85, P6, DOI 10.1109/ISCAS.1998.705329
+   Halvgaard R, 2012, ELECT VEHICLE C IEVC, V0, P1
+   JOHNSON DB, 1977, J ACM, V24, P1, DOI 10.1145/321992.321993
+   Kamboj Sachin, 2011, THE 10TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS, V1, P13
+   Karfopoulos EL, 2013, IEEE T POWER SYST, V28, P1196, DOI 10.1109/TPWRS.2012.2211624
+   Kempton W, 2005, J POWER SOURCES, V144, P280, DOI 10.1016/j.jpowsour.2004.12.022
+   Kempton W, 2005, J POWER SOURCES, V144, P268, DOI 10.1016/j.jpowsour.2004.12.025
+   Kempton W, 2008, A TEST OF VEHICLE-TO-GRID (V2G) FOR ENERGY STORAGE AND FREQUENCY REGULATION IN THE PJM SYSTEM, V32, P0
+   Kim HJ, 2012, LECT NOTES ARTIF INT, V7198, P266, DOI 10.1007/978-3-642-28493-9_29
+   Lam AYS, 2013, INT CONF SMART GRID, V0, PP510, DOI 10.1109/SmartGridComm.2013.6688009
+   Lee K, 2009, IEEE INFOCOM SER, V0, PP855, DOI 10.1109/INFCOM.2009.5061995
+   Lopes J, 2009, IEEE POWER TECH CONFERENCE, V0, PP1, DOI 10.1109/PTC.2009.5282155
+   Lopes JoaoPecas, 2009, SMART CHARGING STRATEGIES FOR ELECTRIC VEHICLES: ENHANCING GRID PERFORMANCE AND MAXIMIZING THE USE OF VARIABLE RENEWABLE ENERGY RESOURCES. VOL, V0, P0
+   Lyon TP, 2012, ENERG POLICY, V41, P259, DOI 10.1016/j.enpol.2011.10.045
+   Ma ZJ, 2010, IEEE DECIS CONTR P, V0, PP206, DOI 10.1109/CDC.2010.5717547
+   Omran NG, 2014, IEEE T SMART GRID, V5, P632, DOI 10.1109/TSG.2013.2282773
+   Panagopoulos AA, 2012, FRONT ARTIF INTEL AP, V242, P981, DOI 10.3233/978-1-61499-098-7-981
+   Pinson P, 2009, WIND ENERGY, V12, P51, DOI 10.1002/we.284
+   Qin Hua, 2011, PROCEEDINGS OF THE EIGHTH ACM INTERNATIONAL WORKSHOP ON VEHICULAR INTER-NETWORKING, V0, PP51, DOI 10.1145/2030698.2030706
+   Ramos GD, 2013, INT CONF SELF SELF, V0, PP11, DOI 10.1109/SASO.2013.12
+   Rigas ES, 2013, INT CONF SMART GRID, V0, PP121, DOI 10.1109/SmartGridComm.2013.6687944
+   Saad W, 2011, INT CONF SMART GRID, V0, P0
+   Saber AY, 2011, IEEE T IND ELECTRON, V58, P1229, DOI 10.1109/TIE.2010.2047828
+   Sachenbacher M, 2011, EFFICIENT ENERGYOPTIMAL ROUTING FOR ELECTRIC VEHICLES, V0, P1402
+   Shahidinejad S, 2012, IEEE T SMART GRID, V3, P135, DOI 10.1109/TSG.2011.2165227
+   Stein S, 2012, P 11 INT C AUT AG MU, V2, P669
+   Steppeler J, 2003, METEOROL ATMOS PHYS, V82, P75, DOI 10.1007/s00703-001-0592-9
+   Storandt S, 2012, PROCEEDINGS OF THE 5TH ACM SIGSPATIAL INTERNATIONAL WORKSHOP ON COMPUTATIONAL TRANSPORTATION SCIENCE, V0, PP20, DOI 10.1145/2442942.2442947
+   Su W, 2011, POWER AND ENERGY SOCIETY GENERAL MEETING, V0, PP1, DOI 10.1109/PES.2011.6038937
+   Sundstrom O, 2010, 2010 INT C POWER SYS, V0, PP1, DOI 10.1109/POWERCON.2010.5666620
+   Sweda TM, 2012, ELECTRIC VEHICLE CONFERENCE (IEVC), V0, P0
+   Ting TO, 2006, IEEE T POWER SYST, V21, P411, DOI 10.1109/TPWRS.2005.860907
+   Tomic J, 2007, J POWER SOURCES, V168, P459, DOI 10.1016/j.jpowsour.2007.03.010
+   Tushar W, 2012, IEEE T SMART GRID, V3, P1767, DOI 10.1109/TSG.2012.2211901
+   VANSLYKE RM, 1969, SIAM J APPL MATH, V17, P638, DOI 10.1137/0117061
+   Vaya MG, 2013, 2013 IEEE GRENOBLE CONFERENCE, V0, P1
+   Vaya MG, 2011, SMART ENERGY STRATEGIES CONFERENCE, V0, P21
+   Vaya MG, 2013, EUROPEAN ENERGY MARKET (EEM), V0, P1, DOI 10.1109/EEM.2013.6607304
+   Vaya MG, 1900, 22-26 JULY 2012 2012, V0, PP1, DOI 10.1109/PESGM.2012.6344902
+   von Stackelberg Heinrich, 2010, MARKET STRUCTURE AND EQUILIBRIUM, V0, P0
+   Wehinger LA, 2010, 7TH INTERNATIONAL CONFERENCE ON THE EUROPEAN ENERGY MARKET, V0, P1
+   Winter M, 2004, CHEM REV, V104, P4245, DOI 10.1021/cr020730k
+   Yang L, 2012, IEEE GLOB COMM CONF, V0, PP3026, DOI 10.1109/GLOCOM.2012.6503578
+NR 90
+TC 195
+Z9 211
+U1 2
+U2 121
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1524-9050
+EI 1558-0016
+J9 IEEE T INTELL TRANSP
+JI IEEE Trans. Intell. Transp. Syst.
+PD AUG 15
+PY 2015
+VL 16
+IS 4
+BP 1619
+EP 1635
+DI 10.1109/TITS.2014.2376873
+PG 17
+WC Engineering, Civil; Engineering, Electrical & Electronic; Transportation Science & Technology
+SC Engineering; Transportation
+GA CO6FW
+UT WOS:000359253600002
+DA 2025-11-05
+ER
+
+PT J
+AU Rashidi, S
+   Ahmadpour, A
+   Jahanshahi, N
+   Mahboub, MJD
+   Rashidi, H
+AF Rashidi, Sajjad
+   Ahmadpour, Ali
+   Jahanshahi, Neda
+   Mahboub, Mohammad Jaber Darabi
+   Rashidi, Hamed
+TI Application of Artificial Intelligent Modeling for Predicting Activated Carbons Properties Used for Methane Storage
+SO SEPARATION SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Artificial Intelligence; methane storage; activated carbon; ANFIS
+ID neural-networks; chemical activation; co2
+AB Performance characterization and optimization of activated carbons are extensively studied using artificial intelligence modeling. In this study, the effect of several parameters on the preparation of activated carbon by chemical activation is investigated. Various preliminary parameters have been considered. The study has resulted in finding four parameters, which are of higher importance compared to the others. These parameters include chemical agent type, chemical agent to precursor ratio, activation temperature, and activation time. In our previous study, 36 activated carbon (AC) samples were prepared using the aforementioned parameters at various levels. In the present investigation, these experimental results have been used for the modeling. As a novel approach, an adaptive neuro-fuzzy inference system (ANFIS) is also applied to the experimental data presented in this study. ANFIS is established by combining artificial neural network (ANN) with fuzzy inference system. After determining the model parameters, some additional data points are used to validate the models. Finally, the outcomes are compared with the experimental results. The normalized mean square error (NMSE) has been obtained as 0.00327, which is very satisfactory for the model validation. These attempts to simulate the preparation stage of activated carbons would provide a simple and flexible route with various AC preparations. Such an effort is essential to develop the adsorbed natural gas (ANG) technology.
+C1 [Rashidi, Sajjad; Ahmadpour, Ali; Jahanshahi, Neda; Mahboub, Mohammad Jaber Darabi; Rashidi, Hamed] Ferdowsi Univ Mashhad, Dept Chem Engn, Mashhad, Iran.
+C3 Ferdowsi University Mashhad
+RP Ahmadpour, A (corresponding author), Ferdowsi Univ Mashhad, Dept Chem Engn, Mashhad, Iran.
+EM ahmadpour@um.ac.ir
+FU Iranian Nano Technology Initiative
+CR Ahmadpour A, 1997, CARBON, V35, P1723, DOI 10.1016/S0008-6223(97)00127-9
+   Balabin RM, 2011, FUEL, V90, P2007, DOI 10.1016/j.fuel.2010.11.038
+   Cazorla-Amoros D, 1998, LANGMUIR, V14, P4589, DOI 10.1021/la980198p
+   CazorlaAmoros D, 1996, LANGMUIR, V12, P2820, DOI 10.1021/la960022s
+   Cladera A, 2004, ENG STRUCT, V26, P917, DOI 10.1016/j.engstruct.2004.02.010
+   Devillers J, 1996, STRENGTHS WEAKNESSES, V0, P0
+   Hashemipour H, 2009, INT J CHEM REACT ENG, V7, P0, DOI 10.2202/1542-6580.1825
+   Haykin S, 1999, NEURAL NETWORKS COMP, V0, P0, DOI DOI 10.5555/521706
+   JANG JSR, 1993, IEEE T SYST MAN CYB, V23, P665, DOI 10.1109/21.256541
+   Jang SR, 1997, NEUROFUZZY SOFT COMP, V0, P245
+   KUMAMOTO S, 1994, T MRS JAP, V18, P647
+   Lillo-Ródenas MA, 2001, CARBON, V39, P751, DOI 10.1016/S0008-6223(00)00186-X
+   Lillo-Ródenas MA, 2003, CARBON, V41, P267, DOI 10.1016/S0008-6223(02)00279-8
+   Lillo-Ródenas MA, 2004, CARBON, V42, P1371, DOI 10.1016/j.carbon.2004.01.008
+   Lozano-Castelló D, 2002, CARBON, V40, P2817, DOI 10.1016/S0008-6223(02)00194-X
+   Lozano-Castelló D, 2002, FUEL, V81, P1777, DOI 10.1016/S0016-2361(02)00124-2
+   Namvar-Asl M, 2008, ENERG CONVERS MANAGE, V49, P2471, DOI 10.1016/j.enconman.2008.01.039
+   Namvar-Asl M, 2008, ENERG CONVERS MANAGE, V49, P2478, DOI 10.1016/j.enconman.2008.01.036
+   Qi Y, 2011, FUEL, V90, P1567, DOI 10.1016/j.fuel.2011.01.015
+   QUINN DF, 1992, CARBON, V30, P1097, DOI 10.1016/0008-6223(92)90141-I
+   RUMELHART DE, 1986, NATURE, V323, P533, DOI 10.1038/323533a0
+   Schalkoff RJ, 1997, ARTIFICIAL NEURAL NETWORKS, V0, P0
+   Shahsavand A, 2005, COMPUT CHEM ENG, V29, P2134, DOI 10.1016/j.compchemeng.2005.07.002
+   SIMITZIS J, 1995, J APPL POLYM SCI, V58, P541, DOI 10.1002/app.1995.070580308
+   SIMITZIS J, 1994, J APPL POLYM SCI, V54, P2091, DOI 10.1002/app.1994.070541311
+   Sugeno M, 1985, IND APPL FUZZY CONTR, V0, P0
+   Übeyli ED, 2009, COMPUT METH PROG BIO, V93, P313, DOI 10.1016/j.cmpb.2008.10.012
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   Zhao J, 2002, IEEE IND ELEC, V0, PP229, DOI 10.1109/IECON.2002.1187512
+NR 29
+TC 7
+Z9 9
+U1 0
+U2 30
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0149-6395
+EI 1520-5754
+J9 SEP SCI TECHNOL
+JI Sep. Sci. Technol.
+PD JAN 2
+PY 2015
+VL 50
+IS 1
+BP 110
+EP 120
+DI 10.1080/01496395.2014.948001
+PG 11
+WC Chemistry, Multidisciplinary; Engineering, Chemical
+SC Chemistry; Engineering
+GA AX6RI
+UT WOS:000347048600013
+DA 2025-11-05
+ER
+

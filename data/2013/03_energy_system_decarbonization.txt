@@ -1,0 +1,132 @@
+PT J
+AU Yetilmezsoy, K
+   Turkdogan, FI
+   Temizel, I
+   Gunay, A
+AF Yetilmezsoy, Kaan
+   Turkdogan, F. Ilter
+   Temizel, Ilknur
+   Gunay, Asli
+TI Development of Ann-Based Models to Predict Biogas and Methane Productions in Anaerobic Treatment of Molasses Wastewater
+SO INTERNATIONAL JOURNAL OF GREEN ENERGY
+LA English
+DT Article
+DE Molasses wastewater; Up-flow anaerobic sludge blanket; Artificial neural networks; Modeling; Biogas; Methane
+ID artificial neural-networks; organic loading rate; uasb reactor; performance evaluation; microbial community; hydrogen-production; baffled reactor; empirical-model; retention time; bed reactor
+AB Two three-layer artificial neural network (ANN) models were respectively developed to predict biogas and methane production rates in a pilot-scale mesophilic up-flow anaerobic sludge blanket (UASB) reactor treating molasses wastewater. Eight process-related variables such as volumetric organic loading rate (OLR), influent and effluent pH, operating temperature, influent and effluent alkalinity, effluent chemical oxygen demand (COD), and volatile fatty acid (VFA) concentrations were selected for the implementation of an artificial intelligence-based approach. A tangent sigmoid transfer function (tansig) at the hidden layer and a linear transfer function (purelin) at the output layer were conducted for the proposed ANN models. Several benchmark comparisons were conducted to obtain an optimal algorithm for training the network. After backpropagation training combined with principal component analysis (PCA), the scaled conjugate gradient algorithm (trainscg) was found as the best of the 11 training algorithms. The number of neurons in the hidden layer was optimized as nine and 12 with the minimum mean squared errors (MSE) of 0.06238 and 0.06488, respectively, for the estimation of biogas and methane production rates. ANN-predicted results were also compared to the outputs of two non-linear regression models by means of several statistical indicators, such as determination coefficient (R-2), unsystematic root mean-square error (RMSEU), index of agreement (IA), and fractional variance (FV). Computational results clearly demonstrated that, compared to the conventional multiple regression-based methodology, the proposed ANN-based models produced smaller deviations and exhibited superior predictive accuracy with satisfactory determination coefficients of about 0.935 and 0.924, respectively, for the forecasts of biogas and methane production rates.
+C1 [Yetilmezsoy, Kaan; Turkdogan, F. Ilter; Temizel, Ilknur] Yildiz Tech Univ, Fac Civil Engn, Dept Environm Engn, TR-34220 Istanbul, Turkey.
+   [Gunay, Asli] Yildiz Tech Univ, Fac Mech Engn, Dept Mech Engn, TR-34220 Istanbul, Turkey.
+C3 Yildiz Technical University; Yildiz Technical University
+RP Yetilmezsoy, K (corresponding author), Yildiz Tech Univ, Fac Civil Engn, Dept Environm Engn, TR-34220 Istanbul, Turkey.
+EM yetilmez@yildiz.edu.tr
+CR Aceves-Lara CA, 2008, WATER RES, V42, P2539, DOI 10.1016/j.watres.2008.02.018
+   Agdag ON, 2005, CHEMOSPHERE, V59, P871, DOI 10.1016/j.chemosphere.2004.11.017
+   Agirre-Basurko E, 2006, ENVIRON MODELL SOFTW, V21, P430, DOI 10.1016/j.envsoft.2004.07.008
+   Akkoyunlu A, 2010, INT J ENVIRON POLLUT, V40, P301, DOI 10.1504/IJEP.2010.031752
+   Almasri MN, 2005, ENVIRON MODELL SOFTW, V20, P851, DOI 10.1016/j.envsoft.2004.05.001
+   Amatya PL, 1996, THESIS SCH ENV RESOU, V0, P0
+   Appel KW, 2007, ATMOS ENVIRON, V41, P9603, DOI 10.1016/j.atmosenv.2007.08.044
+   Azbar N, 2009, INT J GREEN ENERGY, V6, P192, DOI 10.1080/15435070902785027
+   Bilad MR, 2011, SEP PURIF TECHNOL, V78, P105, DOI 10.1016/j.seppur.2010.12.005
+   Björnsson L, 2001, WATER RES, V35, P2833, DOI 10.1016/S0043-1354(00)00585-6
+   BOOPATHY R, 1991, WATER RES, V25, P785, DOI 10.1016/0043-1354(91)90157-L
+   BRAUN R, 1982, WATER RES, V16, P1167, DOI 10.1016/0043-1354(82)90135-X
+   Cakmakci M, 2007, BIOPROC BIOSYST ENG, V30, P349, DOI 10.1007/s00449-007-0131-2
+   Coca M, 2007, J HAZARD MATER, V149, P364, DOI 10.1016/j.jhazmat.2007.04.006
+   Connaughton S, 2006, WATER RES, V40, P1009, DOI 10.1016/j.watres.2005.12.026
+   Daneshvar N, 2006, J HAZARD MATER, V137, P1788, DOI 10.1016/j.jhazmat.2006.05.042
+   Demirbas A, 2004, INT J GREEN ENERGY, V1, P483, DOI 10.1081/GE-200038719
+   Dereli RK, 2010, CHEM ENG J, V165, P89, DOI 10.1016/j.cej.2010.08.069
+   Ersahin ME, 2007, CLEAN-SOIL AIR WATER, V35, P576, DOI 10.1002/clen.200700105
+   Fakhrul-Razi A, 2005, INT J GREEN ENERGY, V2, P387, DOI 10.1080/01971520500288014
+   Fang C, 2011, BIORESOURCE TECHNOL, V102, P1005, DOI 10.1016/j.biortech.2010.09.077
+   FitzGibbon F, 1998, PROCESS BIOCHEM, V33, P799, DOI 10.1016/S0032-9592(98)00050-8
+   Gómez-Sanchis J, 2006, ATMOS ENVIRON, V40, P6173, DOI 10.1016/j.atmosenv.2006.04.067
+   Gonzalez JS, 1998, INT BIODETER BIODEGR, V41, P127, DOI 10.1016/S0964-8305(98)00003-1
+   Hamed MM, 2004, ENVIRON MODELL SOFTW, V19, P919, DOI 10.1016/j.envsoft.2003.10.005
+   Hu WC, 2002, PROCESS BIOCHEM, V37, P965, DOI 10.1016/S0032-9592(01)00310-7
+   Ibarra-Berastegi G, 2008, ENVIRON MODELL SOFTW, V23, P622, DOI 10.1016/j.envsoft.2007.09.003
+   Isik M, 2005, BIORESOURCE TECHNOL, V96, P633, DOI 10.1016/j.biortech.2004.06.004
+   ITDG (Intermediate Technical Development Group), 2002, BIOG LIQ FUELS TECHN, V0, P0
+   Jiménez AM, 2004, BIOCHEM ENG J, V18, P121, DOI 10.1016/S1369-703X(03)00198-0
+   Jiménez AM, 2003, PROCESS BIOCHEM, V38, P1275, DOI 10.1016/S0032-9592(02)00325-4
+   Kanat G, 2009, ENVIRON MODEL ASSESS, V14, P607, DOI 10.1007/s10666-008-9150-x
+   Karaca F, 2006, ENVIRON MODELL SOFTW, V21, P1190, DOI 10.1016/j.envsoft.2005.06.006
+   Kocak-Enturk E, 2007, FRESEN ENVIRON BULL, V16, P804
+   Kolehmainen MK, 2004, THESIS HELSINKI U TE, V0, P0
+   Kossman W, 1999, INFORM ADVISORY SERV, V0, P0
+   Liang Z, 2009, SEP PURIF TECHNOL, V68, P382, DOI 10.1016/j.seppur.2009.06.011
+   Limkhuansuwan V, 2010, J ENVIRON SCI-CHINA, V22, P1209, DOI 10.1016/S1001-0742(09)60240-0
+   Luste S, 2010, BIORESOURCE TECHNOL, V101, P2657, DOI 10.1016/j.biortech.2009.10.071
+   Makaruk A, 2010, SEP PURIF TECHNOL, V74, P83, DOI 10.1016/j.seppur.2010.05.010
+   McCann DW, 2005, ENVIRON MODELL SOFTW, V20, P1335, DOI 10.1016/j.envsoft.2004.09.027
+   Moon HC, 2011, INT J GREEN ENERGY, V8, P361, DOI 10.1080/15435075.2011.557845
+   Mostafa NA, 1997, ENERG CONVERS MANAGE, V38, P1445, DOI 10.1016/S0196-8904(96)00043-X
+   Nakajima-Kambe T, 1990, J BIOSCI BIOENG, V87, P119
+   Ozkaya B, 2007, ENVIRON MODELL SOFTW, V22, P815, DOI 10.1016/j.envsoft.2006.03.004
+   Parawira W, 2006, RENEW ENERG, V31, P893, DOI 10.1016/j.renene.2005.05.013
+   Park MJ, 2010, INT J HYDROGEN ENERG, V35, P6194, DOI 10.1016/j.ijhydene.2010.03.135
+   Ráduly B, 2007, ENVIRON MODELL SOFTW, V22, P1208, DOI 10.1016/j.envsoft.2006.07.003
+   Rincón B, 2008, BIOCHEM ENG J, V40, P253, DOI 10.1016/j.bej.2007.12.019
+   Sahinkaya E, 2006, BIOTECHNOLNOLOGY BIO, V97, P780
+   Sakar S, 2009, WASTE MANAGE RES, V27, P3, DOI 10.1177/0734242X07079060
+   Sánchez E, 2005, BIORESOURCE TECHNOL, V96, P335, DOI 10.1016/j.biortech.2004.04.003
+   Satyawali Y, 2008, J ENVIRON MANAGE, V86, P481, DOI 10.1016/j.jenvman.2006.12.024
+   Sirianuntapiboon S, 2004, BIORESOURCE TECHNOL, V92, P31, DOI 10.1016/j.biortech.2003.07.010
+   Sirianuntapiboon S, 2008, BIORESOURCE TECHNOL, V99, P1806, DOI 10.1016/j.biortech.2007.03.040
+   Sohsalam P, 2008, BIORESOURCE TECHNOL, V99, P5610, DOI 10.1016/j.biortech.2007.10.033
+   Stamatelatou K, 2003, BIORESOURCE TECHNOL, V88, P131, DOI 10.1016/S0960-8524(02)00276-6
+   Tondee T, 2008, BIORESOURCE TECHNOL, V99, P6258, DOI 10.1016/j.biortech.2007.12.028
+   Torkian A, 2003, RESOUR CONSERV RECY, V40, P1, DOI 10.1016/s0921-3449(03)00021-1
+   Turkdogan-Aydinol FI, 2010, J HAZARD MATER, V182, P460, DOI 10.1016/j.jhazmat.2010.06.054
+   Verma AK, 2011, BIORESOURCE TECHNOL, V102, P2411, DOI 10.1016/j.biortech.2010.10.112
+   Verma S, 2002, THESIS COLUMBIA U NE, V0, P0
+   Ward AJ, 2008, BIORESOURCE TECHNOL, V99, P7928, DOI 10.1016/j.biortech.2008.02.044
+   Wijekoon KC, 2011, BIORESOURCE TECHNOL, V102, P5353, DOI 10.1016/j.biortech.2010.12.081
+   Wu F, 2011, INT J GREEN ENERGY, V8, P130, DOI 10.1080/15435075.2011.546760
+   Wu GD, 2008, ENG APPL ARTIF INTEL, V21, P1189, DOI 10.1016/j.engappai.2008.03.015
+   XING J, 1991, BIOMASS BIOENERG, V1, P267, DOI 10.1016/0961-9534(91)90038-E
+   Yan XX, 2012, J MEMBRANE SCI, V394, P49, DOI 10.1016/j.memsci.2011.12.014
+   Yeoh BG, 1997, WATER SCI TECHNOL, V36, P441, DOI 10.1016/S0273-1223(97)00553-2
+   YETILMEZSOY K, 2008, THESIS YILDIZ TU IST, V0, P0
+   Yetilmezsoy K, 2009, STOCH ENV RES RISK A, V23, P13, DOI 10.1007/s00477-007-0191-5
+   Yetilmezsoy K, 2008, J HAZARD MATER, V153, P532, DOI 10.1016/j.jhazmat.2007.08.087
+   Yetilmezsoy K, 2008, J HAZARD MATER, V153, P1288, DOI 10.1016/j.jhazmat.2007.09.092
+   Yetilmezsoy K, 2007, FRESEN ENVIRON BULL, V16, P674
+   Yetilmezsoy K, 2007, ENVIRON MODEL ASSESS, V12, P13, DOI 10.1007/s10666-006-9048-4
+   Yetilmezsoy K, 2006, ENVIRON ENG SCI, V23, P680, DOI 10.1089/ees.2006.23.680
+   Yetilmezsoy K, 2012, ASIA-PAC J CHEM ENG, V7, P795, DOI 10.1002/apj.635
+   Yetilmezsoy K, 2012, ENVIRON SCI POLLUT R, V19, P2227, DOI 10.1007/s11356-011-0726-7
+   Yetilmezsoy K, 2011, COLLOID SURFACE A, V389, P50, DOI 10.1016/j.colsurfa.2011.08.051
+   Yetilmezsoy K, 2010, NEURAL NETW WORLD, V20, P559
+   Yetilmezsoy K, 2009, J HAZARD MATER, V171, P551, DOI 10.1016/j.jhazmat.2009.06.035
+   Zakaria Z, 2010, WORLD ACAD SCI ENG TECHNOL, V38, P170
+   Zhang BG, 2009, BIORESOURCE TECHNOL, V100, P5687, DOI 10.1016/j.biortech.2009.06.045
+   Zheng MX, 2012, BIORESOURCE TECHNOL, V107, P33, DOI 10.1016/j.biortech.2011.11.102
+NR 85
+TC 59
+Z9 65
+U1 1
+U2 107
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1543-5075
+EI 1543-5083
+J9 INT J GREEN ENERGY
+JI Int. J. Green Energy
+PD OCT 21
+PY 2013
+VL 10
+IS 9
+BP 885
+EP 907
+DI 10.1080/15435075.2012.727116
+PG 23
+WC Thermodynamics; Green & Sustainable Science & Technology; Energy & Fuels
+SC Thermodynamics; Science & Technology - Other Topics; Energy & Fuels
+GA 161HM
+UT WOS:000320183500001
+DA 2025-11-05
+ER
+

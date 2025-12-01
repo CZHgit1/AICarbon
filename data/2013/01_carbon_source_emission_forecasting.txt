@@ -1,0 +1,156 @@
+PT J
+AU Philibert, A
+   Loyce, C
+   Makowski, D
+AF Philibert, Aurore
+   Loyce, Chantal
+   Makowski, David
+TI Prediction of N2O emission from local information with Random Forest
+SO ENVIRONMENTAL POLLUTION
+LA English
+DT Article
+DE Agriculture; Climate change; Machine learning; Nitrous oxide; Random Forest
+ID nitrous-oxide emissions; agricultural soils; gas emissions; fertilizer; fields; classification; losses; model
+AB Nitrous oxide is a potent greenhouse gas, with a global warming potential 298 times greater than that of CO2. In agricultural soils, N2O emissions are influenced by a large number of environmental characteristics and crop management techniques that are not systematically reported in experiments. Random Forest (RF) is a machine learning method that can handle missing data and ranks input variables on the basis of their importance. We aimed to predict N2O emission on the basis of local information, to rank environmental and crop management variables according to their influence on N2O emission, and to compare the performances of RI: with several regression models. RF outperformed the regression models for predictive purposes, and this approach led to the identification of three important input variables: N fertilization, type of crop, and experiment duration. This method could be used in the future for prediction of N2O emissions from local information. (c) 2013 Elsevier Ltd. All rights reserved.
+C1 [Philibert, Aurore; Loyce, Chantal; Makowski, David] INRA, UMR Agron 211, F-78000 Thiverval Grignon, France.
+   [Philibert, Aurore; Loyce, Chantal; Makowski, David] AgroParisTech, UMR Agron 211, F-78000 Thiverval Grignon, France.
+C3 Universite Paris Saclay; AgroParisTech; INRAE; AgroParisTech; Universite Paris Saclay
+RP Makowski, D (corresponding author), INRA, UMR Agron 211, F-78000 Thiverval Grignon, France.
+EM makowski@grignon.inra.fr
+CR Unknown -, 1997, AN INTRODUCTION TO RECURSIVE PARTITIONING USING THE RPART ROUTINES, V0, P0
+   Unknown -, 2003, SETTING UP, V0, P0
+   Unknown -, 2006, IPCC GUIDANCE FOR NATIONAL GREENHOUSE GAS INVENTORIES VOLUME 4: AGRICULTURE, V0, P0
+   Berdanier AB, 2012, GLOBAL CHANGE BIOL, V18, P928, DOI 10.1111/j.1365-2486.2011.02554.x
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Breiman L, 1984, CLASSIFICATION REGRE, V0, P0
+   Britz W, 2009, AGR ECOSYST ENVIRON, V133, P267, DOI 10.1016/j.agee.2009.04.026
+   Cutler A, 2006, METHOD ENZYMOL, V411, P422, DOI 10.1016/S0076-6879(06)11023-X
+   Cutler DR, 2007, ECOLOGY, V88, P2783, DOI 10.1890/07-0539.1
+   Davidson EA, 2009, NAT GEOSCI, V2, P659, DOI 10.1038/NGEO608
+   Efron B, 1994, AN INTRODUCTION TO THE BOOTSTRAP, V57, P0
+   Efron B, 1986, STATISTICAL SCIENCE, V1, P54, DOI 10.1214/ss/1177013815
+   Flynn HC, 2005, GLOBAL CHANGE BIOL, V11, P1522, DOI 10.1111/j.1365-2486.2005.00998.x
+   Follador M, 2011, ENVIRON POLLUT, V159, P3233, DOI 10.1016/j.envpol.2011.01.025
+   Grace PR, 2011, AGR SYST, V104, P292, DOI 10.1016/j.agsy.2010.09.001
+   Gu JX, 2011, ENVIRON POLLUT, V159, P3149, DOI 10.1016/j.envpol.2011.04.009
+   Hoben JP, 2011, GLOBAL CHANGE BIOL, V17, P1140, DOI 10.1111/j.1365-2486.2010.02349.x
+   Lapointe NWR, 2012, DIVERS DISTRIB, V18, P282, DOI 10.1111/j.1472-4642.2011.00858.x
+   Leip A, 2008, BIOGEOSCIENCES, V5, P73, DOI 10.5194/bg-5-73-2008
+   Leip A, 2011, ENVIRON POLLUT, V159, P3223, DOI 10.1016/j.envpol.2010.11.024
+   Lesschen JP, 2011, ENVIRON POLLUT, V159, P3215, DOI 10.1016/j.envpol.2011.04.001
+   LI CS, 1992, J GEOPHYS RES-ATMOS, V97, P9759, DOI 10.1029/92JD00509
+   Li CS, 2000, NUTR CYCL AGROECOSYS, V58, P259, DOI 10.1023/A:1009859006242
+   Lugato E, 2010, AGR ECOSYST ENVIRON, V139, P546, DOI 10.1016/j.agee.2010.09.015
+   Ma BL, 2010, GLOBAL CHANGE BIOL, V16, P156, DOI 10.1111/j.1365-2486.2009.01932.x
+   Millar N, 2010, MITIG ADAPT STRAT GL, V15, P185, DOI 10.1007/s11027-010-9212-7
+   Mosier A, 1998, NUTR CYCL AGROECOSYS, V52, P225, DOI 10.1023/A:1009740530221
+   [Pachauri RKIPCC IPCC], 2007, CLIMATE CHANGE 2007, V0, P0
+   Philibert A, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0050950
+   Philibert A, 2011, J APPL ECOL, V48, P1381, DOI 10.1111/j.1365-2664.2011.02039.x
+   Pinheiro J, 2002, MIXED EFFECTS MODELS, V0, P0, DOI DOI 10.1007/BF01313644
+   Prasad AM, 2006, ECOSYSTEMS, V9, P181, DOI 10.1007/s10021-005-0054-1
+   Rochette P, 2005, NUTR CYCL AGROECOSYS, V73, P171, DOI 10.1007/s10705-005-0357-9
+   Rochette P, 2008, CAN J SOIL SCI, V88, P641, DOI 10.4141/CJSS07025
+   Roelandt C, 2005, GLOBAL CHANGE BIOL, V11, P1701, DOI 10.1111/j.1365-2486.2005.01025.x
+   Skiba U, 2000, CHEMOSPHERE GLOBAL C, V2, P379, DOI 10.1016/S1465-9972(00)00016-7
+   Smith P, 2007, AR4 CLIMATE CHANGE 2007: MITIGATION OF CLIMATE CHANGE, V0, P497
+   Snyder CS, 2009, AGR ECOSYST ENVIRON, V133, P247, DOI 10.1016/j.agee.2009.04.021
+   Spiertz JHJ, 2010, AGRON SUSTAIN DEV, V30, P43, DOI 10.1051/agro:2008064
+   Stehfest E, 2006, NUTR CYCL AGROECOSYS, V74, P207, DOI 10.1007/s10705-006-9000-7
+   Stohlgren TJ, 2010, RISK ANAL, V30, P224, DOI 10.1111/j.1539-6924.2009.01343.x
+   Tilman D, 2002, NATURE, V418, P671, DOI 10.1038/nature01014
+   Villa-Vialaneix N, 2012, ENVIRON MODELL SOFTW, V34, P51, DOI 10.1016/j.envsoft.2011.05.003
+NR 45
+TC 65
+Z9 71
+U1 7
+U2 157
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0269-7491
+EI 1873-6424
+J9 ENVIRON POLLUT
+JI Environ. Pollut.
+PD JUN 15
+PY 2013
+VL 177
+IS 
+BP 156
+EP 163
+DI 10.1016/j.envpol.2013.02.019
+PG 8
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 128VB
+UT WOS:000317796700021
+PM 23500053
+DA 2025-11-05
+ER
+
+PT J
+AU Caldeira, K
+   Myhrvold, NP
+AF Caldeira, K.
+   Myhrvold, N. P.
+TI Projections of the pace of warming following an abrupt increase in atmospheric carbon dioxide concentration
+SO ENVIRONMENTAL RESEARCH LETTERS
+LA English
+DT Article
+DE climate; carbon dioxide; time; response; radiative forcing; climate model; GCM; CMIP5
+ID climate; system; cmip5
+AB The temperature response of atmosphere-ocean climate models is analyzed based on atmospheric CO2 step-function-change simulations submitted to phase 5 of the Coupled Model Intercomparison Project (CMIP5). From these simulations and a control simulation, we estimate adjusted radiative forcing, the climate feedback parameter, and effective climate system thermal inertia, and we show that these results can be used to predict the temperature response to time-varying CO2 concentrations. We evaluate several kinds of simple mathematical models for the CMIP5 simulation results, including single-and multiple-exponential models and a one-dimensional ocean-diffusion model. All of these functional forms, except the single-exponential model, can produce curves that fit most CMIP5 results quite well for both continuous and step-function CO2-change pathways. Choice of model for any particular application would include consideration of factors such as the number of free parameters to be constrained and the conception of the underlying mechanistic model. Smooth curve fits to the CMIP5 simulation results realize approximately half (range 38%-61%) of equilibrium warming within the first decade after a CO2 concentration increase, but approximately one quarter (range 14%-40%) of equilibrium warming occurs more than a century after the CO2 increase. Following an instantaneous quadrupling of atmospheric CO2, fits to four of the 20 simulation results reach 4 degrees C of warming within the first decade, but fits to three of the 20 simulation results require more than a century to reach 4 degrees C. These results indicate the need to reduce uncertainty in the temporal response of climate models and to consider this uncertainty when evaluating the risks posed by climate change.
+C1 [Caldeira, K.] Carnegie Inst, Dept Global Ecol, Stanford, CA 94305 USA.
+   [Myhrvold, N. P.] Intellectual Ventures, Bellevue, WA 98005 USA.
+C3 Carnegie Institution for Science; Intellectual Ventures
+RP Caldeira, K (corresponding author), Carnegie Inst, Dept Global Ecol, Stanford, CA 94305 USA.
+EM kcaldeira@carnegiescience.edu
+CR Andrews T, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL051607
+   Box G, 1987, EMPIRICAL MODEL BUIL, V0, P0
+   BUDYKO MI, 1969, TELLUS, V21, P611, DOI 10.3402/tellusa.v21i5.10109
+   Burnham KP, 1998, MODEL SELECTION INFE, V0, P0
+   Caldeira K, 2012, P NATL ACAD SCI USA, V109, PE1813, DOI 10.1073/pnas.1206019109
+   Cao L, 2012, ENVIRON RES LETT, V7, P0, DOI 10.1088/1748-9326/7/3/034015
+   CLEVELAND WS, 1988, J AM STAT ASSOC, V83, P596, DOI 10.2307/2289282
+   Forster P, 2007, CHANGES ATMOSPHERIC, V100, P0
+   Geoffroy O, 2013, J CLIMATE, V26, P1841, DOI 10.1175/JCLI-D-12-00195.1
+   Good P, 2013, CLIM DYNAM, V40, P1041, DOI 10.1007/s00382-012-1410-4
+   Good P, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2010GL045208
+   Gregory JM, 2004, GEOPHYS RES LETT, V31, P0, DOI 10.1029/2003GL018747
+   Gregory J, 2008, J CLIMATE, V21, P58, DOI 10.1175/2007JCLI1834.1
+   Hansen J, 1984, AGU GEOPHYS MONOGRAP, V29, P130, DOI 10.1029/GM029P0130
+   Held IM, 2010, J CLIMATE, V23, P2418, DOI 10.1175/2009JCLI3466.1
+   Jarvis A, 2011, EARTH SYST DYNAM, V2, P213, DOI 10.5194/esd-2-213-2011
+   Lenton TM, 2008, P NATL ACAD SCI USA, V105, P1786, DOI 10.1073/pnas.0705414105
+   MacMynowski DG, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2011GL048623
+   Myhrvold NP, 2012, ENVIRON RES LETT, V7, P0, DOI 10.1088/1748-9326/7/1/014019
+   OESCHGER H, 1975, TELLUS, V27, P168, DOI 10.1111/j.2153-3490.1975.tb01671.x
+   Stouffer RJ, 2011, CMIP5 LONG-TERM EXPERIMENTAL DESIGN, V16, P5
+   Taylor KE, 2012, B AM METEOROL SOC, V93, P485, DOI 10.1175/BAMS-D-11-00094.1
+NR 22
+TC 73
+Z9 88
+U1 0
+U2 23
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1748-9326
+EI 
+J9 ENVIRON RES LETT
+JI Environ. Res. Lett.
+PD JUL-SEP 15
+PY 2013
+VL 8
+IS 3
+BP 
+EP 
+DI 10.1088/1748-9326/8/3/034039
+PG 10
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 229FL
+UT WOS:000325247100045
+DA 2025-11-05
+ER
+

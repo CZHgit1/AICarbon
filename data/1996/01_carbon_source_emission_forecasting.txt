@@ -1,0 +1,67 @@
+PT J
+AU Koizumi, H
+   Kontturi, M
+   Mariko, S
+   Mela, T
+AF Koizumi, H
+   Kontturi, M
+   Mariko, S
+   Mela, T
+TI Carbon dioxide evolution from snow-covered agricultural ecosystems in Finland
+SO AGRICULTURAL AND FOOD SCIENCE IN FINLAND
+LA English
+DT Article
+DE closed chamber method; CO2 flux; CO2 profile; heavy clay soil; peat soil; sand soil; snowpack; soil respiration; subarctic climate region
+ID nitrogen-fertilization; soil; temperature; budgets; co2
+AB The release of CO2 from the snow surface in winter and the soil surface in summer was directly or indirectly measured in three different soil types (peat, sand and clay) in agricultural ecosystems in Finland. The closed chamber (CC) method was used for the direct and Fick's diffusion model (DM) method for the indirect measurements. The winter soil temperatures at 2-cm depth were between 0 and 1 degrees C for each soil type. The concentration of CO2 within the snowpack increased linearly with snow depth. The average fluxes of CO2 calculated from the gradients of CO2 concentration in the snow using the DM method ranged from 10 to 27 mg CO2 m(-2) h(-1), and with the CC method from 18 to 27 mg CO2 m(-2) h. These results suggest that the snow insulates the soil thermally, allowing CO2 production to continue at soil temperatures slightly above freezing in the winter. Carbon dioxide formed in the soil can move across the snowpack up to the atmosphere. The winter/summer ratio of CO2 evolution was estimated to exceed 4%. Therefore, the snow-covered crop soil served as a source of CO2 in winter, and CO2 evolution constitutes an important part of the annual CO2 budget in snowy regions.
+RP Koizumi, H (corresponding author), NATL INST AGROENVIRONM SCI,DIV PLANT ECOL,TSUKUBA,IBARAKI 305,JAPAN.
+CR BARRY RG, 1992, ENCY EARTH SYSTEM SC, V1, P517
+   BEKKU Y, 1995, ECOL RES, V10, P369, DOI 10.1007/BF02347863
+   BEKKU Y, 1996, IN PRESS APPL SOIL E, V0, P0
+   BOUWMAN AF, 1990, SOILS AND THE GREENHOUSE EFFECT, V0, P61
+   COYNE PI, 1974, J GEOPHYS RES, V79, P799, DOI 10.1029/JC079i006p00799
+   Crill PM, 1991, GLOBAL BIOGEOCHEM CY, V5, P319, DOI 10.1029/91GB02466
+   HEINEMEYER O, 1989, PLANT SOIL, V116, P191, DOI 10.1007/BF02214547
+   KELLEY JJ, 1968, ECOLOGY, V49, P358, DOI 10.2307/1934472
+   KOIZUMI H, 1993, AGR ECOSYST ENVIRON, V43, P235, DOI 10.1016/0167-8809(93)90088-7
+   KOWALENKO CG, 1978, SOIL BIOL BIOCHEM, V10, P417, DOI 10.1016/0038-0717(78)90068-8
+   Mariko S, 1994, ECOL RES, V9, P343, DOI 10.1007/BF02348421
+   Nakadai T, 1996, ECOL RES, V11, P217, DOI 10.1007/BF02347688
+   Nakane K, 1978, JAPANESE JOURNAL OF ECOLOGY, V28, P335
+   OSOZAWA S, 1987, SOIL PHYSICAL CONDIT, V55, P53
+   Rolston DE, 1986, GASES FLUX., V5, P1103
+   SOLOMON DK, 1987, WATER RESOUR RES, V23, P2257, DOI 10.1029/WR023i012p02257
+   SOMMERFELD RA, 1991, GEOPHYS RES LETT, V18, P1225, DOI 10.1029/91GL01502
+   SOMMERFELD RA, 1993, NATURE, V361, P140, DOI 10.1038/361140a0
+   STEUDLER PA, 1989, NATURE, V341, P314, DOI 10.1038/341314a0
+   TAYLOR BR, 1988, SOIL BIOL BIOCHEM, V20, P657, DOI 10.1016/0038-0717(88)90150-2
+   VANBAVEL CHM, 1951, SOIL SCI, V72, P33, DOI 10.1097/00010694-195107000-00003
+   WILDUNG RE, 1975, SOIL BIOL BIOCHEM, V7, P373, DOI 10.1016/0038-0717(75)90052-8
+   WITKAMP M, 1969, PEDOBIOLOGIA, V9, P358
+NR 23
+TC 12
+Z9 12
+U1 0
+U2 11
+PU AGRICULTURAL RESEARCH CENTRE FINLAND
+PI JOKIOINEN
+PA DATA AND INFORMATION SERVICES SARI TORKKO, 31600 JOKIOINEN, FINLAND
+SN 1239-0992
+EI 
+J9 AGR FOOD SCI FINLAND
+JI Agr. Food Sci. Finland
+PD JUN 15
+PY 1996
+VL 5
+IS 4
+BP 421
+EP 430
+DI 10.23986/afsci.72754
+PG 10
+WC Agriculture, Multidisciplinary; Food Science & Technology
+SC Agriculture; Food Science & Technology
+GA WD122
+UT WOS:A1996WD12200004
+DA 2025-11-03
+ER
+

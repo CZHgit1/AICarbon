@@ -1,0 +1,128 @@
+PT J
+AU Turkdogan-Aydinol, FI
+   Yetilmezsoy, K
+AF Turkdogan-Aydinol, F. Ilter
+   Yetilmezsoy, Kaan
+TI A fuzzy-logic-based model to predict biogas and methane production rates in a pilot-scale mesophilic UASB reactor treating molasses wastewater
+SO JOURNAL OF HAZARDOUS MATERIALS
+LA English
+DT Article
+DE Molasses wastewater; Up-flow anaerobic sludge blanket; Fuzzy-logic; Non-linear regression; Modeling
+ID artificial neural-network; municipal solid-waste; anaerobic-digestion; performance evaluation; dissolved-oxygen; sludge blanket; color removal; soil-erosion; poultry; manure
+AB A MIMO (multiple inputs and multiple outputs) fuzzy-logic-based model was developed to predict biogas and methane production rates in a pilot-scale 90-L mesophilic up-flow anaerobic sludge blanket (UASB) reactor treating molasses wastewater. Five input variables such as volumetric organic loading rate (OLR), volumetric total chemical oxygen demand (TCOD) removal rate (R-V), influent alkalinity, influent pH and effluent pH were fuzzified by the use of an artificial intelligence-based approach. Trapezoidal membership functions with eight levels were conducted for the fuzzy subsets, and a Mamdani-type fuzzy inference system was used to implement a total of 134 rules in the IF-THEN format. The product (prod) and the centre of gravity (COG, centroid) methods were employed as the inference operator and defuzzification methods, respectively. Fuzzy-logic predicted results were compared with the outputs of two exponential non-linear regression models derived in this study. The UASB reactor showed a remarkable performance on the treatment of molasses wastewater, with an average TCOD removal efficiency of 93 (+/-3)% and an average volumetric TCOD removal rate of 6.87 (+/-3.93) kg TCODremoved/m(3)-day, respectively. Findings of this study clearly indicated that, compared to non-linear regression models, the proposed MIMO fuzzy-logic-based model produced smaller deviations and exhibited a superior predictive performance on forecasting of both biogas and methane production rates with satisfactory determination coefficients over 0.98. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Turkdogan-Aydinol, F. Ilter; Yetilmezsoy, Kaan] Yildiz Tech Univ, Fac Civil Engn, Dept Environm Engn, TR-34220 Istanbul, Turkey.
+C3 Yildiz Technical University
+RP Yetilmezsoy, K (corresponding author), Yildiz Tech Univ, Fac Civil Engn, Dept Environm Engn, TR-34220 Istanbul, Turkey.
+EM aydin@yildiz.edu.tr; yetilmez@yildiz.edu.tr
+CR Abdallah M, 2009, CAN J CIVIL ENG, V36, P701, DOI 10.1139/L09-015
+   Acaroglu O, 2008, TUNN UNDERGR SP TECH, V23, P600, DOI 10.1016/j.tust.2007.11.003
+   Adriaenssens V, 2006, ECOL MODEL, V195, P3, DOI 10.1016/j.ecolmodel.2005.11.043
+   Agirre-Basurko E, 2006, ENVIRON MODELL SOFTW, V21, P430, DOI 10.1016/j.envsoft.2004.07.008
+   Akkoyunlu A, 2010, INT J ENVIRON POLLUT, V40, P301, DOI 10.1504/IJEP.2010.031752
+   Akkurt S, 2004, CEMENT CONCRETE RES, V34, P1429, DOI 10.1016/j.cemconres.2004.01.020
+   Altunkaynak A, 2005, ECOL MODEL, V189, P436, DOI 10.1016/j.ecolmodel.2005.03.007
+   AMATYA PL, 1996, THESIS ASIAN I TECHN, V0, P0
+   Annachhatre AP, 2000, J ENVIRON ENG-ASCE, V126, P1149, DOI 10.1061/(ASCE)0733-9372(2000)126:12(1149)
+   Unknown -, 1995, STANDARD METHODS FOR EXAMINATION OF WATER AND WASTE WATER, V19th, P0
+   Appel KW, 2007, ATMOS ENVIRON, V41, P9603, DOI 10.1016/j.atmosenv.2007.08.044
+   Appels L, 2008, PROG ENERG COMBUST, V34, P755, DOI 10.1016/j.pecs.2008.06.002
+   Baruah AK, 1993, INDIAN JOURNAL OF ENVIRONMENTAL HEALTH, V35, P288
+   Biswas J, 2007, BIOMASS BIOENERG, V31, P80, DOI 10.1016/j.biombioe.2006.06.013
+   Biyikoglu A, 2005, ENERG CONVERS MANAGE, V46, P151, DOI 10.1016/j.enconman.2004.02.023
+   BOLLE WL, 1986, BIOTECHNOL BIOENG, V28, P542, DOI 10.1002/bit.260280410
+   Cakmakci M, 2007, BIOPROC BIOSYST ENG, V30, P349, DOI 10.1007/s00449-007-0131-2
+   Çakmakci M, 2010, EXPERT SYST APPL, V37, P1369, DOI 10.1016/j.eswa.2009.06.082
+   Chan CW, 2003, ENG APPL ARTIF INTEL, V16, P75, DOI 10.1016/S0952-1976(03)00062-9
+   CILER M, 1985, THESIS ISTANBUL TU I, V0, P0
+   COSTELLO DJ, 1991, WATER RES, V25, P847, DOI 10.1016/0043-1354(91)90166-N
+   Domnanovich AM, 2003, COMMUNICATIONS IN AGRICULTURAL AND APPLIED BIOLOGICAL SCIENCES, V68, P215
+   DURMUS G, 2009, J TECH ONLINE SELCUK, V8, P129
+   FitzGibbon F, 1998, PROCESS BIOCHEM, V33, P799, DOI 10.1016/S0032-9592(98)00050-8
+   Garcia C, 2007, IND ENG CHEM RES, V46, P6707, DOI 10.1021/ie0617001
+   GERARDI MH, 2003, MICROBIOLOGY ANAEROB, V14, P0
+   Gohil A, 2006, BIORESOURCE TECHNOL, V97, P2141, DOI 10.1016/j.biortech.2005.09.017
+   Gómez X, 2006, RENEW ENERG, V31, P2017, DOI 10.1016/j.renene.2005.09.029
+   Gómez-Sanchis J, 2006, ATMOS ENVIRON, V40, P6173, DOI 10.1016/j.atmosenv.2006.04.067
+   Jeganathan J, 2007, CHEMOSPHERE, V67, P1492, DOI 10.1016/j.chemosphere.2006.12.047
+   Kalyuzhnyi SV, 1997, BIORESOURCE TECHNOL, V59, P73, DOI 10.1016/S0960-8524(96)00124-1
+   Kanat G, 2009, ENVIRON MODEL ASSESS, V14, P607, DOI 10.1007/s10666-008-9150-x
+   Kaparaju P, 2008, BIORESOURCE TECHNOL, V99, P4919, DOI 10.1016/j.biortech.2007.09.015
+   Karaca F, 2006, ENVIRON MODELL SOFTW, V21, P1190, DOI 10.1016/j.envsoft.2005.06.006
+   Kolehmainen MK, 2004, THESIS HELSINKI U TE, V0, P0
+   KOMUR M, 2005, ITU DERGISI, V4, P43
+   Kusan H, 2010, EXPERT SYST APPL, V37, P1808, DOI 10.1016/j.eswa.2009.07.031
+   Liang Z, 2009, SEP PURIF TECHNOL, V68, P382, DOI 10.1016/j.seppur.2009.06.011
+   Liu CF, 2008, BIORESOURCE TECHNOL, V99, P882, DOI 10.1016/j.biortech.2007.01.013
+   Mahimairaja S, 2004, 3 AUSTR NZ SOIL SCI, V0, P0
+   MAMDANI EH, 1975, INT J MAN MACH STUD, V7, P1, DOI 10.1016/S0020-7373(75)80002-2
+   Marsili-Libelli S, 2004, ENVIRON MODELL SOFTW, V19, P799, DOI 10.1016/j.envsoft.2003.03.008
+   McMahon KD, 2001, WATER RES, V35, P1817, DOI 10.1016/S0043-1354(00)00438-3
+   Metternicht G, 2005, ENVIRON MODELL SOFTW, V20, P715, DOI 10.1016/j.envsoft.2004.03.015
+   Mitra B, 1998, GEODERMA, V86, P183, DOI 10.1016/S0016-7061(98)00050-0
+   Mohan SV, 2007, ENZYME MICROB TECH, V41, P506, DOI 10.1016/j.enzmictec.2007.04.007
+   Mudunge R, 2000, THESIS U NATAL DURBA, V0, P0
+   Murnleitner E, 2002, WATER RES, V36, P201, DOI 10.1016/S0043-1354(01)00186-5
+   Narnoli SK, 1997, WATER RES, V31, P715, DOI 10.1016/S0043-1354(97)80987-6
+   Onkal-Engin G, 2005, ENVIRON MODELL SOFTW, V20, P843, DOI 10.1016/j.envsoft.2004.04.012
+   Özgan E, 2009, J FAC ENG ARCHIT GAZ, V24, P323
+   Özger M, 2007, OCEAN ENG, V34, P460, DOI 10.1016/j.oceaneng.2006.03.003
+   Peña M, 2003, CHEMOSPHERE, V51, P893, DOI 10.1016/S0045-6535(03)00159-0
+   Perendeci A, 2008, CHEM ENG J, V145, P78, DOI 10.1016/j.cej.2008.03.008
+   Polit M, 2002, ENG APPL ARTIF INTEL, V15, P385, DOI 10.1016/S0952-1976(02)00091-X
+   Pontes RFF, 2006, CHEM ENG J, V122, P65, DOI 10.1016/j.cej.2006.02.018
+   Puñal A, 2001, WATER SCI TECHNOL, V43, P191, DOI 10.2166/wst.2001.0422
+   Rihani R, 2009, CHEM ENG J, V152, P566, DOI 10.1016/j.cej.2009.05.025
+   Ruchiraset A, 2009, DESALIN WATER TREAT, V4, P274, DOI 10.5004/dwt.2009.491
+   Sadiq R, 2004, ENVIRON MODELL SOFTW, V19, P507, DOI 10.1016/S1364-8152(03)00165-8
+   Sadrzadeh M, 2009, CHEM ENG J, V151, P262, DOI 10.1016/j.cej.2009.03.003
+   Sakar S, 2009, WASTE MANAGE RES, V27, P3, DOI 10.1177/0734242X07079060
+   Satyawali Y, 2008, J ENVIRON MANAGE, V86, P481, DOI 10.1016/j.jenvman.2006.12.024
+   Scherer P, 2009, BIOTECHNOL BIOENG, V102, P736, DOI 10.1002/bit.22108
+   Sirianuntapiboon S, 2000, THAMMASAT INT J SCI, V5, P14
+   Sirianuntapiboon S, 2008, BIORESOURCE TECHNOL, V99, P1806, DOI 10.1016/j.biortech.2007.03.040
+   Sohsalam P, 2008, BIORESOURCE TECHNOL, V99, P5610, DOI 10.1016/j.biortech.2007.10.033
+   Sözen A, 2004, RENEW ENERG, V29, P53, DOI 10.1016/S0960-1481(03)00172-1
+   TAKAGI T, 1985, IEEE T SYST MAN CYB, V15, P116, DOI 10.1109/TSMC.1985.6313399
+   Tay JH, 2000, WATER RES, V34, P2849, DOI 10.1016/S0043-1354(00)00057-9
+   Topçu IB, 2008, CONSTR BUILD MATER, V22, P532, DOI 10.1016/j.conbuildmat.2006.11.007
+   Torkian A, 2003, RESOUR CONSERV RECY, V40, P1, DOI 10.1016/s0921-3449(03)00021-1
+   Traoré A, 2005, CHEM ENG J, V111, P13, DOI 10.1016/j.cej.2005.05.004
+   Verma S, 2002, THESIS COLUMBIA U, V0, P0
+   Ward AJ, 2008, BIORESOURCE TECHNOL, V99, P7928, DOI 10.1016/j.biortech.2008.02.044
+   Yakupoglu T, 2008, ZIRAAT FAKULTESI DERGISI, V0, P0
+   YETILMEZSOY K, 2008, THESIS YILDIZ TU IST, V0, P0
+   Yetilmezsoy K, 2009, STOCH ENV RES RISK A, V23, P13, DOI 10.1007/s00477-007-0191-5
+   Yetilmezsoy K, 2008, J HAZARD MATER, V153, P532, DOI 10.1016/j.jhazmat.2007.08.087
+   Yetilmezsoy K, 2008, J HAZARD MATER, V153, P1288, DOI 10.1016/j.jhazmat.2007.09.092
+   Yetilmezsoy K, 2008, J HAZARD MATER, V151, P547, DOI 10.1016/j.jhazmat.2007.06.013
+   Yetilmezsoy K, 2007, FRESEN ENVIRON BULL, V16, P674
+   Yetilmezsoy K, 2007, ENVIRON MODEL ASSESS, V12, P13, DOI 10.1007/s10666-006-9048-4
+   Zhang BG, 2009, BIORESOURCE TECHNOL, V100, P5687, DOI 10.1016/j.biortech.2009.06.045
+NR 84
+TC 114
+Z9 127
+U1 1
+U2 74
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-3894
+EI 1873-3336
+J9 J HAZARD MATER
+JI J. Hazard. Mater.
+PD OCT 15
+PY 2010
+VL 182
+IS 1-3
+BP 460
+EP 471
+DI 10.1016/j.jhazmat.2010.06.054
+PG 12
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA 655HV
+UT WOS:000282240800060
+PM 20609515
+DA 2025-11-05
+ER
+

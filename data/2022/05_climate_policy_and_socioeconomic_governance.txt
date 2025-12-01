@@ -1,0 +1,1629 @@
+PT J
+AU Peng, H
+   Lu, YB
+   Gupta, S
+   Wang, QW
+AF Peng, Hui
+   Lu, Yaobin
+   Gupta, Sumeet
+   Wang, Qunwei
+TI Dynamic and heterogeneity assessment of carbon efficiency in the manufacturing industry in China: Implications for formulating carbon policies
+SO ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+LA English
+DT Article
+DE Carbon efficiency; China?s manufacturing industry; Dynamic and heterogeneity assessment; Machine learning
+ID slacks-based measure; energy efficiency; co2 emissions; dioxide emissions; economic-growth; reduction; productivity; sector; conservation; performance
+AB In 2019, the Chinese manufacturing industry (CMI) accounted for 13.46% of the world's energy consumption and 12.24% of carbon dioxide emissions. Such high emissions and pollution pose a challenge for China towards becoming carbon neutral. Through the panel data of 30 provinces, 283 key cities, and 30 sub-sectors from 2006 to 2019, combined with econometrics and machine learning, the dynamic evolution trend and spatial hetero-geneity of CMI were comprehensively analyzed. The notable results are fourfold. (1) Carbon efficiency of CMI in most provinces is between 0.4881 and 0.846, which can be divided into three clusters (high, medium, and low); the difference between clusters is the primary source of the overall difference in carbon efficiency, and carbon efficiency distribution converges tend to a higher level; (2) The promotion of TC is generally greater than that of EC; both TC and EC have certain spatial agglomeration characteristics among three city clubs; (3) High energy consumption sectors shows low carbon efficiency, high technology, and emerging sectors demonstrate high carbon efficiency; TC has a greater enhancement effect on medium and high energy consumption sub-sectors, while EC demonstrates a greater promotion on low energy consumption sub-sectors. This study has implica-tions for policy development regarding promoting carbon efficiency, carbon neutralization, and the world's carbon emission reduction.
+C1 [Peng, Hui; Lu, Yaobin] Huazhong Univ Sci & Technol, Sch Management, Wuhan 430074, Peoples R China.
+   [Gupta, Sumeet] Indian Inst Management Raipur, Informat Technol & Syst, PO Kurru Abhanpur, Raipur 493661, Chhattisgarh, India.
+   [Wang, Qunwei] Nanjing Univ Aeronaut & Astronaut, Sch Econ & Management, Nanjing 210000, Peoples R China.
+C3 Huazhong University of Science & Technology; Indian Institute of Management (IIM System); Indian Institute of Management Raipur; Nanjing University of Aeronautics & Astronautics
+RP Lu, YB (corresponding author), Huazhong Univ Sci & Technol, Sch Management, Wuhan 430074, Peoples R China.
+EM huipeng@hust.edu.cn; luyb@hust.edu.cn; sumeetgupta@iimraipur.ac.in; qweiwang0305@163.com
+FU National Social Science Fund of China [18ZDA109]
+CR Akbostanci E, 2011, APPL ENERG, V88, P2273, DOI 10.1016/j.apenergy.2010.12.076
+   Amri F, 2019, TECHNOL FORECAST SOC, V146, P212, DOI 10.1016/j.techfore.2019.05.028
+   An RY, 2018, APPL ENERG, V226, P862, DOI 10.1016/j.apenergy.2018.06.044
+   An YF, 2021, J ENVIRON MANAGE, V284, P0, DOI 10.1016/j.jenvman.2021.112055
+   Avom D, 2020, TECHNOL FORECAST SOC, V155, P0, DOI 10.1016/j.techfore.2020.120028
+   Chen JD, 2020, TECHNOL FORECAST SOC, V153, P0, DOI 10.1016/j.techfore.2020.119938
+   Chen PY, 2016, RENEW SUST ENERG REV, V65, P420, DOI 10.1016/j.rser.2016.06.074
+   Chen Y, 2021, RESOUR CONSERV RECY, V168, P0, DOI 10.1016/j.resconrec.2020.105255
+   Chen Y, 2021, ENERGY, V237, P0, DOI 10.1016/j.energy.2021.121553
+   Cheng ML, 2020, J CLEAN PROD, V258, P0, DOI 10.1016/j.jclepro.2020.120558
+   Cheng ZH, 2018, RENEW SUST ENERG REV, V94, P330, DOI 10.1016/j.rser.2018.06.015
+   Danish, 2020, SUSTAIN DEV, V28, P1457, DOI 10.1002/sd.2098
+   Du KR, 2019, ENERG POLICY, V131, P240, DOI 10.1016/j.enpol.2019.04.033
+   Fan LW, 2021, J ENVIRON MANAGE, V277, P0, DOI 10.1016/j.jenvman.2020.111325
+   Filippini M, 2015, ENERG ECON, V52, PS5, DOI 10.1016/j.eneco.2015.08.023
+   Hammond GP, 2012, ENERGY, V41, P220, DOI 10.1016/j.energy.2011.06.035
+   Hang Y, 2019, RESOUR CONSERV RECY, V146, P77, DOI 10.1016/j.resconrec.2019.03.034
+   Herrala R, 2012, ENERG POLICY, V45, P762, DOI 10.1016/j.enpol.2012.03.007
+   Huang JB, 2018, ENVIRON SCI POLLUT R, V25, P21833, DOI 10.1007/s11356-018-2307-5
+   Jiang SR, 2021, NAT COMMUN, V12, P0, DOI 10.1038/s41467-021-22256-3
+   Karali N, 2014, APPL ENERG, V120, P133, DOI 10.1016/j.apenergy.2014.01.055
+   Le Quéré C, 2019, NAT CLIM CHANGE, V9, P213, DOI 10.1038/s41558-019-0419-7
+   Li JX, 2020, J CLEAN PROD, V260, P0, DOI 10.1016/j.jclepro.2020.121021
+   Li K, 2015, ENERG ECON, V48, P230, DOI 10.1016/j.eneco.2015.01.006
+   Li WW, 2018, J CLEAN PROD, V170, P471, DOI 10.1016/j.jclepro.2017.09.145
+   Lin BQ, 2020, ENERG ECON, V89, P0, DOI 10.1016/j.eneco.2020.104809
+   Lin BQ, 2020, APPL ENERG, V260, P0, DOI 10.1016/j.apenergy.2019.114266
+   Lin BQ, 2018, ENERG POLICY, V120, P302, DOI 10.1016/j.enpol.2018.05.050
+   Lin BQ, 2018, J CLEAN PROD, V174, P492, DOI 10.1016/j.jclepro.2017.10.286
+   Liu H, 2021, J ENVIRON MANAGE, V300, P0, DOI 10.1016/j.jenvman.2021.113687
+   Liu J, 2022, ENERGY, V248, P0, DOI 10.1016/j.energy.2022.123568
+   Long RY, 2016, APPL ENERG, V166, P210, DOI 10.1016/j.apenergy.2015.09.100
+   López-Peña A, 2012, ENERG POLICY, V50, P659, DOI 10.1016/j.enpol.2012.08.006
+   Mohammadi A, 2014, RENEW SUST ENERG REV, V30, P724, DOI 10.1016/j.rser.2013.11.012
+   Özbugday FC, 2015, ENERGY, V82, P734, DOI 10.1016/j.energy.2015.01.084
+   Peng H, 2021, ENVIRON IMPACT ASSES, V89, P0, DOI 10.1016/j.eiar.2021.106598
+   Searchinger TD, 2018, NATURE, V564, P249, DOI 10.1038/s41586-018-0757-z
+   Shabani ZD, 2019, ENERGY, V169, P1064, DOI 10.1016/j.energy.2018.11.062
+   Shahbaz M, 2018, ENERG ECON, V74, P843, DOI 10.1016/j.eneco.2018.07.020
+   Shao CF, 2014, J ENVIRON MANAGE, V134, P30, DOI 10.1016/j.jenvman.2013.12.025
+   Shen N, 2021, SOCIO-ECON PLAN SCI, V78, P0, DOI 10.1016/j.seps.2021.101060
+   Shen N, 2021, SOCIO-ECON PLAN SCI, V75, P0, DOI 10.1016/j.seps.2020.100867
+   Sheng PF, 2020, ENERGY, V213, P0, DOI 10.1016/j.energy.2020.118747
+   Sun CW, 2019, ENERG POLICY, V128, P235, DOI 10.1016/j.enpol.2018.12.058
+   Tan XJ, 2020, TECHNOL FORECAST SOC, V160, P0, DOI 10.1016/j.techfore.2020.120222
+   Tang X, 2020, SCI TOTAL ENVIRON, V737, P0, DOI 10.1016/j.scitotenv.2020.140397
+   Tone K, 2002, EUR J OPER RES, V143, P32, DOI 10.1016/S0377-2217(01)00324-1
+   Tone K, 2001, EUR J OPER RES, V130, P498, DOI 10.1016/S0377-2217(99)00407-5
+   Wang GF, 2019, CHINA ECON REV, V56, P0, DOI 10.1016/j.chieco.2019.101313
+   Wang LH, 2022, SOCIO-ECON PLAN SCI, V81, P0, DOI 10.1016/j.seps.2021.101216
+   Wang NN, 2018, RENEW SUST ENERG REV, V82, P2606, DOI 10.1016/j.rser.2017.09.088
+   Wang QW, 2013, MATH COMPUT MODEL, V58, P1068, DOI 10.1016/j.mcm.2012.05.003
+   Wang R, 2021, J ENVIRON MANAGE, V293, P0, DOI 10.1016/j.jenvman.2021.112958
+   Wang SJ, 2018, ECOL INDIC, V90, P460, DOI 10.1016/j.ecolind.2018.03.033
+   Wang Y, 2019, J CLEAN PROD, V206, P850, DOI 10.1016/j.jclepro.2018.09.185
+   Wei ZX, 2020, ENERG ECON, V90, P0, DOI 10.1016/j.eneco.2020.104836
+   Wu F, 2012, ENERG POLICY, V49, P164, DOI 10.1016/j.enpol.2012.05.035
+   Xia Q, 2022, SUSTAIN PROD CONSUMP, V29, P100, DOI 10.1016/j.spc.2021.09.021
+   Yang J, 2020, J CLEAN PROD, V255, P0, DOI 10.1016/j.jclepro.2020.120226
+   Yang M, 2020, ENERG POLICY, V144, P0, DOI 10.1016/j.enpol.2020.111602
+   You JM, 2022, ENERGY, V247, P0, DOI 10.1016/j.energy.2022.123386
+   Yuan JH, 2011, RENEW SUST ENERG REV, V15, P4334, DOI 10.1016/j.rser.2011.07.117
+   Zhang CG, 2015, RENEW SUST ENERG REV, V44, P12, DOI 10.1016/j.rser.2014.12.011
+   Zhang F, 2020, TECHNOL FORECAST SOC, V154, P0, DOI 10.1016/j.techfore.2020.119949
+   Zhang LL, 2018, STRUCT CHANGE ECON D, V47, P171, DOI 10.1016/j.strueco.2018.08.008
+   Zhang N, 2014, ENERG POLICY, V70, P193, DOI 10.1016/j.enpol.2014.03.031
+   Zhang W, 2020, ENERGY, V196, P0, DOI 10.1016/j.energy.2020.117117
+   Zhang YJ, 2020, ENERG ECON, V86, P0, DOI 10.1016/j.eneco.2019.104635
+   Zhou N, 2018, NAT ENERGY, V3, P978, DOI 10.1038/s41560-018-0253-6
+   Zhou P, 2012, EUR J OPER RES, V221, P625, DOI 10.1016/j.ejor.2012.04.022
+   Zhou P, 2010, ENERG ECON, V32, P194, DOI 10.1016/j.eneco.2009.10.003
+   Zhou XY, 2019, ENERG ECON, V81, P380, DOI 10.1016/j.eneco.2019.04.014
+   Zhou Y, 2021, ENERG POLICY, V156, P0, DOI 10.1016/j.enpol.2021.112408
+NR 73
+TC 31
+Z9 34
+U1 6
+U2 77
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0195-9255
+EI 1873-6432
+J9 ENVIRON IMPACT ASSES
+JI Environ. Impact Assess. Rev.
+PD NOV 15
+PY 2022
+VL 97
+IS 
+BP 
+EP 
+DI 10.1016/j.eiar.2022.106885
+EA AUG 2022
+PG 24
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 4X2UZ
+UT WOS:000860704200005
+DA 2025-11-10
+ER
+
+PT J
+AU Pretis, F
+AF Pretis, Felix
+TI Does a Carbon Tax Reduce CO2 Emissions? Evidence from British Columbia
+SO ENVIRONMENTAL & RESOURCE ECONOMICS
+LA English
+DT Article
+DE Carbon tax; CO2 emissions; Regulation; Break detection
+ID structural breaks; models; uncertainty; inference; selection; points; tests
+AB Using difference-in-differences, synthetic control, and introducing a new break-detection approach, I show that the introduction of North America's first major carbon tax has reduced transportation emissions but not 'yet' led to large statistically significant reductions in aggregate CO2 emissions. Proposing a new method to assess policy based on breaks in difference-in-differences using machine learning, I demonstrate that neither carbon pricing nor trading schemes in other provinces are detected as large and statistically significant interventions. Instead, closures and efficiency-improvements in emission-intense industries in untaxed provinces have reduced emissions. Overall, the results show that existing carbon taxes (and prices) are likely too low to be effective in the time frame since their introduction.
+C1 [Pretis, Felix] Univ Victoria, Dept Econ, Victoria, BC, Canada.
+   [Pretis, Felix] Univ Oxford, Nuffield Coll, Oxford, England.
+C3 University of Victoria; University of Oxford
+RP Pretis, F (corresponding author), Univ Victoria, Dept Econ, Victoria, BC, Canada.; Pretis, F (corresponding author), Univ Oxford, Nuffield Coll, Oxford, England.
+EM fpretis@uvic.ca
+FU Robertson Foundation
+CR Abadie A, 2003, AM ECON REV, V93, P113, DOI 10.1257/000282803321455188
+   Abadie A, 2011, J STAT SOFTW, V42, P1
+   Abadie A, 2010, J AM STAT ASSOC, V105, P493, DOI 10.1198/jasa.2009.ap08746
+   Ahmadi Y, 2020, EFFECTIVENESS REVENU, V0, P0
+   Ahmadi Y, 2017, EVIDENCE REVENUE NEU, V0, P0
+   Akerlof GA, 2020, J ECON LIT, V58, P405, DOI 10.1257/jel.20191573
+   Anderson JL, 2019, ANNU REV RESOUR ECON, V11, P101, DOI 10.1146/annurev-resource-100518-093750
+   Unknown -, 2012, CBC, V0, P0
+   Unknown -, 2001, NEWFOUNDLAND POWER E, V0, P0
+   Antweiler W, 2016, FRUGAL CARS OR FRUGAL DRIVERS? HOW CARBON AND FUEL TAXES INFLUENCE THE CHOICE AND USE OF CARS, V0, P0, DOI DOI 10.2139/ssrn.2778868
+   Apergis N, 2015, ENERG ECON, V52, P176, DOI 10.1016/j.eneco.2015.10.014
+   ARELLANO M, 1991, REV ECON STUD, V58, P277, DOI 10.2307/2297968
+   Best R, 2020, ENVIRON RESOUR ECON, V77, P69, DOI 10.1007/s10640-020-00436-x
+   British Columbia, 2008, CLIM ACT PLAN, V0, P0
+   Buchmueller TC, 2011, AM ECON J-ECON POLIC, V3, P25, DOI 10.1257/pol.3.4.25
+   Cameron AC, 2008, REV ECON STAT, V90, P414, DOI 10.1162/rest.90.3.414
+   Carattini S, 2019, NATURE, V565, P289, DOI 10.1038/d41586-019-00124-x
+   Carbone JC, 2020, J ASSOC ENVIRON RESO, V7, P687, DOI 10.1086/708734
+   Castle JL, 2015, ECONOMETRICS, V3, P240, DOI 10.3390/econometrics3020240
+   Conley TG, 2011, REV ECON STAT, V93, P113, DOI 10.1162/REST_a_00049
+   CROISSANT Y, 2008, J STAT SOFTW, V0, P0
+   Daniel KD, 2019, P NATL ACAD SCI USA, V116, P20886, DOI 10.1073/pnas.1817444116
+   Davis LW, 2011, J APPL ECONOMET, V26, P1187, DOI 10.1002/jae.1156
+   Donaldson D, 2016, J ECON PERSPECT, V30, P171, DOI 10.1257/jep.30.4.171
+   Elgie S, 2013, CAN PUBLIC POL, V39, PS1, DOI 10.3138/CPP.39.Supplement2.S1
+   Environment and Climate Change Canada, 2018, CANADAS GREENHOUSE G, V0, P0
+   Ericsson NR, 2017, INT J FORECASTING, V33, P543, DOI 10.1016/j.ijforecast.2016.09.001
+   Esarey, 2016, CLUSTERSES CALCULATE, V0, P0
+   Eskander SMSU, 2020, NAT CLIM CHANGE, V10, P750, DOI 10.1038/s41558-020-0831-z
+   Estrada F, 2013, NAT GEOSCI, V6, P1050, DOI 10.1038/NGEO1999
+   Farmer JD, 2019, SCIENCE, V364, P132, DOI 10.1126/science.aaw7287
+   Feir D, 2018, ILLUMINATING INDIGEN, V0, P0
+   Friedman J, 2010, J STAT SOFTW, V33, P1, DOI 10.18637/jss.v033.i01
+   Gaure S, 2013, R J, V5, P105
+   Gittens, 2018, IMPACT CARBON TAXES, V0, P0
+   Government of Canada, 2014, REGULATORY IMPACT AN, V0, P0
+   Green JF, 2021, ENVIRON RES LETT, V16, P0, DOI 10.1088/1748-9326/abdae9
+   Gulati S, 2015, SUSTAIN PROSPER, V0, P0
+   Hanoteau J, 2019, CARBON MANAG, V10, P287, DOI 10.1080/17583004.2019.1595154
+   Hansen BE, 2017, J BUS ECON STAT, V35, P228, DOI 10.1080/07350015.2015.1073595
+   Hendry, 2016, QUANTIFYING UNCERTAI, V0, P0
+   Hendry DF, 2015, ECONOMET THEOR, V31, P93, DOI 10.1017/S0266466614000218
+   Hendry DF, 2005, OXFORD B ECON STAT, V67, P571, DOI 10.1111/j.1468-0084.2005.00132.x
+   Hendry DF, 2018, 1 IN 1 OUT MODELLING, V0, P0
+   Janssens-Maenhout G, 2013, GRIDDING: EDGAR EMISSIONS DISTRIBUTION ON GLOBAL GRIDMAPS, V0, P0
+   Johansen S, 2009, THE METHODOLOGY AND PRACTICE OF ECONOMETRICS: A FESTSCHRIFT IN HONOUR OF DAVIDF. HENDRY, V0, PP1, DOI 10.1093/acprof:oso/9780199237197.003.0001
+   Johansen S, 2016, SCAND J STAT, V43, P321, DOI 10.1111/sjos.12174
+   Koch N, 2022, WHAT REDUCES ROAD CO, V0, P0
+   Lawley C, 2016, REFINING EVIDENCE BR, V0, P0
+   Lin BQ, 2011, ENERG POLICY, V39, P5137, DOI 10.1016/j.enpol.2011.05.050
+   MacKinnon JG, 2019, RANDOMIZATION INFERE, V0, P0
+   Metcalf GE, 2020, NBER WORKING PAPER W27488, V0, P0
+   Metcalf GE, 2019, BROOKINGS PAP ECO AC, V0, P405
+   Mukanjari S, 2018, GUPEA WORKING PAPER, V0, P0
+   Murray B, 2015, ENERG POLICY, V86, P674, DOI 10.1016/j.enpol.2015.08.011
+   NICKELL S, 1981, ECONOMETRICA, V49, P1417, DOI 10.2307/1911408
+   Nielsen B, 2018, ASYMPTOTIC PROPERTIE, V0, P0
+   Nymoen R, 2015, OXFORD B ECON STAT, V77, P164, DOI 10.1111/obes.12061
+   Peet Chelsea, 2012, BC STUDIES, V173, P97, DOI 10.14288/BCS.V0I173.2431
+   PERRON P, 1989, ECONOMETRICA, V57, P1361, DOI 10.2307/1913712
+   Piehl AM, 2003, REV ECON STAT, V85, P550, DOI 10.1162/003465303322369713
+   Porter J, 2015, J ECONOMETRICS, V189, P132, DOI 10.1016/j.jeconom.2015.06.002
+   Pretis F, 2022, DISCOVERING WHAT MATTERED: ANSWERING REVERSE CAUSAL QUESTIONS BY DETECTING UNKNOWN TREATMENT ASSIGNMENT AND TIMING AS BREAKS IN PANEL MODELS, V0, P0
+   Pretis F, 2020, J ECONOMETRICS, V214, P256, DOI 10.1016/j.jeconom.2019.05.013
+   Pretis F, 2018, J STAT SOFTW, V86, P0, DOI 10.18637/jss.v086.i03
+   Pretis F, 2018, PHILOS T R SOC A, V376, P0, DOI 10.1098/rsta.2016.0460
+   Pretis F, 2016, J ECON SURV, V30, P403, DOI 10.1111/joes.12148
+   Pretis F, 2015, CLIMATIC CHANGE, V131, P705, DOI 10.1007/s10584-015-1391-5
+   Province of Nova Scotia, 2017, ENV GOALS SUST PROSP, V0, P0
+   Rafaty R, 2020, TECH. REP., V0, P0
+   Rivers N, 2015, J ENVIRON ECON MANAG, V74, P23, DOI 10.1016/j.jeem.2015.07.002
+   Ruhm CJ, 2019, SOUTH ECON J, V85, P1017, DOI 10.1002/soej.12333
+   Saberian S, 2018, NEGATIVE EFFECT BC C, V0, P0
+   Santos C, 2008, COMPUTATION STAT, V23, P317, DOI 10.1007/s00180-007-0054-z
+   Schneider L, 2017, ENVIRON RES LETT, V12, P0, DOI 10.1088/1748-9326/aa7a1b
+   SIMES RJ, 1986, BIOMETRIKA, V73, P751, DOI 10.2307/2336545
+   Statistics Canada, 2018, PROV TERR DAT, V0, P0
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Walker AJ, 2019, BMJ-BRIT MED J, V367, P0, DOI 10.1136/bmj.l5205
+   Williams LV, 2016, KYKLOS, V69, P518
+   Xiang D, 2019, ENERG ECON, V80, P206, DOI 10.1016/j.eneco.2018.12.004
+   Yamazaki, 2018, DO CARBON TAXES KILL, V0, P0
+   Yamazaki A, 2017, J ENVIRON ECON MANAG, V83, P197, DOI 10.1016/j.jeem.2017.03.003
+   Yip CM, 2018, J ENVIRON ECON MANAG, V89, P136, DOI 10.1016/j.jeem.2018.03.004
+   Zhang QL, 2016, IEEE T GEOSCI REMOTE, V54, P5821, DOI 10.1109/TGRS.2016.2572724
+NR 85
+TC 69
+Z9 84
+U1 4
+U2 80
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0924-6460
+EI 1573-1502
+J9 ENVIRON RESOUR ECON
+JI Environ. Resour. Econ.
+PD SEP 15
+PY 2022
+VL 83
+IS 1
+BP 115
+EP 144
+DI 10.1007/s10640-022-00679-w
+EA APR 2022
+PG 30
+WC Economics; Environmental Studies
+SC Business & Economics; Environmental Sciences & Ecology
+GA 4W1SP
+UT WOS:000782327800001
+DA 2025-11-08
+ER
+
+PT J
+AU Wang, JJ
+   Cheng, Q
+   Sun, X
+AF Wang, Jujie
+   Cheng, Qian
+   Sun, Xin
+TI Carbon price forecasting using multiscale nonlinear integration model coupled optimal feature reconstruction with biphasic deep learning
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Carbon price forecasting; Multiscale decomposition; Optimal feature reconstruction; Biphasic deep learning; Nonlinear integration
+ID european carbon; neural-network; hybrid arima; decomposition; energy; emission; volatility; paradigm; market; co2
+AB Precise carbon price forecasting matters a lot for both regulators and investors. The improvement of carbon price forecasting can not only provide investors with rational advice but also make for energy conservation and emission reduction. But traditional methods do not perform well in prediction because of the nonlinearity and non-stationarity of carbon price. In this study, an innovative multiscale nonlinear integration model is proposed to improve the accuracy of carbon price forecasting, which combines optimal feature reconstruction and biphasic deep learning. For one thing, the optimal feature reconstruction, including variational mode decomposition (VMD) and sample entropy (SE), is used to extract different features from the original carbon price effectively. For another thing, biphasic deep learning based on deep recurrent neural network (DRNN) and gate recurrent unit (GRU) is applied to predict carbon price. DRNN, a novel framework of deep learning, is applied to predict each component. Meanwhile, GRU is used for nonlinear integration, and the final prediction of carbon price can be acquired through this procedure. For illustration and comparison, this study takes carbon price from Beijing, Hubei, and Shanghai in China as sample data to examine the capability of the proposed model. The empirical result proves that the new hybrid model can improve the carbon price predictive accuracy in consideration of statistical measurement. Hence, the novel hybrid model can be considered as an efficient way of predicting carbon prices.
+C1 [Wang, Jujie; Cheng, Qian; Sun, Xin] Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.
+   [Wang, Jujie] Nanjing Univ Informat Sci & Technol, Collaborat Innovat Ctr Forecast & Evaluat Meteoro, Nanjing 210044, Peoples R China.
+C3 Nanjing University of Information Science & Technology; Nanjing University of Information Science & Technology
+RP Wang, JJ (corresponding author), Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.; Wang, JJ (corresponding author), Nanjing Univ Informat Sci & Technol, Collaborat Innovat Ctr Forecast & Evaluat Meteoro, Nanjing 210044, Peoples R China.
+EM jujiewang@126.com
+FU National Natural Science Foundation of China [71971122, 71501101]
+CR Unknown -, 2018, OPER RES MANAG SCI, V0, P0
+   Atsalakis GS, 2016, APPL SOFT COMPUT, V43, P107, DOI 10.1016/j.asoc.2016.02.029
+   Babazadeh R, 2017, RAIRO-OPER RES, V51, P719, DOI 10.1051/ro/2016059
+   Byun SJ, 2013, ENERG ECON, V40, P207, DOI 10.1016/j.eneco.2013.06.017
+   Chevallier J, 2011, ECON BULL, V31, P1731
+   Chien FS, 2021, ENVIRON SCI POLLUT R, V28, P40957, DOI 10.1007/s11356-021-13423-6
+   Dimitriadis D, 2021, ENVIRON SCI POLLUT R, V28, P40917, DOI 10.1007/s11356-021-13613-2
+   Dragomiretskiy K, 2014, IEEE T SIGNAL PROCES, V62, P531, DOI 10.1109/TSP.2013.2288675
+   Dutta A, 2018, J CLEAN PROD, V172, P2773, DOI 10.1016/j.jclepro.2017.11.135
+   E JW, 2019, ENERGY, V189, P0, DOI 10.1016/j.energy.2019.116278
+   El-Danaf TS, 2014, MATH METHOD APPL SCI, V37, P657, DOI 10.1002/mma.2822
+   Fan XH, 2015, EXPERT SYST APPL, V42, P3945, DOI 10.1016/j.eswa.2014.12.047
+   García-Martos C, 2013, APPL ENERG, V101, P363, DOI 10.1016/j.apenergy.2012.03.046
+   Hao Y, 2020, J CLEAN PROD, V244, P0, DOI 10.1016/j.jclepro.2019.118556
+   Hu GB, 2020, NAVIGATION-US, V67, P275, DOI 10.1002/navi.365
+   Huang YM, 2021, APPL ENERG, V285, P0, DOI 10.1016/j.apenergy.2021.116485
+   Hussain I, 2021, ENVIRON SCI POLLUT R, V28, P39387, DOI 10.1007/s11356-021-13502-8
+   Jia PT, 2020, IEEE ACCESS, V8, P38023, DOI 10.1109/ACCESS.2020.2975257
+   Kim HY, 2018, EXPERT SYST APPL, V103, P25, DOI 10.1016/j.eswa.2018.03.002
+   Lee M, 2021, J KOREAN PHYS SOC, V78, P64
+   Lin Y, 2020, FOOD FUNCT, V11, P730, DOI 10.1039/c9fo02095k
+   Liu H, 2020, CARBON MANAG, V11, P25, DOI 10.1080/17583004.2019.1686930
+   Mujtaba A, 2021, ENVIRON SCI POLLUT R, V28, P39357, DOI 10.1007/s11356-021-13078-3
+   Naghibi Z, 2019, AEU-INT J ELECTRON C, V100, P66, DOI 10.1016/j.aeue.2018.12.010
+   Noh J, 2020, MATHEMATICS-BASEL, V8, P0, DOI 10.3390/math8040565
+   Paolella MS, 2008, J BANK FINANC, V32, P2022, DOI 10.1016/j.jbankfin.2007.09.024
+   Perfecto C, 2020, IEEE T COMMUN, V68, P2491, DOI 10.1109/TCOMM.2020.2965527
+   Popoola SI, 2021, ELECTRONICS-SWITZ, V10, P0, DOI 10.3390/electronics10091104
+   Qin QD, 2020, COMPUT ECON, V55, P1249, DOI 10.1007/s10614-018-9862-1
+   Richman JS, 2000, AM J PHYSIOL-HEART C, V278, P0
+   Song YZ, 2018, J CLEAN PROD, V181, P374, DOI 10.1016/j.jclepro.2018.01.102
+   Sun GQ, 2016, ENERGIES, V9, P0, DOI 10.3390/en9010054
+   Sun H, 2020, COMPUT ECON, V55, P451, DOI 10.1007/s10614-019-09896-w
+   Sun W, 2020, POL J ENVIRON STUD, V29, P3305, DOI 10.15244/pjoes/114261
+   Sun W, 2020, CARBON MANAG, V11, P315, DOI 10.1080/17583004.2020.1755597
+   Tang L, 2012, APPL ENERG, V93, P432, DOI 10.1016/j.apenergy.2011.12.030
+   Tasyurek M, 2020, NEUROCOMPUTING, V399, P258, DOI 10.1016/j.neucom.2020.02.058
+   Wang J, 2018, INFORM SCIENCES, V460, P279, DOI 10.1016/j.ins.2018.05.026
+   Wang S, 2019, ACTA PHYS POL A, V135, P368, DOI 10.12693/APhysPolA.135.368
+   Wu JJ, 2021, J COMP EFFECT RES, V10, P157, DOI 10.2217/cer-2020-0113
+   Wu QL, 2020, ENERGY SCI ENG, V8, P2708, DOI 10.1002/ese3.703
+   Wu Z, 2020, J PROCESS CONTR, V89, P74, DOI 10.1016/j.jprocont.2020.03.013
+   Xu H, 2020, PHYSICA A, V545, P0, DOI 10.1016/j.physa.2019.122830
+   Zhang JL, 2018, J CLEAN PROD, V204, P958, DOI 10.1016/j.jclepro.2018.09.071
+   Zhang YJ, 2010, APPL ENERG, V87, P1804, DOI 10.1016/j.apenergy.2009.12.019
+   Zhao X, 2018, APPL ENERG, V216, P132, DOI 10.1016/j.apenergy.2018.02.003
+   Zhou JG, 2018, ENERGIES, V11, P0, DOI 10.3390/en11071907
+   Zhu BZ, 2022, J FORECASTING, V41, P100, DOI 10.1002/for.2784
+   Zhu BZ, 2019, ANN OPER RES, V281, P373, DOI 10.1007/s10479-018-2982-0
+   Zhu BZ, 2018, COMPUT ECON, V52, P105, DOI 10.1007/s10614-017-9664-x
+   Zhu BZ, 2018, ENERG ECON, V70, P143, DOI 10.1016/j.eneco.2017.12.030
+   Zhu BZ, 2017, ENERG POLICY, V107, P309, DOI 10.1016/j.enpol.2017.04.051
+   Zhu BZ, 2017, APPL ENERG, V191, P521, DOI 10.1016/j.apenergy.2017.01.076
+   Zhu BZ, 2016, J FORECASTING, V35, P633, DOI 10.1002/for.2395
+   Zhu BZ, 2013, OMEGA-INT J MANAGE S, V41, P517, DOI 10.1016/j.omega.2012.06.005
+   Zhu BZ, 2012, ENERGIES, V5, P355, DOI 10.3390/en5020355
+   Zhu JM, 2019, PHYSICA A, V519, P140, DOI 10.1016/j.physa.2018.12.017
+   Zhu QN, 2021, IEEE T KNOWL DATA EN, V33, P2015, DOI 10.1109/TKDE.2019.2951103
+NR 58
+TC 19
+Z9 21
+U1 1
+U2 136
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD DEC 15
+PY 2022
+VL 29
+IS 57
+BP 85988
+EP 86004
+DI 10.1007/s11356-021-16089-2
+EA AUG 2021
+PG 17
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 7I1JV
+UT WOS:000690731800006
+PM 34453680
+DA 2025-11-07
+ER
+
+PT J
+AU Richie, C
+AF Richie, Cristina
+TI Environmentally sustainable development and use of artificial intelligence in health care
+SO BIOETHICS
+LA English
+DT Article
+DE artificial intelligence; carbon emissions; environmental bioethics; environmental sustainability; health care ethics
+ID life-cycle assessment; carbon footprint; big data; technology; analytics; bioethics; ethics; queer
+AB Artificial intelligence (AI) can transform health care by delivering medical services to underserved areas, while also filling gaps in health care provider availability. However, AI may also lead to patient harm due to fatal glitches in robotic surgery, bias in diagnosis, or dangerous recommendations. Despite concerns ethicists have identified in the use of AI in health care, the most significant consideration ought not be vulnerabilities in the software, but the environmental impact of AI. Health care emits a significant amount of carbon in many countries. As AI becomes an essential part of health care, ethical reflection must include the potential to negatively impact the environment. As such, this article will first overview the carbon emissions in health care. It will, second, offer five reasons why carbon calculations are insufficient to address sustainability in health care. Third, the article will derive normative concepts from the goals of medicine, the principles of biomedical ethics, and green bioethics-the very locus in which AI in health care sits-to propose health, justice, and resource conservation as criteria for sustainable AI in health care. In the fourth and final part of the article, examples of sustainable and unsustainable development and use of AI in health care will be evaluated through the three-fold lens of health, justice, and resource conservation. With various ethical approaches to AI in health care, the imperative for environmental sustainability must be underscored, lest carbon emissions continue to increase, harming people and planet alike.
+C1 [Richie, Cristina] Delft Univ Technol, Eth & Philosophy Technol, NL-2600 AA Delft, Netherlands.
+C3 Delft University of Technology
+RP Richie, C (corresponding author), Delft Univ Technol, Eth & Philosophy Technol, NL-2600 AA Delft, Netherlands.
+EM C.S.Richie@tudelft.nl
+FU Convergence Initiative of TU Delft; Erasmus MC
+CR 51Potter VR, 1982, PERSPECT BIOL MED, V14, P127
+   Almeida M, 2019, EVOL MED PUBLIC HLTH, V0, PP183, DOI 10.1093/emph/eoz026
+   Amankwah-Amoah J, 2017, TECHNOL FORECAST SOC, V116, P299, DOI 10.1016/j.techfore.2016.10.006
+   Unknown -, 2009, SAV CARB IMPR HLTH N, V0, P0
+   Apergis N, 2018, RENEW SUST ENERG REV, V91, P521, DOI 10.1016/j.rser.2018.03.035
+   Barr DA, 2019, HEALTH DISPARITIES IN THE UNITED STATES: SOCIAL CLASS, V0, P0
+   Bates DW, 2021, NPJ DIGIT MED, V4, P0, DOI 10.1038/s41746-021-00423-6
+   Bates DW, 2014, HEALTH AFFAIR, V33, P1123, DOI 10.1377/hlthaff.2014.0041
+   Beauchamp TL, 2013, PRINCIPLES BIOMEDICA, VSeventh, P0, DOI 10.5915/43-3-8476
+   Bélisle-Pipon JC, 2021, FRONT ARTIF INTELL, V4, P0, DOI 10.3389/frai.2021.736697
+   Beran TN, 2015, J HEALTH PSYCHOL, V20, P984, DOI 10.1177/1359105313504794
+   Bernard W, 1981, MORAL LUCK PHILOS PA, V0, P0
+   Berners-Lee M, 2010, BAD ARE BANANAS CARB, V0, P131
+   Berwick DM, 2012, JAMA-J AM MED ASSOC, V307, P1513, DOI 10.1001/jama.2012.362
+   Bonevac D, 2010, ACADEMIC QUEST, V23, P84, DOI 10.1007/S12129-009-9152-4
+   Bourgois P, 2017, ACAD MED, V92, P299, DOI 10.1097/ACM.0000000000001294
+   Callahan Daniel, 1973, HASTINGS CENT STUD, V1, P77, DOI 10.2307/3527467
+   Campion N, 2015, J CLEAN PROD, V94, P46, DOI 10.1016/j.jclepro.2015.01.076
+   Campion N, 2012, SCI TOTAL ENVIRON, V425, P191, DOI 10.1016/j.scitotenv.2012.03.006
+   Cath C, 2018, SCI ENG ETHICS, V24, P505, DOI 10.1007/s11948-017-9901-7
+   Cohen IG, 2020, GEORGETOWN LAW J, V108, P1425
+   Costello A, 2009, LANCET, V373, P1693, DOI 10.1016/S0140-6736(09)60935-1
+   Crawford K, 2018, ANATOMY OF AN AI SYSTEM, V0, P0
+   Crawford Kate, 2021, THE ATLAS OF AI, V0, P0
+   Dastin J, 2018, REUTERS, V0, P0
+   De Schutter H, 2007, LANGUAGE PROBLEMS LANGUAGE PLANNING, V31, P1
+   Dhar V, 2014, BIG DATA-US, V2, P113, DOI 10.1089/big.2014.1525
+   Dickman SL, 2017, LANCET, V389, P1431, DOI 10.1016/S0140-6736(17)30398-7
+   DiPaola Marcello, 2013, RIVISTA DI STUDI SULLA SOSTENIBILITA, V3, P59
+   Dredge S, 2015, THE GUARDIAN, V0, P0
+   Duane B, 2017, BRIT DENT J, V223, P589, DOI 10.1038/sj.bdj.2017.839
+   Eckelman MJ, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0157014
+   Farjana Shahjadi Hisan, 2019, JOURNAL OF SUSTAINABLE MINING, V18, P150, DOI 10.1016/j.jsm.2019.03.002
+   Fuster V, 2017, J AM COLL CARDIOL, V69, P3002, DOI 10.1016/j.jacc.2017.05.013
+   Grekousis G, 2019, COMPUT ENVIRON URBAN, V76, P110, DOI 10.1016/j.compenvurbsys.2019.04.006
+   Guo J, 2018, HEALTH EQUITY, V2, P174, DOI 10.1089/heq.2018.0037
+   Hall KimQ, 2014, RADICAL PHILOSOPHY REVIEW, V17, P203, DOI 10.5840/RADPHILREV201432614
+   Hansen J, 2008, OPEN ATMOSPHERE SCIENCE JOURNAL, V2, P217, DOI 10.2174/1874282300802010217
+   Holm S, 1995, J MED ETHICS, V21, P332, DOI 10.1136/jme.21.6.332
+   Holmner Å, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0105040
+   Howell JosephH, 2000, LIFE CHOICES: A HASTINGS CENTER INTRODUCTION TO BIOETHICS, V2nd, P62
+   Huber Machteld, 2011, BMJ, V343, Pd4163, DOI 10.1136/bmj.d4163
+   Ilan Y, 2021, INT J ENV RES PUB HE, V18, P0, DOI 10.3390/ijerph18020811
+   Jahr F, 1927, KOSMOS HANDWEISE NAT, V0, P2
+   Jahr Fritz, 2010, JAHR-EUROPEAN JOURNAL OF BIOETHICS, V1, P227
+   Jha S, 2018, J AM COLL RADIOL, V15, P509, DOI 10.1016/j.jacr.2017.12.025
+   Jiang LS, 2021, J INT MED RES, V49, P0, DOI 10.1177/03000605211000157
+   Jobin A, 2019, NAT MACH INTELL, V1, P389, DOI 10.1038/s42256-019-0088-2
+   Kelly J, 2021, AM J MED, V134, P11, DOI 10.1016/j.amjmed.2020.08.027
+   Lancaster K, 2019, PHILOSOPHY IN THE CONTEMPORARY WORLD, V25, P88, DOI 10.5840/pcw201925218
+   Lim AEK, 2013, AUST HEALTH REV, V37, P369, DOI 10.1071/AH13022
+   Maddox TM, 2019, JAMA-J AM MED ASSOC, V321, P31, DOI 10.1001/jama.2018.18932
+   Maojo V, 2004, METHOD INFORM MED, V43, P208
+   Merollini KMD, 2020, INT J ENV RES PUB HE, V17, P0, DOI 10.3390/ijerph17082831
+   Mittelstadt BD, 2016, BIG DATA SOC, V3, P1, DOI 10.1177/2053951716679679
+   Morris DS, 2013, EYE, V27, P495, DOI 10.1038/eye.2013.9
+   Murtaugh PA, 2009, GLOBAL ENVIRON CHANG, V19, P14, DOI 10.1016/j.gloenvcha.2008.10.007
+   NHS Sustainable Development Unit Reducing the Use of Natural Resources in Health and Social Care, 2018, RED US NAT RES HLTH, V0, P0
+   Obermeyer Z, 2021, LANCET, V397, P2038, DOI 10.1016/S0140-6736(21)01152-1
+   Osoba OsondeA, 2017, AN INTELLIGENCE IN OUR IMAGE: THE RISKS OF BIAS AND ERRORS IN ARTIFICIAL INTELLIGENCE, V0, P0
+   Paavola J, 2017, ENVIRON HEALTH-GLOB, V16, P61, DOI 10.1186/s12940-017-0328-z
+   Pichler PP, 2019, ENVIRON RES LETT, V14, P0, DOI 10.1088/1748-9326/ab19e1
+   Potter VR, 1988, GLOBAL BIOETHICS BUI, V0, P2
+   Potter VR, 1999, HASTINGS CENT REP, V29, P38, DOI 10.2307/3528538
+   Preece A, 2018, ARXIV181000184, V0, P0
+   Preetipadma, 2020, ANAL INSIGHT 0429, V0, P0
+   Purohit Amy, 2021, FUTURE HEALTHC J, V8, Pe85, DOI 10.7861/fhj.2020-0080
+   Reich Warren Thomas, 1995, KENNEDY INSTITUTE OF ETHICS JOURNAL, V5, P19
+   Richards C, 2019, OCEANS-IEEE, V0, P0, DOI DOI 10.1109/oceanse.2019.8867282
+   Richie C, 2018, AM J BIOETHICS, V18, P33, DOI 10.1080/15265161.2018.1531161
+   Richie C, 2016, BIOETHICS, V30, P365, DOI 10.1111/bioe.12246
+   Richie CS, 2019, J BIOETHIC INQ, V16, P375, DOI 10.1007/s11673-019-09922-4
+   Roberts H, 2021, AI SOC, V36, P59, DOI 10.1007/s00146-020-00992-2
+   Rowe JP, 2020, J ADOLESCENT HEALTH, V67, P552, DOI 10.1016/j.jadohealth.2020.02.021
+   Shakow D, 2017, CLIMATE CHANGE ENV E, V0, P0
+   Sharon T, 2016, PERS MED, V13, P563, DOI 10.2217/pme-2016-0057
+   Shim JM, 2018, HEALTH PROMOT INT, V33, P536, DOI 10.1093/heapro/daw089
+   Shortliffe EH, 2018, JAMA-J AM MED ASSOC, V320, P2199, DOI 10.1001/jama.2018.17163
+   Shue Henry, 1993, LAW POLICY, V15, P39, DOI 10.1111/j.1467-9930.1993.tb00093.x
+   Simonite T, 2018, WIRED, V0, P0
+   Singh P, 2019, AESTHETIC SURG J, V39, P0
+   Soreide K, 2020, BJS-BRIT J SURG, V107, P1250, DOI 10.1002/bjs.11670
+   Starfield B, 2000, JAMA-J AM MED ASSOC, V284, P483, DOI 10.1001/jama.284.4.483
+   Sugarman Jeremy, 2001, METHODS MED ETHICS, V0, P0
+   Suwa S, 2020, INT J HUM-COMPUT INT, V36, P1295, DOI 10.1080/10447318.2020.1736809
+   Tang XL, 2020, J INFORMETR, V14, P0, DOI 10.1016/j.joi.2020.101094
+   Taylor DR, 2018, POSTGRAD MED J, V94, P238, DOI 10.1136/postgradmedj-2018-135581
+   Tennison I, 2010, INDICATIVE CARBON EM, V0, P0
+   Tham J, 2010, LINACRE Q, V77, P53, DOI 10.1179/002436310803888880
+   Thiel CL, 2015, ENVIRON SCI TECHNOL, V49, P1779, DOI 10.1021/es504719g
+   Tsagkaris C, 2021, THE JOURNAL OF CLIMATE CHANGE AND HEALTH, V1, P0
+   U.S. Department of Commerce National Oceanic and Atmospheric Administration Earth System Research Laboratory Global Monitoring Division, 2019, TRENDS ATM CARB DIOX, V0, P0
+   Vrontis D, 2022, INT J HUM RESOUR MAN, V33, P1237, DOI 10.1080/09585192.2020.1871398
+   Yu KH, 2018, NAT BIOMED ENG, V2, P719, DOI 10.1038/s41551-018-0305-z
+   Zhang T, 2017, INT J EQUITY HEALTH, V16, P0, DOI 10.1186/s12939-017-0543-9
+   Zimring CA, 2017, J H STUD HIST TECH, V0, P17
+NR 96
+TC 37
+Z9 46
+U1 5
+U2 69
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0269-9702
+EI 1467-8519
+J9 BIOETHICS
+JI Bioethics
+PD JUN 15
+PY 2022
+VL 36
+IS 5
+BP 547
+EP 555
+DI 10.1111/bioe.13018
+EA MAR 2022
+PG 9
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues; Biomedical Social Sciences
+GA 1H5XT
+UT WOS:000769045600001
+PM 35290675
+DA 2025-11-07
+ER
+
+PT J
+AU Li, HJ
+   Huang, XY
+   Zhou, DH
+   Cao, AD
+   Su, MY
+   Wang, YF
+   Guo, LL
+AF Li, Houjian
+   Huang, Xinya
+   Zhou, Deheng
+   Cao, Andi
+   Su, Mengying
+   Wang, Yufeng
+   Guo, Lili
+TI Forecasting Carbon Price in China: A Multimodel Comparison
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE multivariate long short-term memory; multilayer perceptron; support vector regression; recurrent neural network; carbon price forecasting
+ID energy; paradigm; models; co2
+AB With the global concern for carbon dioxide, the carbon emission trading market is becoming more and more important. An accurate forecast of carbon price plays a significant role in understanding the dynamics of the carbon trading market and achieving national emission reduction targets. Carbon prices are influenced by many factors, which makes carbon price forecasting a complicated problem. In recent years, deep learning models are widely used in price forecasting, because they have high forecasting accuracy when dealing with nonlinear time series data. In this paper, Multivariate Long Short-Term Memory (LSTM) in deep learning is used to forecast carbon prices in China, which takes into account the factors affecting the carbon price. The historical time series data of carbon prices in Hubei (HBEA) and Guangdong (GDEA) and three traditional energy prices affecting carbon prices from 5 May 2014 to 22 July 2021 are collected to form two data sets. To prove the forecast effect of our model, this paper not only uses Multivariate LSTM, Multilayer Perceptron (MLP), Support Vector Regression (SVR), and Recurrent Neural Network (RNN) to forecast the same data, but also compares the forecast results of Multivariate LSTM with the existing research on HBEA and GDEA forecast based on deep learning recently. The results show that the MAE, MSE, and RMSE obtained by the Multivariate LSTM are all smaller than other prediction models, which proves that the model is more suitable for carbon price forecast and offers a new approach to carbon prices forecast. This research conclusion also provides some policy implications.
+C1 [Li, Houjian; Huang, Xinya; Zhou, Deheng; Cao, Andi; Wang, Yufeng; Guo, Lili] Sichuan Agr Univ, Coll Econ, Chengdu 611130, Peoples R China.
+   [Su, Mengying] Guangxi Univ Nationalities, Coll Econ, Nanning 530006, Peoples R China.
+C3 Sichuan Agricultural University; Guangxi Minzu University
+RP Guo, LL (corresponding author), Sichuan Agr Univ, Coll Econ, Chengdu 611130, Peoples R China.; Su, MY (corresponding author), Guangxi Univ Nationalities, Coll Econ, Nanning 530006, Peoples R China.
+EM 14159@sicau.edu.cn; huangxinya@stu.sicau.edu.cn; zhoudeheng@stu.sicau.edu.cn; caoandi@stu.sicau.edu.cn; 20200046@gxun.edu.cn; 13487@sicau.edu.cn; 14453@sicau.edu.cn
+FU National social science fund of China [21BGL022, 20CMZ037]; soft science project of Sichuan Province, China [2021JDR0300]
+CR Alameer Z, 2020, RESOUR POLICY, V65, P0, DOI 10.1016/j.resourpol.2020.101588
+   Altche F, 2018, AN LSTM NETWORK FOR HIGHWAY TRAJECTORY PREDICTION, V0, P0
+   Alvarez-Díaz M, 2019, FORECASTING-BASEL, V1, P0, DOI 10.3390/forecast1010007
+   Atsalakis GS, 2016, APPL SOFT COMPUT, V43, P107, DOI 10.1016/j.asoc.2016.02.029
+   Byun SJ, 2013, ENERG ECON, V40, P207, DOI 10.1016/j.eneco.2013.06.017
+   Cen ZP, 2019, ENERGY, V169, P160, DOI 10.1016/j.energy.2018.12.016
+   Chang ZH, 2018, INT CONF SOFTW ENG, V0, PP245, DOI 10.1109/ICSESS.2018.8663710
+   Considine TJ, 2000, RESOUR ENERGY ECON, V22, P295, DOI 10.1016/S0928-7655(00)00027-0
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI 10.1162/neco.1997.9.8.1735
+   Hafeez G, 2020, APPL ENERG, V269, P0, DOI 10.1016/j.apenergy.2020.114915
+   Hamilton JD, 1996, J MONETARY ECON, V38, P215, DOI 10.1016/S0304-3932(96)01282-2
+   Hao Y, 2020, J CLEAN PROD, V262, P0, DOI 10.1016/j.jclepro.2020.120378
+   Hao Y, 2020, J CLEAN PROD, V244, P0, DOI 10.1016/j.jclepro.2019.118556
+   Holtsmark B, 2002, ENERG POLICY, V30, P207, DOI 10.1016/S0301-4215(01)00090-8
+   Huo J, 2016, INT CONF SOFTW ENG, V0, PP1077, DOI 10.1109/ICSESS.2016.7883252
+   Jia H, 2016, ARXIV, V0, P0
+   Keppler JH, 2010, ENERG POLICY, V38, P3329, DOI 10.1016/j.enpol.2010.02.004
+   Liu H, 2020, CARBON MANAG, V11, P25, DOI 10.1080/17583004.2019.1686930
+   Mansanet-Bataller M, 2007, ENERG J, V28, P73
+   Nelson DMQ, 2017, IEEE IJCNN, V0, PP1419, DOI 10.1109/IJCNN.2017.7966019
+   Paolella MS, 2008, J BANK FINANC, V32, P2022, DOI 10.1016/j.jbankfin.2007.09.024
+   Roos J, 2017, TRANSP RES PROC, V26, P53, DOI 10.1016/j.trpro.2017.07.008
+   RUMELHART DE, 1986, NATURE, V323, P533, DOI 10.1038/323533a0
+   Shi SZ, 2012, PROCEEDINGS OF 2012 IEEE 14TH INTERNATIONAL CONFERENCE ON COMMUNICATION TECHNOLOGY, V0, PP981, DOI 10.1109/ICCT.2012.6511341
+   Sun GQ, 2016, ENERGIES, V9, P0, DOI 10.3390/en9010054
+   Sun W, 2020, ENERGY, V207, P0, DOI 10.1016/j.energy.2020.118294
+   Tang H, 2003, PROCEEDINGS OF THE 7TH JOINT CONFERENCE ON INFORMATION SCIENCES, V0, P1112
+   Torres JL, 2005, SOL ENERGY, V79, P65, DOI 10.1016/j.solener.2004.09.013
+   Walczak S, 2001, J MANAGE INFORM SYST, V17, P203
+   Wang HZ, 2017, APPL ENERG, V188, P56, DOI 10.1016/j.apenergy.2016.11.111
+   Wang JJ, 2022, ENVIRON SCI POLLUT R, V29, P85988, DOI 10.1007/s11356-021-16089-2
+   Wang JJ, 2021, SCI TOTAL ENVIRON, V762, P0, DOI 10.1016/j.scitotenv.2020.143099
+   Wang P, 2021, PATTERN RECOGN LETT, V141, P61, DOI 10.1016/j.patrec.2020.07.042
+   Wang ZJ, 2018, CHIN CONT DECIS CONF, V0, PP1111, DOI 10.1109/CCDC.2018.8407295
+   Wu YX, 2019, PHYSICA A, V516, P114, DOI 10.1016/j.physa.2018.09.120
+   Xiong SH, 2019, ENERGIES, V12, P0, DOI 10.3390/en12010147
+   Zhao XL, 2017, ENRGY PROCED, V142, P2503, DOI 10.1016/j.egypro.2017.12.190
+   Zhou JG, 2021, ENERGIES, V14, P0, DOI 10.3390/en14051328
+   Zhu BZ, 2018, ENERG ECON, V70, P143, DOI 10.1016/j.eneco.2017.12.030
+   Zhu BZ, 2017, APPL ENERG, V191, P521, DOI 10.1016/j.apenergy.2017.01.076
+   Zhu BZ, 2013, OMEGA-INT J MANAGE S, V41, P517, DOI 10.1016/j.omega.2012.06.005
+NR 41
+TC 25
+Z9 28
+U1 4
+U2 288
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD MAY 15
+PY 2022
+VL 19
+IS 10
+BP 
+EP 
+DI 10.3390/ijerph19106217
+PG 16
+WC Environmental Sciences; Public, Environmental & Occupational Health
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational Health
+GA 1R6IE
+UT WOS:000803470800001
+PM 35627753
+DA 2025-11-08
+ER
+
+PT J
+AU Debbarma, J
+   Choi, Y
+AF Debbarma, Jahira
+   Choi, Yongrok
+TI A taxonomy of green governance: A qualitative and quantitative analysis towards sustainable development
+SO SUSTAINABLE CITIES AND SOCIETY
+LA English
+DT Article
+DE Climate change; Governance; Green governance; Taxonomy; Sustainable development; <p>CO2 emissions</p>; OECD datasets; Keyword search
+ID corporate social-responsibility; support vector machine; adaptive governance; climate-change; energy governance; institutional analysis; ecological systems; organizations; coproduction; participation
+AB It is undeniable that our environment is constantly evolving and citizens are facing new issues and challenges related to the environment around the world. Green governance is essential to achieve the goals agreed upon by local and global governments. The concept of green governance makes it possible to understand the integration of the actors of each governance form during decision-making. In this article, we identify the research gap and propose a taxonomy of green governance for sustainable development. We used factor analysis to construct the taxonomy of green governance. We also proposed the critical influencing factors of green governance to build sustainable development. To evaluate the importance of green governance for reducing CO2 emissions and other energy-related consumption, this study conducted two case studies with empirical analysis on the OECD Indian dataset of green growth indicators. The Indian green growth indicators are predicted using a machine learning technique that employs linear digression, support vector machine (SVM), and Gaussian process. The analysis shows that the taxonomy of green governance-global governance, adaptive governance, climate governance, ecological governance, self-governance, energy governance, and information technology (IT) governance-are related to each other and can work on the same objective by pursuing different activities. In addition, the case study analysis shows that the SVM is the superior technique in terms of predicting the time series data in this study. Based on the analysis, this study suggest that green governance is vital for achieving global sustainable goals for future growth, and policy-makers should keep this in mind when making environmental policy decisions.
+C1 [Debbarma, Jahira; Choi, Yongrok] Inha Univ, Program Ind Secur Governance, 100 Inha Ro,Michuhol Gu, Incheon 22212, South Korea.
+C3 Inha University
+RP Choi, Y (corresponding author), Inha Univ, Program Ind Secur Governance, 100 Inha Ro,Michuhol Gu, Incheon 22212, South Korea.
+EM yrchoi@inha.ac.kr
+FU Inha University
+CR Abbott KW, 2016, INT ORGAN, V70, P247, DOI 10.1017/S0020818315000338
+   Al-Hashemi R, 2010, INT. ARAB. J. E TECHNOL, V1, P164
+   Albrechts L, 2013, PLAN THEOR, V12, P46, DOI 10.1177/1473095212452722
+   Ali S, 2007, J GLOB INF MANAG, V15, P41, DOI 10.4018/jgim.2007100103
+   Almog-Bar M, 2014, NONPROF VOLUNT SEC Q, V43, P11, DOI 10.1177/0899764013483212
+   Amran A, 2014, BUS STRATEG ENVIRON, V23, P217, DOI 10.1002/bse.1767
+   Unknown -, 2004, WORLD DISASTERS REPORT: FOCUS ON COMMUNITY RESILIENCE, V0, P0
+   Unknown -, 1992, UN FRAMEWORK CONVENT, V0, P0
+   Unknown -, 2016, CHANGING ROLE NGOS S, V0, P0
+   Armstrong JH, 2017, SUSTAINABILITY-BASEL, V9, P0, DOI 10.3390/su9071244
+   Balest J, 2019, J CLEAN PROD, V221, P854, DOI 10.1016/j.jclepro.2019.02.191
+   Bansard JS, 2017, INT ENVIRON AGREEM-P, V17, P229, DOI 10.1007/s10784-016-9318-9
+   Barbier EB, 2010, ECONOMICS-KIEL, V4, P0
+   Baylis J, 2020, GLOBALIZATION WORLD, V0, P0
+   Bazilian M, 2014, ENERGY RES SOC SCI, V1, P217, DOI 10.1016/j.erss.2014.03.006
+   Betsill M, 2015, GLOBAL ENVIRON POLIT, V15, P1, DOI 10.1162/GLEP_a_00294
+   Bissonnette JF, 2018, INT J COMMONS, V12, P352, DOI 10.18352/ijc.822
+   Boris E, 1998, NONPROF VOLUNT SEC Q, V27, P488, DOI 10.1177/0899764098274006
+   Bosselmann K, 2012, REV EUROPEAN COMMUNI, V21, P23, DOI 10.1111/J.1467-9388.2012.00743.X
+   Bradley T, 2017, BUS ETHICS, V26, P18, DOI 10.1111/beer.12134
+   Buijs A, 2019, URBAN FOR URBAN GREE, V40, P53, DOI 10.1016/j.ufug.2018.06.011
+   Bulkeley H, 2006, URBAN STUD, V43, P2237, DOI 10.1080/00420980600936491
+   Cao LJ, 2003, IEEE T NEURAL NETWOR, V14, P1506, DOI 10.1109/TNN.2003.820556
+   Capa~Yna A, 2019, INTELLECTUAL CAPITAL, V0, P0, DOI DOI 10.1007/978-3-319-79051-09
+   Cashore B, 2019, POLICY SOC, V38, P118, DOI 10.1080/14494035.2019.1579505
+   Chaffin BC, 2016, J ENVIRON MANAGE, V165, P81, DOI 10.1016/j.jenvman.2015.09.003
+   Chan S, 2016, REV EUR COMP INT ENV, V25, P238, DOI 10.1111/reel.12168
+   Chen YT, 2019, CLUSTER COMPUT, V22, PS7435, DOI 10.1007/s10586-018-1772-4
+   Chou DC, 2013, COMPUT STAND INTER, V35, P231, DOI 10.1016/j.csi.2012.10.001
+   Christoffersen G, 2016, CHINA PERSPECT, V0, P15
+   CLEAR A, 2017, VOLUNTAS, V28, P1, DOI 10.1007/S11266-017-9907-4
+   Cleaver F, 2018, ECOL SOC, V23, P0, DOI 10.5751/ES-10212-230249
+   Collins Kevin, 2009, EUROPEAN ENVIRONMENT, V19, P358, DOI 10.1002/eet.523
+   Cooke P, 2015, J OPEN INNOV-TECHNOL, V1, P1, DOI 10.1186/s40852-015-0002-z
+   Cosens BA, 2013, ECOL SOC, V18, P0, DOI 10.5751/ES-05093-180103
+   de Melo CA, 2016, RENEW SUST ENERG REV, V61, P222, DOI 10.1016/j.rser.2016.03.054
+   Delman J, 2019, GREENING CHINAS URBA, V0, P151
+   Dieng Babacar, 2017, INTERNATIONAL JOURNAL OF SUSTAINABLE DEVELOPMENT, V20, P111, DOI 10.1504/ijsd.2017.083485
+   Doern BG, 1993, GOVERNANCE: AN INTERNATIONAL JOURNAL OF POLICY AND ADMINISTRATION, V6, P172, DOI 10.1080/09644010600937504
+   Doloreux D, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11205776
+   Dukpa RD, 2019, WATER-SUI, V11, P0, DOI 10.3390/w11030412
+   Elliott Lorraine, 2004, GLOBAL POLITICS ENV, V0, P0
+   Ervine K, 2007, CAPITALISM NATURE SO, V18, P125
+   Fay M, 2014, CHINA WORLD ECON, V22, P19, DOI 10.1111/j.1749-124X.2014.12082.x
+   Ferguson C, 2013, INT J AUDIT, V17, P75, DOI 10.1111/j.1099-1123.2012.00458.x
+   Few R, 2007, CLIM POLICY, V7, P46, DOI 10.1080/14693062.2007.9685637
+   Folke C, 2007, ECOL RES, V22, P14, DOI 10.1007/s11284-006-0074-0
+   Füssel HM, 2007, SUSTAIN SCI, V2, P265, DOI 10.1007/s11625-007-0032-y
+   Garmestani AS, 2014, SOCIAL-ECOLOGICAL RESILIENCE AND THE LAW, V0, P0
+   Goel S, 2013, IEEE INT ADV COMPUT, V0, P870
+   Goldthau A, 2019, INT POLIT ECON SER, V0, PP27, DOI 10.1007/978-3-319-93360-3_2
+   Goldthau A, 2009, INT AFF, V85, P373, DOI 10.1111/j.1468-2346.2009.00798.x
+   Gupta J, 2012, REV. EUR. COMMUNITY INT. ENVIRON, V21, P12, DOI 10.1111/J.1467-9388.2012.00739.X
+   Harsman B, 2010, J POLICY ANAL MANAG, V29, P854, DOI 10.1002/pam.20529
+   HART SL, 1995, ACAD MANAGE REV, V20, P986
+   Healey P, 2020, COLLABORATIVE PLANNING: SHAPING PLACES IN FRAGMENTED SOCIETIES, V0, P0, DOI DOI 10.1007/978-1-137-08600-6
+   Heldeweg MA, 2015, ENERGY SUSTAIN SOC, V5, P0, DOI 10.1186/s13705-015-0038-8
+   Hiteva, 2015, RESPONSE EUROPEAN UN, V0, P0
+   Hong S, 2018, GOV INFORM Q, V35, P283, DOI 10.1016/j.giq.2018.02.001
+   Huang WC, 2013, MATH PROBL ENG, V2013, P0, DOI 10.1155/2013/791896
+   Hulth A, 2006, COLING/ACL 2006, VOLS 1 AND 2, PROCEEDINGS OF THE CONFERENCE
+   Hurlbert MA, 2019, ENVIRON SCI POLICY, V93, P221, DOI 10.1016/j.envsci.2018.09.017
+   International Institute for Sustainable Development (IISD), 2003, LIV CLIM CHANG COMB, V0, P0
+   Jagers SC, 2003, GLOB GOV, V9, P385, DOI 10.1163/19426720-00903009
+   Janssen M, 2016, GOV INFORM Q, V33, P1, DOI 10.1016/j.giq.2016.02.003
+   Jha, 2013, P 51 ANN M ASS COMP, V0, P0
+   Kahler M, 2018, INT STUD REV, V20, P239, DOI 10.1093/isr/viy035
+   Karns MargaretPKaren AMingst, 2004, INTERNATIONAL ORGANIZATIONS: THE POLITICS AND PROCESSES OF GLOBAL GOVERNANCE, V0, P0
+   König PD, 2021, SUSTAIN CITIES SOC, V75, P0, DOI 10.1016/j.scs.2021.103308
+   Kuang FJ, 2015, SOFT COMPUT, V19, P1187, DOI 10.1007/s00500-014-1332-7
+   Kuhn M, 2005, GREENING MARKETS, V0, P0
+   Kuo LP, 2015, INT J CLIM CHANG STR, V7, P154, DOI 10.1108/IJCCSM-07-2013-0083
+   Kusis J, 2017, EC SCI RUR DEV C P, V0, P0
+   Levenda AM, 2019, ENVIRON PLAN C-POLIT, V37, P634, DOI 10.1177/2399654418797127
+   Li WA, 2018, SUSTAINABILITY-BASEL, V10, P0, DOI 10.3390/su10113845
+   Lin RH, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11041013
+   List JA, 2006, Q J ECON, V121, P1249, DOI 10.1093/qje/121.4.1249
+   Lone EJ, 2016, CORP GOV-INT J BUS S, V16, P785, DOI 10.1108/CG-05-2016-0100
+   Lundqvist LJ, 2018, SWEDEN AND ECOLOGICAL GOVERNANCE: STRADDLING THE FENCE, V0, P0
+   Mahmood M, 2017, J CLEAN PROD, V164, P389, DOI 10.1016/j.jclepro.2017.06.203
+   Mallick SK, 2021, SUSTAIN CITIES SOC, V74, P0, DOI 10.1016/j.scs.2021.103196
+   Mas-Tur A, 2021, KNOWL MAN RES PRACT, V19, P291, DOI 10.1080/14778238.2019.1633892
+   Mattijssen T, 2018, J ENVIRON POL PLAN, V20, P96, DOI 10.1080/1523908X.2017.1322945
+   Mattijssen T, 2018, J NAT CONSERV, V43, P19, DOI 10.1016/j.jnc.2018.01.006
+   Nasiritousi N, 2016, INT ENVIRON AGREEM-P, V16, P109, DOI 10.1007/s10784-014-9243-8
+   Neville KJ, 2019, REV INT POLIT ECON, V26, P104, DOI 10.1080/09692290.2018.1488757
+   Novotná M, 2016, B GEOGR-SOCIO-ECO, V34, P73, DOI 10.1515/bog-2016-0036
+   Nunbogu AM, 2018, CITIES, V74, P32, DOI 10.1016/j.cities.2017.10.022
+   ONeill Kate, 2017, THE ENVIRONMENT AND INTERNATIONAL RELATIONS, V2nd, P0
+   OECDStats, 2021, GREEN GROWTH IND, V0, P0
+   Ostrom E, 1996, WORLD DEV, V24, P1073, DOI 10.1016/0305-750X(96)00023-X
+   Padilha Lívia Garcez de Oliveira, 2013, AMBIENT. SOC., V16, P153
+   Pahl-Wostl C, 2009, GLOBAL ENVIRON CHANG, V19, P354, DOI 10.1016/j.gloenvcha.2009.06.001
+   Peng F, 2017, AEU-INT J ELECTRON C, V71, P72, DOI 10.1016/j.aeue.2016.11.009
+   Pham LT, 2019, WATER ECON POLICY, V5, P0, DOI 10.1142/S2382624X18500091
+   Post C, 2011, BUS SOC, V50, P189, DOI 10.1177/0007650310394642
+   Rasmussen CE, 2005, ADAPT COMPUT MACH LE, V0, P1
+   Reed MS, 2008, BIOL CONSERV, V141, P2417, DOI 10.1016/j.biocon.2008.07.014
+   Reid EJ, 1999, NONPROFITS AND GOVERNMENT: COLLABORATION AND CONFLICT, V0, P291
+   Rijke J, 2012, ENVIRON SCI POLICY, V22, P73, DOI 10.1016/j.envsci.2012.06.010
+   Robertson PJ, 2010, PUBLIC ADMIN REV, V70, PS89, DOI 10.1111/j.1540-6210.2010.02250.x
+   Roger C, 2017, INT INTERACT, V43, P1, DOI 10.1080/03050629.2017.1252248
+   Rugman AM, 1998, J INT BUS STUD, V29, P819, DOI 10.1057/palgrave.jibs.8490053
+   Schmidt NH, 2011, ECIS 2011 P, V0, P0
+   Schultz L, 2015, P NATL ACAD SCI USA, V112, P7369, DOI 10.1073/pnas.1406493112
+   Schulz E, 2018, J MATH PSYCHOL, V85, P1, DOI 10.1016/j.jmp.2018.03.001
+   Sharma-Wallace L, 2020, SOC NATUR RESOUR, V33, P1, DOI 10.1080/08941920.2018.1557308
+   Sharma-Wallace L, 2018, J ENVIRON MANAGE, V222, P174, DOI 10.1016/j.jenvman.2018.05.067
+   Shrivastava P, 1995, BUS STRATEG ENVIRON, V4, P154, DOI 10.1002/BSE.3280040307
+   Thiel A, 2018, ENVIRON POLICY GOV, V28, P269, DOI 10.1002/eet.1814
+   Tosun J, 2018, J COMP POLICY ANAL, V20, P324, DOI 10.1080/13876988.2018.1467430
+   Ucal M, 2020, SUSTAIN CITIES SOC, V60, P0, DOI 10.1016/j.scs.2020.102210
+   Van Assche K, 2019, SYST RES BEHAV SCI, V36, P308, DOI 10.1002/sres.2587
+   Van de Graaf T, 2016, PALGR COMMUN, V2, P0, DOI 10.1057/palcomms.2015.47
+   Van Grembergen W, 2018, P 51 HAW INT C SYST, V0, P0
+   Vapnik V, 1998, NATURE STAT LEARNING, V1st, P0, DOI 10.1007/978-1-4757-2440-0
+   Victor David G, 2011, THE COLLAPSE OF THE KYOTO PROTOCOL AND THE STRUGGLE TO SLOW GLOBAL WARMING, V0, P0
+   Vogel D, 2003, BRIT J POLIT SCI, V33, P557, DOI 10.1017/S0007123403000255
+   Wade J, 2008, HOUSING ENV OUR CHAN, V0, P0
+   Walch C, 2019, CLIM DEV, V11, P238, DOI 10.1080/17565529.2018.1442794
+   Wang K, 2018, SUSTAINABILITY-BASEL, V10, P0, DOI 10.3390/su10030582
+   Wang S, 2005, J COMPUT SCI TECH-CH, V20, P55, DOI 10.1007/s11390-005-0006-4
+   Watson V, 2014, PLAN THEORY PRACT, V15, P62, DOI 10.1080/14649357.2013.866266
+   Widerberg O, 2015, GLOB POLICY, V6, P45, DOI 10.1111/1758-5899.12184
+   Wyborn C, 2015, GLOBAL ENVIRON CHANG, V30, P56, DOI 10.1016/j.gloenvcha.2014.10.009
+   Xue L, 2018, SUSTAIN DEV, V26, P150, DOI 10.1002/sd.1726
+   Yong L, 2020, SUSTAIN CITIES SOC, V61, P0, DOI 10.1016/j.scs.2020.102312
+   Yuan, 2011, AUSTR FIN BANK C, V0, P0
+   Zhang LB, 2018, J VIS COMMUN IMAGE R, V51, P56, DOI 10.1016/j.jvcir.2018.01.001
+   ,, 2007, CLIMATE CHANGE 2007: SYNTHESIS REPORT. CONTRIBUTION OF WORKING GROUP I, V0, P0
+NR 130
+TC 62
+Z9 69
+U1 12
+U2 146
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2210-6707
+EI 2210-6715
+J9 SUSTAIN CITIES SOC
+JI Sust. Cities Soc.
+PD APR 15
+PY 2022
+VL 79
+IS 
+BP 
+EP 
+DI 10.1016/j.scs.2022.103693
+EA JAN 2022
+PG 18
+WC Construction & Building Technology; Green & Sustainable Science & Technology; Energy & Fuels
+SC Construction & Building Technology; Science & Technology - Other Topics; Energy & Fuels
+GA 0P4ZJ
+UT WOS:000784229500002
+DA 2025-11-07
+ER
+
+PT J
+AU Abrell, J
+   Kosch, M
+   Rausch, S
+AF Abrell, Jan
+   Kosch, Mirjam
+   Rausch, Sebastian
+TI How effective is carbon pricing?-A machine learning approach to policy evaluation
+SO JOURNAL OF ENVIRONMENTAL ECONOMICS AND MANAGEMENT
+LA English
+DT Article
+DE Carbon pricing; Carbon tax; Policy evaluation; Machine learning; Electricity; UK Carbon Price Support; Climate policy; Emissions abatement; Cost and Environmental Effectiveness
+ID causal inference; general equilibrium; renewable energy; abatement costs; natural-gas; big data; emissions; fuel; co2; impacts
+AB While carbon taxes are generally seen as a rational policy response to climate change, knowledge about their performance from an ex-post perspective is still limited. This paper analyzes the emissions and cost impacts of the UK CPS, a carbon tax levied on all fossil-fired power plants. To overcome the problem of a missing control group, we propose a policy evaluation approach which leverages economic theory and machine learning for counterfactual prediction. Our results indicate that in the period 2013-2016 the CPS lowered emissions by 6.2 percent at an average cost of (sic)18 per ton. We find substantial temporal heterogeneity in tax-induced impacts which stems from variation in relative fuel prices. An important implication for climate policy is that whether a higher carbon tax leads to higher emissions reductions and higher costs depends on relative fuel prices.
+C1 [Abrell, Jan; Rausch, Sebastian] ZEW Leibniz Ctr European Econ Res, Mannheim, Germany.
+   [Kosch, Mirjam] Potsdam Inst Climate Impact Res, Potsdam, Germany.
+   [Rausch, Sebastian] Heidelberg Univ, Dept Econ, Heidelberg, Germany.
+   [Rausch, Sebastian] Swiss Fed Inst Technol, Ctr Energy Policy & Econ, Zurich, Switzerland.
+   [Rausch, Sebastian] MIT, Joint Program Sci & Policy Global Change, Cambridge, MA USA.
+C3 Leibniz Association; Zentrum fur Europaische Wirtschaftsforschung (ZEW); Potsdam Institut fur Klimafolgenforschung; Ruprecht Karls University Heidelberg; Swiss Federal Institutes of Technology Domain; ETH Zurich; Massachusetts Institute of Technology (MIT)
+RP Abrell, J (corresponding author), ZEW Leibniz Ctr European Econ Res, Mannheim, Germany.
+EM jan.abrell@zew.de; mirjam.kosch@pikpotsdam.de; sebastian.rausch@zew.de
+FU SCCER CREST (SwissCompetence Center for Energy Research) - Innosuisse (Suisse Innovation Agency)
+CR Abrell J, 2016, J ENVIRON ECON MANAG, V79, P87, DOI 10.1016/j.jeem.2016.04.001
+   ALDRICH J, 1989, OXFORD ECON PAP, V41, P15, DOI 10.1093/oxfordjournals.oep.a041889
+   Angrist JoshuaD, 2008, MOST HARMLESS ECONOMETRICS: AN EMPIRICISTS COMPANION, V0, P0
+   Unknown -, 2014, CARB PRIC FLOOR REF, V0, P0
+   Unknown -, 1996, INTERGOV PANEL CLIM, V0, P0
+   Unknown -, 2001, IMPORTATIONS FROM ISRAEL INTO THE COMMUNITY OJ C3382001/C, V0, P0
+   Unknown -, 2017, EUROPEAN CENTRAL BANK, V0, P0
+   Unknown -, 2018, AN IPCC SPECIAL REPORT ON THE IMPACTS OF GLOBAL WARMING OF 1.5?C ABOVE PRE-INDUSTRIAL LEVELS AND RELATED GLOBAL GREENHOUSE GAS EMISSION PATHWAYS, V0, P0
+   Unknown -, 2016, 2014 UK GREENH GAS E, V0, P0
+   Unknown -, 2002, AN INTRODUCTION TO SEMICLASSICAL AND MICROLOCAL ANALYSIS, V0, P0
+   Athey S, 2017, J ECON PERSPECT, V31, P3, DOI 10.1257/jep.31.2.3
+   Athey S, 2017, SCIENCE, V355, P483, DOI 10.1126/science.aal4321
+   Bajari P, 2015, AM ECON REV, V105, P481, DOI 10.1257/aer.p20151021
+   BOITEUX M, 1960, J BUS, V33, P157, DOI 10.1086/294331
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Bretschger L, 2017, EUR ECON REV, V93, P47, DOI 10.1016/j.euroecorev.2016.11.012
+   Bretschger Lukas, 2020, CER-ETH ECONOMICS WORKING PAPER SERIES, V0, P0
+   Burlig F, 2020, J ASSOC ENVIRON RESO, V7, P1181, DOI 10.1086/710606
+   Castagneto Gissey G, 2019, VALUE INT ELECT TRAD, V0, P0
+   Chevallier J, 2012, INT J GLOBAL ENERGY, V35, P311, DOI 10.1504/IJGEI.2012.046712
+   Chyong HK, 2020, ENERG J, V41, P1, DOI 10.5547/01956574.41.1.cchy
+   CMA, 2016, ENERGY MARKET INVESTIGATION: FINAL REPORT, V0, P0
+   Cullen JA, 2017, AM ECON J-ECON POLIC, V9, P106, DOI 10.1257/pol.20150388
+   Delarue ED, 2010, ENERGY, V35, P1465, DOI 10.1016/j.energy.2009.12.003
+   Delarue E, 2008, J ENERG ENG, V134, P40, DOI 10.1061/(ASCE)0733-9402(2008)134:2(40)
+   Delarue ED, 2010, CLIM CHANG ECON, V1, P113, DOI 10.1142/S2010007810000108
+   ECA&D, 2016, EUROPEAN CLIMATE ASSESSMENT & DATASET E-OBS GRIDDED DATASET, V0, P0
+   EEX, 2017, EUR EN EXCH DAIL SPO, V0, P0
+   Eikon T, 2017, THOMS REUT EIKON DAT, V0, P0
+   ELEXON, 2016, ELEXON, V0, P0
+   Ellerman AD, 1998, JOINT PROGRAM SCI PO, V0, P0
+   European Commission, 2016, DG CLIM ACT EUR UN T, V0, P0
+   Fawcett A A, 2014, THE ENERGY JOURNAL, V35, P1, DOI 10.5547/01956574.35.SI1.1
+   Fowlie M, 2012, AM ECON REV, V102, P965, DOI 10.1257/aer.102.2.965
+   Friedman J, 2008, ELEMENTS STAT LEARNI, VSecond, P0
+   Gerlagh R, 2018, ECON J, V128, P728, DOI 10.1111/ecoj.12436
+   Golosov M, 2014, ECONOMETRICA, V82, P41, DOI 10.3982/ECTA10217
+   Goulder LH, 2016, AM ECON J-ECON POLIC, V8, P186, DOI 10.1257/pol.20140011
+   Goulder LH, 2008, REV ENV ECON POLICY, V2, P152, DOI 10.1093/reep/ren005
+   Gugler K, 2020, CARBON PRICING AND EMISSIONS: CAUSAL EFFECTS OF BRITAINS CARBON TAX, V0, P0
+   Haavelmo T, 1943, ECONOMETRICA, V11, P1, DOI 10.2307/1905714
+   Hirst D, 2017, BRIEFING PAPER, V0, P0
+   Holladay JS, 2017, J ENVIRON ECON MANAG, V85, P205, DOI 10.1016/j.jeem.2017.06.004
+   Holladay JS, 2016, ENERG J, V37, P187, DOI 10.5547/01956574.37.4.jhol
+   HOLLAND PW, 1986, J AM STAT ASSOC, V81, P945, DOI 10.2307/2289064
+   Jarvis S, 2019, PRIVATE EXTERNAL COS, V0, P0
+   Kirat D, 2011, ENERG ECON, V33, P995, DOI 10.1016/j.eneco.2011.01.012
+   Klepper G, 2006, RESOUR ENERGY ECON, V28, P1, DOI 10.1016/j.reseneeco.2005.04.001
+   Knittel ChristopherR, 2015, NBER WORKING PAPERS, V0, P0, DOI DOI 10.3386/w21627
+   Leroutier M, 2022, J ENVIRON ECON MANAG, V111, P0, DOI 10.1016/j.jeem.2021.102580
+   Linn J, 2019, RAND J ECON, V50, P733, DOI 10.1111/1756-2171.12294
+   Linn Joshua, 2014, RESOURCES FOR THE FUTURE DISCUSSION PAPER, V0, P14
+   Lu X, 2012, ENVIRON SCI TECHNOL, V46, P3014, DOI 10.1021/es203750k
+   Martin R, 2016, REV ENV ECON POLICY, V10, P129, DOI 10.1093/reep/rev016
+   Martin R, 2014, J PUBLIC ECON, V117, P1, DOI 10.1016/j.jpubeco.2014.04.016
+   MATHIESEN L, 1985, MATH PROGRAM STUD, V23, P144, DOI 10.1007/BFb0121030
+   McGlade C, 2015, NATURE, V517, P187, DOI 10.1038/nature14016
+   McGuinness Meghan, 2008, CO2 ABATEMENT UK POW, V0, P08
+   Metcalf GE, 2009, J ECON PERSPECT, V23, P5, DOI 10.1257/jep.23.2.5
+   Morris J, 2012, ENVIRON MODEL ASSESS, V17, P325, DOI 10.1007/s10666-011-9298-7
+   Mullainathan S, 2017, J ECON PERSPECT, V31, P87, DOI 10.1257/jep.31.2.87
+   Nationalgrid, 2016, 10-YEAR TRANSMISSION SYSTEM ASSESSMENT, V0, P0
+   Nationalgrid, 2011, EL THEN YEAR STAT 20, V0, P0
+   Nordhaus W, 1994, MANAGING GLOBAL COMM, V0, P0
+   Peters J, 2016, J ROY STAT SOC B, V78, P947, DOI 10.1111/rssb.12167
+   Pettersson F, 2012, ENERG ECON, V34, P1064, DOI 10.1016/j.eneco.2011.09.001
+   Rausch S, 2014, RESOUR ENERGY ECON, V36, P556, DOI 10.1016/j.reseneeco.2013.09.001
+   RUBIN DB, 1974, J EDUC PSYCHOL, V66, P688, DOI 10.1037/h0037350
+   RUTHERFORD TF, 1995, J ECON DYN CONTROL, V19, P1299, DOI 10.1016/0165-1889(94)00831-2
+   Samii C, 2016, POLIT ANAL, V24, P434, DOI 10.1093/pan/mpw019
+   Tavoni M, 2015, NAT CLIM CHANGE, V5, P119, DOI 10.1038/NCLIMATE2475
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Treasury HM, 2017, AUTUMN BUDGET 2017, V0, P0
+   Variable Pitch, 2016, VAR PITCH, V0, P0
+   Varian HR, 2016, P NATL ACAD SCI USA, V113, P7310, DOI 10.1073/pnas.1510479113
+   Varian HR, 2014, J ECON PERSPECT, V28, P3, DOI 10.1257/jep.28.2.3
+   Venables WN, 2002, MODERN APPL STAT S, VFourth, P0, DOI 10.1007/978-0-387-21706-2
+   Weyant J, 2013, CLIM CHANG ECON, V4, P0, DOI 10.1142/S2010007813020016
+   World Bank, 2018, STATE AND TRENDS OF CARBON PRICING 2018, V0, P0
+NR 79
+TC 39
+Z9 46
+U1 13
+U2 164
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0095-0696
+EI 1096-0449
+J9 J ENVIRON ECON MANAG
+JI J.Environ.Econ.Manage.
+PD MAR 15
+PY 2022
+VL 112
+IS 
+BP 
+EP 
+DI 10.1016/j.jeem.2021.102589
+EA JAN 2022
+PG 28
+WC Business; Economics; Environmental Studies
+SC Business & Economics; Environmental Sciences & Ecology
+GA 2R0SJ
+UT WOS:000820823400002
+DA 2025-11-07
+ER
+
+PT J
+AU Zhang, F
+   Wen, N
+AF Zhang, Fang
+   Wen, Nuan
+TI Carbon price forecasting: a novel deep learning approach
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Carbon price prediction; Deep learning approach; Convolutional neural network; Sequence to sequence
+ID cnn-rnn; network; decomposition; dynamics; model; co2
+AB Carbon emission trading market promotes carbon emission reduction effectively. Accurate carbon price forecasting is crucial for relevant policy makers and investors. However, due to the non-linearity, uncertainty, and complexity of carbon prices, the current predication models fail to predict carbon prices accurately. In this paper, an advanced deep neural network model named TCN-Seq2Seq is proposed to forecast carbon prices. The novelty of the proposed model focuses on the "sequence to sequence" layout to learn temporal data dependencies using only fully convolutional layers. Being provided with parallel training for fewer parameters, TCN-Seq2Seq forecasting model is more suitable for small carbon price dataset in few-shot learning way. Qualitatively and quantitatively, we find that the proposed framework consistently and significantly outperforms traditional statistical forecasting models and state-of-the-art deep learning prediction model with respect to predictive ability and robustness. Particularly, our proposed model achieves forecasting accuracy with the highest DA value (0.9697), the lowest MAPE value (0.0027), and the lowest RMSE value (0.0149), showing superior prediction performance compared with the traditional statistical forecasting models. The accuracy of carbon price forecasting gives insight to policy makers and carbon market investors.
+C1 [Zhang, Fang] Capital Univ Econ & Business, Sch Econ, Beijing 100070, Peoples R China.
+   [Wen, Nuan] Beihang Univ, Sch Automat Sci & Elect Engn, Beijing 100191, Peoples R China.
+C3 Capital University of Economics & Business; Beihang University
+RP Wen, N (corresponding author), Beihang Univ, Sch Automat Sci & Elect Engn, Beijing 100191, Peoples R China.
+EM max_buaa3@163.com
+FU Start-up Fund for Capital University of Economics and Business; Fundamental Sciences Special Fund of Capital University of Economics
+CR Unknown -, 2010, CARBON FINANCE AND CARBON MARKET, V0, P0
+   Badrinarayanan V, 2017, IEEE T PATTERN ANAL, V39, P2481, DOI 10.1109/TPAMI.2016.2644615
+   Bai S, 2018, EMPIRICAL EVALUATION, V0, P0
+   Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Canizo M, 2019, NEUROCOMPUTING, V363, P246, DOI 10.1016/j.neucom.2019.07.034
+   Castro R, 2021, NEUROCOMPUTING, V426, P285, DOI 10.1016/j.neucom.2020.09.060
+   Cavalli S, 2021, APPL SOFT COMPUT, V101, P0, DOI 10.1016/j.asoc.2020.107065
+   Chen XX, 2017, NEUROCOMPUTING, V249, P128, DOI 10.1016/j.neucom.2017.03.069
+   Crane-Droesch A, 2018, ENVIRON RES LETT, V13, P0, DOI 10.1088/1748-9326/aae159
+   DeDecker L, 2021, GUT MICROBES, V13, P0, DOI 10.1080/19490976.2020.1854641
+   Dey S, 2016, FORECASTING TO CLASSIFICATION: PREDICTING THE DIRECTION OF STOCK MARKET PRICE USING XTREME GRADIENT BOOSTING, V0, P0, DOI DOI 10.13140/RG.2.2.15294.48968
+   Dong C, 2016, IEEE T PATTERN ANAL, V38, P295, DOI 10.1109/TPAMI.2015.2439281
+   E JW, 2019, ENERGY, V189, P0, DOI 10.1016/j.energy.2019.116278
+   Fan JH, 2017, APPL ENERG, V208, P1452, DOI 10.1016/j.apenergy.2017.09.007
+   Fu X, 2020, NEUROCOMPUTING, V380, P212, DOI 10.1016/j.neucom.2019.11.002
+   Geng ZQ, 2020, ENERGY, V194, P0, DOI 10.1016/j.energy.2019.116851
+   Gholami H, 2021, ATMOS POLLUT RES, V12, P0, DOI 10.1016/j.apr.2021.101173
+   Gholami H, 2021, AEOLIAN RES, V50, P0, DOI 10.1016/j.aeolia.2021.100682
+   Gholami H, 2020, SCI REP-UK, V10, P0, DOI 10.1038/s41598-020-77567-0
+   Gislason PO, 2006, PATTERN RECOGN LETT, V27, P294, DOI 10.1016/j.patrec.2005.08.011
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI 10.1162/neco.1997.9.1.1
+   Greff K, 2017, IEEE T NEUR NET LEAR, V28, P2222, DOI 10.1109/TNNLS.2016.2582924
+   Grushka-Cockayne Y, 2017, MANAGE SCI, V63, P1110, DOI 10.1287/mnsc.2015.2389
+   Gumus M, 2017, 2017 INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE AND ENGINEERING (UBMK), V0, PP1100, DOI 10.1109/UBMK.2017.8093500
+   Hintermann B, 2010, J ENVIRON ECON MANAG, V59, P43, DOI 10.1016/j.jeem.2009.07.002
+   Huang YM, 2021, APPL ENERG, V285, P0, DOI 10.1016/j.apenergy.2021.116485
+   Jia JJ, 2018, ENVIRON SCI POLLUT R, V25, P7369, DOI 10.1007/s11356-017-1035-6
+   Jozefowicz R, 2015, PR MACH LEARN RES, V37, P2342
+   Keppler JH, 2010, ENERG POLICY, V38, P3329, DOI 10.1016/j.enpol.2010.02.004
+   Li XL, 2025, ENERG SOURCE PART A, V47, P2316, DOI 10.1155/2021/4577139
+   Liu N, 2020, PATTERN RECOGN, V102, P0, DOI 10.1016/j.patcog.2020.107231
+   Mansanet-Bataller M, 2011, CO2 PRICES PORTFOLIO, V0, P0
+   Marschner P, 2012, MARSCHNERS MINERAL NUTRITION OF HIGHER PLANTS, V0, P1
+   Mei J, 2014, IEEE POW ENER SOC GE, V0, P0
+   Mohammadi H, 2010, ENERG ECON, V32, P1001, DOI 10.1016/j.eneco.2010.04.009
+   Mohammadifar A, 2021, ENVIRON SCI POLLUT R, V28, P39432, DOI 10.1007/s11356-021-13503-7
+   Nelson DMQ, 2017, IEEE IJCNN, V0, PP1419, DOI 10.1109/IJCNN.2017.7966019
+   Niu HL, 2021, ENERGY, V231, P0, DOI 10.1016/j.energy.2021.120941
+   Nobre J, 2019, EXPERT SYST APPL, V125, P181, DOI 10.1016/j.eswa.2019.01.083
+   Ren SQ, 2015, ADV NEUR IN, V28, P0, DOI 10.1109/TPAMI.2016.2577031
+   Seifert J, 2008, J ENVIRON ECON MANAG, V56, P180, DOI 10.1016/j.jeem.2008.03.003
+   Sherstinsky A, 2020, PHYSICA D, V404, P0, DOI 10.1016/j.physd.2019.132306
+   Sun W, 2020, ENERGY, V207, P0, DOI 10.1016/j.energy.2020.118294
+   Vapnik Vladimir, 2013, THE NATURE OF STATISTICAL LEARNING THEORY, V0, P0
+   Yamashita R, 2018, INSIGHTS IMAGING, V9, P611, DOI 10.1007/s13244-018-0639-9
+   [余凯 Yu Kai], 2013, 计算机研究与发展 JOURNAL OF COMPUTER RESEARCH AND DEVELOPMENT, V50, P1799
+   Zhang QC, 2018, INFORM FUSION, V42, P146, DOI 10.1016/j.inffus.2017.10.006
+   Zhao B, 2018, NEUROCOMPUTING, V322, P47, DOI 10.1016/j.neucom.2018.09.048
+   Zhu B, 2017, PRICING AND FORECASTING CARBON MARKETS: MODELS AND EMPIRICAL ANALYSES, V0, PP87, DOI 10.1007/978-3-319-57618-3_6
+   Zhu BZ, 2017, APPL ENERG, V191, P521, DOI 10.1016/j.apenergy.2017.01.076
+NR 51
+TC 39
+Z9 44
+U1 2
+U2 233
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD AUG 15
+PY 2022
+VL 29
+IS 36
+BP 54782
+EP 54795
+DI 10.1007/s11356-022-19713-x
+EA MAR 2022
+PG 14
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 3O4UX
+UT WOS:000770744900003
+PM 35306656
+DA 2025-11-07
+ER
+
+PT J
+AU Sun, CH
+AF Sun, Chenghao
+TI The correlation between green finance and carbon emissions based on improved neural network
+SO NEURAL COMPUTING & APPLICATIONS
+LA English
+DT Article
+DE Machine learning; Green finance; Carbon emissions; Relevance
+ID risk tolerance; market
+AB The development of green finance and the quantitative evaluation of its impact on the ecological environment provide empirical evidence for the construction of the carbon trading accounting system. Among them, carbon trading is an important part of green finance, and the accounting of businesses related to carbon emission rights has promoted the development of regional green finance. In order to explore the relationship between green finance and carbon emissions, this paper builds an analysis model of the relationship between green finance and carbon emissions based on big data and machine learning based on big data technology and machine learning technology. Moreover, this paper conducts simulation tests through the system and compares the output results with the actual situation after system simulation to verify the effectiveness of the model in this paper. From the experimental research results, it can be seen that the correlation analysis model of green finance and carbon emissions based on big data and machine learning constructed in this paper has a good performance in the correlation analysis of green finance and carbon emissions. Moreover, it is not difficult to see through the model of this paper that there is a clear correlation between green finance and carbon emissions.
+C1 [Sun, Chenghao] Shandong Management Univ, Sch Econ & Trade, Jinan 250357, Shandong, Peoples R China.
+C3 Shandong Management University
+RP Sun, CH (corresponding author), Shandong Management Univ, Sch Econ & Trade, Jinan 250357, Shandong, Peoples R China.
+EM sunch@sdmu.edu.cn
+FU Sailing Research Project of Shandong Management University [QH2020R06]
+CR Acemoglu D, 2015, AM ECON REV, V105, P564, DOI 10.1257/aer.20130456
+   Allen P, 2016, PUBLIC MONEY MANAGE, V36, P341, DOI 10.1080/09540962.2016.1194080
+   Bartram SM, 2015, J FINANC QUANT ANAL, V50, P801, DOI 10.1017/S0022109015000216
+   Castellano R, 2020, ANN OPER RES, V284, P225, DOI 10.1007/s10479-018-3063-0
+   Chen AS, 2020, NEURAL COMPUT APPL, V32, P10321, DOI 10.1007/s00521-019-04572-4
+   Cohn A, 2015, AM ECON REV, V105, P860, DOI 10.1257/aer.20131314
+   Cole ES, 2014, HEALTH AFFAIR, V33, P2025, DOI 10.1377/hlthaff.2014.0109
+   Cong W, 2020, INT J INTELL INF TEC, V16, P32, DOI 10.4018/IJIIT.2020010103
+   Cooper WW, 2014, EUR J OPER RES, V233, P273, DOI 10.1016/j.ejor.2013.08.030
+   Cueva C, 2015, SCI REP-UK, V5, P0, DOI 10.1038/srep11206
+   Lee CJ, 2015, COGNITION EMOTION, V29, P178, DOI 10.1080/02699931.2014.898611
+   Li SX, 2021, INFORM PROCESS MANAG, V58, P0, DOI 10.1016/j.ipm.2021.102673
+   Lucarelli C, 2015, J RISK RES, V18, P467, DOI 10.1080/13669877.2014.910678
+   Magendans J, 2017, J RISK RES, V20, P1076, DOI 10.1080/13669877.2016.1147491
+   Maggiori M, 2017, AM ECON REV, V107, P3038, DOI 10.1257/aer.20130479
+   Montford W, 2016, INT J CONSUM STUD, V40, P101, DOI 10.1111/ijcs.12219
+   Wanjohi SM, 2017, INTERNATIONAL JOURNAL OF FINANCE AND BANKING RESEARCH, V3, P70, DOI 10.11648/j.ijfbr.20170305.12
+   Pinelis I, 2014, RISKS, V2, P349, DOI 10.3390/risks2030349
+   Scharding TK, 2015, BUS ETHICS Q, V25, P243, DOI 10.1017/beq.2015.17
+   Sosnovska O, 2018, BALT J ECON STUD, V4, P334, DOI 10.30525/2256-0742/2018-4-4-334-340
+   Tanimura T, 2014, EUR RESPIR J, V43, P1763, DOI 10.1183/09031936.00193413
+   Thomä J, 2017, J SUSTAIN FINANC INV, V7, P82, DOI 10.1080/20430795.2016.1204847
+   Wang GWY, 2014, MARIT POLICY MANAG, V41, P651, DOI 10.1080/03088839.2013.873546
+   West T, 2014, J FAM ECON ISS, V35, P263, DOI 10.1007/s10834-013-9362-3
+   Zalik A, 2015, ENVIRON PLANN A, V47, P2446, DOI 10.1177/0308518X15609218
+NR 25
+TC 45
+Z9 53
+U1 4
+U2 237
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0941-0643
+EI 1433-3058
+J9 NEURAL COMPUT APPL
+JI Neural Comput. Appl.
+PD AUG 15
+PY 2022
+VL 34
+IS 15
+BP 12399
+EP 12413
+DI 10.1007/s00521-021-06514-5
+EA SEP 2021
+PG 15
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 3E6IS
+UT WOS:000698042400001
+DA 2025-11-07
+ER
+
+PT J
+AU Rudnik, K
+   Hnydiuk-Stefan, A
+   Kucinska-Landwójtowicz, A
+   Mach, L
+AF Rudnik, Katarzyna
+   Hnydiuk-Stefan, Anna
+   Kucinska-Landwojtowicz, Aneta
+   Mach, Lukasz
+TI Forecasting Day-Ahead Carbon Price by Modelling Its Determinants Using the PCA-Based Approach
+SO ENERGIES
+LA English
+DT Article
+DE PCA; machine learning; time series forecasting; EU ETS; CO2 emissions
+ID energy; volatility; network
+AB Accurate price forecasts on the EU ETS market are of interest to many production and investment entities. This paper describes the day-ahead carbon price prediction based on a wide range of fuel and energy indicators traded on the Intercontinental Exchange market. The indicators are analyzed in seven groups for individual products (power, natural gas, coal, crude, heating oil, unleaded gasoline, gasoil). In the proposed approach, by combining the Principal Component Analysis (PCA) method and various methods of supervised machine learning, the possibilities of prediction in the period of rapid price increases are shown. The PCA method made it possible to reduce the number of variables from 37 to 4, which were inputs for predictive models. In the paper, these models are compared: regression trees, ensembles of regression trees, Gaussian Process Regression (GPR) models, Support Vector Machines (SVM) models and Neural Network Regression (NNR) models. The research showed that the Gaussian Process Regression model turned out to be the most advantageous and its price prediction can be considered very accurate.
+C1 [Rudnik, Katarzyna; Hnydiuk-Stefan, Anna; Kucinska-Landwojtowicz, Aneta] Opole Univ Technol, Fac Prod Engn & Logist, PL-45758 Opole, Poland.
+   [Mach, Lukasz] Opole Univ Technol, Fac Econ & Management, PL-45036 Opole, Poland.
+C3 Opole University of Technology; Opole University of Technology
+RP Hnydiuk-Stefan, A (corresponding author), Opole Univ Technol, Fac Prod Engn & Logist, PL-45758 Opole, Poland.
+EM a.hnydiuk-stefan@po.edu.pl
+FU National Science Centre, Poland [2021/05/X/ST6/01693]
+CR Aggarwal CharuC, 2018, NEURAL NETWORKS DEEP, V0, P0, DOI DOI 10.1007/978-3-319-94463-0
+   Atsalakis GS, 2016, APPL SOFT COMPUT, V43, P107, DOI 10.1016/j.asoc.2016.02.029
+   Bibi N, 2021, IEEE ACCESS, V9, P150984, DOI 10.1109/ACCESS.2021.3126545
+   Bredin D, 2011, ENERG ECON, V33, P353, DOI 10.1016/j.eneco.2010.06.009
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Breiman L, 1996, MACH LEARN, V24, P123, DOI 10.1007/bf00058655
+   Byun SJ, 2013, ENERG ECON, V40, P207, DOI 10.1016/j.eneco.2013.06.017
+   Chevallier J, 2011, ENERG ECON, V33, P1267, DOI 10.1016/j.eneco.2011.03.003
+   Chevallier J, 2009, ENERG ECON, V31, P614, DOI 10.1016/j.eneco.2009.02.008
+   Christiansen AC, 2005, CLIM POLICY, V5, P15
+   Chu WJ, 2020, SUSTAINABILITY-BASEL, V12, P0, DOI 10.3390/su12145581
+   Michalski MAD, 2022, EXPERT SYST APPL, V207, P0, DOI 10.1016/j.eswa.2022.117989
+   Dhamija AK, 2017, ENVIRON ECON POLICY, V19, P299, DOI 10.1007/s10018-016-0155-4
+   Duan J, 2022, ROBOT CIM-INT MANUF, V78, P0, DOI 10.1016/j.rcim.2022.102391
+   Dutta A, 2019, INT J MANAG FINANC, V16, P49, DOI 10.1108/IJMF-01-2019-0045
+   Fan XH, 2015, EXPERT SYST APPL, V42, P3945, DOI 10.1016/j.eswa.2014.12.047
+   Fezzi C, 2009, J ENERGY MARKETS, V2, P53
+   Freund Y, 1997, J COMPUT SYST SCI, V55, P119, DOI 10.1006/jcss.1997.1504
+   Hao Y, 2020, J CLEAN PROD, V262, P0, DOI 10.1016/j.jclepro.2020.120378
+   Hastie T, 2009, THE ELEMENTS OF STATISTICAL LEARNING: DATA MINING, V0, P0
+   Hong K, 2017, CARBON MANAG, V8, P33, DOI 10.1080/17583004.2016.1275813
+   Huang YM, 2021, APPL ENERG, V285, P0, DOI 10.1016/j.apenergy.2021.116485
+   Jan F, 2022, ENERGIES, V15, P0, DOI 10.3390/en15093423
+   Jolliffe IT, 2016, PHILOS T R SOC A, V374, P0, DOI 10.1098/rsta.2015.0202
+   Jolliffe Ian T, 1986, PRINCIPAL COMPONENT ANALYSIS, V0, P0, DOI DOI 10.1016/0169-7439(87)80084-9
+   Lee J, 2022, ENERGY, V239, P0, DOI 10.1016/j.energy.2021.122366
+   Li W, 2015, APPL ENERG, V155, P728, DOI 10.1016/j.apenergy.2015.06.018
+   Mansanet-Bataller M, 2007, ENERG J, V28, P73
+   Myles AJ, 2004, J CHEMOMETR, V18, P275, DOI 10.1002/cem.873
+   Pearson K, 1901, PHILOS MAG, V2, P559, DOI 10.1080/14786440109462720
+   PRAAGMAN J, 1985, EUR J OPER RES, V19, P144, DOI 10.1016/0377-2217(85)90321-2
+   Rasmussen CE, 2005, ADAPT COMPUT MACH LE, V0, P1
+   Rittler D, 2012, J BANK FINANC, V36, P774, DOI 10.1016/j.jbankfin.2011.09.009
+   Seeger Matthias, 2004, INT J NEURAL SYST, V14, P69, DOI 10.1142/S0129065704001899
+   Segnon M, 2017, RENEW SUST ENERG REV, V69, P692, DOI 10.1016/j.rser.2016.11.060
+   Spiesová D, 2016, ACTA VŠFS, V10, P66
+   Wang J, 2020, AAAI CONF ARTIF INTE, V34, P9169
+   Willmott CJ, 2005, CLIMATE RES, V30, P79, DOI 10.3354/cr030079
+   Wu BR, 2022, ENERGY, V252, P0, DOI 10.1016/j.energy.2022.123990
+   Wu BR, 2021, ENERGY, V226, P0, DOI 10.1016/j.energy.2021.120403
+   Wu S, 2021, MATH PROBL ENG, V2021, P0, DOI 10.1155/2021/6637183
+   Xu H, 2020, PHYSICA A, V545, P0, DOI 10.1016/j.physa.2019.122830
+   Yahsi M, 2019, CARBON MANAG, V10, P175, DOI 10.1080/17583004.2019.1568138
+   Yu JM, 2014, J INT MONEY FINANC, V47, P145, DOI 10.1016/j.jimonfin.2014.04.010
+   Zhang CA, 2022, INT J FORECASTING, V38, P1005, DOI 10.1016/j.ijforecast.2021.07.010
+   Zhang JL, 2018, J CLEAN PROD, V204, P958, DOI 10.1016/j.jclepro.2018.09.071
+   Zhao LT, 2021, SCI TOTAL ENVIRON, V796, P0, DOI 10.1016/j.scitotenv.2021.149110
+   Zhao X, 2018, APPL ENERG, V216, P132, DOI 10.1016/j.apenergy.2018.02.003
+   Zhu BZ, 2018, ENERG ECON, V70, P143, DOI 10.1016/j.eneco.2017.12.030
+   Zhu BZ, 2017, APPL ENERG, V191, P521, DOI 10.1016/j.apenergy.2017.01.076
+   Zhu BZ, 2013, OMEGA-INT J MANAGE S, V41, P517, DOI 10.1016/j.omega.2012.06.005
+NR 51
+TC 8
+Z9 8
+U1 3
+U2 42
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD NOV 15
+PY 2022
+VL 15
+IS 21
+BP 
+EP 
+DI 10.3390/en15218057
+PG 23
+WC Energy & Fuels
+SC Energy & Fuels
+GA 6B4KY
+UT WOS:000881304900001
+DA 2025-11-11
+ER
+
+PT J
+AU Li, BK
+   Nan, YF
+   Yao, RX
+AF Li, Baoku
+   Nan, Yafeng
+   Yao, Ruoxi
+TI Carbon neutrality cognition, environmental value, and consumption preference of low-carbon products
+SO FRONTIERS IN ENVIRONMENTAL SCIENCE
+LA English
+DT Article
+DE carbon neutrality cognition; environmental value; face consciousness; carbon footprint label; machine learning
+ID green; consumers; reputation; behavior; face
+AB It is now the mainstream scientific consensus that carbon emissions cause global climate change. Achieving the goal of China's carbon neutrality is essential for environmental protection and economic sustainable development worldwide. In the above context, this paper aims to explore the carbon neutrality cognition, environmental value, and consumption preference for low-carbon products from the perspective of consumption end. Thus, we built and checked a new conceptual model of consumers' carbon neutrality cognition and the consumption preference for low-carbon products. The TF-IDF algorithm in machine learning was used to confirm the dimensions of carbon neutrality cognition based on text data collected from an academic database CNKI. Then, we used data from a social investigation (N = 405) to test hypotheses and models using bootstrapping and independent sample t-tests. The results showed that altruistic (beta = 0.168, 95% CI: [-0.54514, 0.8819]) and egoistic values (beta = -0.066, 95% confidence interval [CI]: [-0.6361, 0.6772]) mediated the impact of carbon neutrality cognition on the consumption of low-carbon products, whereas the egoistic value did not (beta = -0.066, 95% CI: [-0.6361, 0.6772]). Additionally, based on the characteristics of current Chinese consumers and the market, we argue for two boundary factors: face consciousness and carbon footprint label. The moderation of face consciousness (M (high) = 5.395 vs. M (low) = 3.312) and carbon footprint label (M (with) = 6.394 vs. M (without) = 5.432) were revealed. The empirical results support our conceptual model, and our findings provide insights to policymakers and enterprises regarding people's carbon neutrality cognition, which will allow them to develop more appropriate policies and sustainable development strategies.
+C1 [Li, Baoku; Nan, Yafeng; Yao, Ruoxi] Liaoning Tech Univ, Sch Mkt Management, Huludao, Peoples R China.
+C3 Liaoning Technical University
+RP Nan, YF (corresponding author), Liaoning Tech Univ, Sch Mkt Management, Huludao, Peoples R China.
+EM 18642936612@163.com
+FU National Social Science Fund of China; Liaoning Social Science Planning Fund Project [19BGL108]; Project of Educational Department of Liaoning Province [L20BGL028];  [LJ2020JCW007]
+CR AJZEN I, 1991, ORGAN BEHAV HUM DEC, V50, P179, DOI 10.1016/0749-5978(91)90020-T
+   Ali F, 2020, SUSTAIN PROD CONSUMP, V24, P281, DOI 10.1016/j.spc.2020.07.013
+   Arrow K, 1970, SOCIAL CHOICE INDIVI, V2nd, P0
+   Bao YQ, 2003, PSYCHOL MARKET, V20, P733, DOI 10.1002/mar.10094
+   BLACK JS, 1985, J APPL PSYCHOL, V70, P3, DOI 10.1037/0021-9010.70.1.3
+   Bolin JH, 2014, J EDUC MEAS, V51, P335, DOI 10.1111/jedm.12050
+   Cederberg C, 2011, ENVIRON SCI TECHNOL, V45, P1773, DOI 10.1021/es103240z
+   Chan H, 2009, J CONSUM RES, V36, P292, DOI 10.1086/597329
+   Chekima B, 2016, J CLEAN PROD, V112, P3436, DOI 10.1016/j.jclepro.2015.09.102
+   Chng S, 2020, SUSTAINABILITY ENV D, V0, P0
+   Emberger-Klein A, 2018, J CLEAN PROD, V172, P253, DOI 10.1016/j.jclepro.2017.10.105
+   Forsythe S, 2006, J INTERACT MARK, V20, P55, DOI 10.1002/dir.20061
+   Fraj E, 2006, J CONSUM MARK, V23, P133, DOI 10.1108/07363760610663295
+   Goh IKL, 2021, J BUS RES, V126, P113, DOI 10.1016/j.jbusres.2020.12.042
+   Griskevicius V, 2010, J PERS SOC PSYCHOL, V98, P392, DOI 10.1037/a0017346
+   Hansla A, 2008, ENERG POLICY, V36, P768, DOI 10.1016/j.enpol.2007.10.027
+   HOPPER JR, 1991, ENVIRON BEHAV, V23, P195, DOI 10.1177/0013916591232004
+   Ikram M, 2022, SUSTAINABILITY-BASEL, V14, P0, DOI 10.3390/su14010258
+   Ikram M, 2021, GLOBAL JOURNAL OF FLEXIBLE SYSTEMS MANAGEMENT, V22, P133, DOI 10.1007/s40171-021-00285-7
+   Ikram M, 2021, ENVIRON SCI POLLUT R, V28, P17891, DOI 10.1007/s11356-020-11418-3
+   Kahle LR, 1996, SOCIAL VALUES CONSUM, V0, P0
+   KAPLAN S, 1987, ENVIRON BEHAV, V19, P3, DOI 10.1177/0013916587191001
+   Kheiry B, 2012, CONSUMERS GREEN PURC, V0, P0
+   Lambooij MS, 2019, MEAT SCI, V149, P1, DOI 10.1016/j.meatsci.2018.11.001
+   Lee Hyun Ju, 2018, ASIA MARKETING JOURNAL 아시아마케팅저널, V19, P87, DOI 10.15830/amj.2018.19.4.87
+   Li XY, 2020, ENERG ECON, V86, P0, DOI 10.1016/j.eneco.2019.104628
+   Muhammad PF, 2021, PROCEDIA COMPUT SCI, V179, P728, DOI 10.1016/j.procs.2021.01.061
+   NBS, 2019, ECOL ECON, V0, P0
+   Pardo G, 2016, ANIM PROD SCI, V56, P646, DOI 10.1071/AN15620
+   Podsakoff PM, 2003, J APPL PSYCHOL, V88, P879, DOI 10.1037/0021-9010.88.5.879
+   Roos D, 2019, J BUS ETHICS, V158, P679, DOI 10.1007/s10551-017-3675-3
+   SCHWARTZ SH, 1992, ADV EXP SOC PSYCHOL, V25, P1, DOI 10.1016/s0065-2601(08)60281-6
+   Semmann D, 2005, BEHAV ECOL SOCIOBIOL, V57, P611, DOI 10.1007/s00265-004-0885-3
+   Stern PC, 2000, J SOC ISSUES, V56, P407, DOI 10.1111/0022-4537.00175
+   STERN PC, 1976, J PERS SOC PSYCHOL, V34, P1285, DOI 10.1037/0022-3514.34.6.1285
+   [唐承财 Tang Chengcai], 2018, 干旱区资源与环境 JOURNAL OF ARID LAND RESOURCES AND ENVIRONMENT, V32, P43
+   Nguyen TN, 2017, ASIA PAC J MARKET LO, V29, P759, DOI 10.1108/APJML-08-2016-0151
+   The State Council, 2021, PEOPLES TRIBUNE FRON, V0, P0, DOI DOI 10.16619/J.CNKI.RMLTXSQY.2021.06.011
+   Tongwane MI, 2021, ENVIRON RES, V195, P0, DOI 10.1016/j.envres.2021.110833
+   Wang F, 2021, INNOVATION-AMSTERDAM, V2, P0, DOI 10.1016/j.xinn.2021.100180
+   Wang JM, 2015, MANAGEMENT WORLD, V0, PP82, DOI 10.19744/j.cnki.11-1235/f.2015.12.008
+   Wang L, 2019, J BUS ETHICS, V160, P499, DOI 10.1007/s10551-018-3944-9
+   Wang R, 2010, CHINA POPUL RESOUR E, V20, P9
+   WANG SJ, 2019, SOFT SCI, V33, P50, DOI 10.13956/J.SS.1001-8409.2019.10.09
+   Xi J, 2020, ADDRESS GEN DEBATE 7, V0, P0
+   Xiang XW, 2022, APPL ENERG, V322, P0, DOI 10.1016/j.apenergy.2022.119401
+   Xiang XW, 2022, BUILDINGS-BASEL, V12, P0, DOI 10.3390/buildings12010083
+   Yadav R, 2016, J RETAIL CONSUM SERV, V33, P92, DOI 10.1016/j.jretconser.2016.08.008
+   Yu C, 2019, MANAG REV, V31, P139, DOI 10.14120/J.CNKI.CN11-5057/F.2019.11.011
+   Yu S, 2015, MACROECONOMICS, V3, P16, DOI 10.16304/j.cnki.11-3952/f.2015.03.016
+   Zhang S, 2022, RESOUR CONSERVATION, V185, P106481, DOI 10.1016/j.resconrec.2022.106481
+   Zhuang G, 2021, FRONTIERS, V14, P62, DOI 10.16619/j.cnki.rmltxsqy.2021.14.007
+NR 52
+TC 11
+Z9 11
+U1 5
+U2 103
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 
+EI 2296-665X
+J9 FRONT ENV SCI-SWITZ
+JI Front. Environ. Sci.
+PD SEP 8
+PY 2022
+VL 10
+IS 
+BP 
+EP 
+DI 10.3389/fenvs.2022.979783
+PG 17
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 4S2QG
+UT WOS:000857291400001
+DA 2025-11-10
+ER
+
+PT J
+AU Chiu, MC
+   Tu, YL
+   Kao, MC
+AF Chiu, Ming-Chuan
+   Tu, Yen-Ling
+   Kao, Meng-Chun
+TI Applying deep learning image recognition technology to promote environmentally sustainable behavior
+SO SUSTAINABLE PRODUCTION AND CONSUMPTION
+LA English
+DT Article
+DE Food carbon footprint; Food image recognition; Deep learning; Environmentally sustainable eating behavior; CNN
+ID dietary assessment; green products; energy
+AB Since the dawn of the 21st century, the carbon footprint has become an important indicator for measuring environmental impact. While it's been recognized that changing one's dietary habits can help to reduce food-related carbon emissions, many consumers do not yet understand much about carbon emissions generated by food production and dissemination and do not actively search for related information. Thus, developing a way for consumers to identify a food's carbon footprint easily and quickly and perhaps to then adjust their eating habits is one way to help achieve environmentally sustainable eating behavior. This study establishes a carbon footprint tracking system using convolutional neural network image recognition technology to explore and improve the advantages of environmentally sustainable eating behavior. Results show the accuracy of the proposed model is 94.79%, indicating it can effectively recognize food types. During a two-week experiment testing the tracking system, the measured total carbon footprint for the study participants was reduced by 22.25%. Additionally, the number of participants whose daily carbon footprint was less than the targeted goal of 3 kg increased by 81.82%, indicating that the system can effectively help people reduce their food carbon footprints while providing them with calorie and nutrient information required to help achieve a balance between health and environment. (c) 2022 Institution of Chemical Engineers. Published by Elsevier Ltd. All rights reserved.
+C1 [Chiu, Ming-Chuan; Tu, Yen-Ling] Natl Tsing Hua Univ, Dept Ind Engn & Engn Management, Hsinchu, Taiwan.
+   [Kao, Meng-Chun] Yuanpei Univ Med Technol, Dept Business Adm, Hsinchu, Taiwan.
+C3 National Tsing Hua University
+RP Kao, MC (corresponding author), 306 Yuanpei St, Hsinchu 30015, Taiwan.
+EM mcchiu@ue.nthu.edu.tw; vivian1995@gapp.nthu.edu.tw; ruth@mail.ypu.edu.tw
+FU Ministry of Science and Technology, Taiwan [MOST 109-2628-E-007-002-MY3, MOST 1102637-H-264-001]
+CR Aagerup U, 2016, J PROD BRAND MANAG, V25, P274, DOI 10.1108/JPBM-06-2015-0903
+   AGUILAR E, 1900, P4017, V0, P0, DOI DOI 10.1109/ICPR48806.2021.9412706
+   Ammar N, 2020, PLOS ONE, V15, P0, DOI 10.1371/journal.pone.0239961
+   Annunziata A, 2019, SUSTAIN PROD CONSUMP, V17, P108, DOI 10.1016/j.spc.2018.09.005
+   Batool U, 2021, SYSTEMATIC REV DEEP, V9, P0
+   Beijbom O, 2015, IEEE WINT CONF APPL, V0, PP844, DOI 10.1109/WACV.2015.117
+   Bolaños M, 2016, INT C PATT RECOG, V0, PP3140, DOI 10.1109/ICPR.2016.7900117
+   Bonini SM, 2008, STANFORD SOCIAL INNOVATION REVIEW, V6, P56, DOI 10.48558/HYJ1-2666
+   Carson R, 1962, SILENT SPRING, V0, P0
+   Center for Sustainable Systems U.o.M., 2020, CARB FOOTPR FACTSH, V0, P0, DOI DOI 10.1007/s10661-010-1678-y#citeas
+   Cerutti AK, 2016, FOOD POLICY, V58, P82, DOI 10.1016/j.foodpol.2015.12.001
+   Chen JJ, 2021, IEEE T IMAGE PROCESS, V30, P1514, DOI 10.1109/TIP.2020.3045639
+   Chiu MC, 2021, INT J PROD RES, V59, P7594, DOI 10.1080/00207543.2020.1868595
+   Choi D, 2019, SUSTAIN PROD CONSUMP, V18, P145, DOI 10.1016/j.spc.2019.02.001
+   Chuang LW, 2017, 2017 INTERNATIONAL CONFERENCE ON GREEN INFORMATICS (ICGI), V0, PP145, DOI 10.1109/ICGI.2017.48
+   Ciocca G, 2017, IEEE J BIOMED HEALTH, V21, P588, DOI 10.1109/JBHI.2016.2636441
+   Cookpad, 1997, JAP LARG REC SHAR SE, V0, P0
+   Demenocal P, 1908, SCIENCE, V3, P39
+   Environmental Protection Administration EY, 2020, GREENHOUSE GAS EMISS, V0, P0
+   Esfahani SN, 2020, 2020 10TH ANNUAL COMPUTING AND COMMUNICATION WORKSHOP AND CONFERENCE (CCWC), V0, PP662, DOI 10.1109/ccwc47524.2020.9031258
+   Forlizzi J, 2008, INT J DES, V2, P11
+   Gandhi AV, 2021, SMART SUSTAIN BUILT, V10, P274, DOI 10.1108/SASBE-01-2019-0011
+   Godfray HCJ, 2018, SCIENCE, V361, P0, DOI 10.1126/science.aam5324
+   HART S G, 1988, P139, V0, P0
+   Hedin B, 2017, P 2017 SUSTAINABLE I, V0, PP1, DOI 10.23919/SustainIT.2017.8379794
+   Jiabao Lei, 2021, PATTERN RECOGNITION. ICPR INTERNATIONAL WORKSHOPS AND CHALLENGES. PROCEEDINGS. LECTURE NOTES IN COMPUTER SCIENCE (LNCS 12665), V0, PP549, DOI 10.1007/978-3-030-68821-9_45
+   Jiang LD, 2020, IEEE ACCESS, V8, P47477, DOI 10.1109/ACCESS.2020.2973625
+   Joo Y, 2020, SUSTAINABILITY-BASEL, V12, P0, DOI 10.3390/su12104095
+   Kagaya H, 2014, PROCEEDINGS OF THE 2014 ACM CONFERENCE ON MULTIMEDIA (MM14), V0, PP1085, DOI 10.1145/2647868.2654970
+   Kause A, 2019, ENVIRON RES LETT, V14, P0, DOI 10.1088/1748-9326/ab465d
+   Kawano Y, 2015, MULTIMED TOOLS APPL, V74, P5263, DOI 10.1007/s11042-014-2000-8
+   Kitamura Keigo, 2009, PROCEEDINGS OF THE ACM MULTIMEDIA 2009 WORKSHOP ON MULTIMEDIA FOR COOKING AND EATING ACTIVITIES, V0, P23
+   Kong FY, 2012, PERVASIVE MOB COMPUT, V8, P147, DOI 10.1016/j.pmcj.2011.07.003
+   Lin PC, 2012, J CLEAN PROD, V22, P11, DOI 10.1016/j.jclepro.2011.10.002
+   Livingstone MBE, 2003, J NUTR, V133, P895S, DOI 10.1093/jn/133.3.895S
+   Ma JY, 2019, INFORM FUSION, V48, P11, DOI 10.1016/j.inffus.2018.09.004
+   Arrieta EM, 2019, SUSTAIN PROD CONSUMP, V19, P44, DOI 10.1016/j.spc.2019.03.003
+   Moguel E, 2019, SENSORS-BASEL, V19, P0, DOI 10.3390/s19153265
+   MyFitnessPal, 2005, SMARTPH APP WEBS TRA, V0, P0
+   Pandey D, 2011, ENVIRON MONIT ASSESS, V178, P135, DOI 10.1007/s10661-010-1678-y
+   Panzone LA, 2020, APPETITE, V155, P0, DOI 10.1016/j.appet.2020.104794
+   PARASURAMAN A, 1988, J RETAILING, V64, P12
+   Rahman I, 2019, INT J HOSP TOUR ADM, V20, P47, DOI 10.1080/15256480.2017.1359729
+   Roheim CA, 2018, FOOD POLICY, V79, P92, DOI 10.1016/j.foodpol.2018.06.002
+   Rondoni A, 2021, J CLEAN PROD, V301, P0, DOI 10.1016/j.jclepro.2021.127031
+   Röös E, 2013, ECOL INDIC, V24, P573, DOI 10.1016/j.ecolind.2012.08.004
+   Safi OK, 2020, CARBON FOOTPRINT INF, V0, P0
+   Sahoo D, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP2260, DOI 10.1145/3292500.3330734
+   Sasano S, 2016, 2016 9TH INTERNATIONAL CONGRESS ON IMAGE AND SIGNAL PROCESSING, V0, P815, DOI 10.1109/CISP-BMEI.2016.7852822
+   Savadjiev P, 2019, EUR RADIOL, V29, P1616, DOI 10.1007/s00330-018-5674-x
+   Shakhbulatov D, 2019, 2019 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN (BLOCKCHAIN 2019), V0, PP546, DOI 10.1109/Blockchain.2019.00079
+   Singla A, 2016, MADIMA16: PROCEEDINGS OF THE 2ND INTERNATIONAL WORKSHOP ON MULTIMEDIA ASSISTED DIETARY MANAGEMENT, V0, PP3, DOI 10.1145/2986035.2986039
+   Springmann M, 2016, P NATL ACAD SCI USA, V113, P4146, DOI 10.1073/pnas.1523119113
+   Sun Y, 2021, BUS STRATEG ENVIRON, V30, P694, DOI 10.1002/bse.2648
+   Szegedy C, 2016, PROC CVPR IEEE, V0, PP2818, DOI 10.1109/CVPR.2016.308
+   Takahashi K, 2017, P 9 WORKSH MULT COOK, V0, PP1, DOI 10.1145/3106668.3106670
+   Vanclay JK, 2011, J CONSUM POLICY, V34, P153, DOI 10.1007/s10603-010-9140-7
+   Walthall CL, 2013, USDA TECHNICAL BULLETIN, V0, P0
+   Wang L, 2021, J CLEAN PROD, V289, P0, DOI 10.1016/j.jclepro.2020.125675
+   Weber A, 2021, APPETITE, V167, P0, DOI 10.1016/j.appet.2021.105616
+   Wu X, 2019, IEEE T GEOSCI REMOTE, V57, P5146, DOI 10.1109/TGRS.2019.2897139
+   Xu RH, 2015, IEEE T MULTIMEDIA, V17, P1187, DOI 10.1109/TMM.2015.2438717
+   Yang S, 2010, PROC CVPR IEEE, V0, PP2249, DOI 10.1109/CVPR.2010.5539907
+   Zhao H, 2021, IEEE WINT CONF APPL, V0, PP1710, DOI 10.1109/WACV48630.2021.00175
+   Zhidong Shen, 2020, PROCEDIA COMPUTER SCIENCE, V174, P448, DOI 10.1016/j.procs.2020.06.113
+NR 65
+TC 9
+Z9 12
+U1 6
+U2 50
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-5509
+EI 
+J9 SUSTAIN PROD CONSUMP
+JI Sustain. Prod. Consump.
+PD MAY 15
+PY 2022
+VL 31
+IS 
+BP 736
+EP 749
+DI 10.1016/j.spc.2022.03.031
+EA APR 2022
+PG 14
+WC Green & Sustainable Science & Technology; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 1E1PR
+UT WOS:000794268200004
+DA 2025-11-08
+ER
+
+PT J
+AU Kaack, LH
+   Donti, PL
+   Strubell, E
+   Kamiya, G
+   Creutzig, F
+   Rolnick, D
+AF Kaack, Lynn H.
+   Donti, Priya L.
+   Strubell, Emma
+   Kamiya, George
+   Creutzig, Felix
+   Rolnick, David
+TI Aligning artificial intelligence with climate change mitigation
+SO NATURE CLIMATE CHANGE
+LA English
+DT Article
+ID social construction; technology
+AB The rapid growth of artificial intelligence (AI) is reshaping our society in many ways, and climate change is no exception. This Perspective presents a framework to assess how AI affects GHG emissions and proposes approaches to align the technology with climate change mitigation. There is great interest in how the growth of artificial intelligence and machine learning may affect global GHG emissions. However, such emissions impacts remain uncertain, owing in part to the diverse mechanisms through which they occur, posing difficulties for measurement and forecasting. Here we introduce a systematic framework for describing the effects of machine learning (ML) on GHG emissions, encompassing three categories: computing-related impacts, immediate impacts of applying ML and system-level impacts. Using this framework, we identify priorities for impact assessment and scenario analysis, and suggest policy levers for better understanding and shaping the effects of ML on climate change mitigation.
+C1 [Kaack, Lynn H.] Hertie Sch, Data Sci Lab, Berlin, Germany.
+   [Kaack, Lynn H.] Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Energy & Technol Policy Grp, Zurich, Switzerland.
+   [Kaack, Lynn H.] Swiss Fed Inst Technol, Inst Sci Technol & Policy, Zurich, Switzerland.
+   [Donti, Priya L.; Strubell, Emma] Carnegie Mellon Univ, Sch Comp Sci, Pittsburgh, PA 15213 USA.
+   [Donti, Priya L.] Carnegie Mellon Univ, Dept Engn & Publ Policy, Pittsburgh, PA 15213 USA.
+   [Kamiya, George] Int Energy Agcy, Paris, France.
+   [Creutzig, Felix] Mercator Res Inst Global Commons & Climate Change, Berlin, Germany.
+   [Creutzig, Felix] Tech Univ Berlin, Sustainabil Econ Human Settlements, Berlin, Germany.
+   [Rolnick, David] McGill Univ, Sch Comp Sci, Montreal, PQ, Canada.
+   [Rolnick, David] Mila Quebec Al Inst, Montreal, PQ, Canada.
+C3 Hertie School; Swiss Federal Institutes of Technology Domain; ETH Zurich; Swiss Federal Institutes of Technology Domain; ETH Zurich; Carnegie Mellon University; Carnegie Mellon University; Technical University of Berlin; McGill University
+RP Kaack, LH (corresponding author), Hertie Sch, Data Sci Lab, Berlin, Germany.; Kaack, LH (corresponding author), Swiss Fed Inst Technol, Dept Humanities Social & Polit Sci, Energy & Technol Policy Grp, Zurich, Switzerland.; Kaack, LH (corresponding author), Swiss Fed Inst Technol, Inst Sci Technol & Policy, Zurich, Switzerland.
+EM kaack@hertie-school.org
+FU Environmental Law Institute; Alfred P. Sloan Foundation; US Department of Energy Computational Science Graduate Fellowship [DE-FG02-97ER25308]; Center for Climate and Energy Decision Making; US National Science Foundation [SES-00949710]; Carnegie Mellon University [SES-00949710]; Siebel Scholars programme; Canada CIFAR AI Chairs programme
+CR Adams-Progar A, 2017, SECURITY PRIVACY CYB, V0, P0, DOI DOI 10.1002/9781119226079.ch18
+   Ahmed R, 2020, RENEW SUST ENERG REV, V124, P0, DOI 10.1016/j.rser.2020.109792
+   Albanie S, 2019, CONVNET BURDEN ESTIM, V0, P0
+   Anderson JM, 2014, AUTONOMOUS VEHICLE TECHNOLOGY: A GUIDE FOR POLICYMAKERS, V0, P0, DOI DOI 10.7249/RR443-2
+   Unknown -, 2021, DAT CTR DAT TRANSM N, V0, P0
+   Unknown -, 2019, OIL CLOUD TECH CO AR, V0, P0
+   Unknown -, 2016, UNITED STATES DATA CENTER ENERGY USAGE REPORT, V0, P0
+   Unknown -, 2021, FAC SUST DAT 2020, V0, P0
+   Unknown -, 2020, GREENHOUSE GAS EMISS, V0, P0
+   Unknown -, 2020, DIG TECHN PLAN HARN, V0, P0
+   Unknown -, 2020, AR FUT ACT RESP AI E, V0, P0
+   Unknown -, 2021, PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ESTABLISHING A CARBON BORDER ADJUSTMENT MECHANISM COM/2021/564, V0, P0
+   Unknown -, 2018, CISCO GLOBAL CLOUD I, V0, P0
+   Unknown -, 2021, FACCT 21 P 2021 ACM, V0, P0
+   Unknown -, 2021, REC ETH ART INT, V0, P0
+   Unknown -, 2020, CLIM AI ART INT CAN, V0, P0
+   Unknown -, 2018, AI AND COMPUTE, V0, P0
+   Unknown -, 2017, P 15 C EUR CHAPT ASS, V0, P0
+   Unknown -, 2021, HARN ART INT ACC EN, V0, P0
+   Unknown -, 2017, DIG EN, V0, P0
+   Anthony LFW, 2020, PREPRINT, V0, P0
+   ARTHUR WB, 1989, ECON J, V99, P116, DOI 10.2307/2234208
+   Azevedo IML, 2014, ANNU REV ENV RESOUR, V39, P393, DOI 10.1146/annurev-environ-021913-153558
+   Barroso LuizAndre, 2013, SYNTHESIS LECT COMPU, V8, P1, DOI 10.2200/S00516ED2V01Y201306CAC024
+   Bender EM, 2021, PROCEEDINGS OF THE 2021 ACM CONFERENCE ON FAIRNESS, V0, P0
+   Bergmark P, 2020, PROC 7 INT C ICT SUS, V0, P46
+   Berkhout F, 2004, FUTURES, V36, P903, DOI 10.1016/j.futures.2004.01.003
+   Bieser J, 2018, EPIC SERIES IN COMPUTING, V0, PP68, DOI 10.29007/LX7Q
+   Bommasani R, 2021, PREPRINT, V0, P0
+   Bondi E, 2021, AIES 21: PROCEEDINGS OF THE 2021 AAAI/ACM CONFERENCE ON AI, V0, P0
+   Cai E, 1900, P622, V0, P0
+   Cai Han, 2020, ICLR, V0, P0
+   Canziani A, 2017, PREPRINT, V0, P0
+   Coeckelbergh M, 2021, AI AND ETHICS, V1, P67, DOI 10.1007/s43681-020-00007-2
+   College of American Pathologists, 2021, ARTIF INTELL, V0, P0
+   Coroama Vlad C, 2020, ICT4S2020: PROCEEDINGS OF THE 7TH INTERNATIONAL CONFERENCE ON ICT FOR SUSTAINABILITY, V0, PP36, DOI 10.1145/3401335.3401716
+   Courty Benoit, 2023, ZENODO, V0, P0
+   Cox E, 2016, THE IMPACTS OF NON-ENERGY POLICIES ON THE ENERGY SYSTEM: A SCOPING PAPER, V0, P0
+   Creutzig F, 2019, GLOB SUSTAIN, V2, P0, DOI 10.1017/sus.2019.11
+   Dauvergne P, 2022, REV INT POLIT ECON, V29, P696, DOI 10.1080/09692290.2020.1814381
+   Degot Charlotte, 2021, REDUCE CARBON AND COSTS WITH THE POWER OF AI, V0, P0
+   Dobbe R, 2019, AI CLIMATE CHANGE TH, V0, P0
+   Dodge J, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), V0, P2185
+   Evans R, 2016, DEEPMIND AI REDUCES GOOGLE DATA CENTRE COOLING BILL BY 40%, V0, P0
+   Finer M, 2018, SCIENCE, V360, P1303, DOI 10.1126/science.aat1203
+   Ghahramani Z, 2015, NATURE, V521, P452, DOI 10.1038/nature14541
+   Gillham J, 2018, AI CAN ENABLE SUSTAI, V0, P0
+   Godfray HCJ, 2018, SCIENCE, V361, P0, DOI 10.1126/science.aam5324
+   Gunther H, 2020, ENVIRON LAW REP, V50, P10888
+   Gupta A, 2020, PREPRINT, V0, P0
+   Gupta U, 2021, INT S HIGH PERF COMP, V0, PP854, DOI 10.1109/HPCA51647.2021.00076
+   Hazelwood K, 2018, INT S HIGH PERF COMP, V0, PP620, DOI 10.1109/HPCA.2018.00059
+   He KM, 2016, PROC CVPR IEEE, V0, PP770, DOI 10.1109/CVPR.2016.90
+   Henderson P, 2020, J MACH LEARN RES, V21, P0
+   Hilbert M, 2016, DEV POLICY REV, V34, P135, DOI 10.1111/dpr.12142
+   Hilty LM, 2015, ADV INTELL SYST, V310, P3, DOI 10.1007/978-3-319-09228-7_1
+   Hinton G, 2015, DISTILLING KNOWLEDGE, V0, P1
+   Hischier R, 2015, ADV INTELL SYST COMP, V310, P171, DOI 10.1007/978-3-319-09228-7_10
+   Hooker S, 2020, ICML WORKSHOP HUMAN, V0, P0
+   Horner NC, 2016, ENVIRON RES LETT, V11, P0, DOI 10.1088/1748-9326/11/10/103001
+   Hubara I, 2018, J MACH LEARN RES, V18, P0
+   Index CGC, 2018, CISCO GLOBAL CLOUD INDEX: FORECAST AND METHODOLOGY, V0, P0
+   Irrgang C, 2021, NAT MACH INTELL, V3, P667, DOI 10.1038/s42256-021-00374-3
+   Itten R, 2020, INT J LIFE CYCLE ASS, V25, P2093, DOI 10.1007/s11367-020-01801-0
+   Jiang AH, 2019, PREPRINT, V0, P0
+   Jirotka M, 2017, COMMUN ACM, V60, P62, DOI 10.1145/3064940
+   Jouppi NP, 2017, 44TH ANNUAL INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE (ISCA 2017), V0, PP1, DOI 10.1145/3079856.3080246
+   Klein HK, 2002, SCI TECHNOL HUM VAL, V27, P28, DOI 10.1177/016224390202700102
+   Koomey J, 2015, IEEE SPECTRUM, V52, P35
+   Koomey JG, 2011, IEEE ANN HIST COMPUT, V33, P46, DOI 10.1109/MAHC.2010.28
+   Kulp SA, 2019, NAT COMMUN, V10, P0, DOI 10.1038/s41467-019-12808-z
+   Lange S, 2020, ECOL ECON, V176, P0, DOI 10.1016/j.ecolecon.2020.106760
+   Lepikhin D, 2021, INT C LEARNING REPRE, V0, P0
+   Liu Y, 2020, ENERGY STORAGE MATER, V31, P434, DOI 10.1016/j.ensm.2020.06.033
+   Malmodin J, 2018, SUSTAINABILITY-BASEL, V10, P0, DOI 10.3390/su10093027
+   Masanet E, 2020, SCIENCE, V367, P984, DOI 10.1126/science.aba3758
+   Masanet E, 2013, NAT CLIM CHANGE, V3, P627, DOI 10.1038/nclimate1786
+   Mattson P, 2020, PROCEEDINGS OF MACHINE LEARNING AND SYSTEMS, V2, P336
+   Mehrabi N, 2021, ACM COMPUT SURV, V54, P0, DOI 10.1145/3457607
+   Montevecchi F, 2020, FINAL STUDY REPORT, V0, P0
+   Mytton D, 2020, NAT CLIM CHANGE, V10, P701, DOI 10.1038/s41558-020-0837-6
+   Naumov M, 2020, PREPRINT, V0, P0
+   Park JH, 2018, PREPRINT, V0, P0
+   Pfeiffer J, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING: SYSTEM DEMONSTRATIONS, V0, P46
+   PINCH TJ, 1984, SOC STUD SCI, V14, P399, DOI 10.1177/030631284014003004
+   Pohl J, 2019, J CLEAN PROD, V219, P698, DOI 10.1016/j.jclepro.2019.02.018
+   Radovanovic Ana, 2020, OUR DATA CENTERS NOW WORK HARDER WHEN THE SUN SHINES AND WIND BLOWS, V0, P0
+   Reddi VJ, 2020, ANN I S COM, V0, PP446, DOI 10.1109/ISCA45697.2020.00045
+   Rolnick D, 2020, ARTIF INTELL, V0, P0
+   Rolnick D, 2023, ACM COMPUT SURV, V55, P0, DOI 10.1145/3485128
+   Roman ND, 2020, ENERG BUILDINGS, V217, P0, DOI 10.1016/j.enbuild.2020.109972
+   Rudin C, 2022, STAT SURV, V16, P1, DOI 10.1214/21-SS133
+   Sandler M, 2018, CVPR, V0, P0, DOI DOI 10.1109/CVPR.2018.00474
+   Schaul T, 2016, INT C LEARNING REPRE, V0, P0
+   Schipper M, 2018, AUTONOMOUS VEHICLES, V0, P0
+   Schwartz R, 2020, COMMUN ACM, V63, P54, DOI 10.1145/3381831
+   Sivaram Varun, 2018, DIGITAL DECARBONIZATION: PROMOTING DIGITAL INNOVATIONS TO ADVANCE CLEAN ENERGY SYSTEMS, V0, P0
+   Stein AL, 2020, YALE J REGUL, V37, P890
+   Stilgoe J, 2013, RES POLICY, V42, P1568, DOI 10.1016/j.respol.2013.05.008
+   Strubell E, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P3645
+   Tomasev N, 2020, NAT COMMUN, V11, P0, DOI 10.1038/s41467-020-15871-z
+   Toqué F, 2017, IEEE INT C INTELL TR, V0, P0
+   Turovsky Barak, 2016, TEN YEARS OF GOOGLE TRANSLATE, V0, P0
+   Nguyen VN, 2018, INT J ELEC POWER, V99, P107, DOI 10.1016/j.ijepes.2017.12.016
+   Wadud Z, 2016, TRANSPORT RES A-POL, V86, P1, DOI 10.1016/j.tra.2015.12.001
+   Whitehead B, 2015, INT J LIFE CYCLE ASS, V20, P332, DOI 10.1007/s11367-014-0838-7
+   Willard J, 2020, PREPRINT, V0, P0
+   Wilson C, 2020, ANNU REV ENV RESOUR, V45, P113, DOI 10.1146/annurev-environ-012320-082424
+   Wu C-J, 2022, P MACHINE LEARNING S, V4, P795, DOI 10.48550/ARXIV.2111.00364
+   Wu CJ, 2019, INT S HIGH PERF COMP, V0, PP331, DOI 10.1109/HPCA.2019.00048
+   You JX, 2017, AAAI CONF ARTIF INTE, V0, P4559
+   Zhuang FZ, 2021, P IEEE, V109, P43, DOI 10.1109/JPROC.2020.3004555
+NR 115
+TC 207
+Z9 243
+U1 32
+U2 232
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 1758-678X
+EI 1758-6798
+J9 NAT CLIM CHANGE
+JI Nat. Clim. Chang.
+PD JUN 15
+PY 2022
+VL 12
+IS 6
+BP 518
+EP 527
+DI 10.1038/s41558-022-01377-7
+PG 10
+WC Environmental Sciences; Environmental Studies; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 2E5NU
+UT WOS:000812275500016
+DA 2025-11-10
+ER
+
+PT J
+AU Raper, R
+   Boeddinghaus, J
+   Coeckelbergh, M
+   Gross, W
+   Campigotto, P
+   Lincoln, CN
+AF Raper, Rebecca
+   Boeddinghaus, Jona
+   Coeckelbergh, Mark
+   Gross, Wolfgang
+   Campigotto, Paolo
+   Lincoln, Craig N.
+TI Sustainability Budgets: A Practical Management and Governance Method for Achieving Goal 13 of the Sustainable Development Goals for AI Development
+SO SUSTAINABILITY
+LA English
+DT Article
+DE AI; artificial intelligence; sustainability; AI governance; ethics; ethical AI; differential privacy
+AB Climate change is a global priority. In 2015, the United Nations (UN) outlined its Sustainable Development Goals (SDGs), which stated that taking urgent action to tackle climate change and its impacts was a key priority. The 2021 World Climate Summit finished with calls for governments to take tougher measures towards reducing their carbon footprints. However, it is not obvious how governments can make practical implementations to achieve this goal. One challenge towards achieving a reduced carbon footprint is gaining awareness of how energy exhaustive a system or mechanism is. Artificial Intelligence (AI) is increasingly being used to solve global problems, and its use could potentially solve challenges relating to climate change, but the creation of AI systems often requires vast amounts of, up front, computing power, and, thereby, it can be a significant contributor to greenhouse gas emissions. If governments are to take the SDGs and calls to reduce carbon footprints seriously, they need to find a management and governance mechanism to (i) audit how much their AI system 'costs' in terms of energy consumption and (ii) incentivise individuals to act based upon the auditing outcomes, in order to avoid or justify politically controversial restrictions that may be seen as bypassing the creativity of developers. The idea is thus to find a practical solution that can be implemented in software design that incentivises and rewards and that respects the autonomy of developers and designers to come up with smart solutions. This paper proposes such a sustainability management mechanism by introducing the notion of 'Sustainability Budgets'-akin to Privacy Budgets used in Differential Privacy-and by using these to introduce a 'Game' where participants are rewarded for designing systems that are 'energy efficient'. Participants in this game are, among others, the Machine Learning developers themselves, which is a new focus for this problem that this text introduces. The paper later expands this notion to sustainability management in general and outlines how it might fit into a wider governance framework.
+C1 [Raper, Rebecca; Coeckelbergh, Mark] Univ Vienna, Dept Philosophy, A-1010 Vienna, Austria.
+   [Boeddinghaus, Jona; Gross, Wolfgang; Campigotto, Paolo; Lincoln, Craig N.] Gradient Zero, A-1010 Vienna, Austria.
+C3 University of Vienna
+RP Raper, R (corresponding author), Univ Vienna, Dept Philosophy, A-1010 Vienna, Austria.
+EM rebecca.raper@univie.ac.at; jb@gradient0.com; mark.coeckelbergh@univie.ac.at; wg@gradient0.com; pc@gradient0.com; cl@gradient0.com
+FU FFG, "Osterreichische Forschungsforderungsgesellschaft" (Austrian Research Funding Institution); University of Vienna
+CR Unknown -, 2021, BBC NEWS, V0, P0
+   ARORA S, 2019, ARXIV191001663, V0, P0
+   Audet C, 2016, OPTIM ENG, V17, P1, DOI 10.1007/s11081-016-9307-4
+   Bergstra J, 2012, J MACH LEARN RES, V13, P281
+   Blohm I, 2013, BUS INFORM SYST ENG+, V5, P275, DOI 10.1007/s12599-013-0273-5
+   Coeckelbergh M, 2021, AI AND ETHICS, V1, P67, DOI 10.1007/s43681-020-00007-2
+   Deterding S, 2011, INT AC MINDTR C ENV, V0, PP9, DOI 10.1145/2181037.2181040
+   Donahue J, 2014, PR MACH LEARN RES, V32, P0
+   Dwork C, 2006, LECT NOTES COMPUT SC, V3876, P265, DOI 10.1007/11681878_14
+   Dwork C, 2013, FOUND TRENDS THEOR C, V9, P211, DOI 10.1561/0400000042
+   Gao J, 2014, MACHINE LEARNING APP, V0, P0
+   Globalgoalsorg, 2021, GLOB GOALS, V0, P0
+   Han S, 2015, DEEP COMPRESSION COM, V0, P0
+   Howard Andrew G, 2017, MOBILENETS: EFFICIENT CONVOLUTIONAL NEURAL NETWORKS FOR MOBILE VISION APPLICATIONS, V0, P0, DOI DOI 10.48550/ARXIV.1704.04861
+   Hussain A, 2021, REMOVAL HEAVY METALS, V0, P0
+   Justus D, 2018, IEEE INT CONF BIG DA, V0, PP3873, DOI 10.1109/BigData.2018.8622396
+   Kingma DP, 2014, ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, V27, P3581
+   LeCun Y, 1990, ADV NEURAL INFORM PR, V0, PP598, DOI 10.5555/109230.109298
+   Schwab K, 2017, 4 IND REVOLUTION, V0, P0
+   Stein AL, 2020, YALE J REGUL, V37, P890
+   Strubell E, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P3645
+   Tan MX, 2019, PROC CVPR IEEE, V0, PP2815, DOI arXiv:1807.11626
+   Tanaka Hidenori, 2020, ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, V33, P0
+   Tartaglione E, 2020, INT J ENV RES PUB HE, V17, P0, DOI 10.3390/ijerph17186933
+   UK Met Office, 2021, ONL EFF CLIM CHANG M, V0, P0
+   van Wynsberghe A, 2021, AI AND ETHICS, V1, P213, DOI 10.1007/s43681-021-00043-6
+NR 26
+TC 7
+Z9 9
+U1 6
+U2 52
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD APR 15
+PY 2022
+VL 14
+IS 7
+BP 
+EP 
+DI 10.3390/su14074019
+PG 11
+WC Green & Sustainable Science & Technology; Environmental Sciences; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 0M0RN
+UT WOS:000781871700001
+DA 2025-11-07
+ER
+

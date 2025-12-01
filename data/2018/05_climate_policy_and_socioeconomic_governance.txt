@@ -1,0 +1,276 @@
+PT J
+AU Wei, J
+   Chen, H
+   Long, RY
+AF Wei, Jia
+   Chen, Hong
+   Long, Ruyin
+TI Diffusion Paths and Guiding Policy for Urban Residents' Carbon Identification Capability: Simulation Analysis from the Perspective of Relation Strength and Personal Carbon Trading
+SO SUSTAINABILITY
+LA English
+DT Article
+DE urban residents; carbon capability; carbon identification capability; relation strength; personal carbon trading
+ID co2 emissions; china; consumption; dynamics; model
+AB On the consumption side, the key to carbon emission reduction is urban residents' carbon capability. As it is the main bottleneck hindering carbon capability enhancement, the promotion of carbon identification capability is very important. This study establishes diffusion models of carbon identification capability from the perspectives of relation strength and personal carbon trading through weighted small-world theory, and it takes Chinese urban residents as the research object to make a simulation analysis. The results show that, at the initial stage, using a knowledge priority strategy to determine the sender of capability can bring about a higher capability growth rate for individuals, and the capability diffusion equilibrium of the network is also the highest. However, in the entire diffusion process, the strength priority model is the best to make the network reach the equilibrium quickly. After the introduction of personal carbon trading, the growth rate of the carbon identification capability increases significantly, and the network equilibrium becomes higher synchronously. More egoistic nodes and fewer altruistic nodes in the network are more favorable for the capability diffusion in the network, but they may bring about the risk that the network equilibrium becomes lower. Finally, the study puts forward suggestions to help with the improvement of residents' carbon identification capability.
+C1 [Wei, Jia] Xi An Jiao Tong Univ, Sch Econ & Finance, Xian 710061, Peoples R China.
+   [Chen, Hong; Long, Ruyin] China Univ Min & Technol, Sch Management, Xuzhou 221116, Jiangsu, Peoples R China.
+C3 Xi'an Jiaotong University; China University of Mining & Technology
+RP Wei, J (corresponding author), Xi An Jiao Tong Univ, Sch Econ & Finance, Xian 710061, Peoples R China.; Chen, H (corresponding author), China Univ Min & Technol, Sch Management, Xuzhou 221116, Jiangsu, Peoples R China.
+EM jiawei0626@xjtu.edu.cn; hongchenxz@cumt.edu.cn; longruyin@cumt.edu.cn
+FU National Natural Science Funding of China [71473248, 71673271, 71473247, 71273258, 71603255]; Major project of National Social Science Funding of China [16ZDA056]; Jiangsu Philosophy and Social Sciences Excellent Innovation Cultivation Team; 333 High-level Talents Project of Jiangsu Province; Teaching Education Reform and Practice of Jiangsu Province [JGZZ16_078]; Innovation Team Program of the China University of Mining and Technology [2015ZY003]; Social Science Foundation of Jiangsu Province Project [14JD026]; "13th Five Year" Brand Discipline Construction Funding Project of China University of Mining and Technology; China Postdoctoral Science Foundation [2017M620459]
+CR Abas AS, 2015, APPLIED MECHANICS AND MATERIALS, V747, P290, DOI 10.4028/www.scientific.net/amm.747.290
+   Allen T, 1977, MANAGING THE FLOW OF TECHNOLOGY: TECHNOLOGY TRANSFER AND THE DISSEMINATION OF TECHNOLOGICAL INFORMATION WITHIN THE RESEARCH AND DEVELOPMENT ORGANIZATION, V0, P0
+   Unknown -, 2014, BP STATISTICAL REVIEW OF WORLD ENERGY, V63rd, P0
+   Blau P, 1986, EXCHANGE POWER SOC, V0, P151
+   Chen H, 2017, CARBON CAPABILITY UR, V0, P87
+   Chen H, 2014, APPL ENERG, V116, P376, DOI 10.1016/j.apenergy.2013.11.027
+   Cowan R, 2004, TECHNOL FORECAST SOC, V71, P469, DOI 10.1016/s0040-1625(03)00045-3
+   Fan Zhiping, 2006, J MANAGE, V3, P371
+   Fawcett T, 2010, ENERG POLICY, V38, P6868, DOI 10.1016/j.enpol.2010.07.001
+   Fritsch M, 2010, ANN REGIONAL SCI, V44, P21, DOI 10.1007/s00168-008-0245-8
+   HARTER S, 1978, HUM DEV, V21, P34, DOI 10.1159/000271574
+   Harter S, 1981, ASPECTS DEV COMPETEN, V0, P0
+   Heinonen J, 2011, SUSTAINABILITY-BASEL, V3, P1234, DOI 10.3390/su3081234
+   Howell R, 2014, ENVIRON EDUC RES, V20, P434, DOI 10.1080/13504622.2013.836624
+   Hu Feng, 2006, JOURNAL OF THE CHINA SOCIETY FOR SCIENTIFIC AND TECHNICAL INFORMATION, V25, P109
+   Kim H, 2009, EXPERT SYST APPL, V36, P8986, DOI 10.1016/j.eswa.2008.11.039
+   Kollmuss A, 2002, ENVIRONMENTAL EDUCATION RESEARCH, V8, P239, DOI 10.1080/13504620220145401
+   Langevin J, 2013, APPL ENERG, V102, P1358, DOI 10.1016/j.apenergy.2012.07.003
+   Lenzen M, 2006, ENERGY, V31, P181, DOI 10.1016/j.energy.2005.01.009
+   Li L, 2015, INF SCI, V33, P13
+   Li WB, 2016, ENERG POLICY, V99, P33, DOI 10.1016/j.enpol.2016.09.050
+   Lorenzoni I, 2010, CARBON BUDGETS CARBO, V0, P0
+   Morone P, 2004, J EVOL ECON, V14, P327, DOI 10.1007/s00191-004-0211-2
+   Parag Y, 2008, P APPAM C NEXT DEC W, V0, P0
+   Pinakana SD, 2023, POLLUTANTS-BASEL, V3, P197, DOI 10.3390/pollutants3020015
+   Raux C, 2015, TRANSPORT RES D-TR E, V35, P72, DOI 10.1016/j.trd.2014.11.008
+   SCHEIN EH, 1975, ORGAN DYN, V4, P17, DOI 10.1016/0090-2616(75)90002-9
+   Shi Y, 2011, SOFT SCI, V25, P11
+   Wallace AA, 2010, CLIM POLICY, V10, P385, DOI 10.3763/cpol.2009.004
+   Wang Q, 2013, THESIS, V0, P0
+   Wang QW, 2012, APPL ENERG, V90, P161, DOI 10.1016/j.apenergy.2011.02.022
+   Wang ZH, 2015, ENERG ECON, V49, P380, DOI 10.1016/j.eneco.2015.03.009
+   Wang ZH, 2012, APPL ENERG, V100, P277, DOI 10.1016/j.apenergy.2012.05.038
+   Wei J, 2016, APPL ENERG, V173, P635, DOI 10.1016/j.apenergy.2016.04.068
+   Whitmarsh L, 2011, GLOBAL ENVIRON CHANG, V21, P56, DOI 10.1016/j.gloenvcha.2010.07.011
+   Wu X, 2017, CHINA ENERGY NEWS, V0, P4
+   Xie H, 2006, RES DEV MANAG, V4, P54
+   Xin J, 2015, EC MANAG, V8, P189
+   Yang RR, 2016, SUSTAINABILITY-BASEL, V8, P0, DOI 10.3390/su8040349
+   Yu SW, 2015, ENERG POLICY, V77, P46, DOI 10.1016/j.enpol.2014.11.035
+   Yu SW, 2012, APPL ENERG, V92, P552, DOI 10.1016/j.apenergy.2011.11.068
+   [赵定涛 Zhao Dingtao], 2013, 系统工程 SYSTEMS ENGINEERING, V31, P15
+NR 42
+TC 0
+Z9 1
+U1 2
+U2 30
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2071-1050
+EI 
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD JUN 15
+PY 2018
+VL 10
+IS 6
+BP 
+EP 
+DI 10.3390/su10061756
+PG 19
+WC Green & Sustainable Science & Technology; Environmental Sciences; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA GK9LE
+UT WOS:000436570100068
+DA 2025-11-06
+ER
+
+PT J
+AU Huseynov, S
+   Palma, MA
+AF Huseynov, Samir
+   Palma, Marco A.
+TI Does California's Low Carbon Fuel Standards reduce carbon dioxide emissions?
+SO PLOS ONE
+LA English
+DT Article
+ID synthetic control methods; hybrid electric vehicles; climate-change policy; financial-aid; united-states; program; inference; energy; efficiency; cost
+AB The Low Carbon Fuel Standards (LCFS) represents a new policy approach designed to reduce carbon dioxide emissions by applying standards to all stages of motor fuel production. We use the synthetic control and difference-in-differences econometric methods, and Lasso machine learning to analyze the effect of the LCFS on emissions in California's transportation sector. The three different techniques provide robust evidence that the LCFS reduced carbon dioxide emissions in California's transportation sector by around 10%. Furthermore, our calculations show that improved air quality, due to the application of the LCFS, may have benefited California in the magnitude of hundreds of millions of dollars through an increase in worker's productivity.
+C1 [Huseynov, Samir; Palma, Marco A.] Texas A&M Univ, Dept Agr Econ, College Stn, TX 77843 USA.
+C3 Texas A&M University System; Texas A&M University College Station
+RP Huseynov, S (corresponding author), Texas A&M Univ, Dept Agr Econ, College Stn, TX 77843 USA.
+EM samirhuseyn@tamu.edu
+CR Abadie A, 2003, AM ECON REV, V93, P113, DOI 10.1257/000282803321455188
+   Abadie A, 2014, STATISTICAL SOFTWARE COMPONENTS S457334, V0, Patent No. S457334
+   Abadie A, 2015, AM J POLIT SCI, V59, P495, DOI 10.1111/ajps.12116
+   Abadie A, 2010, J AM STAT ASSOC, V105, P493, DOI 10.1198/jasa.2009.ap08746
+   Adhikari B, 2016, SOUTH ECON J, V83, P437, DOI 10.1002/soej.12152
+   Al-Alawi BM, 2013, APPL ENERG, V103, P488, DOI 10.1016/j.apenergy.2012.10.009
+   Arcidiacono P, 2005, ECONOMETRICA, V73, P1477, DOI 10.1111/j.1468-0262.2005.00627.x
+   Axsen J, 2011, ENERG POLICY, V39, P1617, DOI 10.1016/j.enpol.2010.12.038
+   Belloni A, 2017, ECONOMETRICA, V85, P233, DOI 10.3982/ECTA12723
+   Belloni A, 2014, REV ECON STUD, V81, P608, DOI 10.1093/restud/rdt044
+   Beresteanu A, 2011, INT ECON REV, V52, P161, DOI 10.1111/j.1468-2354.2010.00623.x
+   Bohn S, 2014, REV ECON STAT, V96, P258, DOI 10.1162/REST_a_00429
+   Boies A, 2009, REDUCING MOTOR VEHIC, V0, P0
+   Bushnell J, 2014, ENERG POLICY, V64, P313, DOI 10.1016/j.enpol.2013.08.065
+   Bushnell J, 2012, RESOUR ENERGY ECON, V34, P647, DOI 10.1016/j.reseneeco.2012.05.008
+   CARB, 2014, CAL GREENH GAS EM IN, V0, P0
+   CARD D, 1994, AM ECON REV, V84, P772
+   Chatterji P, 2016, EARLY EFFECTS 2010 A, V0, P0
+   Conley TG, 2011, REV ECON STAT, V93, P113, DOI 10.1162/REST_a_00049
+   Cornwell C, 2006, J LABOR ECON, V24, P761, DOI 10.1086/506485
+   El-Houjeiri HM, 2012, OIL PRODUCTION GREENHOUSE GAS EMISSIONS ESTIMATOR (OPGEE), V0, P0
+   Farrell A, 2007, LOW CARBON FUEL STAN, V0, P0
+   Feng Y, 2005, VEHICLE CHOICES, V0, P0
+   Goulder LH, 2011, AM ECON REV, V101, P253, DOI 10.1257/aer.101.3.253
+   Green EH, 2014, ENERG POLICY, V65, P562, DOI 10.1016/j.enpol.2013.10.024
+   Heckman James J, 1999, HANDBOOK OF LABOR ECONOMICS, V3, P1865, DOI 10.1016/S1573-4463(99)03012-6
+   Hill J, 2016, ENERG POLICY, V97, P351, DOI 10.1016/j.enpol.2016.07.035
+   Hinrichs P, 2012, REV ECON STAT, V94, P712, DOI 10.1162/REST_a_00170
+   Holland SP, 2015, REV ECON STAT, V97, P1052, DOI 10.1162/REST_a_00452
+   Holland SP, 2009, AM ECON J-ECON POLIC, V1, P106, DOI 10.1257/pol.1.1.106
+   Huang HX, 2013, ENERG POLICY, V56, P5, DOI 10.1016/j.enpol.2012.06.002
+   Imbens GW, 2004, REV ECON STAT, V86, P4, DOI 10.1162/003465304323023651
+   Jones BA, 2018, J ENVIRON ECON MANAG, V88, P283, DOI 10.1016/j.jeem.2018.01.002
+   King G, 2006, POLIT ANAL, V14, P131, DOI 10.1093/pan/mpj004
+   Krupa JS, 2014, TRANSPORT RES A-POL, V64, P14, DOI 10.1016/j.tra.2014.02.019
+   Lade GE, 2013, A REPORT ON THE ECONOMICS OF CALIFORNIAS LOW CARBON FUEL STANDARD AND COST CONTAINMENT MECHANISMS, V0, P0
+   Lade GE, 2015, RES TRANSP ECON, V52, P91, DOI 10.1016/j.retrec.2015.10.009
+   Miller DL, 2016, HDB EMPIRICAL EC FIN, V0, P16
+   Montalvo JG, 2011, REV ECON STAT, V93, P1146, DOI 10.1162/REST_a_00115
+   Sperling D, 2010, TRANSPORT POLICY, V17, P47, DOI 10.1016/j.tranpol.2009.08.009
+   Tilman D, 2009, SCIENCE, V325, P270, DOI 10.1126/science.1177970
+   West SE, 2005, AM ECON REV, V95, P294, DOI 10.1257/000282805774669673
+   Yang C, 2015, ENERG POLICY, V77, P118, DOI 10.1016/j.enpol.2014.12.006
+   Yeh S, 2015, STATUS REVIEW OF CALIFORNIAS LOW CARBON FUEL STANDARD, V0, P0
+   Yeh S, 2016, ENERG POLICY, V97, P220, DOI 10.1016/j.enpol.2016.07.029
+   Yeh S, 2010, ENERG POLICY, V38, P6955, DOI 10.1016/j.enpol.2010.07.012
+   Zivin JG, 2012, AM ECON REV, V102, P3652, DOI 10.1257/aer.102.7.3652
+NR 47
+TC 12
+Z9 13
+U1 1
+U2 38
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+EI 
+J9 PLOS ONE
+JI PLoS One
+PD SEP 17
+PY 2018
+VL 13
+IS 9
+BP 
+EP 
+DI 10.1371/journal.pone.0203167
+PG 21
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GT8SG
+UT WOS:000444809400010
+PM 30222776
+DA 2025-11-06
+ER
+
+PT J
+AU Zimmerman, N
+   Presto, AA
+   Kumar, SPN
+   Gu, J
+   Hauryliuk, A
+   Robinson, ES
+   Robinson, AL
+   Subramanian, R
+AF Zimmerman, Naomi
+   Presto, Albert A.
+   Kumar, Sriniwasa P. N.
+   Gu, Jason
+   Hauryliuk, Aliaksei
+   Robinson, Ellis S.
+   Robinson, Allen L.
+   Subramanian, R.
+TI A machine learning calibration model using random forests to improve sensor performance for lower-cost air quality monitoring
+SO ATMOSPHERIC MEASUREMENT TECHNIQUES
+LA English
+DT Article
+ID field calibration; electrochemical sensors; available sensors; pollution; ozone; quantification; environment; cluster; part
+AB Low-cost sensing strategies hold the promise of denser air quality monitoring networks, which could significantly improve our understanding of personal air pollution exposure. Additionally, low-cost air quality sensors could be deployed to areas where limited monitoring exists. However, low-cost sensors are frequently sensitive to environmental conditions and pollutant cross-sensitivities, which have historically been poorly addressed by laboratory calibrations, limiting their utility for monitoring. In this study, we investigated different calibration models for the Real-time Affordable Multi-Pollutant (RAMP) sensor package, which measures CO, NO2, O-3, and CO2. We explored three methods: (1) laboratory univariate linear regression, (2) empirical multiple linear regression, and (3) machine-learning-based calibration models using random forests (RF). Calibration models were developed for 16-19 RAMP monitors (varied by pollutant) using training and testing windows spanning August 2016 through February 2017 in Pittsburgh, PA, US. The random forest models matched (CO) or significantly outperformed (NO2, CO2, O-3) the other calibration models, and their accuracy and precision were robust over time for testing windows of up to 16 weeks. Following calibration, average mean absolute error on the testing data set from the random forest models was 38 ppb for CO (14% relative error), 10 ppm for CO2 (2% relative error), 3.5 ppb for NO2 (29% relative error), and 3.4 ppb for O-3 (15% relative error), and Pearson r versus the reference monitors exceeded 0.8 for most units. Model performance is explored in detail, including a quantification of model variable importance, accuracy across different concentration ranges, and performance in a range of monitoring contexts including the National Ambient Air Quality Standards (NAAQS) and the US EPA Air Sensors Guidebook recommendations of minimum data quality for personal exposure measurement. A key strength of the RF approach is that it accounts for pollutant cross-sensitivities. This highlights the importance of developing multipollutant sensor packages (as opposed to single-pollutant monitors); we determined this is especially critical for NO2 and CO2. The evaluation reveals that only the RF-calibrated sensors meet the US EPA Air Sensors Guidebook recommendations of minimum data quality for personal exposure measurement. We also demonstrate that the RF-model-calibrated sensors could detect differences in NO2 concentrations between a near-road site and a suburban site less than 1.5 km away. From this study, we conclude that combining RF models with carefully controlled state-of-the-art multipollutant sensor packages as in the RAMP monitors appears to be a very promising approach to address the poor performance that has plagued low-cost air quality sensors.
+C1 [Zimmerman, Naomi; Presto, Albert A.; Kumar, Sriniwasa P. N.; Hauryliuk, Aliaksei; Robinson, Ellis S.; Robinson, Allen L.; Subramanian, R.] Carnegie Mellon Univ, Ctr Atmospher Particle Studies, Pittsburgh, PA 15213 USA.
+   [Gu, Jason] Sensevere LLC, Pittsburgh, PA 15222 USA.
+C3 Carnegie Mellon University
+RP Subramanian, R (corresponding author), Carnegie Mellon Univ, Ctr Atmospher Particle Studies, Pittsburgh, PA 15213 USA.
+EM subu@cmu.edu
+FU Environmental Protection Agency [RD83587301, 83628601]; Heinz Endowment Fund [E2375, E3145]; NSERC Postdoctoral Fellowship [PDF-487660-2016]
+CR Unknown -, 2016, AIR QUALITY ENGLAND, V0, P1
+   Bart M, 2014, ENVIRON SCI TECHNOL, V48, P3970, DOI 10.1021/es404610t
+   Borrego C, 2016, ATMOS ENVIRON, V147, P246, DOI 10.1016/j.atmosenv.2016.09.050
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Castell N, 2017, ENVIRON INT, V99, P293, DOI 10.1016/j.envint.2016.12.007
+   Cross ES, 2017, ATMOS MEAS TECH, V10, P3575, DOI 10.5194/amt-10-3575-2017
+   de Nazelle A, 2009, SCI TOTAL ENVIRON, V407, P2525, DOI 10.1016/j.scitotenv.2009.01.006
+   De Vito S, 2008, SENSOR ACTUAT B-CHEM, V129, P750, DOI 10.1016/j.snb.2007.09.060
+   De Vito S, 2009, SENSOR ACTUAT B-CHEM, V143, P182, DOI 10.1016/j.snb.2009.08.041
+   Delgado-Saborit JM, 2012, J ENVIRON MONITOR, V14, P1824, DOI 10.1039/c2em10996d
+   Duvall RM, 2016, SENSORS-BASEL, V16, P0, DOI 10.3390/s16101698
+   Esposito E, 2016, SENSOR ACTUAT B-CHEM, V231, P701, DOI 10.1016/j.snb.2016.03.038
+   Hagan DH, 2017, ATMOS MEAS TECH DISC, V0, P0
+   Hitchman ML, 1997, ANALYST, V122, P1411, DOI 10.1039/a703644b
+   Jiao W, 2016, ATMOS MEAS TECH, V9, P5281, DOI 10.5194/amt-9-5281-2016
+   Jolliff JK, 2009, J MARINE SYST, V76, P64, DOI 10.1016/j.jmarsys.2008.05.014
+   Kuhn M, 2020, CARET CLASSIFICATION, V0, P0
+   Lamigueiro OPerpinan, 2015, TDR TARGET DIAGRAM, V0, P0
+   Lewis A, 2016, NATURE, V535, P29, DOI 10.1038/535029a
+   Marshall JD, 2008, ATMOS ENVIRON, V42, P1359, DOI 10.1016/j.atmosenv.2007.08.012
+   Massachusetts Department of Environmental Protection, 2016, MASS 2015 AIR QUAL R, V0, P0
+   Masson N, 2015, SENSOR ACTUAT B-CHEM, V208, P339, DOI 10.1016/j.snb.2014.11.032
+   Masson N, 2015, SENSORS-BASEL, V15, P27283, DOI 10.3390/s151027283
+   Mayumi Oshiro Thais, 2012, MACHINE LEARNING AND DATA MINING IN PATTERN RECOGNITION. PROCEEDINGS 8TH INTERNATIONAL CONFERENCE, V0, P154, DOI 10.1007/978-3-642-31537-4_13
+   McKercher GR, 2017, ENVIRON POLLUT, V223, P102, DOI 10.1016/j.envpol.2016.12.045
+   Mead MI, 2013, ATMOS ENVIRON, V70, P186, DOI 10.1016/j.atmosenv.2012.11.060
+   Moltchanov S, 2015, SCI TOTAL ENVIRON, V502, P537, DOI 10.1016/j.scitotenv.2014.09.059
+   Pang XB, 2017, SENSOR ACTUAT B-CHEM, V240, P829, DOI 10.1016/j.snb.2016.09.020
+   Piedrahita R, 2014, ATMOS MEAS TECH, V7, P3325, DOI 10.5194/amt-7-3325-2014
+   Pugh TAM, 2012, ENVIRON SCI TECHNOL, V46, P7692, DOI 10.1021/es300826w
+   Snyder EG, 2013, ENVIRON SCI TECHNOL, V47, P11369, DOI 10.1021/es4022602
+   Spinelle L, 2013, EUR COMM JRC TECHICA, V0, P0
+   Spinelle L, 2017, SENSOR ACTUAT B-CHEM, V238, P706, DOI 10.1016/j.snb.2016.07.036
+   Spinelle L, 2015, SENSOR ACTUAT B-CHEM, V215, P249, DOI 10.1016/j.snb.2015.03.031
+   Strobl C, 2008, BMC BIOINFORMATICS, V9, P0, DOI 10.1186/1471-2105-9-307
+   Tan Y, 2014, ENVIRON SCI TECHNOL, V48, P14186, DOI 10.1021/es5034074
+   United States Environmental Protection Agency, 2014, QA HDB, VII, P5
+   Williams DE, 2013, MEAS SCI TECHNOL, V24, P0, DOI 10.1088/0957-0233/24/6/065803
+   Williams R, 2014, REPORT NO.: EPA/600/R-14/159 (NTIS PB2015-100610), V0, P0
+   Zhou Y, 2007, BMC PUBLIC HEALTH, V7, P0, DOI 10.1186/1471-2458-7-89
+   Zimmerman N, 2018, MACHINE LEARNING CAL, V0, P0
+NR 42
+TC 376
+Z9 435
+U1 6
+U2 206
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1867-1381
+EI 1867-8548
+J9 ATMOS MEAS TECH
+JI Atmos. Meas. Tech.
+PD JAN 15
+PY 2018
+VL 11
+IS 1
+BP 291
+EP 313
+DI 10.5194/amt-11-291-2018
+PG 23
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA FS7PA
+UT WOS:000419988700002
+DA 2025-11-06
+ER
+

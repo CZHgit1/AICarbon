@@ -1,0 +1,353 @@
+PT J
+AU Tavares, RLM
+   Oliveira, SRD
+   de Barros, FMM
+   Farhate, CVV
+   de Souza, ZM
+   La Scala, N
+AF Moraes Tavares, Rose Luiza
+   de Medeiros Oliveira, Stanley Robson
+   Martins de Barros, Flavio Margarito
+   Vieira Farhate, Camila Viana
+   de Souza, Zigomar Menezes
+   La Scala Junior, Newton
+TI Prediction of soil CO2 flux in sugarcane management systems using the Random Forest approach
+SO SCIENTIA AGRICOLA
+LA English
+DT Article
+DE Saccharum officinarum; soil respiration; green sugarcane; clay
+ID temporal variations; spatial variation; organic-matter; rain-forest; no-till; carbon; respiration; efflux; plantation; emission
+AB The Random Forest algorithm is a data mining technique used for classifying attributes in order of importance to explain the variation in an attribute-target, as soil CO2 flux. This study aimed to identify prediction of soil CO2 flux variables in management systems of sugarcane through the machine-learning algorithm called Random Forest. Two different management areas of sugarcane in the state of Sao Paulo, Brazil, were selected: burned and green. In each area, we assembled a sampling grid with 81 georeferenced points to assess soil CO2 flux through automated portable soil gas chamber with measuring spectroscopy in the infrared during the dry season of 2011 and the rainy season of 2012. In addition, we sampled the soil to evaluate physical, chemical, and microbiological attributes. For data interpretation, we used the Random Forest algorithm, based on the combination of predicted decision trees (machine learning algorithms) in which every tree depends on the values of a random vector sampled independently with the same distribution to all the trees of the forest. The results indicated that clay content in the soil was the most important attribute to explain the CO2 flux in the areas studied during the evaluated period. The use of the Random Forest algorithm originated a model with a good fit (R-2 = 0.80) for predicted and observed values.
+C1 [Moraes Tavares, Rose Luiza] Univ Rio Verde, ESUCARV, CP 104, BR-75901970 Rio Verde, Go, Brazil.
+   [de Medeiros Oliveira, Stanley Robson] Embrapa Agr Informat, Artificial Intelligence Lab, Av Andre Tosello 209, BR-13083886 Campinas, SP, Brazil.
+   [Martins de Barros, Flavio Margarito; Vieira Farhate, Camila Viana; de Souza, Zigomar Menezes] Univ Estadual Campinas, FEAGRI, Av Candido Rondon 501, BR-13083875 Campinas, SP, Brazil.
+   [La Scala Junior, Newton] Sao Paulo State Univ, FCAV, Dept Exact Sci, Via Acesso Prof Paulo Donato Castellane S-N, BR-14884900 Jaboticabal, SP, Brazil.
+C3 Universidade de Rio Verde Universidade Fesurv; Empresa Brasileira de Pesquisa Agropecuaria (EMBRAPA); Universidade Estadual de Campinas; Universidade Estadual Paulista
+RP Tavares, RLM (corresponding author), Univ Rio Verde, ESUCARV, CP 104, BR-75901970 Rio Verde, Go, Brazil.
+EM roseluiza@unirv.edu.br
+CR Alvenas G, 1997, AGR FOREST METEOROL, V88, P47, DOI 10.1016/S0168-1923(97)00052-X
+   Ball BA, 2015, ANTARCT SCI, V27, P527, DOI 10.1017/S0954102015000255
+   Bicalho ES, 2014, AGR ECOSYST ENVIRON, V189, P206, DOI 10.1016/j.agee.2014.03.043
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Brito LD, 2009, SCI AGR, V66, P77, DOI 10.1590/S0103-90162009000100011
+   Cerri CC, 2011, EUR J SOIL SCI, V62, P23, DOI 10.1111/j.1365-2389.2010.01315.x
+   Cerri CEP, 2007, SCI AGR, V64, P83, DOI 10.1590/S0103-90162007000100013
+   De Figueiredo EB, 2011, AGR ECOSYST ENVIRON, V141, P77, DOI 10.1016/j.agee.2011.02.014
+   EDWARDS AP, 1967, J SOIL SCI, V18, P64, DOI 10.1111/j.1365-2389.1967.tb01488.x
+   ELLIOTT ET, 1986, SOIL SCI SOC AM J, V50, P627, DOI 10.2136/sssaj1986.03615995005000030017x
+   Empresa Brasileira de Pesquisa Agropecuaria [Embrapa], 2011, MAN AN SOL, V0, P0
+   Epron D, 2004, FOREST ECOL MANAG, V202, P149, DOI 10.1016/j.foreco.2004.07.019
+   Epron D, 2006, J TROP ECOL, V22, P565, DOI 10.1017/S0266467406003415
+   Fang C, 1998, PLANT SOIL, V205, P135, DOI 10.1023/A:1004304309827
+   Friedman Jerome, 2001, THE ELEMENTS OF STATISTICAL LEARNING, V1, P0
+   Grimm R, 2008, GEODERMA, V146, P102, DOI 10.1016/j.geoderma.2008.05.008
+   Han J, 2012, MOR KAUF D, V0, P1
+   JENKINSON DS, 1976, SOIL BIOL BIOCHEM, V8, P167, DOI 10.1016/0038-0717(76)90001-8
+   Kemper WD, 1965, METHODS OF SOIL ANALYSIS, V9th, P499, DOI 10.2134/AGRONMONOGR9.1.C39
+   Kosugi Y, 2007, AGR FOREST METEOROL, V147, P35, DOI 10.1016/j.agrformet.2007.06.005
+   La Scala N, 2010, POLAR SCI, V4, P479, DOI 10.1016/j.polar.2010.07.001
+   Lenka NK, 2013, SOIL TILL RES, V126, P78, DOI 10.1016/j.still.2012.08.011
+   Carbonell-Bojollo RM, 2012, WATER AIR SOIL POLL, V223, P3425, DOI 10.1007/s11270-012-1121-9
+   Medeiros JC, 2011, PLANT SOIL, V338, P5, DOI 10.1007/s11104-010-0420-4
+   Tavares RLM, 2016, SCI AGR, V73, P543, DOI 10.1590/0103-9016-2015-0174
+   Tavares RLM, 2016, REV BRAS CIENC SOLO, V40, P0, DOI 10.1590/18069657rbcs20150252
+   Tavares RLM, 2015, ACTA AGR SCAND B-S P, V65, P755, DOI 10.1080/09064710.2015.1061048
+   Nelson DW, 1996, TOTAL CARBON, V0, P0, DOI 10.2136/SSSABOOKSER5.3.C34
+   NORDGREN A, 1992, BIOL FERT SOILS, V13, P195, DOI 10.1007/BF00340575
+   Panosso AR, 2009, SOIL TILL RES, V105, P275, DOI 10.1016/j.still.2009.09.008
+   de Castro SGQ, 2014, REV BRAS CIENC SOLO, V38, P299, DOI 10.1590/S0100-06832014000100030
+   Raij B, 2001, CHEMICAL ANALYSIS TO EVALUATE FERTILITY OF TROPICAL SOILS, V0, P0
+   Rodriguez-Galiano VF, 2012, ISPRS J PHOTOGRAMM, V67, P93, DOI 10.1016/j.isprsjprs.2011.11.002
+   Rolim Glauco de Souza, 2007, BRAGANTIA, V66, P711
+   Santanna SAC, 2009, PEDOSPHERE, V19, P312, DOI 10.1016/S1002-0160(09)60122-3
+   Schwendenmann L, 2003, BIOGEOCHEMISTRY, V64, P111, DOI 10.1023/A:1024941614919
+   Silver WL, 2000, ECOSYSTEMS, V3, P193, DOI 10.1007/s100210000019
+   Six J, 2000, SOIL SCI SOC AM J, V64, P1042, DOI 10.2136/sssaj2000.6431042x
+   Stolf R, 1991, REV. BRAS. CIENCIA SOLO, V2, P229
+   Tate RL, 1995, SOIL MICROBIOLOGY, V0, P359
+   TISDALL JM, 1982, J SOIL SCI, V33, P141, DOI 10.1111/j.1365-2389.1982.tb01755.x
+   Xu M, 2001, GLOBAL CHANGE BIOL, V7, P667, DOI 10.1046/j.1354-1013.2001.00435.x
+NR 42
+TC 18
+Z9 19
+U1 2
+U2 72
+PU UNIV SAO PAULO, ESALQ
+PI PIRACICABA
+PA AVE PADUA DIAS NO 11, PIRACICABA, SP SP 13418-900, BRAZIL
+SN 1678-992X
+EI 
+J9 SCI AGR
+JI Sci. Agric.
+PD JUL-AUG 15
+PY 2018
+VL 75
+IS 4
+BP 281
+EP 287
+DI 10.1590/1678-992X-2017-0095
+PG 7
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA GA8BX
+UT WOS:000428564200002
+DA 2025-11-06
+ER
+
+PT J
+AU Mason, K
+   Duggan, J
+   Howley, E
+AF Mason, Karl
+   Duggan, Jim
+   Howley, Enda
+TI Forecasting energy demand, wind generation and carbon dioxide emissions in Ireland using evolutionary neural networks
+SO ENERGY
+LA English
+DT Article
+DE Wind power generation; Power demand; CO2; Forecasting; Neural networks; Covariance matrix adaptation evolutionary; strategy
+ID particle swarm optimization; differential evolution; co2 emissions; economic-dispatch; wavelet transform; climate-change; model; consumption; speed; feedforward
+AB The ability to accurately predict future power demands, power available from renewable resources and the environmental impact of power generation is vital to the energy sector for the purposes of planning, scheduling and policy making. Machine learning techniques, neural networks in particular, have proven to be very effective methods for addressing these challenging forecasting problems. This research utilizes the powerful evolutionary optimisation algorithm, covariance matrix adaptation evolutionary strategy, as a means of training neural networks to predict short term power demand, wind power generation and carbon dioxide intensity levels in Ireland over a two month period. The network is trained over one month and then tested over the following month. A neural network trained with covariance matrix adaptation evolutionary strategy performs very competitively when compared to other state of the art prediction methods when forecasting Ireland's energy needs, providing fast convergence, more accurate predictions and robust performance. The covariance matrix adaptation evolutionary strategy trained network also gives accurate predictions when predicting multiple time steps into the future. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Mason, Karl; Duggan, Jim; Howley, Enda] Natl Univ Ireland, Discipline Informat Technol, Galway, Ireland.
+C3 Ollscoil na Gaillimhe-University of Galway
+RP Mason, K (corresponding author), Natl Univ Ireland, Discipline Informat Technol, Galway, Ireland.
+EM k.mason2@nuigalway.ie
+CR Al-Yahyai S, 2010, RENEW SUST ENERG REV, V14, P3192, DOI 10.1016/j.rser.2010.07.001
+   Unknown -, 2013, 15 ANN C COMP GEN EV, V0, P0, DOI DOI 10.1145/2464576
+   Unknown -, 2004, THESIS U COLL CORK, V0, P0
+   Unknown -, 2008, CLIMATE CHANGE 2007, V0, P0
+   Azadeh A, 2008, ENERG POLICY, V36, P2637, DOI 10.1016/j.enpol.2008.02.035
+   Bahrami S, 2014, ENERGY, V72, P434, DOI 10.1016/j.energy.2014.05.065
+   Bai Y, 2016, ATMOS POLLUT RES, V7, P557, DOI 10.1016/j.apr.2016.01.004
+   Bashir ZA, 2009, IEEE T POWER SYST, V24, P20, DOI 10.1109/TPWRS.2008.2008606
+   Bhaskar K, 2012, IEEE T SUSTAIN ENERG, V3, P306, DOI 10.1109/TSTE.2011.2182215
+   Biancofiore F, 2015, SCI TOTAL ENVIRON, V514, P379, DOI 10.1016/j.scitotenv.2015.01.106
+   Boroojeni KG, 2017, ELECTR POW SYST RES, V142, P58, DOI 10.1016/j.epsr.2016.08.031
+   Catalao JPS, 2011, IEEE T SUSTAIN ENERG, V2, P50, DOI 10.1109/TSTE.2010.2076359
+   Chang GW, 2017, RENEW ENERG, V105, P301, DOI 10.1016/j.renene.2016.12.071
+   Chen JF, 1995, ELECTR POW SYST RES, V34, P187, DOI 10.1016/0378-7796(95)00977-1
+   Ekonomou L, 2010, ENERGY, V35, P512, DOI 10.1016/j.energy.2009.10.018
+   Foley AM, 2012, RENEW ENERG, V37, P1, DOI 10.1016/j.renene.2011.05.033
+   Ganesan P, 2015, ENERGY, V83, P115, DOI 10.1016/j.energy.2015.02.094
+   Geem ZW, 2009, ENERG POLICY, V37, P4049, DOI 10.1016/j.enpol.2009.04.049
+   Hansen N, 2001, EVOL COMPUT, V9, P159, DOI 10.1162/106365601750190398
+   Hetzer J, 2008, IEEE T ENERGY CONVER, V23, P603, DOI 10.1109/TEC.2007.914171
+   Holland JH, 1973, SIAM JOURNAL ON COMPUTING, V2, P88, DOI 10.1137/0202009
+   Hughes TP, 2003, SCIENCE, V301, P929, DOI 10.1126/science.1085046
+   Igel C, 2003, IEEE C EVOL COMPUTAT, V0, P2588
+   Jiang ZH, 2015, IEEE T ANTENN PROPAG, V63, P3808, DOI 10.1109/TAP.2015.2452942
+   Kaboli SHA, 2016, ENERGY, V115, P857, DOI 10.1016/j.energy.2016.09.015
+   Kämpf JH, 2009, APPL SOFT COMPUT, V9, P738, DOI 10.1016/j.asoc.2008.09.009
+   Kaytez F, 2015, INT J ELEC POWER, V67, P431, DOI 10.1016/j.ijepes.2014.12.036
+   Kennedy J, 1995, 1995 IEEE INTERNATIONAL CONFERENCE ON NEURAL NETWORKS PROCEEDINGS, VOLS 1-6, P1942, DOI 10.1109/icnn.1995.488968
+   Kermanshahi B, 1998, NEUROCOMPUTING, V23, P125, DOI 10.1016/S0925-2312(98)00073-3
+   Khashei M, 2012, SOFT COMPUT, V16, P1091, DOI 10.1007/s00500-012-0805-9
+   Kialashaki A, 2013, APPL ENERG, V108, P271, DOI 10.1016/j.apenergy.2013.03.034
+   Krzywanski J, 2015, FUEL PROCESS TECHNOL, V139, P73, DOI 10.1016/j.fuproc.2015.08.009
+   Mason K, 2017, PROCEEDINGS OF THE 2017 GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE COMPANION (GECCO17 COMPANION), V0, PP1287, DOI 10.1145/3067695.3082480
+   Mason K, 2018, INT J ELEC POWER, V100, P201, DOI 10.1016/j.ijepes.2018.02.021
+   Mason K, 2018, APPL SOFT COMPUT, V62, P148, DOI 10.1016/j.asoc.2017.10.018
+   Mason K, 2017, NEUROCOMPUTING, V270, P188, DOI 10.1016/j.neucom.2017.03.086
+   Men ZX, 2016, RENEW ENERG, V87, P203, DOI 10.1016/j.renene.2015.10.014
+   Mertz O, 2009, ENVIRON MANAGE, V43, P743, DOI 10.1007/s00267-008-9259-3
+   Meyyappan U, 2015, ELECTR POW COMPO SYS, V43, P1467, DOI 10.1080/15325008.2015.1043600
+   Montgomery DC, 2012, INTRODUCTION TO LINEAR REGRESSION ANALYSIS, V821, P0
+   Osório GJ, 2015, ENERGY, V82, P949, DOI 10.1016/j.energy.2015.01.104
+   Osório GJ, 2015, RENEW ENERG, V75, P301, DOI 10.1016/j.renene.2014.09.058
+   Özceylan E, 2016, INT J GLOBAL WARM, V9, P337, DOI 10.1504/IJGW.2016.075450
+   Pao HT, 2009, ENERGY, V34, P1438, DOI 10.1016/j.energy.2009.04.026
+   Pao HT, 2011, ENERGY, V36, P2450, DOI 10.1016/j.energy.2011.01.032
+   Raza MQ, 2015, RENEW SUST ENERG REV, V50, P1352, DOI 10.1016/j.rser.2015.04.065
+   Raza MuhammadQamar, 2013, RESEARCH JOURNAL OF APPLIED SCIENCES, V0, P0
+   Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003
+   Selakov A, 2014, APPL SOFT COMPUT, V16, P80, DOI 10.1016/j.asoc.2013.12.001
+   Shir OF, 2005, ARTIFICIAL EVOLUTION. 7TH INTERNATIONAL CONFERENCE, V0, P0
+   Stamenkovic LJ, 2017, AIR QUAL ATMOS HLTH, V10, P15, DOI 10.1007/s11869-016-0403-6
+   Storn R, 1997, J GLOBAL OPTIM, V11, P341, DOI 10.1023/A:1008202821328
+   Thomas CD, 2004, NATURE, V427, P145, DOI 10.1038/nature02121
+   Welch RL, 2009, IEEE IJCNN, V0, P3141
+   Wu LF, 2015, ENERGY, V79, P489, DOI 10.1016/j.energy.2014.11.052
+   Yang Y, 2016, APPL SOFT COMPUT, V49, P663, DOI 10.1016/j.asoc.2016.07.053
+   Ye H, 2018, RESOUR CONSERV RECY, V129, P168, DOI 10.1016/j.resconrec.2017.10.020
+NR 65
+TC 106
+Z9 121
+U1 3
+U2 84
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD JUL 15
+PY 2018
+VL 155
+IS 
+BP 705
+EP 720
+DI 10.1016/j.energy.2018.04.192
+PG 16
+WC Thermodynamics; Energy & Fuels
+SC Thermodynamics; Energy & Fuels
+GA GU5CQ
+UT WOS:000445303100059
+DA 2025-11-06
+ER
+
+PT J
+AU Moon, TW
+   Jung, DH
+   Chang, SH
+   Son, JE
+AF Moon, Tae Won
+   Jung, Dae Ho
+   Chang, Se Hong
+   Son, Jung Eek
+TI Estimation of greenhouse CO2 concentration via an artificial neural network that uses environmental factors
+SO HORTICULTURE ENVIRONMENT AND BIOTECHNOLOGY
+LA English
+DT Article
+DE Black box modeling; Machine learning; Mango; Solar radiation; Temperature
+ID prediction
+AB In order to improve photosynthesis efficiency and crop growth, it is important to predict CO2 concentration as well as CO2 consumption in greenhouses. The objective of this study was to predict greenhouse CO2 concentration via an artificial neural network (ANN) that incorporated environmental factors. Temperature, relative humidity, atmospheric pressure, solar radiation, and CO2 concentration were measured every 10 min over a 6-month period in a greenhouse located in Boryeong, Korea. Measured environmental data were used to train the ANN. Among the 14,866 data points used in the experiment, 10,000 and 4866 data points were used for training and testing, respectively. An ANN with an input layer with input neurons, two hidden layers with 32-2048 neurons, and an output later with one neuron was selected. A rectified linear unit was used as the activation function in each node of the ANN. An ANN structure that included 256 neurons in the hidden layers showed the highest test accuracy (R-2 = 0.97) was selected from all the structures, while multivariate linear regression showed lower test accuracy than the ANN (R-2 = 0.78). The ANN accurately estimated CO2 concentration in the greenhouse using big data for changing patterns of the inside environmental factors without vent position data. Furthermore, it is possible to estimate crop CO2 consumption in greenhouses with this ANN using the change in greenhouse CO2 concentration.
+C1 [Moon, Tae Won; Jung, Dae Ho; Son, Jung Eek] Seoul Natl Univ, Dept Plant Sci, Seoul 08826, South Korea.
+   [Moon, Tae Won; Jung, Dae Ho; Son, Jung Eek] Seoul Natl Univ, Res Inst Agr & Life Sci, Seoul 08826, South Korea.
+   [Chang, Se Hong] Korea Elect Technol Inst, Seongnam 13509, South Korea.
+C3 Seoul National University (SNU); Seoul National University (SNU)
+RP Son, JE (corresponding author), Seoul Natl Univ, Dept Plant Sci, Seoul 08826, South Korea.; Son, JE (corresponding author), Seoul Natl Univ, Res Inst Agr & Life Sci, Seoul 08826, South Korea.
+EM sjeenv@snu.ac.kr
+FU Ministry of Trade, Industry and Energy, the Republic of Korea [20142020103570]
+CR Beltramo T, 2016, BIOSYST ENG, V143, P68, DOI 10.1016/j.biosystemseng.2016.01.006
+   Cha MK, 2016, KOREAN J HORTIC SCI, V34, P860, DOI 10.12972/kjhst.20160090
+   CRITTEN DL, 1991, J AGR ENG RES, V48, P261, DOI 10.1016/0021-8634(91)80020-F
+   Cuce E, 2016, RENEW SUST ENERG REV, V64, P34, DOI 10.1016/j.rser.2016.05.077
+   Ehret DL, 2001, AGRONOMIE, V21, P403, DOI 10.1051/agro:2001133
+   FERNANDEZ JE, 1992, AGR FOREST METEOROL, V58, P229, DOI 10.1016/0168-1923(92)90063-A
+   Guo ShiRong Guo ShiRong, 2012, CHINA VEGETABLES, V0, P1
+   Kingma DiederikP, 2014, ACS SYM SER, V1050, P1, DOI 10.48550/ARXIV.1312.6114
+   Linker R, 1998, COMPUT ELECTRON AGR, V19, P289, DOI 10.1016/S0168-1699(98)00008-8
+   López G, 2001, AGR FOREST METEOROL, V107, P279, DOI 10.1016/S0168-1923(01)00217-9
+   MCMURTRIE RE, 1993, PLANT CELL ENVIRON, V16, P1, DOI 10.1111/j.1365-3040.1993.tb00839.x
+   Min J, 2012, AGR WATER MANAGE, V111, P53, DOI 10.1016/j.agwat.2012.05.003
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Sonneveld C, 2004, J PLANT NUTR, V27, P1931, DOI 10.1081/PLN-200030053
+   TETKO IV, 1995, J CHEM INF COMP SCI, V35, P826, DOI 10.1021/ci00027a006
+   Trejo-Perea M, 2009, INT J AGRIC BIOL, V11, P1
+   Vaidyanathan S, 2015, INT J PHARMTECH RES, V8, P632
+   Wang T, 2016, IEEE T NEUR NET LEAR, V27, P416, DOI 10.1109/TNNLS.2015.2411671
+   Yu HH, 2016, COMPUT ELECTRON AGR, V122, P94, DOI 10.1016/j.compag.2016.01.019
+NR 19
+TC 23
+Z9 29
+U1 0
+U2 28
+PU KOREAN SOC HORTICULTURAL SCIENCE
+PI JEOLLABUK-DO
+PA C/O NATL INST HORTICULTURAL & HERBAL SCIENCE, 100, NONGSAENGMYEONG-RO, ISEO-MYEON, WANJU-GUN, JEOLLABUK-DO, 565-852, SOUTH KOREA
+SN 2211-3452
+EI 2211-3460
+J9 HORTIC ENVIRON BIOTE
+JI Hortic. Environ. Biotechnol.
+PD FEB 15
+PY 2018
+VL 59
+IS 1
+BP 45
+EP 50
+DI 10.1007/s13580-018-0015-1
+PG 6
+WC Horticulture
+SC Agriculture
+GA FX9XK
+UT WOS:000426464100006
+DA 2025-11-06
+ER
+
+PT J
+AU Ferreiro-Cabello, J
+   Fraile-Garcia, E
+   Ascacibar, EMD
+   Martinez-de-Pison, FJ
+AF Ferreiro-Cabello, Javier
+   Fraile-Garcia, Esteban
+   de Pison Ascacibar, Eduardo Martinez
+   Martinez-de-Pison, F. J.
+TI Metamodel-based design optimization of structural one-way slabs based on deep learning neural networks to reduce environmental impact
+SO ENGINEERING STRUCTURES
+LA English
+DT Article
+DE One-way slab; Deep learning; Multicriteria optimization; Metamodel; Structures; Reinforced concrete
+ID reinforced-concrete structures; compressive strength; cost optimization; optimum design; floor system; prediction; co2-optimization; energy; co2
+AB This article presents a methodology for the construction and use of metamodels with Deep Learning (DL) methods that are useful for making multi-criteria decisions in the design and optimization of one-way slabs. The main motivation behind this research has been to examine the possibilities of improving slab design by including this methodology in future tools, which is capable of calculating thousands of solutions in real time based on the designer's specifications. The process of creating these metamodels begins by developing a database of millions of combinations of slab designs. These combinations are calculated with a heuristic algorithm that provides the following results: rigidity, deflection, cost per square meter, CO2 emissions and embodied energy. Once a database including the entire universe of possible solutions has been created, a metamodel is developed that is capable of "condensing" the implicit knowledge contained in the database. This metamodel is included within a Decision Support System (DSS) that produces thousands of solutions for slabs that all comply with a range of specifications designated by the design plan. Furthermore, the methodology described herein proposes the use of Pareto-optimal solutions and graphic tools to help designers make multi-criteria decisions regarding the solutions that best fit their needs. A case study is presented to illustrate this proposal: optimizing slab design in two buildings according to technical, economic and sustainability criteria. The results indicate that the multi-criteria solutions obtained would entail a significant reduction in both emissions and embodied energy as compared to mono-criteria solutions, without significantly increasing costs.
+C1 [Ferreiro-Cabello, Javier; Fraile-Garcia, Esteban; de Pison Ascacibar, Eduardo Martinez] Univ La Rioja, Dept Mech Engn, SCoDIP Grp, Logrono, Spain.
+   [Martinez-de-Pison, F. J.] Univ La Rioja, Dept Mech Engn, Edmans Grp, Logrono, Spain.
+C3 Universidad de La Rioja; Universidad de La Rioja
+RP Ferreiro-Cabello, J (corresponding author), Univ La Rioja, Dept Mech Engn, C San Jose Calasanz 31, Logrono 26004, Spain.
+EM javier.ferreiro@unirioja.es; esteban.fraile@unirioja.es; eduardo.mtnezdepison@unirioja.es; fjmartin@unirioja.es
+CR Unknown -, 2008, COD STRUCT CONCR SPA, V0, P0
+   Bal L, 2014, NEURAL COMPUT APPL, V25, P1359, DOI 10.1007/s00521-014-1623-z
+   Camp CV, 2015, J BUILD ENG, V3, P171, DOI 10.1016/j.jobe.2015.07.008
+   Cao XD, 2016, ENERG BUILDINGS, V128, P198, DOI 10.1016/j.enbuild.2016.06.089
+   Castilho VC, 2007, STRUCTURAL CONCRETE, V8, P111, DOI 10.1680/stco.2007.8.3.111
+   Diaz JJD, 2009, ENERG BUILDINGS, V41, P1276, DOI 10.1016/j.enbuild.2009.08.005
+   Dilmaç H, 2013, NEURAL COMPUT APPL, V23, PS385, DOI 10.1007/s00521-013-1489-5
+   Dimoudi A, 2008, RESOUR CONSERV RECY, V53, P86, DOI 10.1016/j.resconrec.2008.09.008
+   Fiore A, 2016, J COMPUT CIVIL ENG, V30, P0, DOI 10.1061/(ASCE)CP.1943-5487.0000450
+   Fraile-Garcia E, 2016, ENG STRUCT, V109, P126, DOI 10.1016/j.engstruct.2015.12.001
+   Gencel O, 2014, NEURAL COMPUT APPL, V24, P649, DOI 10.1007/s00521-012-1277-7
+   Gharehbaghi S, 2015, EARTHQ ENG ENG VIB, V14, P97, DOI 10.1007/s11803-015-0009-2
+   Kao CS, 2016, NEURAL COMPUT APPL, V27, P571, DOI 10.1007/s00521-015-1878-z
+   Kaveh A, 2016, STRUCT ENG MECH, V59, P933, DOI 10.12989/sem.2016.59.5.933
+   Kaveh A, 2012, SCI IRAN, V19, P410, DOI 10.1016/j.scient.2012.04.001
+   Kaveh A, 2011, ARAB J SCI ENG, V36, P1179, DOI 10.1007/s13369-011-0113-1
+   Kaveh A, 2014, ASIAN JOURNAL OF CIVIL ENGINEERING, V15, P788
+   Khajehzadeh M, 2013, STRUCT ENG MECH, V45, P111, DOI 10.12989/sem.2013.45.1.111
+   Khajehzadeh M, 2013, NATL ACAD SCI LETT, V36, P279, DOI 10.1007/s40009-013-0129-z
+   Liébana O, 2015, INF CONSTR, V67, P0, DOI 10.3989/ic.13.029
+   Marano GC, 2008, J MATER CIVIL ENG, V20, P578, DOI 10.1061/(ASCE)0899-1561(2008)20:9(578)
+   Martinez-Martin FJ, 2012, J ZHEJIANG UNIV-SC A, V13, P420, DOI 10.1631/jzus.A1100304
+   Okasha NM, 2010, J COMPUT CIVIL ENG, V24, P548, DOI 10.1061/(ASCE)CP.1943-5487.0000060
+   Park HS, 2013, ENERGIES, V6, P5609, DOI 10.3390/en6115609
+   Paya-Zaforteza I, 2009, ENG STRUCT, V31, P1501, DOI 10.1016/j.engstruct.2009.02.034
+   Sadowski L, 2014, NEURAL COMPUT APPL, V25, P1627, DOI 10.1007/s00521-014-1645-6
+   Severcan MH, 2012, NEURAL COMPUT APPL, V21, P1937, DOI 10.1007/s00521-011-0597-3
+   Slonski M, 2010, COMPUT STRUCT, V88, P1248, DOI 10.1016/j.compstruc.2010.07.003
+   Tabatabai SMR, 2001, ENG COMPUTATION, V18, P726, DOI 10.1108/EUM0000000005785
+   Torres-Machi C, 2013, INT J CIV ENG, V11, P90
+   Varaee H, 2011, WORLD APPL SCI J, V13, P2484
+   Weidema BP, 2013, DATA QUALITY GUIDELINE FOR THE ECOINVENT DATABASE VERSION 3, V3, P169
+   Yaprak H, 2013, NEURAL COMPUT APPL, V22, P133, DOI 10.1007/s00521-011-0671-x
+   Yavuz G, 2016, STRUCT ENG MECH, V57, P657, DOI 10.12989/sem.2016.57.4.657
+   Yepes V, 2015, ARCH CIV MECH ENG, V15, P1024, DOI 10.1016/j.acme.2015.05.001
+   Yepes V, 2012, J COMPUT CIVIL ENG, V26, P378, DOI 10.1061/(ASCE)CP.1943-5487.0000140
+   Yin HF, 2016, ENG STRUCT, V114, P122, DOI 10.1016/j.engstruct.2016.02.009
+   Zhao HL, 2015, APPL MATH MODEL, V39, P1853, DOI 10.1016/j.apm.2014.10.015
+NR 47
+TC 54
+Z9 58
+U1 0
+U2 58
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0141-0296
+EI 1873-7323
+J9 ENG STRUCT
+JI Eng. Struct.
+PD JAN 15
+PY 2018
+VL 155
+IS 
+BP 91
+EP 101
+DI 10.1016/j.engstruct.2017.11.005
+PG 11
+WC Engineering, Civil
+SC Engineering
+GA FR9RC
+UT WOS:000419409800008
+DA 2025-11-06
+ER
+

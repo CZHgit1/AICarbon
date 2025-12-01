@@ -1,0 +1,204 @@
+PT J
+AU Fonseca, MG
+   Anderson, LO
+   Arai, E
+   Shimabukuro, YE
+   Xaud, HAM
+   Xaud, MR
+   Madani, N
+   Wagner, FH
+   Aragao, LEOC
+AF Fonseca, Marisa G.
+   Anderson, Liana O.
+   Arai, Egidio
+   Shimabukuro, Yosio E.
+   Xaud, Haron A. M.
+   Xaud, Maristela R.
+   Madani, Nima
+   Wagner, Fabien H.
+   Aragao, Luiz E. O. C.
+TI Climatic and anthropogenic drivers of northern Amazon fires during the 2015-2016 El Nino event
+SO ECOLOGICAL APPLICATIONS
+LA English
+DT Article
+DE anthropogenic ignition; climate; fire modeling; hot pixels; machine learning; multivariate ENSO index; savannas; tropical forests
+ID precipitation products; roraima state; active fires; gpm-imerg; forest; drought; deforestation; carbon; severity; wildfire
+AB The strong El Nino Southern Oscillation (ENSO) event that occurred in 20152016 caused extreme drought in the northern Brazilian Amazon, especially in the state of Roraima, increasing fire occurrence. Here we map the extent of precipitation and fire anomalies and quantify the effects of climatic and anthropogenic drivers on fire occurrence during the 2015-2016 dry season (from December 2015 to March 2016) in the state of Roraima. To achieve these objectives we first estimated the spatial pattern of precipitation anomalies, based on long-term data from the TRMM (Tropical Rainfall Measuring Mission), and the fire anomaly, based on MODIS (Moderate Resolution Imaging Spectroradiometer) active fire detections during the referred period. Then, we integrated climatic and anthropogenic drivers in a Maximum Entropy (MaxEnt) model to quantify fire probability, assessing (1) the model accuracy during the 2015-2016 and the 2016-2017 dry seasons; (2) the relative importance of each predictor variable on the model predictive performance; and (3) the response curves, showing how each environmental variable affects the fire probability. Approximately 59% (132,900 km(2)) of the study area was exposed to precipitation anomalies <=-1 standard deviation (SD) in January and similar to 48% (similar to 106,800 km(2)) in March. About 38% (86,200 km(2)) of the study area experienced fire anomalies >= 1 SD in at least one month between December 2015 and March 2016. The distance to roads and the direct ENSO effect on fire occurrence were the two most influential variables on model predictive performance. Despite the improvement of governmental actions of fire prevention and firefighting in Roraima since the last intense ENSO event (1997-1998), we show that fire still gets out of control in the state during extreme drought events. Our results indicate that if no prevention actions are undertaken, future road network expansion and a climate-induced increase in water stress will amplify fire occurrence in the northern Amazon, even in its humid dense forests. As an additional outcome of our analysis, we conclude that the model and the data we used may help to guide on-the-ground fire-prevention actions and firefighting planning and therefore minimize fire-related ecosystems degradation, economic losses and carbon emissions in Roraima.
+C1 [Fonseca, Marisa G.; Arai, Egidio; Shimabukuro, Yosio E.; Wagner, Fabien H.; Aragao, Luiz E. O. C.] Natl Inst Space Res INPE, Trop Ecosyst & Environm Sci Lab TREES, Ave Astronautas,1758, BR-12227010 Sao Jose Dos Campos, SP, Brazil.
+   [Anderson, Liana O.] Natl Ctr Monitoring & Early Warning Nat Disasters, Parque Tecnol Sao Jose dos Campos, BR-12247016 Sao Jose Dos Campos, SP, Brazil.
+   [Anderson, Liana O.] Univ Oxford, Environm Change Inst, South Parks Rd, Oxford OX1 3QY, England.
+   [Xaud, Haron A. M.; Xaud, Maristela R.] Embrapa Roraima, Brazilian Agr Res Corp, POB 133, BR-69301970 Boa Vista, RR, Brazil.
+   [Madani, Nima] Univ Montana, Coll Forestry & Conservat, Numer Terradynam Simulat Grp, Missoula, MT 59812 USA.
+   [Aragao, Luiz E. O. C.] Univ Exeter, Coll Life & Environm Sci, Exeter EX4 4RJ, Devon, England.
+C3 University of Oxford; Empresa Brasileira de Pesquisa Agropecuaria (EMBRAPA); EMBRAPA Roraima; University of Montana System; University of Montana; University of Exeter
+RP Fonseca, MG (corresponding author), Natl Inst Space Res INPE, Trop Ecosyst & Environm Sci Lab TREES, Ave Astronautas,1758, BR-12227010 Sao Jose Dos Campos, SP, Brazil.
+EM marisa_fonseca@yahoo.com.br
+FU Capes [NERC-UK NE/F005806/1]; CNPq [458022/2013-6]; FAPESP [11/51843-2]; CNPq (Science Without Borders Program); Natural Environment Research Council [NE/F005806/1] Funding Source: researchfish; NERC [NE/F005806/1] Funding Source: UKRI
+CR Alencar AAC, 2004, ECOL APPL, V14, P0
+   Alencar AA, 2015, ECOL APPL, V25, P1493, DOI 10.1890/14-1528.1
+   Anderson LO, 2015, GLOBAL BIOGEOCHEM CY, V29, P1739, DOI 10.1002/2014GB005008
+   Unknown -, 2013, AGRO@MBIENTE ONLINE, V0, P0, DOI DOI 10.18227/1982-8470RAGRO.V7I1.971
+   Unknown -, 2015, DAY 1 IMERG FINAL RU, V0, P0
+   Unknown -, 2005, CAD GEOGRAFIA, V0, P0
+   Aragao LEOC, 2014, BIOL REV, V89, P913, DOI 10.1111/brv.12088
+   Aragao LEOC, 2008, PHILOS T R SOC B, V363, P1779, DOI 10.1098/rstb.2007.0026
+   Arnold JD, 2014, FIRE ECOL, V10, P64, DOI 10.4996/fireecology.1002064
+   Bar Massada A, 2013, INT J WILDLAND FIRE, V22, P174, DOI 10.1071/WF11178
+   Barbosa RI, 1997, HOMEM, V0, P325
+   BARBOSA Reinaldo, 1993, SERIE ANTROP, V9, P0
+   Barbosa Reinaldo Imbrozio, 1999, ACTA AMAZONICA, V29, P513
+   Barbosa RI, 2005, FOREST ECOL MANAG, V216, P295, DOI 10.1016/j.foreco.2005.05.042
+   Barni PE, 2015, ENVIRON MANAGE, V55, P1124, DOI 10.1007/s00267-015-0447-7
+   Barni PE, 2015, ENVIRON MANAGE, V55, P259, DOI 10.1007/s00267-014-0408-6
+   Bolvin DT, 2015, TRANSITION 3B42 3B43, V0, P0
+   Brasil, 2016, OPERACAO RORAIMA VER, V0, P0
+   Bush MB, 2008, PHILOS T R SOC B, V363, P1795, DOI 10.1098/rstb.2007.0014
+   Chen FR, 2016, REMOTE SENS-BASEL, V8, P0, DOI 10.3390/rs8060472
+   Chen Y, 2011, SCIENCE, V334, P787, DOI 10.1126/science.1209472
+   Couturier T, 2014, BIOL CONSERV, V170, P177, DOI 10.1016/j.biocon.2013.12.028
+   Davidson EA, 2012, NATURE, V481, P321, DOI 10.1038/nature10717
+   Elith J, 1998, QUANTITATIVE METHODS FOR CONSERVATION BIOLOGY, V0, P39
+   Elith J, 2011, DIVERS DISTRIB, V17, P43, DOI 10.1111/j.1472-4642.2010.00725.x
+   Elvidge CD, 2001, INT J REMOTE SENS, V22, P2661, DOI 10.1080/01431160010025961
+   Feldpausch TR, 2016, GLOBAL BIOGEOCHEM CY, V30, P964, DOI 10.1002/2015GB005133
+   Fernandes K, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2011GL047392
+   Fielding AH, 1997, ENVIRON CONSERV, V24, P38, DOI 10.1017/S0376892997000088
+   Fonseca MG, 2016, INT J WILDLAND FIRE, V25, P955, DOI 10.1071/WF15216
+   Gatti LV, 2014, NATURE, V506, P76, DOI 10.1038/nature12957
+   Giovannini A, 2014, BIODIVERS CONSERV, V23, P1427, DOI 10.1007/s10531-014-0674-x
+   Gutiérrez-Vélez VH, 2014, ECOL APPL, V24, P1323, DOI 10.1890/13-2101.1
+   IBGE (Brazilian Institute of Geography and Statistics), 2012, MAN TECN VEG BRAS, V0, P0
+   INPE, 2016, MON FOC AT NOS EST B, V0, P0
+   Jiménez-Muñoz JC, 2016, SCI REP-UK, V6, P0, DOI 10.1038/srep33130
+   Kumar SS, 2014, INT J WILDLAND FIRE, V23, P532, DOI 10.1071/WF13106
+   Lewis SL, 2011, SCIENCE, V331, P554, DOI 10.1126/science.1200807
+   Liu Z, 2016, J HYDROMETEOROL, V17, P777, DOI 10.1175/JHM-D-15-0068.1
+   Xaud HAM, 2013, FOREST ECOL MANAG, V294, P97, DOI 10.1016/j.foreco.2012.11.036
+   Marengo JA, 2008, J CLIMATE, V21, P495, DOI 10.1175/2007JCLI1600.1
+   Marengo JA, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2011GL047436
+   Meneses MENS, 2015, AN ACAD BRAS CIENC, V87, P1623, DOI 10.1590/0001-3765201520130074
+   Moritz MA, 2012, ECOSPHERE, V3, P0, DOI 10.1890/ES11-00345.1
+   Murray FW, 1967, J APPL METEOROL, V6, P203, DOI 10.1175/15200450
+   Nepstad D, 2001, FOREST ECOL MANAG, V154, P395, DOI 10.1016/S0378-1127(01)00511-4
+   Meneses MEND, 2013, J S AM EARTH SCI, V42, P17, DOI 10.1016/j.jsames.2012.10.007
+   Parisien MA, 2012, INT J WILDLAND FIRE, V21, P313, DOI 10.1071/WF11044
+   Parisien MA, 2009, ECOL MONOGR, V79, P127, DOI 10.1890/07-1289.1
+   Paritsis J, 2013, ECOSPHERE, V4, P0, DOI 10.1890/ES12-00378.1
+   Peters MP, 2013, INT J WILDLAND FIRE, V22, P567, DOI 10.1071/WF12177
+   Phillips SJ, 2004, P 21 INT C MACHINE L, V0, P0, DOI DOI 10.1145/1015330.1015412
+   Phillips SJ, 2006, ECOL MODEL, V190, P231, DOI 10.1016/j.ecolmodel.2005.03.026
+   Phillips SJ, 2008, ECOGRAPHY, V31, P161, DOI 10.1111/j.0906-7590.2008.5203.x
+   Prakash S, 2016, ADV WATER RESOUR, V88, P1, DOI 10.1016/j.advwatres.2015.11.008
+   Martins FDRV, 2012, J TROP ECOL, V28, P591, DOI 10.1017/S0266467412000636
+   Ray D, 2005, ECOL APPL, V15, P1664, DOI 10.1890/05-0404
+   Renard Q, 2012, INT J WILDLAND FIRE, V21, P368, DOI 10.1071/WF10109
+   Schroeder W, 2013, AMAZONIA GLOBAL CHAN, V0, P43
+   Schroeder W, 2008, REMOTE SENS ENVIRON, V112, P456, DOI 10.1016/j.rse.2007.05.004
+   Schwartzman S, 2013, PHILOS T R SOC B, V368, P0, DOI 10.1098/rstb.2012.0164
+   Sharifi E, 2016, REMOTE SENS-BASEL, V8, P0, DOI 10.3390/rs8020135
+   Silvestrini RA, 2011, ECOL APPL, V21, P1573, DOI 10.1890/10-0827.1
+   VERBYLA DL, 1989, ENVIRON MANAGE, V13, P783, DOI 10.1007/BF01868317
+   Zorner RJ, 2008, AGR ECOSYST ENVIRON, V126, P67, DOI 10.1016/j.agee.2008.01.014
+NR 66
+TC 53
+Z9 61
+U1 0
+U2 51
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1051-0761
+EI 1939-5582
+J9 ECOL APPL
+JI Ecol. Appl.
+PD DEC 15
+PY 2017
+VL 27
+IS 8
+BP 2514
+EP 2527
+DI 10.1002/eap.1628
+PG 14
+WC Ecology; Environmental Sciences
+SC Environmental Sciences & Ecology
+GA FO5BA
+UT WOS:000416862700020
+PM 28922585
+DA 2025-11-05
+ER
+
+PT J
+AU Rao, ND
+   Ummel, K
+AF Rao, Narasimha D.
+   Ummel, Kevin
+TI White goods for white people? Drivers of electric appliance growth in emerging economies
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+LA English
+DT Article
+DE Household behavior; Residential energy; Appliance diffusion
+ID energy use; home appliances; co2 emission; consumption; urban; households; demand; china; potentials; efficiency
+AB Will everybody want and have a refrigerator, television and washing machine as incomes rise? Considerable uncertainty surrounds the likely increase in energy consumption and carbon emissions from rising incomes among the world's poor. We examine drivers of and predict appliance ownership using machine learning and other techniques with household survey data in India, South Africa and Brazil. Televisions and refrigerators are consistently preferred over washing machines. Income is still the predominant driver of aggregate penetration levels, but its influence differs by appliance and by region. The affordability of appliances, wealth, race and religion together, among other household characteristics, help explain the heterogeneity in appliance ownership at lower income levels. Understanding non-income drivers can be helpful to identify barriers to appliance uptake and to better forecast near term residential energy demand growth within countries. (C) 2017 The Author(s). Published by Elsevier Ltd.
+C1 [Rao, Narasimha D.; Ummel, Kevin] IIASA, Laxenburg, Austria.
+C3 International Institute for Applied Systems Analysis (IIASA)
+RP Rao, ND (corresponding author), IIASA, Laxenburg, Austria.
+EM nrao@iiasa.ac.at; kevinummel@gmail.com
+FU European Research Council Starting Grant (ERC-StG) [637462]
+CR Auffhammer M, 2014, AM ECON REV, V104, P575, DOI 10.1257/aer.104.5.575
+   Baiocchi G, 2015, GLOBAL ENVIRON CHANG, V34, P13, DOI 10.1016/j.gloenvcha.2015.06.001
+   Batih H, 2016, RENEW SUST ENERG REV, V57, P1160, DOI 10.1016/j.rser.2015.12.132
+   Bayus BL, 1992, MARKETING LETTERS, V0, PP215, DOI 10.1007/BF00994130
+   Bazilian M, 2013, ISSUES SCI TECHNOL, V29, P74
+   Bhattacharyya SC, 2015, APPL ENERG, V143, P228, DOI 10.1016/j.apenergy.2015.01.048
+   BOWDEN S, 1994, ECON HIST REV, V47, P725
+   Cabeza LF, 2014, RENEW SUST ENERG REV, V36, P188, DOI 10.1016/j.rser.2014.04.053
+   Creutzig F, 2015, P NATL ACAD SCI USA, V112, P6283, DOI 10.1073/pnas.1315545112
+   Elith J, 2008, J ANIM ECOL, V77, P802, DOI 10.1111/j.1365-2656.2008.01390.x
+   Farsi M, 2007, ENVIRON DEV ECON, V12, P757, DOI 10.1017/S1355770X07003932
+   Howarth R, 1993, THE ENERGY JOURNAL, V0, PP27, DOI 10.5547/ISSN0195-6574-EJ-Vol14-No2-2
+   Kemmler A, 2007, ENERGY SUSTAIN DEV, V11, P13, DOI 10.1016/S0973-0826
+   Kuan C-M, 1990, PREDICTING APPL OWNE, V0, P0
+   LAWRANCE EC, 1991, J POLIT ECON, V99, P54, DOI 10.1086/261740
+   Leahy E, 2010, ENERG POLICY, V38, P4265, DOI 10.1016/j.enpol.2010.03.056
+   Matsumoto S, 2016, ENERG POLICY, V94, P214, DOI 10.1016/j.enpol.2016.03.048
+   McNeil MA, 2010, MODELING DIFFUSION E, V0, P0
+   McNeil MA, 2008, FUTURE AIR CONDITION, V0, P0
+   McNeil MA, 2013, ENERG EFFIC, V6, P191, DOI 10.1007/s12053-012-9182-6
+   Nakagami H, 1996, ENERGY, V21, P1157, DOI 10.1016/0360-5442(96)00071-0
+   ODoherty J, 2008, APPL ENERG, V85, P650, DOI 10.1016/j.apenergy.2008.01.001
+   Rong Z, 2003, CHINA ECON REV, V14, P131, DOI 10.1016/S1043-951X(03)00004-X
+   Rosas-Flores JA, 2011, ENERG BUILDINGS, V43, P10, DOI 10.1016/j.enbuild.2010.08.020
+   SCHIPPER L, 1985, ANNU REV ENERGY, V10, P341, DOI 10.1146/annurev.eg.10.110185.002013
+   TRAIN K, 1985, ENERGY, V10, P1243, DOI 10.1016/0360-5442(85)90135-5
+   Urge-Vorsatz D, 2012, GLOBAL ENERGY ASSESSMENT - TOWARD A SUSTAINABLE FUTURE, V0, PP649, DOI 10.1017/CBO9780511793677.016
+   US EIA, 2014, RES DEM MOD NAT EN M, V0, P0
+   van Ruijven BJ, 2011, ENERG POLICY, V39, P7747, DOI 10.1016/j.enpol.2011.09.021
+   Wolfram Catherine, 2012, WILL ENERGY DEMAND D, V0, P0
+   Zhou N, 2011, ENERG POLICY, V39, P4541, DOI 10.1016/j.enpol.2011.04.027
+NR 31
+TC 57
+Z9 62
+U1 0
+U2 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2214-6296
+EI 2214-6326
+J9 ENERGY RES SOC SCI
+JI Energy Res. Soc. Sci.
+PD MAY 15
+PY 2017
+VL 27
+IS 
+BP 106
+EP 116
+DI 10.1016/j.erss.2017.03.005
+PG 11
+WC Green & Sustainable Science & Technology; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA EZ5PP
+UT WOS:000404769900012
+DA 2025-11-05
+ER
+

@@ -1,0 +1,131 @@
+PT J
+AU Sesnie, SE
+   Finegan, B
+   Gessler, PE
+   Thessler, S
+   Bendana, ZR
+   Smith, AMS
+AF Sesnie, Steven E.
+   Finegan, Bryan
+   Gessler, Paul E.
+   Thessler, Sirpa
+   Bendana, Zayra Ramos
+   Smith, Alistair M. S.
+TI The multispectral separability of Costa Rican rainforest types with support vector machines and Random Forest decision trees
+SO INTERNATIONAL JOURNAL OF REMOTE SENSING
+LA English
+DT Article
+ID satellite imagery; landsat tm; beta-diversity; floristic patterns; classification; vegetation; landscape; habitats; space; area
+AB Estimating the extent of tropical rainforest types is needed for biodiversity assessment and carbon accounting. In this study, we used statistical comparisons to determine the ability of Landsat Thematic Mapper (TM) bands and spectral vegetation indices to discriminate composition and structural types. A total of 144 old-growth forest plots established in northern Costa Rica were categorized via cluster analysis and ordination. Locations for palm swamps, forest regrowth and tree plantations were also acquired, making 11 forest types for separability analysis. Forest types classified using support vector machines (SVM), a theoretically superior method for solving complex classification problems, were compared with the random forest decision tree classifier (RF). Separability comparisons demonstrate that spectral data are sensitive to differences among forest types when tree species and structural similarity is low. SVM class accuracy was 66.6% for all forest types, minimally higher than the RF classifier (65.3%). TM bands and the Normalized Difference Vegetation Index (NDVI) combined with digital elevation data notably increased accuracies for SVM (84.3%) and RF (86.7%) classifiers. Rainforest types discriminated here are typically limited to one or two categories for remote sensing classifications. Our results indicate that TM bands and ancillary data combined via machine learning algorithms can yield accurate and ecologically meaningful rainforest classifications important to national and international forest monitoring protocols.
+C1 [Sesnie, Steven E.; Gessler, Paul E.; Smith, Alistair M. S.] Univ Idaho, Dept Forest Resources, Moscow, ID 83844 USA.
+   [Sesnie, Steven E.; Finegan, Bryan; Bendana, Zayra Ramos] CATIE, Turriabla 7170, Costa Rica.
+   [Thessler, Sirpa] Finnish Forest Res Inst Metla, Helsinki 00170, Finland.
+   [Gessler, Paul E.; Smith, Alistair M. S.] Univ Idaho, Geospatial Lab Environm Dynam, Moscow, ID 83844 USA.
+C3 University of Idaho; Natural Resources Institute Finland (Luke); University of Idaho
+RP Sesnie, SE (corresponding author), Univ Idaho, Dept Forest Resources, POB 441133, Moscow, ID 83844 USA.
+EM Steven.Sesnie@nau.edu.edu
+FU NSF-IGERT [0114304]
+CR Bennett KP, 2000, ACM SIGKDD EXPLORATIONS NEWSLETTER, V2, P1, DOI 10.1145/380995.380999
+   Boyd DS, 2006, INT J REMOTE SENS, V27, P2631, DOI 10.1080/01431160600554348
+   BRAY JROGER, 1957, ECOL MONOGR, V27, P325, DOI 10.2307/1942268
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Butterfield RP, 1994, SELVA ECOLOGY NATURA, V0, P299
+   Castro KL, 2003, INT J REMOTE SENS, V24, P1853, DOI 10.1080/01431160210154056
+   Chander G, 2003, IEEE T GEOSCI REMOTE, V41, P2674, DOI 10.1109/TGRS.2003.818464
+   CHASSOT O, 2002, CORREDOR BIOL SAN JU, V0, P0
+   Chomitz KM, 1999, SCI TOTAL ENVIRON, V240, P157, DOI 10.1016/S0048-9697(99)00310-1
+   Chust G, 2006, J VEG SCI, V17, P83, DOI 10.1111/j.1654-1103.2006.tb02426.x
+   Clark DB, 1999, ECOLOGY, V80, P2662, DOI 10.1890/0012-9658(1999)080[2662:EFATLS]2.0.CO;2
+   CLARKE KR, 1993, AUST J ECOL, V18, P117, DOI 10.1111/j.1442-9993.1993.tb00438.x
+   Condit R, 2002, SCIENCE, V295, P666, DOI 10.1126/science.1066854
+   Condit R, 1996, TRENDS ECOL EVOL, V11, P4, DOI 10.1016/0169-5347(96)81054-8
+   Congalton RG, 2009, ASSESSING THE ACCURACY OF REMOTELY SENSED DATA, V2nd, P0, DOI 10.1201/9780429052729
+   CORTES C, 1995, MACH LEARN, V20, P273, DOI 10.1007/BF00994018
+   CURTIS JT, 1950, ECOLOGY, V31, P434, DOI 10.2307/1931497
+   Duivenvoorden JF, 2002, SCIENCE, V295, P636, DOI 10.1126/science.295.5555.636
+   Foody GM, 1996, INT J REMOTE SENS, V17, P2353, DOI 10.1080/01431169608948777
+   Gislason PO, 2006, PATTERN RECOGN LETT, V27, P294, DOI 10.1016/j.patrec.2005.08.011
+   Gitelson AA, 2004, J PLANT PHYSIOL, V161, P165, DOI 10.1078/0176-1617-01176
+   GREEN AA, 1988, IEEE T GEOSCI REMOTE, V26, P65, DOI 10.1109/36.3001
+   Ham J, 2005, IEEE T GEOSCI REMOTE, V43, P492, DOI 10.1109/TGRS.2004.842481
+   Hammel BE, 2004, MANUAL DE PLANTAS DE COSTA RICA, VI, P0
+   Hijmans RJ, 2005, INT J CLIMATOL, V25, P1965, DOI 10.1002/joc.1276
+   HILL RA, 1994, INT J REMOTE SENS, V15, P2687, DOI 10.1080/01431169408954276
+   Hill RA, 1999, INT J REMOTE SENS, V20, P1039, DOI 10.1080/014311699213082
+   Holdridge LR, 1967, LIFE ZONE ECOLOGY., V0, P0
+   Huang C, 2002, INT J REMOTE SENS, V23, P725, DOI 10.1080/01431160110040323
+   Huete A, 1999, MODIS VEGETATION IND, V0, P0
+   *ITT IND INC, 2006, ENV VIS IM ENVI VERS, V0, P0
+   Jensen JR, 1996, INTRODUCTORY DIGITAL IMAGE PROCESSING: A REMOTE SENSING PERSPECTIVE., V0, P0
+   Jensen JR, 2014, REMOTE SENSING OF THE ENVIRONMENT: AN EARTH RESOURCE PERSPECTIVE, V2nd, P0
+   KAUFMAN YJ, 1994, IEEE T GEOSCI REMOTE, V32, P672, DOI 10.1109/36.297984
+   Kerr JT, 2003, TRENDS ECOL EVOL, V18, P299, DOI 10.1016/S0169-5347(03)00071-5
+   Kleinn C, 2005, FOREST ECOL MANAG, V210, P9, DOI 10.1016/j.foreco.2005.02.023
+   Kleinn C, 2002, ENVIRON MONIT ASSESS, V73, P17, DOI 10.1023/A:1012659129083
+   Lamb D, 2005, SCIENCE, V310, P1628, DOI 10.1126/science.1111773
+   LANCE GN, 1967, COMPUT J, V10, P271, DOI 10.1093/comjnl/10.3.271
+   Lieberman D, 1996, J ECOL, V84, P137, DOI 10.2307/2261350
+   Lobo A, 1998, MAN BIOSPH, V20, P159
+   Lu DS, 2004, FOREST ECOL MANAG, V198, P149, DOI 10.1016/j.foreco.2004.03.048
+   Lu DS, 2003, REMOTE SENS ENVIRON, V87, P456, DOI 10.1016/j.rse.2002.06.001
+   Lu DS, 2003, FOREST ECOL MANAG, V181, P301, DOI 10.1016/S0378-1127(03)00003-3
+   Mayaux P, 2005, PHILOS T R SOC B, V360, P373, DOI 10.1098/rstb.2004.1590
+   McCune B, 2006, PC ORD MULTIVARIATE, V0, P0
+   *MINAE SINAC, 2007, PROGR MON EC TERR AR, V0, P0
+   Nagendra H, 1999, J APPL ECOL, V36, P388, DOI 10.1046/j.1365-2664.1999.00406.x
+   Pal M, 2005, INT J REMOTE SENS, V26, P217, DOI 10.1080/01431160412331269698
+   Pal M, 2005, INT J REMOTE SENS, V26, P1007, DOI 10.1080/01431160512331314083
+   Pedroni L, 2003, INT J REMOTE SENS, V24, P91, DOI 10.1080/01431160304998
+   Phillips OL, 2003, J ECOL, V91, P757, DOI 10.1046/j.1365-2745.2003.00815.x
+   Read J, 2001, GIS REMOTE SENSING A, V0, P69
+   Rouse JW, 1974, 3 EARTH RESOURCES TE, V0, P0
+   Ruokolainen K, 2002, SCIENCE, V297, P0
+   Salovaara KJ, 2005, REMOTE SENS ENVIRON, V97, P39, DOI 10.1016/j.rse.2005.04.013
+   Sanchez-Hernandez C, 2007, ECOL INFORM, V2, P83, DOI 10.1016/j.ecoinf.2007.04.003
+   Sandmann H, 2003, FOREST SCI, V49, P429
+   Sanford Robert LJr, 1994, P19, V0, P0
+   Scott JM, 1998, ANN MO BOT GARD, V85, P34, DOI 10.2307/2991993
+   Sesnie SE, 2008, REMOTE SENS ENVIRON, V112, P2145, DOI 10.1016/j.rse.2007.08.025
+   Sesnie SE, 2009, BIOTROPICA, V41, P16, DOI 10.1111/j.1744-7429.2008.00451.x
+   Snider AG, 2003, J FOREST, V101, P18
+   Sollins Phillip, 1994, P34, V0, P0
+   Thenkabail PS, 2003, INT J APPL EARTH OBS, V4, P255, DOI 10.1016/S0303-2434(03)00006-0
+   Townsend PA, 2000, REMOTE SENS ENVIRON, V72, P253, DOI 10.1016/S0034-4257(99)00096-6
+   Townsend PA, 2001, PLANT ECOL, V157, P129, DOI 10.1023/A:1013999513172
+   Trigg S, 2001, INT J REMOTE SENS, V22, P2641, DOI 10.1080/01431160110053185
+   Tuomisto H, 1998, ANN MO BOT GARD, V85, P48, DOI 10.2307/2991994
+   Tuomisto H, 2003, J ECOL, V91, P743, DOI 10.1046/j.1365-2745.2003.00802.x
+   Tuomisto H, 2003, ECOL APPL, V13, P352, DOI 10.1890/1051-0761(2003)013[0352:LFPWSH]2.0.CO;2
+   TUOMISTO H, 1995, SCIENCE, V269, P63, DOI 10.1126/science.269.5220.63
+   *UNEP, 1992, CONV BIOL DIV TEXT A, V0, P0
+   Urquhart GR, 1999, BIOTROPICA, V31, P565, DOI 10.1111/j.1744-7429.1999.tb00403.x
+   Vieira S, 2004, OECOLOGIA, V140, P468, DOI 10.1007/s00442-004-1598-z
+   Webb EL, 1998, BIODIVERS CONSERV, V7, P565, DOI 10.1023/A:1008892016370
+   WISHART D, 1969, BIOMETRICS, V25, P165, DOI 10.2307/2528688
+NR 78
+TC 72
+Z9 86
+U1 1
+U2 55
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0143-1161
+EI 1366-5901
+J9 INT J REMOTE SENS
+JI Int. J. Remote Sens.
+PD JUN 15
+PY 2010
+VL 31
+IS 11
+BP 2885
+EP 2909
+DI 10.1080/01431160903140803
+PG 25
+WC Remote Sensing; Imaging Science & Photographic Technology
+SC Remote Sensing; Imaging Science & Photographic Technology
+GA 627RA
+UT WOS:000280057700006
+DA 2025-11-05
+ER
+

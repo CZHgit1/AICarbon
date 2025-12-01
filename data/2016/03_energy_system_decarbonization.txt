@@ -1,0 +1,392 @@
+PT J
+AU de Gracia, A
+   Barzin, R
+   Fernández, C
+   Farid, MM
+   Cabeza, LF
+AF de Gracia, Alvaro
+   Barzin, Reza
+   Fernandez, Cesar
+   Farid, Mohammed M.
+   Cabeza, Luisa F.
+TI Control strategies comparison of a ventilated facade with PCM energy savings, cost reduction and CO2 mitigation
+SO ENERGY AND BUILDINGS
+LA English
+DT Article
+DE Thermal energy storage (TES); Phase change materials (PCM); Artificial intelligence; Control system; CO2 mitigation
+ID storage-systems; ice storage; thermal mass; buildings; combination; impact
+AB The use of active thermal energy storage can provide energy savings, cost reduction and CO2 mitigation by reducing energy demand for heating and cooling, allowing the use of peak load shifting strategies and enhancing the introduction of renewable energies in the sector. The high investment cost of these systems makes mandatory an appropriate control in order to maximize the energy benefits during its operation. Within this context artificial intelligence techniques have been successfully used to control active thermal energy storage units. This paper uses an experimentally validated numerical tool to study the effect of different control strategies on the performance of one TES system applied to the building sector, a ventilated facade with PCM which uses free cooling. Three different strategies were designed to control the ventilated facade based on cost savings, energy reduction and CO2 mitigation, under different climatic conditions. Results show robust benefits in the three tested control strategies, achieving average savings in comparison to a manual operation of the system of 4.3%, 7.8%, and 16.7%. Moreover, the paper shows that when the control strategy is focused on optimizing cost, the other two benefits claimed by TES systems (energy and CO2 mitigation) are significantly reduced. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [de Gracia, Alvaro] Univ Rovira & Virgili, Dept Engn Mecan, Av Paisos Catalans 26, E-43007 Tarragona, Spain.
+   [Barzin, Reza; Farid, Mohammed M.] Univ Auckland, Dept Chem & Mat Engn, Auckland, New Zealand.
+   [Fernandez, Cesar] Univ Lleida, Dept Comp Sci, Lleida, Spain.
+   [Cabeza, Luisa F.] Univ Lleida, GREA Innovacio Concurrent, Edifici CREA,Pere Cabrera S-N, Lleida 25001, Spain.
+C3 Universitat Rovira i Virgili; University of Auckland; Universitat de Lleida; Universitat de Lleida
+RP Cabeza, LF (corresponding author), Univ Lleida, GREA Innovacio Concurrent, Edifici CREA,Pere Cabrera S-N, Lleida 25001, Spain.
+EM lcabeza@diei.udl.cat
+FU Spanish Government [ENE2015-64117-C5-1-R, ENE2015-64117-C5-3-R, TIN2015-71799-C2-2-P, ULLE10-4E-1305]; European Commission [PIRSES-GA-2013-610692]; European Union [657466]; Ministerio de Economia y Competitividad de Espana [FJCI-2014-19940]; Royal Society of New Zealand
+CR Barzin R, 2016, APPL ENERG, V163, P9, DOI 10.1016/j.apenergy.2015.11.016
+   Barzin R, 2015, ENERGY, V92, P505, DOI 10.1016/j.energy.2015.05.144
+   Barzin R, 2015, APPL ENERG, V158, P412, DOI 10.1016/j.apenergy.2015.08.088
+   Barzin R, 2015, APPL ENERG, V148, P39, DOI 10.1016/j.apenergy.2015.03.027
+   BELLMAN R, 1966, SCIENCE, V153, P34, DOI 10.1126/science.153.3731.34
+   BRAUN JE, 1990, ASHRAE TRAN, V96, P876
+   de Gracia A, 2015, ENERG BUILDINGS, V106, P234, DOI 10.1016/j.enbuild.2015.06.045
+   de Gracia A, 2015, ENERG BUILDINGS, V93, P137, DOI 10.1016/j.enbuild.2015.01.069
+   de Gracia A, 2013, ENERG BUILDINGS, V65, P508, DOI 10.1016/j.enbuild.2013.06.032
+   Dehkordi VR, 2013, ASME 2013 DYN SYST C, V0, P21
+   El-Sawi A, 2014, APPL THERM ENG, V62, P313, DOI 10.1016/j.applthermaleng.2013.09.047
+   Farid M, 2001, P I MECH ENG A-J POW, V215, P601, DOI 10.1243/0957650011538839
+   Greensfelder EM, 2011, J BUILD PERFORM SIMU, V4, P91, DOI 10.1080/19401493.2010.494735
+   Hajiah A, 2012, ENERG CONVERS MANAGE, V64, P509, DOI 10.1016/j.enconman.2012.02.020
+   Hajiah A, 2012, ENERG CONVERS MANAGE, V64, P499, DOI 10.1016/j.enconman.2012.02.016
+   Kottek M, 2006, METEOROL Z, V15, P259, DOI 10.1127/0941-2948/2006/0130
+   Kummert M, 2000, SOL ENERGY, V69, P103
+   Lamberg P, 2004, INT J THERM SCI, V43, P277, DOI 10.1016/j.ijthermalsci.2003.07.001
+   Lee KO, 2015, APPL ENERG, V137, P699, DOI 10.1016/j.apenergy.2014.09.003
+   Li G, 2014, ENERGY, V65, P675, DOI 10.1016/j.energy.2013.12.017
+   Li G, 2012, INT J REFRIG, V35, P2053, DOI 10.1016/j.ijrefrig.2012.06.003
+   Martin V, 2010, APPL ENERG, V87, P2652, DOI 10.1016/j.apenergy.2010.01.005
+   Medrano M, 2009, APPL ENERG, V86, P2047, DOI 10.1016/j.apenergy.2009.01.014
+   Menoufi K, 2012, APPL ENERG, V92, P534, DOI 10.1016/j.apenergy.2011.11.020
+   Morgan S, 2010, ASHRAE TRAN, V116, P134
+   Morris FB, 1994, ASHRAE TRANSACTIONS, V100, P402
+   Qureshi WA, 2011, ENERG CONVERS MANAGE, V52, P2110, DOI 10.1016/j.enconman.2010.12.008
+   RUUD MD, 1990, ASHRAE TRAN, V96, P820
+   Sehar F, 2012, ENERG BUILDINGS, V51, P255, DOI 10.1016/j.enbuild.2012.05.002
+   Shaikh PH, 2014, RENEW SUST ENERG REV, V34, P409, DOI 10.1016/j.rser.2014.03.027
+   Soares N, 2013, ENERG BUILDINGS, V59, P82, DOI 10.1016/j.enbuild.2012.12.042
+   Sutton RS, 1998, INTRO REINFORCEMENT, V0, P0, DOI DOI 10.1109/TNN.1998.712192
+   Tatsidjodoung P, 2013, RENEW SUST ENERG REV, V18, P327, DOI 10.1016/j.rser.2012.10.025
+NR 34
+TC 32
+Z9 32
+U1 0
+U2 26
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7788
+EI 1872-6178
+J9 ENERG BUILDINGS
+JI Energy Build.
+PD OCT 15
+PY 2016
+VL 130
+IS 
+BP 821
+EP 828
+DI 10.1016/j.enbuild.2016.09.007
+PG 8
+WC Construction & Building Technology; Energy & Fuels; Engineering, Civil
+SC Construction & Building Technology; Energy & Fuels; Engineering
+GA DY7QI
+UT WOS:000385323900072
+DA 2025-11-05
+ER
+
+PT J
+AU Atis, S
+   Ekren, N
+AF Atis, Selcuk
+   Ekren, Nazmi
+TI Development of an outdoor lighting control system using expert system
+SO ENERGY AND BUILDINGS
+LA English
+DT Article
+DE Outdoor lighting; Energy conservation; Expert system
+ID energy management; buildings; savings
+AB In this study, an intelligent energy-efficient outdoor lighting control system was developed that could be used in green buildings as well as intelligent building functions, and contribute to the reduction of carbon dioxide emissions by using more conservation of electric energy and daylight more efficiently. The intelligent energy-efficient lighting control system was based on expert system is one of the artificial intelligence techniques and has four functions running in real-time. The first function is controlling and monitoring of the lamp groups. The other functions are fault diagnosis in lambs and power lines connected to the lamp groups and the load estimation of lamp groups. The expert system was written in two separate computer and microcontroller based environments by using knowledge-based rules. The rule base of real-time control and monitoring function contains 213 rules. During the education semester operation mode which real-time control and monitoring function was implemented, an average of 33% conservation was achieved in energy consumption. The system is the first expert system application in which an expert system is used to control and monitor outdoor lighting as well as perform load estimate and fault diagnosis. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Atis, Selcuk] Marmara Univ, Vocat Sch Tech Sci, Elect & Energy Dept, TR-34722 Istanbul, Turkey.
+   [Ekren, Nazmi] Marmara Univ, Fac Technol, Dept Elect & Elect Engn, TR-34722 Istanbul, Turkey.
+C3 Marmara University; Marmara University
+RP Atis, S (corresponding author), Marmara Univ, Vocat Sch Tech Sci, Elect & Energy Dept, TR-34722 Istanbul, Turkey.
+EM satis@marmara.edu.tr
+FU Marmara University, Directorate of Scientific Research Projects [FEN-035/030203]
+CR Allahverdi N, 2002, EXPERT SYSTEMS ARTIF, V0, P0
+   Atis S, 2007, CONTROL OUTDOOR LIGH, V0, P0
+   Axel S, 2011, LIGHT ENG, V19, P15
+   Bellia L, 2015, ENRGY PROCED, V78, P2645, DOI 10.1016/j.egypro.2015.11.336
+   Das N, 2015, BUILD ENVIRON, V89, P380, DOI 10.1016/j.buildenv.2015.03.005
+   Doukas H, 2007, BUILD ENVIRON, V42, P3562, DOI 10.1016/j.buildenv.2006.10.024
+   Fonseca DJ, 2006, EXPERT SYST, V23, P194, DOI 10.1111/j.1468-0394.2006.00401.x
+   Kostic M, 2009, ENERGY, V34, P1565, DOI 10.1016/j.energy.2009.06.056
+   Li C, 2010, APPL POWER ELECT, V230, P0
+   Li-jun Q, 2011, EL UT DER RESTR POW, V0, P663
+   Lukkien JJ, 2011, EXPLORING USER CTR I, V57, P788
+   Nagy Z, 2015, ENERG BUILDINGS, V94, P100, DOI 10.1016/j.enbuild.2015.02.053
+   Rocha H, 2016, EXPERT SYST APPL, V45, P208, DOI 10.1016/j.eswa.2015.09.046
+   Ryckaert WR, 2010, ENERG BUILDINGS, V42, P341, DOI 10.1016/j.enbuild.2009.09.012
+   ul Haq MA, 2014, RENEW SUST ENERG REV, V33, P268, DOI 10.1016/j.rser.2014.01.090
+   Wang LP, 2015, ENERG BUILDINGS, V105, P226, DOI 10.1016/j.enbuild.2015.07.053
+   Wojnicki I, 2014, EXPERT SYST APPL, V41, P999, DOI 10.1016/j.eswa.2013.07.044
+NR 17
+TC 25
+Z9 31
+U1 1
+U2 69
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7788
+EI 1872-6178
+J9 ENERG BUILDINGS
+JI Energy Build.
+PD OCT 15
+PY 2016
+VL 130
+IS 
+BP 773
+EP 786
+DI 10.1016/j.enbuild.2016.08.066
+PG 14
+WC Construction & Building Technology; Energy & Fuels; Engineering, Civil
+SC Construction & Building Technology; Energy & Fuels; Engineering
+GA DY7QI
+UT WOS:000385323900068
+DA 2025-11-05
+ER
+
+PT J
+AU Nabavi-Pelesaraei, A
+   Abdi, R
+   Rafiee, S
+   Shamshirband, S
+   Yousefinejad-Ostadkelayeh, M
+AF Nabavi-Pelesaraei, Ashkan
+   Abdi, Reza
+   Rafiee, Shahin
+   Shamshirband, Shahaboddin
+   Yousefinejad-Ostadkelayeh, Majid
+TI Resource management in cropping systems using artificial intelligence techniques: a case study of orange orchards in north of Iran
+SO STOCHASTIC ENVIRONMENTAL RESEARCH AND RISK ASSESSMENT
+LA English
+DT Article
+DE Energy analysis; Greenhouse gas emission; Orange; Artificial neural networks; Multi-objective optimization; Data envelopment analysis
+ID greenhouse-gas emissions; energy use efficiency; sensitivity-analysis; economic-analysis; neural-network; wheat production; consumption; province; algorithm; inputs
+AB Management of energy use and reduction of greenhouse gas emissions (GHG) in agricultural system is the important topic. For this purpose, many methods have been proposed in different researches for solution of these items in recent years. Obviously, the selection of appropriate method was a new concern for researchers. Accordingly, the energy inputs and GHG emissions of orange production in north of Iran were modeled and optimized by artificial neural networks (ANN) and multi-objective genetic algorithm (MOGA) in this study and the results obtained were compared with the results of data envelopment analysis (DEA) approach. Results showed that, on average, an amount of 25,582.50 MJ ha(-1) was consumed in orange orchards in the region and the nitrogen fertilizer was accounted for 36.84 % of the total input energy. The outcomes of this study demonstrated that on average 803 kg carbon dioxide (kgCO(2eq).) is emitted per ha and diesel fuel is responsible for 35.7 % of all emissions. The results of ANN signified that they were capable of modeling crop output and total GHG emissions where the model with a 13-4-2 topology had the highest accuracy in both training and testing steps. The optimization of energy consumption using MOGA revealed that the total energy consumption and GHG emissions of orange production can be reduced to the values of 13,519 MJ ha(-1) and 261 kgCO(2eq). ha(-1), respectively. A comparison between MOGA and DEA clearly showed the better performance of MOGA due to simultaneous application of different objectives and the global optimum solutions produced by the last generation.
+C1 [Nabavi-Pelesaraei, Ashkan; Rafiee, Shahin; Yousefinejad-Ostadkelayeh, Majid] Univ Tehran, Fac Agr Engn & Technol, Dept Agr Machinery Engn, Karaj, Iran.
+   [Abdi, Reza] Univ Tabriz, Fac Agr, Dept Agr Machinery Engn, Tabriz, Iran.
+   [Shamshirband, Shahaboddin] Univ Malaya, Fac Comp Sci & Informat Technol, Dept Comp Syst & Technol, Kuala Lumpur 50603, Malaysia.
+C3 University of Tehran; University of Tabriz; Universiti Malaya
+RP Nabavi-Pelesaraei, A (corresponding author), Univ Tehran, Fac Agr Engn & Technol, Dept Agr Machinery Engn, Karaj, Iran.; Shamshirband, S (corresponding author), Univ Malaya, Fac Comp Sci & Informat Technol, Dept Comp Syst & Technol, Kuala Lumpur 50603, Malaysia.
+EM ashkan.nabavi@yahoo.com; r.abdi@tabrizu.ac.ir; shahinrafiee@ut.ac.ir; shamshirband@um.edu.my; m_yousefinejad@ut.ac.ir
+FU University of Tabriz, Iran
+CR Akbarpour M, 2013, THESIS U TABRIZ, V0, P0
+   Banaeian N, 2010, AUST J CROP SCI, V4, P359
+   Barber A, 2003, A CASE STUDY OF TOTAL ENERGY CARBON INDICATORS FOR NEW ZEALAND ARABLE OUTDOOR VEGETABLE PRODUCTION, V0, P0
+   Chau KW, 2007, ADV ENG SOFTW, V38, P172, DOI 10.1016/j.advengsoft.2006.07.003
+   Chen W, 2006, INT J ENVIRON POLLUT, V28, P432, DOI 10.1504/IJEP.2006.011221
+   Cheng CT, 2005, LECT NOTES COMPUT SC, V3498, P1040
+   Cooper JM, 2011, NJAS-WAGEN J LIFE SC, V58, P185, DOI 10.1016/j.njas.2011.05.002
+   Demircan V, 2006, ENERG CONVERS MANAGE, V47, P1761, DOI 10.1016/j.enconman.2005.10.003
+   Dyer JA, 2003, BIOSYST ENG, V85, P503, DOI 10.1016/S1537-5110(03)00072-2
+   Hematian A, 2013, INTERNATIONAL JOURNAL OF AGRONOMY AND PLANT PRODUCTION, V4, P1351
+   Khoshnevisan B, 2015, STOCH ENV RES RISK A, V29, P1921, DOI 10.1007/s00477-014-0972-6
+   Khoshnevisan B, 2013, ENERGY, V52, P333, DOI 10.1016/j.energy.2013.01.028
+   Lal R, 2004, ENVIRON INT, V30, P981, DOI 10.1016/j.envint.2004.03.005
+   Lee WS, 2009, APPL THERM ENG, V29, P3269, DOI 10.1016/j.applthermaleng.2008.02.034
+   Lohrasbi M, 2010, BIORESOURCE TECHNOL, V101, P7382, DOI 10.1016/j.biortech.2010.04.078
+   Malana NM, 2006, IRRIG DRAIN, V55, P383, DOI 10.1002/ird.264
+   Mandal KG, 2002, BIOMASS BIOENERG, V23, P337, DOI 10.1016/S0961-9534(02)00058-2
+   MARQUARDT DW, 1963, J SOC IND APPL MATH, V11, P431, DOI 10.1137/0111030
+   Ministry of Jihad-e Agriculture, 2013, ANN AGR STAT, V0, P0
+   Mobtaker HG, 2012, ENERGY SUSTAIN DEV, V16, P84, DOI 10.1016/j.esd.2011.10.009
+   Mobtaker HG, 2010, AGR ECOSYST ENVIRON, V137, P367, DOI 10.1016/j.agee.2010.03.011
+   Mohammadi A, 2008, ENERG CONVERS MANAGE, V49, P3566, DOI 10.1016/j.enconman.2008.07.003
+   Mousavi-Avval SH, 2012, J CLEAN PROD, V27, P126, DOI 10.1016/j.jclepro.2012.01.014
+   Mousavi-Avval SH, 2011, APPL ENERG, V88, P3765, DOI 10.1016/j.apenergy.2011.04.021
+   Mousavi-Avval SH, 2011, J CLEAN PROD, V19, P1464, DOI 10.1016/j.jclepro.2011.04.013
+   Muttil N, 2006, INT J ENVIRON POLLUT, V28, P223, DOI 10.1504/IJEP.2006.011208
+   Nabavi-Pelesaraei A, 2016, JOURNAL OF THE SAUDI SOCIETY OF AGRICULTURAL SCIENCES, V15, P162, DOI 10.1016/j.jssas.2014.11.001
+   Nabavi-Pelesaraei A, 2014, J CLEAN PROD, V65, P311, DOI 10.1016/j.jclepro.2013.08.019
+   Najafi G, 2009, APPL ENERG, V86, P630, DOI 10.1016/j.apenergy.2008.09.017
+   Ozkan B, 2004, ENERG CONVERS MANAGE, V45, P1821, DOI 10.1016/j.enconman.2003.10.002
+   Pahlavan R, 2011, ENERGY, V36, P6714, DOI 10.1016/j.energy.2011.10.038
+   Pathak H, 2007, AGR SYST, V94, P807, DOI 10.1016/j.agsy.2006.11.015
+   Pereira MD, 2014, NEUROCOMPUTING, V133, P342, DOI 10.1016/j.neucom.2013.12.048
+   Pishgar-Komleh SH, 2012, J CLEAN PROD, V33, P183, DOI 10.1016/j.jclepro.2012.04.008
+   Rafiee S, 2010, ENERGY, V35, P3301, DOI 10.1016/j.energy.2010.04.015
+   Rahman MM, 2010, BIOSYST ENG, V105, P350, DOI 10.1016/j.biosystemseng.2009.12.005
+   Safa M, 2011, ENERGY, V36, P5140, DOI 10.1016/j.energy.2011.06.016
+   Shamshirband S, 2015, RENEW SUST ENERG REV, V44, P457, DOI 10.1016/j.rser.2014.12.038
+   Soni P, 2013, AGR SYST, V116, P25, DOI 10.1016/j.agsy.2012.12.006
+   Tabatabaie SMH, 2013, J CLEAN PROD, V39, P280, DOI 10.1016/j.jclepro.2012.07.052
+   Taormina R, 2012, ENG APPL ARTIF INTEL, V25, P1670, DOI 10.1016/j.engappai.2012.02.009
+   Unakitan G, 2010, ENERGY, V35, P3623, DOI 10.1016/j.energy.2010.05.005
+   Wu CL, 2009, WATER RESOUR RES, V45, P0, DOI 10.1029/2007WR006737
+   Yuan JG, 2014, OPTIK, V125, P3457, DOI 10.1016/j.ijleo.2014.01.035
+NR 44
+TC 49
+Z9 53
+U1 1
+U2 38
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1436-3240
+EI 1436-3259
+J9 STOCH ENV RES RISK A
+JI Stoch. Environ. Res. Risk Assess.
+PD JAN 15
+PY 2016
+VL 30
+IS 1
+BP 413
+EP 427
+DI 10.1007/s00477-015-1152-z
+PG 15
+WC Engineering, Environmental; Engineering, Civil; Environmental Sciences; Statistics & Probability; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Mathematics; Water Resources
+GA DF4KP
+UT WOS:000371317300030
+DA 2025-11-05
+ER
+
+PT J
+AU Marasco, DE
+   Kontokosta, CE
+AF Marasco, Daniel E.
+   Kontokosta, Constantine E.
+TI Applications of machine learning methods to identifying and predicting building retrofit opportunities
+SO ENERGY AND BUILDINGS
+LA English
+DT Article
+DE Building energy; Energy retrofit; Predictive modeling; Machine learning; Urban sustainability
+ID energy-consumption; potentials; disclosure; behavior
+AB Building energy conservation measures (ECMs) can significantly lower greenhouse gas (GHG) emissions from urban areas; however, uncertainties regarding not only ECM eligibility, but also associated costs and energy savings have slowed adoption of ECMs. To encourage ECM implementation, local governments have implemented a range of policies designed to increase the available information on building energy use. Energy audit mandates, such as New York City (NYC)'s Local Law 87 (LL87), require energy consultants to analyze installed building systems and provide building stakeholders with cost effective ECM recommendations on a multi-year cycle. However, complete audits are costly and time consuming. To accelerate ECM implementation, policymakers are exploring ways to utilize available data to target ECM5 across a city's entire building stock. In this study, energy audit data for over 1100 buildings in NYC, submitted in compliance with LL87, are analyzed to identify opportunities for ECMs across building system categories (e.g. distribution system, domestic hot water, etc.). A machine learning classifier, specifically a user-facing falling rule list (FRL) classifier based on binary features derived from LL87 data, is developed here to predict ECM eligibility given a specific set of building characteristics. Overall, the trained FRL classifier performs well (ROC AUC 0.72-0.86) for predicting cooling system, distribution system, domestic hot water, fuel switching, lighting, and motors ECM opportunities, which represent a majority of the auditor-recommended ECM5 in the sample. Additionally, linear decision lists developed by the model allow building stakeholders to easily conduct streamlined audits of building systems and identify possible ECM opportunities by limiting input to the most relevant factors and prioritizing likely retrofit candidates. The implications of this work are significant in accelerating the adoption of building ECMs and catalyzing energy use and GHG emissions reductions from buildings. (C) 2016 The Author(s). Published by Elsevier B.V.
+C1 [Marasco, Daniel E.; Kontokosta, Constantine E.] NYU, Ctr Urban Sci & Progress, 1 Metrotech Ctr,19th Floor, Brooklyn, NY 11201 USA.
+C3 New York University
+RP Marasco, DE (corresponding author), NYU, Ctr Urban Sci & Progress, 1 Metrotech Ctr,19th Floor, Brooklyn, NY 11201 USA.
+EM dmarasco@caa.columbia.edu
+CR Unknown -, 2012, P 2012 ACEEE SUMM ST, V0, P0
+   Unknown -, 2015, P AISTATS, V0, P0
+   Unknown -, 2013, ASHRAE STANDARD 90.1-2013, V0, P0
+   Unknown -, 2011, PROCEDURES FOR COMMERCIAL BUILDING ENERGY AUDITS, V0, P0
+   Unknown -, 2012, ANNUAL ENERGY REVIEW 2011, V0, P0
+   Ballarini I, 2014, ENERG POLICY, V68, P273, DOI 10.1016/j.enpol.2014.01.027
+   Bewick V, 2004, CRIT CARE, V8, P508, DOI 10.1186/cc3000
+   Borgelt C, 2012, WIRES DATA MIN KNOWL, V2, P437, DOI 10.1002/widm.1074
+   Fleiter T, 2012, ENERG POLICY, V51, P863, DOI 10.1016/j.enpol.2012.09.041
+   Flourentzou F, 2002, ENERG BUILDINGS, V34, P185, DOI 10.1016/S0378-7788(01)00106-2
+   Gamtessa SF, 2013, ENERG BUILDINGS, V57, P155, DOI 10.1016/j.enbuild.2012.11.006
+   HANLEY JA, 1982, RADIOLOGY, V143, P29, DOI 10.1148/radiology.143.1.7063747
+   Neto AH, 2008, ENERG BUILDINGS, V40, P2169, DOI 10.1016/j.enbuild.2008.06.013
+   Hsu D, 2014, ENERG POLICY, V64, P263, DOI 10.1016/j.enpol.2013.08.094
+   Iqbal I, 2007, BUILD ENVIRON, V42, P2166, DOI 10.1016/j.buildenv.2006.04.011
+   Kontokosta CE, 2011, THE JOURNAL OF SUSTAINABLE REAL ESTATE, V3, P68, DOI 10.5555/JSRE.3.1.HX085737N8325333
+   Kontokosta CE, 2015, J REAL ESTATE FINANC, V51, P288, DOI 10.1007/s11146-014-9481-0
+   Kontokosta CE, 2013, ANN NY ACAD SCI, V1295, P34, DOI 10.1111/nyas.12163
+   Mata É, 2013, ENERG POLICY, V55, P404, DOI 10.1016/j.enpol.2012.12.023
+   Mathew PA, 2015, APPL ENERG, V140, P85, DOI 10.1016/j.apenergy.2014.11.042
+   Palmer K, 2013, ENERG EFFIC, V6, P271, DOI 10.1007/s12053-012-9178-2
+   Park JS, 2016, ENERG BUILDINGS, V110, P23, DOI 10.1016/j.enbuild.2015.10.038
+   Pérez-Lombard L, 2008, ENERG BUILDINGS, V40, P394, DOI 10.1016/j.enbuild.2007.03.007
+   Rose J, 2015, ENRGY PROCED, V78, P1009, DOI 10.1016/j.egypro.2015.11.047
+   Rosenzweig C, 2010, NATURE, V467, P909, DOI 10.1038/467909a
+   Shapiro I, 2011, ASHRAE J, V53, P26
+   Sorrell S, 2004, EC ENERGY EFFICIENCY, V0, P0
+   Swan LG, 2009, RENEW SUST ENERG REV, V13, P1819, DOI 10.1016/j.rser.2008.09.033
+   Trevor HastieRobert Tibshirani Jerome Friedman, 2009, THE ELEMENTS OF STATISTICAL LEARNING, V2, P0, DOI 10.1111/J.1532-5415.1984.TB02220.X
+   Ürge-Vorsatz D, 2008, ENERG POLICY, V36, P642, DOI 10.1016/j.enpol.2007.10.009
+   Villoria-Siegert R, 2015, ENERG EFFIC, V8, P267, DOI 10.1007/s12053-014-9291-5
+NR 33
+TC 65
+Z9 86
+U1 0
+U2 43
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0378-7788
+EI 1872-6178
+J9 ENERG BUILDINGS
+JI Energy Build.
+PD SEP 15
+PY 2016
+VL 128
+IS 
+BP 431
+EP 441
+DI 10.1016/j.enbuild.2016.06.092
+PG 11
+WC Construction & Building Technology; Energy & Fuels; Engineering, Civil
+SC Construction & Building Technology; Energy & Fuels; Engineering
+GA DV3AU
+UT WOS:000382794200035
+DA 2025-11-05
+ER
+
+PT J
+AU Ohno, H
+   Mukae, Y
+AF Ohno, Hiroshi
+   Mukae, Yusuke
+TI Machine Learning Approach for Prediction and Search: Application to Methane Storage in a Metal-Organic Framework
+SO JOURNAL OF PHYSICAL CHEMISTRY C
+LA English
+DT Article
+ID design
+AB Machine learning is applied to predicting the methane uptake and searching the pore properties and the organic building blocks to determine the maximum uptake. To show the importance of the molecular structure of the building block on the methane uptake, we construct a graph-based kernel function that measures the degree of similarity between two molecular structures. A prediction model is a Gaussian process regression, which is constructed by combining this kernel function and the Gaussian kernel function of the pore properties. The structural relationships of the molecular structure contribute to an improvement in the accuracy of the prediction. After training the prediction model, using a random search, we can determine the candidate pore properties and organic building blocks that will yield an uptake larger than that seen in the training data set.
+C1 [Ohno, Hiroshi; Mukae, Yusuke] Toyota Cent Res & Dev Labs Inc, 41-1 Yokomichi, Nagakute, Aichi 4801192, Japan.
+C3 Toyota Central R&D Labs Inc
+RP Ohno, H (corresponding author), Toyota Cent Res & Dev Labs Inc, 41-1 Yokomichi, Nagakute, Aichi 4801192, Japan.
+EM oono-h@mosk.tytlabs.co.jp
+CR Bartók AP, 2010, PHYS REV LETT, V104, P0, DOI 10.1103/PhysRevLett.104.136403
+   Behler J, 2007, PHYS REV LETT, V98, P0, DOI 10.1103/PhysRevLett.98.146401
+   Bergstra J, 2012, J MACH LEARN RES, V13, P281
+   Bishop ChristopherM, 2006, MACHINE LEARNING, V128, P9, DOI 10.1117/1.2819119
+   Borgwardt KM, 2005, BIOINFORMATICS, V21, PI47, DOI 10.1093/bioinformatics/bti1007
+   Eddaoudi M, 2002, SCIENCE, V295, P469, DOI 10.1126/science.1067208
+   Fernandez M, 2013, J PHYS CHEM C, V117, P7681, DOI 10.1021/jp4006422
+   Fröhlich H, 2006, QSAR COMB SCI, V25, P317, DOI 10.1002/qsar.200510135
+   Frohlich H, 2005, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON MACHINE LEARNING (ICML), V0, PP225, DOI 10.1145/1102351.1102380
+   Gartner T, 2003, SIGKKD EXPLORATIONS, V5, P49, DOI 10.1145/959242.959248
+   Getman RB, 2012, CHEM REV, V112, P703, DOI 10.1021/cr200217c
+   Ghasemi SA, 2015, PHYS REV B, V92, P0, DOI 10.1103/PhysRevB.92.045131
+   Hansen K, 2013, J CHEM THEORY COMPUT, V9, P3404, DOI 10.1021/ct400195d
+   Ivosev G, 2008, ANAL CHEM, V80, P4933, DOI 10.1021/ac800110w
+   Jain A, 2013, APL MATER, V1, P0, DOI 10.1063/1.4812323
+   Lopez-Bezanilla A, 2014, PHYS REV B, V89, P0, DOI 10.1103/PhysRevB.89.235411
+   Lyubchyk A, 2011, J PHYS CHEM C, V115, P20628, DOI 10.1021/jp207326d
+   Martin RL, 2013, J CHEM THEORY COMPUT, V9, P2816, DOI 10.1021/ct400255c
+   Martin RL, 2012, J CHEM INF MODEL, V52, P308, DOI 10.1021/ci200386x
+   Meredig B, 2014, PHYS REV B, V89, P0, DOI 10.1103/PhysRevB.89.094104
+   Montavon G, 2013, NEW J PHYS, V15, P0, DOI 10.1088/1367-2630/15/9/095003
+   Neal RM, 1996, BAYESIAN LEARNING NE, V0, P0, DOI DOI 10.1007/978-1-4612-0745-0
+   Pilania G, 2013, SCI REP-UK, V3, P0, DOI 10.1038/srep02810
+   Ralaivola L, 2005, NEURAL NETWORKS, V18, P1093, DOI 10.1016/j.neunet.2005.07.009
+   Ramon J, 2003, P 1 INT WORKSHOP MIN, V0, P65
+   Rupp M, 2012, PHYS REV LETT, V108, P0, DOI 10.1103/PhysRevLett.108.058301
+   Seeger Matthias, 2004, INT J NEURAL SYST, V14, P69, DOI 10.1142/S0129065704001899
+   Huan TD, 2015, PHYS REV B, V92, P0, DOI 10.1103/PhysRevB.92.014106
+   Vishwanathan SVN, 2010, J MACH LEARN RES, V11, P1201
+   Willems TF, 2012, MICROPOR MESOPOR MAT, V149, P134, DOI 10.1016/j.micromeso.2011.08.020
+   Wilmer CE, 2012, NAT CHEM, V4, P83, DOI 10.1038/NCHEM.1192
+   Yaghi OM, 2003, NATURE, V423, P705, DOI 10.1038/nature01650
+NR 32
+TC 45
+Z9 52
+U1 1
+U2 76
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1932-7447
+EI 1932-7455
+J9 J PHYS CHEM C
+JI J. Phys. Chem. C
+PD OCT 27
+PY 2016
+VL 120
+IS 42
+BP 23963
+EP 23968
+DI 10.1021/acs.jpcc.6b07618
+PG 6
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science, Multidisciplinary
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA EA5DY
+UT WOS:000386640800006
+DA 2025-11-05
+ER
+

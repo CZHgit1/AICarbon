@@ -1,0 +1,87 @@
+PT J
+AU Jiang, HM
+   Khan, F
+   Alturki, R
+   Alshawi, B
+   He, XJ
+   Shah, STU
+AF Jiang, Huamao
+   Khan, Fazlullah
+   Alturki, Ryan
+   Alshawi, Bandar
+   He, Xiangjian
+   Shah, Syed Tauhid Ullah
+TI FUSE-IS: multi-modal data fusion for carbon-aware security in industrial energy systems
+SO INFORMATION FUSION
+LA English
+DT Article
+DE Multisource data fusion; Energy efficiency optimization; Renewable energy integration; Smart grid security
+AB Modern industrial energy systems are increasingly reliant on heterogeneous data streams from sensors, grid infrastructure, renewable forecasts, and cybersecurity telemetry. Effectively fusing these diverse sources is essential for achieving resilient, efficient, and sustainable operations. In this paper, we present a Fusion-based Unified Security and Energy efficiency approach for Industrial Systems (FUSE-IS), a novel multi-modal data fusion framework. FUSE-IS integrates deep learning-based threat detection, differential privacy mechanisms, and carbon-aware resource scheduling. It enhances security, privacy, and energy efficiency in industrial energy environments. Unlike traditional solutions that address these objectives in isolation, FUSE-IS employs a unified data fusion approach that combines these solutions. As a result, it enabled real-time adaptive decision-making for threat mitigation, data protection, and carbon-optimized computing. Experimental results demonstrate that FUSE-IS achieves 98.5 % detection accuracy with only 1.2% false positives, while reducing energy consumption by 24% and carbon emissions by 20% compared to baseline methods. The framework maintains strong privacy guarantees (epsilon = 0.9) with minimal accuracy degradation (0.7 %). A case study on DDoS mitigation illustrates FUSE-IS's ability to dynamically adjust defense strategies based on carbon intensity fluctuations, resulting in a 27 % emission reduction during the attack window.
+C1 [Jiang, Huamao] Jinzhou Med Univ, Affiliated Hosp 1, Multimodal Data Fus & Precis Med Lab, Jinzhou 121000, Peoples R China.
+   [Khan, Fazlullah; He, Xiangjian] Univ Nottingham Ningbo China, Fac Sci & Engn, Sch Comp Sci, Ningbo 315104, Zhejiang, Peoples R China.
+   [Alturki, Ryan] Umm Al Qura Univ, Coll Comp, Dept Software Engn, Mecca, Saudi Arabia.
+   [Alshawi, Bandar] Umm Al Qura Univ, Coll Comp, Dept Comp & Network Engn, Mecca, Saudi Arabia.
+   [Shah, Syed Tauhid Ullah] Univ Calgary, Dept Elect & Software Engn, Calgary, AB T2N 1N4, Canada.
+C3 Jinzhou Medical University; University of Nottingham Ningbo China; Umm Al-Qura University; Umm Al-Qura University; University of Calgary
+RP Khan, F; He, XJ (corresponding author), Univ Nottingham Ningbo China, Fac Sci & Engn, Sch Comp Sci, Ningbo 315104, Zhejiang, Peoples R China.
+EM fazl.ullah@nottingham.edu.cn; Sean.he@nottingham.edu.cn
+FU Yongjiang Technology Innovation Project [2022A-097-G]; Zhejiang Department of Transportation General Research and Development Project [2024039]; National Natural Science Foundation of China [B0166]; Applied Basic Research Program of the Department of Science and Technology of Liaoning Province [2025JH2/101330069]
+CR Aldaje A, 2023, DATASET FOR IOT BOTNET DETECTION, V0, P0
+   Altan G, 2021, T EMERG TELECOMMUN T, V32, P0, DOI 10.1002/ett.4228
+   Cao N, 2024, ENERGY INFORMAT, V0, P0
+   Chen JX, 2025, IEEE T CONSUM ELECTR, V71, P7105, DOI 10.1109/tce.2025.3525536
+   Chen JX, 2024, J IND INF INTEGR, V39, P0, DOI 10.1016/j.jii.2024.100593
+   De S, 2022, IEEE T IND INFORM, V18, P5728, DOI 10.1109/TII.2022.3155656
+   ElectricityMap, 2023, ELECTRICITYMAP, V0, P0
+   Gao X, 2020, P ACM SIGMETRICS C, V0, P0
+   Grid N, 2023, UK CARBON INTENSITY API, V0, P0
+   Humayed A, 2017, IEEE INTERNET THINGS, V4, P1802, DOI 10.1109/JIOT.2017.2703172
+   Hussain F, 2020, IEEE COMMUN SURV TUT, V22, P1686, DOI 10.1109/COMST.2020.2986444
+   Khalil RA, 2021, IEEE INTERNET THINGS, V8, P11016, DOI 10.1109/JIOT.2021.3051414
+   Khan F, 2023, IEEE T IND INFORM, V19, P1030, DOI 10.1109/TII.2022.3190352
+   Khan F, 2021, IEEE T IND INFORM, V17, P5128, DOI 10.1109/TII.2020.3037872
+   Kim T, 2024, KAIST REPOSIT., V0, P0
+   Lin WW, 2024, SUSTAIN COMPUT-INFOR, V42, P0, DOI 10.1016/j.suscom.2024.100989
+   Liu TH, 2024, IEEE INTERNET THINGS, V11, P34229, DOI 10.1109/JIOT.2024.3443642
+   Marengo A, 2024, INTERNET THINGS-NETH, V27, P0, DOI 10.1016/j.iot.2024.101318
+   Meidan R, 2018, P 2018 IEEE INT C PE, V0, P1
+   Miao Z, 2024, STET REV., V0, P0
+   Nygard M, 2024, IMAGE CLASSIFICATION USING FEDERATED LEARNING WITH DIFFERENTIAL PRIVACY: A COMPARISON OF DIFFERENT AGGREGATION ALGORITHMS, V0, P0
+   Patel P, 2024, P ACM S CLOUD COMP, V0, P0, DOI DOI 10.1145/3698365.3698368
+   Reddy CKK, 2024, THE RISE OF QUANTUM COMPUTING IN INDUSTRY 6.0 TOWARDS SUSTAINABILITY, V0, P0
+   Regan R, 2024, COMPUT NETW, V247, P0, DOI 10.1016/j.comnet.2024.110401
+   Rehman AU, 2024, IEEE INTERNET THINGS, V11, P40909, DOI 10.1109/JIOT.2024.3457372
+   Sinha S, 2024, NUMBER OF CONNECTED IOT DEVICES GROWING 13% TO 18.8 BILLION, V0, P0
+   Soliman S, 2023, ALEX ENG J, V81, P371, DOI 10.1016/j.aej.2023.09.023
+   Song ZD, 2024, IEEE INTERNET THINGS, V11, P39103, DOI 10.1109/JIOT.2024.3472669
+   Tomar A, 2024, IEEE INT C ART INT D, V0, P0
+   Waheed N, 2023, 2023 IEEE INT C OMN, V0, P1
+   Wang Y, 2018, IEEE INTERNET THING. J., V5, P1826
+   Yazdinejad A, 2023, DIGIT COMMUN NETW, V9, P101, DOI 10.1016/j.dcan.2022.09.008
+NR 32
+TC 0
+Z9 0
+U1 10
+U2 10
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1566-2535
+EI 1872-6305
+J9 INFORM FUSION
+JI Inf. Fusion
+PD MAR 15
+PY 2026
+VL 127
+IS 
+BP 
+EP 
+DI 10.1016/j.inffus.2025.103759
+PG 13
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+SC Computer Science
+GA 8EK3P
+UT WOS:001586692800002
+DA 2025-11-21
+ER
+

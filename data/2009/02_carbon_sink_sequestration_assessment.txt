@@ -1,0 +1,104 @@
+PT J
+AU Lauvaux, T
+   Pannekoucke, O
+   Sarrat, C
+   Chevallier, F
+   Ciais, P
+   Noilhan, J
+   Rayner, PJ
+AF Lauvaux, T.
+   Pannekoucke, O.
+   Sarrat, C.
+   Chevallier, F.
+   Ciais, P.
+   Noilhan, J.
+   Rayner, P. J.
+TI Structure of the transport uncertainty in mesoscale inversions of CO2 sources and sinks using ensemble model simulations
+SO BIOGEOSCIENCES
+LA English
+DT Article
+AB We study the characteristics of a statistical ensemble of mesoscale simulations in order to estimate the model error in the simulation of CO2 concentrations. The ensemble consists of ten members and the reference simulation using the operationnal short range forecast PEARP, perturbed using the Singular Vector technique. We then used this ensemble of simulations as the initial and boundary conditions for the meso scale model (M,so-NH) simulations, which uses CO2 fluxes from the ISBA-A-gs land surface model. The final ensemble represents the model dependence to the boundary conditions, conserving the physical properties of the dynamical schemes, but excluding the intrinsic error of the model. </br > First, the variance of our ensemble is estimated over the domain, with associated spatial and temporal correlations. Second, we extract the signal from noisy horizontal correlations, due to the limited size ensemble, using diffusion equation modelling. The computational cost of such ensemble limits the number of members (simulations) especially when running online the carbon flux and the atmospheric models. In the theory, 50 to 100 members would be required to explore the overall sensitivity of the ensemble. The present diffusion model allows us to extract a significant part of the noisy error, and makes this study feasable with a limited number of simulations. Finally, we compute the diagonal and non-diagonal terms of the observation error covariance matrix and introduced it into our CO2 flux matrix inversion for 18 days of the 2005 intensive campaign CERES over the South West of France. Variances are based on model-data mismatch to ensure we treat model bias as well as ensemble dispersion, whereas spatial and temporal covariances are estimated with our method. </br > The horizontal structure of the ensemble variance manifests the discontinuities of the mesoscale structures during the day, but remains locally driven during the night. On the vertical, surface layer variance shows large correlations with the upper levels in the boundary layer (> 0.6), dropping to 0.4 with the lower levels of the free troposphere. Large temporal correlations were found during the afternoon (> 0.5 for several hours), reduced during the night. The diffusion equation model extracted relevant error covariance signals horizontally, with reduced correlations over mountain areas and during the night over the continent. The posterior error reduction on the inverted CO2 fluxes accounting for the model error correlations illustrates the predominance of the temporal over the spatial correlations when using tower-based CO2 concentration observations.
+C1 [Lauvaux, T.; Chevallier, F.; Ciais, P.; Rayner, P. J.] UVSQ, CNRS, CEA, IPSL,Lab Sci Climat & Environm, Gif Sur Yvette, France.
+   [Lauvaux, T.; Pannekoucke, O.; Sarrat, C.; Noilhan, J.] Ctr Natl Rech Meteorol, Toulouse, France.
+C3 CEA; Universite Paris Saclay; Centre National de la Recherche Scientifique (CNRS); Universite Paris Cite
+RP Lauvaux, T (corresponding author), UVSQ, CNRS, CEA, IPSL,Lab Sci Climat & Environm, Gif Sur Yvette, France.
+EM thomas.lauvaux@lsce.ipsl.fr
+FU European Commission
+CR Annan JD, 2005, NONLINEAR PROC GEOPH, V12, P363, DOI 10.5194/npg-12-363-2005
+   Baker DF, 2006, GLOBAL BIOGEOCHEM CY, V20, P0, DOI 10.1029/2004GB002439
+   BERRE PJ, 2007, P ECMWF WORKSH FLOW, V0, P151
+   Bousquet P, 2006, NATURE, V443, P439, DOI 10.1038/nature05132
+   Calvet JC, 1998, AGR FOREST METEOROL, V92, P73, DOI 10.1016/S0168-1923(98)00091-4
+   CARVALHO AC, 2008, NATO SCI PEACE SECUR, V0, P0
+   Chevallier F, 2006, GEOPHYS RES LETT, V33, P0, DOI 10.1029/2006GL026496
+   Corbin KD, 2008, J GEOPHYS RES-ATMOS, V113, P0, DOI 10.1029/2007JD008716
+   Corbin KD, 2006, GEOPHYS RES LETT, V33, P0, DOI 10.1029/2006GL025910
+   Crisp D, 2004, ADV SPACE RES-SERIES, V34, P700, DOI 10.1016/j.asr.2003.08.062
+   Daley R, 1991, ATMOSPHERIC DATA ANALYSIS, V0, P0
+   Dolman AJ, 2006, B AM METEOROL SOC, V87, P1367, DOI 10.1175/BAMS-87-10-1367
+   Enting IG, 2002, CAM ATM SP, V0, P0, DOI DOI 10.1017/CBO9780511535741
+   Filippi D, 2003, GEOPH RES ABSTR, V0, P0
+   FISCHER AM, 2008, ATMOS CHEM PHYS DISC, V8, P14371
+   Fisher M, 1995, 220 ECMWF, V0, P0
+   Geels C, 2007, ATMOS CHEM PHYS, V7, P3461, DOI 10.5194/acp-7-3461-2007
+   Gerbig C, 2008, ATMOS CHEM PHYS, V8, P591, DOI 10.5194/acp-8-591-2008
+   Gerbig C, 2003, J GEOPHYS RES-ATMOS, V108, P0, DOI 10.1029/2002JD003018
+   Gloor M, 2000, GLOBAL BIOGEOCHEM CY, V14, P407, DOI 10.1029/1999GB900052
+   Gurney KR, 2002, NATURE, V415, P626, DOI 10.1038/415626a
+   HAMAZAKI T, 2004, P COMM 7 20 ISPRS C, V0, P0
+   Kaminski T, 2001, J GEOPHYS RES-ATMOS, V106, P4703, DOI 10.1029/2000JD900581
+   Kaminski Thomas, 2008, V203, V0, P33
+   Krinner G, 2005, GLOBAL BIOGEOCHEM CY, V19, P0, DOI 10.1029/2003GB002199
+   Lafore JP, 1998, ANN GEOPHYS-ATM HYDR, V16, P90, DOI 10.1007/s00585-997-0090-6
+   Lauvaux T, 2008, ATMOS CHEM PHYS, V8, P3459, DOI 10.5194/acp-8-3459-2008
+   Law RM, 2008, GLOBAL BIOGEOCHEM CY, V22, P0, DOI 10.1029/2007GB003050
+   Law RM, 2003, TELLUS B, V55, P512, DOI 10.1034/j.1600-0889.2003.00029.x
+   Lorenc AC, 2003, Q J ROY METEOR SOC, V129, P3183, DOI 10.1256/qj.02.132
+   LORENZ EN, 1982, TELLUS, V34, P505, DOI 10.1111/j.2153-3490.1982.tb01839.x
+   Pannekoucke O, 2008, Q J ROY METEOR SOC, V134, P497, DOI 10.1002/qj.212
+   PANNEKOUCKE O, 2008, Q J R METEOROL SOC, V0, PP1, DOI 10.1002/QJ.000
+   Pannekoucke O, 2007, Q J ROY METEOR SOC, V133, P363, DOI 10.1002/qj.33
+   Pérez-Landa G, 2007, ATMOS CHEM PHYS, V7, P1851, DOI 10.5194/acp-7-1851-2007
+   Pétron G, 2002, J GEOPHYS RES-ATMOS, V107, P0, DOI 10.1029/2001JD001305
+   Raupach MR, 2007, P NATL ACAD SCI USA, V104, P10288, DOI 10.1073/pnas.0700609104
+   Rayner PJ, 2008, GLOBAL BIOGEOCHEM CY, V22, P0, DOI 10.1029/2007GB003068
+   Rayner PJ, 2005, GLOBAL BIOGEOCHEM CY, V19, P0, DOI 10.1029/2004GB002254
+   Rayner PJ, 2001, GEOPHYS RES LETT, V28, P175, DOI 10.1029/2000GL011912
+   Rodgers CD, 2004, INVERSE METHODS FOR ATMOSPHERIC SOUNDING: THEORY AND PRACTICE, V0, P0
+   Sarrat C, 2007, J GEOPHYS RES-ATMOS, V112, P0, DOI 10.1029/2006JD008107
+   Sarrat C, 2007, BIOGEOSCIENCES DISCUSSIONS, V4, P1923, DOI 10.5194/BGD-4-1923-2007
+   SARRAT C, 2009, BIOGEOSCIENCES DISCU, V6, P515
+   STEPHENS BB, 2000, GEOPHYS MONOGRAPH AG, V114, P0
+   Stephens BB, 2007, SCIENCE, V316, P1732, DOI 10.1126/science.1137004
+   Takahashi T, 1997, P NATL ACAD SCI USA, V94, P8292, DOI 10.1073/pnas.94.16.8292
+   TALAGRAND O, 1997, P ECMWF WORKSH PRED, V0, P157
+   Tarantola A, 2005, INVERSE PROBLEM THEO, V0, P0
+   Uliasz M, 1994, ENV MODELING 2, V0, P71
+   Weaver A, 2001, Q J ROY METEOR SOC, V127, P1815, DOI 10.1002/qj.49712757518
+NR 52
+TC 65
+Z9 76
+U1 0
+U2 6
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1726-4170
+EI 1726-4189
+J9 BIOGEOSCIENCES
+JI Biogeosciences
+PD JUN 15
+PY 2009
+VL 6
+IS 6
+BP 1089
+EP 1102
+DI 10.5194/bg-6-1089-2009
+PG 14
+WC Ecology; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA 464XN
+UT WOS:000267543100009
+DA 2025-11-05
+ER
+

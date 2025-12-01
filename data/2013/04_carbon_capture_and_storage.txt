@@ -1,0 +1,103 @@
+PT J
+AU Balashov, VN
+   Guthrie, GD
+   Hakala, JA
+   Lopano, CL
+   Rimstidt, JD
+   Brantley, SL
+AF Balashov, Victor N.
+   Guthrie, George D.
+   Hakala, J. Alexandra
+   Lopano, Christina L.
+   Rimstidt, J. Donald
+   Brantley, Susan L.
+TI Predictive modeling of CO2 sequestration in deep saline sandstone reservoirs: Impacts of geochemical kinetics
+SO APPLIED GEOCHEMISTRY
+LA English
+DT Article
+ID reactive transport; carbon-dioxide; geologic sequestration; injection; water; simulation; disposal; rock; transformation; dissolution
+AB One idea for mitigating the increase in fossil-fuel generated CO2 in the atmosphere is to inject CO2 into subsurface saline sandstone reservoirs. To decide whether to try such sequestration at a globally significant scale will require the ability to predict the fate of injected CO2. Thus, models are needed to predict the rates and extents of subsurface rock-water-gas interactions. Several reactive transport models for CO2 sequestration created in the last decade predicted sequestration in sandstone reservoirs of similar to 17 to similar to 90 kg CO2 m (3). To build confidence in such models, a baseline problem including rock + water chemistry is proposed as the basis for future modeling so that both the models and the parameterizations can be compared systematically. In addition, a reactive diffusion model is used to investigate the fate of injected supercritical CO2 fluid in the proposed baseline reservoir + brine system. In the baseline problem, injected CO2 is redistributed from the supercritical (SC) free phase by dissolution into pore brine and by formation of carbonates in the sandstone. The numerical transport model incorporates a full kinetic description of mineral-water reactions under the assumption that transport is by diffusion only. Sensitivity tests were also run to understand which mineral kinetics reactions are important for CO2 trapping. The diffusion transport model shows that for the first similar to 20 years (20 a) after CO2 diffusion initiates, CO2 is mostly consumed by dissolution into the brine to form CO2,(aq) (solubility trapping). From 20 to 200 a, both solubility and mineral trapping are important as calcite precipitation is driven by dissolution of oligoclase. From 200 to 1000 a, mineral trapping is the most important sequestration mechanism, as smectite dissolves and calcite precipitates. Beyond 2000 a most trapping is due to formation of aqueous HCO3-. Ninety-seven percent of the maximum CO2 sequestration, 34.5 kg CO2 per m(3) of sandstone, is attained by 4000 a even though the system does not achieve chemical equilibrium until similar to 25,000 a. This maximum represents about 20% CO2 dissolved as CO2,aq, 50% dissolved as HCO3,aq-, and 30% precipitated as calcite. The extent of sequestration as HCO3- at equilibrium can be calculated from equilibrium thermodynamics and is roughly equivalent to the amount of Na+ in the initial sandstone in a soluble mineral (here, oligoclase). Similarly, the extent of trapping in calcite is determined by the amount of Ca2+ in the initial oligoclase and smectite. Sensitivity analyses show that the rate of CO2 sequestration is sensitive to the mineral-water reaction kinetic constants between approximately 10 and 4000 a. The sensitivity of CO2 sequestration to the rate constants decreases in magnitude respectively from oligoclase to albite to smectite. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Balashov, Victor N.; Brantley, Susan L.] Penn State Univ, Earth & Environm Syst Inst, University Pk, PA 16802 USA.
+   [Guthrie, George D.; Hakala, J. Alexandra; Lopano, Christina L.] US DOE, Natl Energy & Technol Lab, Pittsburgh, PA 15236 USA.
+   [Rimstidt, J. Donald] Virginia Polytech Inst & State Univ, Dept Geosci, Blacksburg, VA 24061 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park; United States Department of Energy (DOE); National Energy Technology Laboratory - USA; Virginia Polytechnic Institute & State University
+RP Balashov, VN (corresponding author), Penn State Univ, Earth & Environm Syst Inst, 2217 EES Bldg, University Pk, PA 16802 USA.
+EM vnb1@psu.edu
+FU National Energy Technology Laboratory under the RES [DE_FE0004000]
+CR Audigane P, 2007, AM J SCI, V307, P974, DOI 10.2475/07.2007.02
+   BALASHOV VN, 1989, DOKL AKAD NAUK SSSR+, V307, P703
+   BALASHOV VN, 1995, FLUIDS CRUST EQUILIB, V0, P215
+   Benson S, 2005, IPCC SPECIAL REPORT ON CARBON DIOXIDE CAPTURE AND STORAGE, V0, P195
+   Benson SM, 2008, ELEMENTS, V4, P325, DOI 10.2113/gselements.4.5.325
+   Bowen BB, 2011, ENV GEOSCIENCES, V18, P69, DOI 10.1306/EG.07271010012
+   Brantley S, 2008, KINETICS WATER ROCK, V0, P0, DOI DOI 10.1007/978-0-387-73563-4_5
+   CHERMAK JA, 1990, GEOCHIM COSMOCHIM AC, V54, P2979, DOI 10.1016/0016-7037(90)90115-2
+   Collins AG, 1975, GEOHEMISTRY OILFIELD, V0, P0
+   Cugini A, 2010, INT C GREENH GAS TEC, V0, P0
+   Dentz M, 2009, TRANSPORT POROUS MED, V79, P15, DOI 10.1007/s11242-008-9268-y
+   Dethlefsen F, 2011, ENRGY PROCED, V4, P3770, DOI 10.1016/j.egypro.2011.02.311
+   DICKINSON WR, 1979, AAPG BULL, V63, P2164
+   Doughty C, 2010, TRANSPORT POROUS MED, V82, P49, DOI 10.1007/s11242-009-9396-z
+   Duan ZH, 2003, CHEM GEOL, V193, P257, DOI 10.1016/S0009-2541(02)00263-2
+   Ennis-King J, 2007, INT J GREENH GAS CON, V1, P86, DOI 10.1016/S1750-5836(07)00034-5
+   Gaus I, 2005, CHEM GEOL, V217, P319, DOI 10.1016/j.chemgeo.2004.12.016
+   Goddéris Y, 2010, GEOCHIM COSMOCHIM AC, V74, P6357, DOI 10.1016/j.gca.2010.08.023
+   Gunter WD, 2000, APPL GEOCHEM, V15, P1085, DOI 10.1016/S0883-2927(99)00111-0
+   Johnson JW, 2004, GEOLOGICAL STORAGE C, V233, P107, DOI 10.1144/GSL.SP.2004.233.01.08
+   Johnson JW, 2001, 1 NAT C CARB SEQ NAT, V0, P0
+   Kaszuba JP, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2011GL046845
+   Knauss KG, 2005, CHEM GEOL, V217, P339, DOI 10.1016/j.chemgeo.2004.12.017
+   Köhler SJ, 2003, GEOCHIM COSMOCHIM AC, V67, P3583, DOI 10.1016/S0016-7037(03)00163-7
+   Korzhinskii D S, 1970, THEORY OF METASOMATIC ZONING, V0, P0
+   Korzhinskii DS, 1936, IZV AN SSSR GEOL, V1, P58
+   Lebedeva MI, 2007, CHEM GEOL, V244, P624, DOI 10.1016/j.chemgeo.2007.07.008
+   Liu FY, 2011, INT J GREENH GAS CON, V5, P294, DOI 10.1016/j.ijggc.2010.08.008
+   Liu YZ, 2010, ENERG FUEL, V24, P1431, DOI 10.1021/ef9010498
+   Lu C, 2009, TRANSPORT POROUS MED, V79, P29, DOI 10.1007/s11242-009-9362-9
+   Marini L, 2007, DEV GEOCHEMISTRY, V11, P0
+   Michael K, 2010, INT J GREENH GAS CON, V4, P659, DOI 10.1016/j.ijggc.2009.12.011
+   NETL ATLAS, 2010, CARB SEQ ATL US CAN, V0, P0
+   ODOM IE, 1976, J SEDIMENT PETROL, V46, P862
+   Oelkers EH, 1996, REV MINERAL, V34, P131
+   Palandri JL, 2004, COMPILATION RATE PAR, V0, P0
+   Pettijohn FJ, 1987, SAND SANDSTONE, Vsecond, P0
+   Pham VTH, 2011, INT J GREENH GAS CON, V5, P1002, DOI 10.1016/j.ijggc.2010.12.002
+   SHINDO Y, 1995, INT J CHEM KINET, V27, P569, DOI 10.1002/kin.550270607
+   Stauffer PH, 2009, ENVIRON SCI TECHNOL, V43, P565, DOI 10.1021/es800403w
+   Steefel CI, 2008, GEOCHEMICAL KINETICS AND TRANSPORT, V0, P545
+   THOMPSON JB, 1970, GEOCHIM COSMOCHIM AC, V34, P529, DOI 10.1016/0016-7037(70)90015-3
+   TREVENA AS, 1979, GEOLOGY, V7, P475, DOI 10.1130/0091-7613(1979)7<475:CAPODP>2.0.CO;2
+   White AF, 2003, CHEM GEOL, V202, P479, DOI 10.1016/j.chemgeo.2003.03.001
+   White SP, 2005, CHEM GEOL, V217, P387, DOI 10.1016/j.chemgeo.2004.12.020
+   Wildgust N, 2011, ENRGY PROCED, V4, P4835, DOI 10.1016/j.egypro.2011.02.450
+   Xu TF, 2005, CHEM GEOL, V217, P295, DOI 10.1016/j.chemgeo.2004.12.015
+   Xu TF, 2003, J GEOPHYS RES-SOL EA, V108, P0, DOI 10.1029/2002JB001979
+   Xu TF, 2004, APPL GEOCHEM, V19, P917, DOI 10.1016/j.apgeochem.2003.11.003
+   Xu TF, 2007, CHEM GEOL, V242, P319, DOI 10.1016/j.chemgeo.2007.03.022
+NR 50
+TC 69
+Z9 82
+U1 2
+U2 90
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0883-2927
+EI 
+J9 APPL GEOCHEM
+JI Appl. Geochem.
+PD MAR 15
+PY 2013
+VL 30
+IS 
+BP 41
+EP 56
+DI 10.1016/j.apgeochem.2012.08.016
+PG 16
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA 098VG
+UT WOS:000315576600005
+DA 2025-11-05
+ER
+

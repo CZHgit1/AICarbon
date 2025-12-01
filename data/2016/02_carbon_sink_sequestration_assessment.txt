@@ -1,0 +1,817 @@
+PT J
+AU Dutkiewicz, A
+   O'Callaghan, S
+   Müller, RD
+AF Dutkiewicz, A.
+   O'Callaghan, S.
+   Muller, R. D.
+TI Controls on the distribution of deep-sea sediments
+SO GEOCHEMISTRY GEOPHYSICS GEOSYSTEMS
+LA English
+DT Article
+DE deep-sea sediments; ocean basin; machine learning; Gaussian process classifier; big data analysis
+ID radiolarian physiological ecology; major diatom taxa; southern-ocean sediments; surface sediments; biogenic silica; late quaternary; atlantic-ocean; paleoenvironmental reconstructions; salinity tolerance; spongaster-tetras
+AB Deep-sea sediments represent the largest geological deposit on Earth and provide a record of our planet's response to conditions at the sea surface from where the bulk of material originates. We use a machine learning method to analyze how the distribution of 14,400 deep-sea sediment sample lithologies is connected to bathymetry and surface oceanographic parameters. Our probabilistic Gaussian process classifier shows that the geographic occurrence of five major lithologies in the world's ocean can be predicted using just three parameters. Sea-surface salinity and temperature provide a major control for the growth and composition of plankton and specific ranges are also associated with the influx of non-aerosol terrigenous material into the ocean, while bathymetry is an important parameter for discriminating the occurrence of calcareous sediment, clay and coarse lithogenous sediment from each other. We find that calcareous and siliceous oozes are not linked to high surface productivity. Diatom and radiolarian oozes are associated with low salinities at the surface but with discrete ranges of temperatures, reflecting the diversity of planktonic species in different climatic zones. Biosiliceous sediments cannot be used to infer paleodepth, but are good indicators of paleotemperature and paleosalinity. Our analysis provides a new framework for constraining paleosurface ocean environments from the geological record of deep-sea sediments. It shows that small shifts in salinity and temperature significantly affect the lithology of seafloor sediment. As deep-sea sediments represent the largest carbon sink on Earth these shifts need to be considered in the context of global ocean warming.
+C1 [Dutkiewicz, A.; Muller, R. D.] Univ Sydney, Sch Geosci, EarthByte Grp, Sydney, NSW, Australia.
+   [O'Callaghan, S.] Data61 CSIRO, Australian Technol Pk, Eveleigh, NSW, Australia.
+C3 University of Sydney; Commonwealth Scientific & Industrial Research Organisation (CSIRO)
+RP Dutkiewicz, A (corresponding author), Univ Sydney, Sch Geosci, EarthByte Grp, Sydney, NSW, Australia.
+EM adriana.dutkiewicz@sydney.edu.au
+FU Science Industry Endowment Fund Big Data Knowledge Discovery project [RP 04-174]; National ICT Australia (NICTA); Australian Government through the ICT Centre of Excellence program; University of Sydney Faculty of Science Seed-funding Grant; ARC ITRP grant [IH130200012]
+CR Abelmann A, 1999, PALEOCEANOGRAPHY, V14, P410, DOI 10.1029/1998PA900024
+   Abelmann A, 1997, MAR MICROPALEONTOL, V30, P3, DOI 10.1016/S0377-8398(96)00021-7
+   ABELMANN A, 1992, POLAR BIOL, V12, P357
+   Afanasieva MS, 2005, PALEONTOL J+, V39, P0
+   Amante C, 2009, NOAA TECHNICAL MEMOR, V0, P19
+   ANDERSON OR, 1989, MAR MICROPALEONTOL, V14, P275, DOI 10.1016/0377-8398(89)90014-5
+   ANDERSON OR, 1978, TISSUE CELL, V10, P401
+   ANDERSON OR, 1990, MAR MICROPALEONTOL, V16, P155
+   Antonov JI, 2010, NOAA ATLAS NESDIS 69, V0, P0
+   ARCHER D, 1993, PALEOCEANOGRAPHY, V8, P7, DOI 10.1029/92PA02803
+   Archer DE, 1996, GLOBAL BIOGEOCHEM CY, V10, P159, DOI 10.1029/95GB03016
+   Armand LK, 2005, PALAEOGEOGR PALAEOCL, V223, P93, DOI 10.1016/j.palaeo.2005.02.015
+   Barron EJ, 1981, SEA, V7, P689
+   Baumann Karl-Heinz, 2005, PALAEONTOLOGISCHE ZEITSCHRIFT, V79, P93
+   Berger W, 1974, PELAGIC SEDIMENTS: ON LAND AND UNDER THE SEA, V1, P11
+   Berger WH, 1976, TREATISE ON CHEMICAL OCEANOGRAPHY, V5, P265
+   Berger WH, 1974, THE GEOLOGY OF CONTINENTAL MARGINS, V0, PP213, DOI 10.1007/978-3-662-01141-616
+   BERGER WH, 1968, J MAR RES, V26, P134
+   BERGER WH, 1970, SCIENCE, V168, P1345, DOI 10.1126/science.168.3937.1345
+   Berger WH, 2011, ANNU REV MAR SCI, V3, P1, DOI 10.1146/annurev-marine-120709-142831
+   Bidle KD, 1999, NATURE, V397, P508, DOI 10.1038/17351
+   BISCAYE PE, 1965, GEOL SOC AM BULL, V76, P803, DOI 10.1130/0016-7606(1965)76[803:MASORD]2.0.CO;2
+   Bollmann J, 2002, PALEOCEANOGRAPHY, V17, P0, DOI 10.1029/2001PA000742
+   Bradley AP, 1997, PATTERN RECOGN, V30, P1145, DOI 10.1016/S0031-3203(96)00142-2
+   BRAND LE, 1984, ESTUAR COAST SHELF S, V18, P543, DOI 10.1016/0272-7714(84)90089-1
+   Broecker WS, 2008, PALEOCEANOGRAPHY, V23, P0, DOI 10.1029/2007PA001456
+   BROWN CW, 1994, J GEOPHYS RES-OCEANS, V99, P7467, DOI 10.1029/93JC02156
+   BURCKLE LH, 1982, NATURE, V299, P435, DOI 10.1038/299435a0
+   Calil PHR, 2011, J GEOPHYS RES-OCEANS, V116, P0, DOI 10.1029/2010JC006704
+   CASEY RE, 1989, PALAEOGEOGR PALAEOCL, V74, P15, DOI 10.1016/0031-0182(89)90017-5
+   Casey Richard E, 1993, P249, V0, P0
+   CHAMLEY H, 1986, GEOL RUNDSCH, V75, P271, DOI 10.1007/BF01770193
+   Crosta X, 2005, PALAEOGEOGR PALAEOCL, V223, P66, DOI 10.1016/j.palaeo.2005.03.028
+   Davies TA, 1976, CHEMICAL OCEANOGRAPHY, V0, P1
+   Denman KL, 2008, MAR ECOL PROG SER, V364, P219, DOI 10.3354/meps07542
+   DeWever P, 1996, GEOL RUNDSCH, V85, P310, DOI 10.1007/BF02422237
+   Dezileau L, 2000, DEEP-SEA RES PT I, V47, P1899, DOI 10.1016/S0967-0637(00)00008-X
+   Diekmann B, 1999, MAR GEOL, V158, P209, DOI 10.1016/S0025-3227(98)00165-0
+   Diekmann B, 2007, DEEP-SEA RES PT II, V54, P2350, DOI 10.1016/j.dsr2.2007.07.025
+   Dutkiewicz A, 2015, GEOLOGY, V43, P795, DOI 10.1130/G36883.1
+   Evans J, 2002, J GEOL SOC LONDON, V159, P233, DOI 10.1144/0016-764901-125
+   Fagel N, 2007, DEV MARINE GEOL, V1, P139, DOI 10.1016/S1572-5480(07)01009-3
+   Fischer G, 2002, DEEP-SEA RES PT II, V49, P1721, DOI 10.1016/S0967-0645(02)00009-7
+   Gao Y, 2003, J GEOPHYS RES-ATMOS, V108, P0, DOI 10.1029/2002JD002420
+   Garcia HE, 2010, NOAA ATLAS NESDIS 71, V0, PP398, DOI 10.1182/BLOOD-2011-06-357442
+   Garcia HE, 2010, NOAA ATLAS NESDIS, V70, P344
+   Gersonde R, 1999, PROC OCEAN DRILL PRO, V177, P0, DOI 10.2973/ODP.PROC.IR.177.1999
+   GOLL R M, 1971, MICROPALEONTOLOGY (NEW YORK), V17, P434, DOI 10.2307/1484872
+   GOWING MM, 1989, DEEP-SEA RES, V36, P561, DOI 10.1016/0198-0149(89)90006-X
+   GRANLUND A, 1986, MAR MICROPALEONTOL, V11, P243, DOI 10.1016/0377-8398(86)90018-6
+   Gruetzner J, 2012, GEOCHEM GEOPHY GEOSY, V13, P0, DOI 10.1029/2012GC004266
+   HEDGES JI, 1995, MAR CHEM, V49, P81, DOI 10.1016/0304-4203(95)00008-F
+   Hesse R, 2011, DEVEL SEDIM, V63, P557, DOI 10.1016/S0070-4571(11)63009-4
+   HONJO S, 1976, MAR MICROPALEONTOL, V1, P65, DOI 10.1016/0377-8398(76)90005-0
+   Honjo S, 1975, SPECIAL PUBLS CUSHMAN FDN, VNo. 13, P114
+   HORN DR, 1971, SEDIMENTOLOGY, V16, P55, DOI 10.1111/j.1365-3091.1971.tb00218.x
+   Huneke H, 2011, DEEP-SEA SEDIMENTS, V0, P0
+   Hunter JD, 2007, COMPUT SCI ENG, V9, P90, DOI 10.1109/MCSE.2007.55
+   Hutchins DA, 1998, NATURE, V393, P561, DOI 10.1038/31203
+   Jaffe D, 1999, GEOPHYS RES LETT, V26, P711, DOI 10.1029/1999GL900100
+   Jenkyns HC, 2010, GEOCHEM GEOPHY GEOSY, V11, P0, DOI 10.1029/2009GC002788
+   Jickells TD, 2005, SCIENCE, V308, P67, DOI 10.1126/science.1105959
+   Jutzeler M, 2014, GEOCHEM GEOPHY GEOSY, V15, P3572, DOI 10.1002/2014GC005447
+   Kamikuri S, 2008, MAR MICROPALEONTOL, V69, P151, DOI 10.1016/j.marmicro.2008.07.005
+   Kinkel H, 2000, MAR MICROPALEONTOL, V39, P87, DOI 10.1016/S0377-8398(00)00016-5
+   LANDRY MR, 1982, MAR BIOL, V67, P283, DOI 10.1007/BF00397668
+   LILL GG, 1959, SCIENCE, V129, P1407, DOI 10.1126/science.129.3360.1407
+   Lisitzin AP, 2011, RUSS GEOL GEOPHYS+, V52, P1100, DOI 10.1016/j.rgg.2011.09.006
+   Locarnini RA, 2010, WORLD OCEAN ATLAS 2009, Volume 1: Temperature, P0
+   Mahowald NM, 2005, GLOBAL BIOGEOCHEM CY, V19, P0, DOI 10.1029/2004GB002402
+   MALIVA R G, 1989, PALAIOS, V4, P519, DOI 10.2307/3514743
+   Martin KM, 2015, GEOPHYS RES LETT, V42, P10640, DOI 10.1002/2015GL065279
+   Martin-Jézéquel V, 2000, J PHYCOL, V36, P821, DOI 10.1046/j.1529-8817.2000.00019.x
+   Masse L, 1996, SEDIMENTOLOGY, V43, P115, DOI 10.1111/j.1365-3091.1996.tb01463.x
+   MATSUOKA A, 1992, MAR MICROPALEONTOL, V19, P299, DOI 10.1016/0377-8398(92)90035-I
+   MAYNARD N G, 1976, PALEOBIOLOGY, V2, P99
+   MCCOY FW, 1985, OCEAN BASIN MARGIN, V7, P1
+   MCINTYRE A, 1970, TRANSACTIONS OF THE NEW YORK ACADEMY OF SCIENCE, V32, P720
+   MCINTYRE A, 1967, DEEP-SEA RES, V14, P561, DOI 10.1016/0011-7471(67)90065-4
+   Milliman JD, 2011, RIVER DISCHARGE TO THE COASTAL OCEAN: A GLOBAL SYNTHESIS, V0, P0, DOI DOI 10.1017/CBO9780511781247
+   Mohan R, 2008, MAR MICROPALEONTOL, V67, P30, DOI 10.1016/j.marmicro.2007.08.005
+   MOLFINO B, 1982, QUATERNARY RES, V17, P279, DOI 10.1016/0033-5894(82)90025-4
+   Moore JK, 2008, BIOGEOSCIENCES, V5, P631, DOI 10.5194/bg-5-631-2008
+   MOORE TC, 1980, MAR MICROPALEONTOL, V5, P215, DOI 10.1016/0377-8398(80)90012-2
+   Nelson DM, 2002, DEEP-SEA RES PT II, V49, P1645, DOI 10.1016/S0967-0645(02)00005-X
+   NELSON DM, 1995, GLOBAL BIOGEOCHEM CY, V9, P359, DOI 10.1029/95GB01070
+   ORSI AH, 1995, DEEP-SEA RES PT I, V42, P641, DOI 10.1016/0967-0637(95)00021-W
+   Pisias NG, 1997, PALEOCEANOGRAPHY, V12, P365, DOI 10.1029/97PA00582
+   PISIAS NG, 1986, NATURE, V320, P259, DOI 10.1038/320259a0
+   Pisias NG, 2013, GEOCHEM GEOPHY GEOSY, V14, P4015, DOI 10.1002/ggge.20247
+   Pondaven P, 2000, NATURE, V405, P168, DOI 10.1038/35012046
+   Prospero JM, 1999, P NATL ACAD SCI USA, V96, P3396, DOI 10.1073/pnas.96.7.3396
+   Rasmussen CE, 2005, ADAPT COMPUT MACH LE, V0, P1
+   Rebesco M, 2014, MAR GEOL, V352, P111, DOI 10.1016/j.margeo.2014.03.011
+   Rigby P, 2010, J FIELD ROBOT, V27, P741, DOI 10.1002/rob.20372
+   Rogers J, 2007, MAR MICROPALEONTOL, V65, P137, DOI 10.1016/j.marmicro.2007.07.001
+   Romero OE, 2005, PALAEOGEOGR PALAEOCL, V223, P49, DOI 10.1016/j.palaeo.2005.03.027
+   ROTH PH, 1982, MAR MICROPALEONTOL, V7, P1, DOI 10.1016/0377-8398(82)90014-7
+   Roubeix V, 2008, BIOGEOCHEMISTRY, V88, P47, DOI 10.1007/s10533-008-9193-8
+   Schmoker C, 2013, J PLANKTON RES, V35, P691, DOI 10.1093/plankt/fbt023
+   SCHNITKER D, 1980, NATURE, V284, P615, DOI 10.1038/284615a0
+   Scholle PA, 1983, AMERICAN ASSOCIATION FOR PETROLEUM GEOLOGISTS MEMOIR, V33, P619, DOI 10.1306/M33429C19
+   Schutz L, 1981, DESSERT DUST, V0, PP87, DOI 10.1130/SPE186-P87
+   Soppa MA, 2014, REMOTE SENS-BASEL, V6, P10089, DOI 10.3390/rs61010089
+   STOW DAV, 1978, MAR GEOL, V28, P135, DOI 10.1016/0025-3227(78)90101-9
+   Sugiyama K, 1997, MAR MICROPALEONTOL, V29, P159, DOI 10.1016/S0377-8398(96)00011-4
+   SWANBERG NR, 1992, MICROPALEONTOLOGY, V38, P57, DOI 10.2307/1485843
+   TAKAHASHI K, 1983, SCIENCE, V222, P616, DOI 10.1126/science.222.4624.616
+   TAKAHASHI K, 1983, DEEP-SEA RES, V30, P543, DOI 10.1016/0198-0149(83)90088-2
+   Trujillo AP, 2014, ESSENTIALS OCEANOGRA, V11th ed, P0
+   UEMATSU M, 1983, J GEOPHYS RES-OCEANS, V88, P5343, DOI 10.1029/JC088iC09p05343
+   Van Cappellen P, 1997, SOLUBILITY DEEP SE 2, V44, P1109
+   VANANDEL TH, 1975, EARTH PLANET SC LETT, V26, P187, DOI 10.1016/0012-821X(75)90086-2
+   Vanhatalo J, 2012, ECOL MODEL, V228, P49, DOI 10.1016/j.ecolmodel.2011.12.025
+   WEFER G, 1989, LIFE SCI R, V44, P139
+   Wefer G, 1999, USE OF PROXIES IN PALEOCEANOGRAPHY, V0, PP1, DOI 10.1007/978-3-642-58646-0_1
+   Wei CL, 2010, PLOS ONE, V5, P0, DOI 10.1371/journal.pone.0015323
+   Wessel Paul, 2013, EOS, V0, P0
+   Winter Amos, 1994, P161, V0, P0
+   Zeebe RE, 2012, ANNU REV EARTH PL SC, V40, P141, DOI 10.1146/annurev-earth-042711-105521
+NR 126
+TC 29
+Z9 34
+U1 2
+U2 49
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 
+EI 1525-2027
+J9 GEOCHEM GEOPHY GEOSY
+JI Geochem. Geophys. Geosyst.
+PD AUG 15
+PY 2016
+VL 17
+IS 8
+BP 3075
+EP 3098
+DI 10.1002/2016GC006428
+PG 24
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA DY0TD
+UT WOS:000384808200007
+DA 2025-11-05
+ER
+
+PT J
+AU Rudiyanto
+   Minasny, B
+   Setiawan, BI
+   Arif, C
+   Saptomo, SK
+   Chadirin, Y
+AF Rudiyanto
+   Minasny, Budiman
+   Setiawan, Budi Indra
+   Arif, Chusnul
+   Saptomo, Satyanto Krido
+   Chadirin, Yudi
+TI Digital mapping for cost-effective and accurate prediction of the depth and carbon stocks in Indonesian peatlands
+SO GEODERMA
+LA English
+DT Article
+DE Digital soil mapping; Tropical peatlands; Peat depth; Regression tree; Random Forests; Artificial Neural Network
+ID soil organic-matter; spatial prediction; random forest; terrain attributes; neural-network; ch4 fluxes; peat; regression; variability; storage
+AB Tropical peatlands have an important role in the global carbon cycle. In order to quantify carbon stock for peatland management and conservation, the knowledge of the spatial distribution of peat and its depth is essential. This paper proposed a cost-effective and accurate methodology for mapping peat depth and carbon stocks in Indonesia. The method, based on the scorpan spatial soil prediction function framework, was tested in Ogan Komering Ilir, South Sumatra and Katingan, Central Kalimantan. A peat hydrological unit, where a peatland is bounded by at least two rivers, is defined as the mapping area or extent. Peat depth is modelled as a function of topography and spatial position. Four machine learning models were evaluated to model and map peat depth: Cubist regression tree, Random Forests (RF), Quantile Regression Forests (QRF) and Artificial Neural Network (ANN). Covariates representing topography and spatial position were derived from the 1 arc-second digital elevation model (DEM) of the Shuttle Radar Topography Mission (SRTM) (resolution of 30.7 m). The spatial models were calibrated from field observations. For model calibration and uncertainty analysis, the k-fold cross validation approach was used. Three models: Cubist, Random Forests, and Quantile Regression Forests models showed excellent accuracies of peat depth prediction for both areas where the coefficient of determination values range from 0.67 to 0.92 and root mean squared error (RMSE) values range from 0.6 to 1.1 m. ANN showed inferior results. In addition, QRF and Cubist showed the best account of the uncertainty of prediction, in terms of percentage of observations that fall within the defined 90% confidence interval. In terms of the best predictor, elevation comes first. Using the spatial prediction functions, peat depth maps along with their 90% confidence interval were generated. The estimated mean carbon stock for Ogan Komering Ilir is 0.474 Gt and for Katingan is 0.123 Gt. Our estimate for Ogan Komering Ilir is twice larger than a previous study because we mapped the peatland hydrological unit, while the previous study only delineated peat domes. Finally, we recommend a sampling method for peat depth mapping using numerical stratification of elevation to cover both the geographical and covariate space. We expect that the combination of an improved sampling strategy, machine learning models, and kriging will increase the accuracy of peat depth mapping. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Rudiyanto; Setiawan, Budi Indra; Arif, Chusnul; Saptomo, Satyanto Krido; Chadirin, Yudi] Bogor Agr Univ, Dept Civil & Environm Engn, Kampus IPB Darmaga,POB 220, Bogor 16002, Indonesia.
+   [Rudiyanto; Minasny, Budiman] Univ Sydney, Fac Agr & Environm, Sydney, NSW 2006, Australia.
+C3 Bogor Agricultural University; University of Sydney
+RP Rudiyanto; Setiawan, BI (corresponding author), Bogor Agr Univ, Dept Civil & Environm Engn, Kampus IPB Darmaga,POB 220, Bogor 16002, Indonesia.; Rudiyanto; Minasny, B (corresponding author), Univ Sydney, Fac Agr & Environm, Sydney, NSW 2006, Australia.
+EM lupusae@yahoo.com; budiman.minasny@sydney.edu.au; budindra@ipb.ac.id
+CR Adhikari K, 2013, SOIL SCI SOC AM J, V77, P860, DOI 10.2136/sssaj2012.0275
+   Aguilar FJ, 2005, PHOTOGRAMM ENG REM S, V71, P805, DOI 10.14358/PERS.71.7.805
+   Aitkenhead MJ, 2016, GEODERMA, V262, P187, DOI 10.1016/j.geoderma.2015.08.034
+   Aitkenhead MJ, 2015, EUR J SOIL SCI, V66, P112, DOI 10.1111/ejss.12199
+   Akumu CE, 2014, CATENA, V121, P297, DOI 10.1016/j.catena.2014.05.025
+   Altdorff D, 2016, GEODERMA, V261, P178, DOI 10.1016/j.geoderma.2015.07.015
+   Anderson JAR, 1964, J TROP GEOGRAPHY, V18, P7
+   Anderson JAR, 1961, ECOLOGY FOREST TYPES, V0, P0
+   Unknown -, 1997, THESIS U BRIT COLUMB, V0, P0
+   Unknown -, 2013, PEATLAND MAPS INDONE, V0, P0
+   Unknown -, 2012, KARAKTERISTIK DAN SE, V0, P0
+   Unknown -, 2016, GEODERMA, V0, P0, DOI DOI 10.1016/j.geoderma.2015.07.017
+   Unknown -, 2023, MACH. LEARN., V0, P0
+   Unknown -, 2014, CLIMATE RESPONSIBLE, V0, P0
+   Unknown -, 1995, J AM STAT ASSOC, V0, P0, DOI DOI 10.2307/2965437
+   Unknown -, 2014, CARBON DYNAMICS IN TROPICAL PEATLAND PLANTED FORESTS (ONE-YEAR RESEARCH FINDINGS IN SUMATRA, V0, P0
+   Ball GH, 1965, DTIC DOCUMENT, V0, P0
+   Ballabio C, 2016, GEODERMA, V261, P110, DOI 10.1016/j.geoderma.2015.07.006
+   Bauer IE, 2003, CAN J BOT, V81, P833, DOI 10.1139/b03-076
+   Bauer IE, 2011, BOREAS, V40, P714, DOI 10.1111/j.1502-3885.2011.00210.x
+   Bezdek JC, 1983, SIAM REV, V25, P442
+   Bonfatti BR, 2016, GEODERMA, V261, P204, DOI 10.1016/j.geoderma.2015.07.016
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Dai FQ, 2014, ECOL INDIC, V45, P184, DOI 10.1016/j.ecolind.2014.04.003
+   ESTERLE JS, 1994, INT J COAL GEOL, V26, P1, DOI 10.1016/0166-5162(94)90030-2
+   Farmer J, 2014, GEODERMA, V214, P177, DOI 10.1016/j.geoderma.2013.09.013
+   Farmer J, 2011, CURR OPIN ENV SUST, V3, P339, DOI 10.1016/j.cosust.2011.08.010
+   Fell H, 2016, CATENA, V137, P61, DOI 10.1016/j.catena.2015.08.010
+   Fyfe RM, 2014, SOIL USE MANAGE, V30, P23, DOI 10.1111/sum.12091
+   GOODMAN LA, 1960, J AM STAT ASSOC, V55, P708, DOI 10.2307/2281592
+   Grimm R, 2008, GEODERMA, V146, P102, DOI 10.1016/j.geoderma.2008.05.008
+   Günther F, 2010, R J, V2, P30
+   Guo PT, 2015, GEODERMA, V237, P49, DOI 10.1016/j.geoderma.2014.08.009
+   Hartigan JA, 1979, APPLIED STATISTICS, V28, P100, DOI 10.2307/2346830
+   Hecht-Nielsen R, 1989, IJCNN: INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (CAT. NO.89CH2765-6), V0, PP593, DOI 10.1109/IJCNN.1989.118638
+   Hengl T, 2004, GEODERMA, V120, P75, DOI 10.1016/j.geoderma.2003.08.018
+   Heung B, 2016, GEODERMA, V265, P62, DOI 10.1016/j.geoderma.2015.11.014
+   Heung B, 2014, GEODERMA, V214, P141, DOI 10.1016/j.geoderma.2013.09.016
+   Holden NM, 2011, CATENA, V86, P75, DOI 10.1016/j.catena.2011.02.002
+   Hugron S, 2013, TREE PLANTATIONS WITHIN THE CONTEXT OF ECOLOGICAL RESTORATION OF PEATLANDS: PRACTICAL GUIDE, V0, P0
+   Jaenicke J, 2008, GEODERMA, V147, P151, DOI 10.1016/j.geoderma.2008.08.008
+   Joosten H, 2002, WISE USE MIRES PEATL, V0, P0
+   Keaney A, 2013, SPAT STAT-NETH, V5, P3, DOI 10.1016/j.spasta.2013.05.003
+   Koszinski S, 2015, SOIL SCI SOC AM J, V79, P1496, DOI 10.2136/sssaj2015.01.0019
+   Kuhn M, 2014, CUBIST: RULE AND INSTANCEBASED REGRESSION MODELING. R PACKAGE VERSION 0.0, V0, P0
+   Lähteenoja O, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001508
+   Liess M, 2012, GEODERMA, V170, P70, DOI 10.1016/j.geoderma.2011.10.010
+   Malone B, 2013, USE R FOR DIGITAL SOIL MAPPINGSOIL SECURITY LABORATORY, V0, P0
+   Malone BP, 2009, GEODERMA, V154, P138, DOI 10.1016/j.geoderma.2009.10.007
+   Mayumi Oshiro Thais, 2012, MACHINE LEARNING AND DATA MINING IN PATTERN RECOGNITION. PROCEEDINGS 8TH INTERNATIONAL CONFERENCE, V0, P154, DOI 10.1007/978-3-642-31537-4_13
+   McBratney AB, 2003, GEODERMA, V117, P3, DOI 10.1016/S0016-7061(03)00223-4
+   MCBRATNEY AB, 1992, J SOIL SCI, V43, P159, DOI 10.1111/j.1365-2389.1992.tb00127.x
+   Meinshausen N, 2006, J MACH LEARN RES, V7, P983
+   Minasny B, 2006, COMPUT GEOSCI-UK, V32, P1378, DOI 10.1016/j.cageo.2005.12.009
+   Moore ID, 1993, MODELLING CHANGE IN ENVIRONMENTAL SYSTEMS., V0, P189
+   Motaghian HR, 2011, PEDOSPHERE, V21, P170, DOI 10.1016/S1002-0160(11)60115-X
+   ODEH IOA, 1994, GEODERMA, V63, P197, DOI 10.1016/0016-7061(94)90063-9
+   ODEH IOA, 1995, GEODERMA, V67, P215, DOI 10.1016/0016-7061(95)00007-B
+   Odgers NP, 2015, GEODERMA, V237, P190, DOI 10.1016/j.geoderma.2014.09.009
+   Page SE, 2006, DEV EARTH S, V9, P145, DOI 10.1016/S0928-2025(06)09007-9
+   Page SE, 2004, J QUATERNARY SCI, V19, P625, DOI 10.1002/jqs.884
+   Page SE, 1999, PHILOS T R SOC B, V354, P1885, DOI 10.1098/rstb.1999.0529
+   Page SE, 2007, PEATLANDS INTERNATIONAL, V2, P26
+   Page SE, 2011, GLOBAL CHANGE BIOL, V17, P798, DOI 10.1111/j.1365-2486.2010.02279.x
+   Parry LE, 2014, J GEOPHYS RES-BIOGEO, V119, P567, DOI 10.1002/2013JG002411
+   Parry LE, 2013, GEODERMA, V211, P75, DOI 10.1016/j.geoderma.2013.07.006
+   Quinlan JR, 1992, PROCEEDINGS OF THE 5TH AUSTRALIAN JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE. AI 92, V0, P343
+   Quinlan JR, 1993, MACHINE LEARNING P 1, V0, P236
+   Quinlan JR, 1993, C4.5: PROGRAMS FOR MACHINE LEARNING INTERNET, V0, P0
+   Rad MRP, 2014, GEODERMA, V232, P97, DOI 10.1016/j.geoderma.2014.04.036
+   Rosa E, 2009, EARTH SURF PROC LAND, V34, P377, DOI 10.1002/esp.1741
+   Shimada S, 2001, BIOGEOCHEMISTRY, V53, P249, DOI 10.1023/A:1010618807469
+   Sjögersten S, 2014, GLOBAL BIOGEOCHEM CY, V28, P1371, DOI 10.1002/2014GB004844
+   Song XD, 2016, GEODERMA, V261, P11, DOI 10.1016/j.geoderma.2015.06.024
+   Taghizadeh-Mehrjardi R, 2015, GEODERMA, V253, P67, DOI 10.1016/j.geoderma.2015.04.008
+   van Bellen S, 2011, GLOBAL BIOGEOCHEM CY, V25, P0, DOI 10.1029/2010GB003877
+   Warren MW, 2012, BIOGEOSCIENCES, V9, P4477, DOI 10.5194/bg-9-4477-2012
+   Weissert LF, 2013, GEODERMA, V204, P111, DOI 10.1016/j.geoderma.2013.04.016
+   Wiesmeier M, 2011, PLANT SOIL, V340, P7, DOI 10.1007/s11104-010-0425-z
+   Wright EL, 2013, GLOBAL CHANGE BIOL, V19, P3775, DOI 10.1111/gcb.12330
+   Wright EL, 2011, GLOBAL CHANGE BIOL, V17, P2867, DOI 10.1111/j.1365-2486.2011.02448.x
+NR 90
+TC 45
+Z9 60
+U1 2
+U2 140
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0016-7061
+EI 1872-6259
+J9 GEODERMA
+JI Geoderma
+PD JUN 15
+PY 2016
+VL 272
+IS 
+BP 20
+EP 31
+DI 10.1016/j.geoderma.2016.02.026
+PG 12
+WC Soil Science
+SC Agriculture
+GA DJ3AQ
+UT WOS:000374077500003
+DA 2025-11-05
+ER
+
+PT J
+AU Tramontana, G
+   Jung, M
+   Schwalm, CR
+   Ichii, K
+   Camps-Valls, G
+   Ráduly, B
+   Reichstein, M
+   Arain, MA
+   Cescatti, A
+   Kiely, G
+   Merbold, L
+   Serrano-Ortiz, P
+   Sickert, S
+   Wolf, S
+   Papale, D
+AF Tramontana, Gianluca
+   Jung, Martin
+   Schwalm, Christopher R.
+   Ichii, Kazuhito
+   Camps-Valls, Gustau
+   Raduly, Botond
+   Reichstein, Markus
+   Arain, M. Altaf
+   Cescatti, Alessandro
+   Kiely, Gerard
+   Merbold, Lutz
+   Serrano-Ortiz, Penelope
+   Sickert, Sven
+   Wolf, Sebastian
+   Papale, Dario
+TI Predicting carbon dioxide and energy fluxes across global FLUXNET sites with regression algorithms
+SO BIOGEOSCIENCES
+LA English
+DT Article
+ID gross primary production; net ecosystem exchange; land-surface temperature; combining modis; ameriflux data; climate; water; evapotranspiration; assimilation; uncertainty
+AB Spatio-temporal fields of land-atmosphere fluxes derived from data-driven models can complement simulations by process-based land surface models. While a number of strategies for empirical models with eddy-covariance flux data have been applied, a systematic intercomparison of these methods has been missing so far. In this study, we performed a cross-validation experiment for predicting carbon dioxide, latent heat, sensible heat and net radiation fluxes across different ecosystem types with 11 machine learning (ML) methods from four different classes (kernel methods, neural networks, tree methods, and regression splines). We applied two complementary setups: (1) 8-day average fluxes based on remotely sensed data and (2) daily mean fluxes based on meteorological data and a mean seasonal cycle of remotely sensed variables. The patterns of predictions from different ML and experimental setups were highly consistent. There were systematic differences in performance among the fluxes, with the following ascending order: net ecosystem exchange (R-2 < 0.5), ecosystem respiration (R-2 > 0.6), gross primary production (R-2 > 0.7), latent heat (R-2 > 0.7), sensible heat (R-2 > 0.7), and net radiation (R-2 > 0.8). The ML methods predicted the across-site variability and the mean seasonal cycle of the observed fluxes very well (R 2 > 0.7), while the 8-day deviations from the mean seasonal cycle were not well predicted (R-2 < 0.5). Fluxes were better predicted at forested and temperate climate sites than at sites in extreme climates or less represented by training data (e.g., the tropics). The evaluated large ensemble of ML-based models will be the basis of new global flux products.
+C1 [Tramontana, Gianluca; Raduly, Botond; Papale, Dario] Univ Tuscia, Dept Innovat Biol Agrofood & Forest Syst DIBAF, I-01100 Viterbo, Italy.
+   [Jung, Martin; Reichstein, Markus] Max Planck Inst Biogeochem, D-07745 Jena, Germany.
+   [Schwalm, Christopher R.] Woods Hole Res Ctr, Falmouth, MA 02540 USA.
+   [Ichii, Kazuhito] Japan Agcy Marine Earth Sci & Technol, Dept Environm Geochem Cycle Res, Yokohama, Kanagawa 2360001, Japan.
+   [Ichii, Kazuhito] Natl Inst Environm Studies, Ctr Global Environm Res, Tsukuba, Ibaraki 3058506, Japan.
+   [Camps-Valls, Gustau] Univ Valencia, IPL, Paterna 46980, Valencia, Spain.
+   [Raduly, Botond] Sapientia Hungarian Univ Transylvania, Dept Bioengn, Miercurea Ciuc 530104, Romania.
+   [Arain, M. Altaf] McMaster Univ, Sch Geog & Earth Sci, Hamilton, ON L8S 4L8, Canada.
+   [Cescatti, Alessandro] European Commiss, Joint Res Ctr, Directorate Sustainable Resources, Ispra, Italy.
+   [Kiely, Gerard] Univ Coll, Civil & Environm Engn, Cork T12 YN60, Ireland.
+   [Kiely, Gerard] Univ Coll, Environm Res Inst, Cork T12 YN60, Ireland.
+   [Merbold, Lutz; Wolf, Sebastian] ETH, Dept Environm Syst Sci, Inst Agr Sci, CH-8092 Zurich, Switzerland.
+   [Merbold, Lutz] ILRI, Mazingira Ctr, Livestock Syst & Environm, Nairobi 00100, Kenya.
+   [Serrano-Ortiz, Penelope] Univ Granada, Dept Ecol, E-18071 Granada, Spain.
+   [Sickert, Sven] Univ Jena, Comp Vis Grp, D-07743 Jena, Germany.
+C3 Tuscia University; Max Planck Society; Woodwell Climate Research Center; Japan Agency for Marine-Earth Science & Technology (JAMSTEC); National Institute for Environmental Studies - Japan; University of Valencia; Sapientia Hungarian University of Transylvania; McMaster University; European Commission Joint Research Centre; EC JRC ISPRA Site; Swiss Federal Institutes of Technology Domain; ETH Zurich; CGIAR; International Livestock Research Institute (ILRI); University of Granada; Friedrich Schiller University of Jena
+RP Tramontana, G (corresponding author), Univ Tuscia, Dept Innovat Biol Agrofood & Forest Syst DIBAF, I-01100 Viterbo, Italy.
+EM g.tramontana@unitus.it
+FU EU [GA 283080, 283080, 640176]; ERC [647423]; Ministry of the Environment of Japan [2-1401]; JAXA Global Change Observation Mission (GCOM) project [115]; National Aeronautics and Space Administration (NASA) [NNX12AP74G, NNX10AG01A, NNX11AO08A]; Natural Sciences and Engineering Research Council (NSREC) of Canada; GEISpain project - Spanish Ministry of Economy and Competitiveness [CGL2014-52838-C2-1-R]; European Union ERDF funds; European Commission [300083]; US Department of Energy, Biological and Environmental Research, Terrestrial Carbon Program [DE-FG02-04ER63917, DE-FG02-04ER63911]; CarboEuropeIP; FAO-GTOS-TCO; iLEAPS; Max Planck Institute for Biogeochemistry; National Science Foundation; University of Tuscia; US Department of Energy; European Research Council (ERC) [647423] Funding Source: European Research Council (ERC)
+CR Fernández JRA, 2013, ECOL ENG, V53, P68, DOI 10.1016/j.ecoleng.2012.12.015
+   Amiro BD, 2010, J GEOPHYS RES-BIOGEO, V115, P0, DOI 10.1029/2010JG001390
+   Anav A, 2013, J CLIMATE, V26, P6801, DOI 10.1175/JCLI-D-12-00417.1
+   Aubinet M, 2012, EDDY COVARIANCE PRAC, V0, P0, DOI DOI 10.1007/978-94-007-2351-1
+   Baldocchi D, 2008, AUST J BOT, V56, P1, DOI 10.1071/BT07151
+   Baldocchi D, 2014, GLOBAL CHANGE BIOL, V20, P3600, DOI 10.1111/gcb.12649
+   Beer C, 2010, SCIENCE, V329, P834, DOI 10.1126/science.1184984
+   Bell TW, 2012, GLOBAL CHANGE BIOL, V18, P2570, DOI 10.1111/j.1365-2486.2012.02720.x
+   Bonan GB, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001593
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Camps-Valls G, 2009, KERNEL METHODS REMOT, V0, P0, DOI DOI 10.1002/9780470748992
+   Dee DP, 2011, Q J ROY METEOR SOC, V137, P553, DOI 10.1002/qj.828
+   Frank D, 2015, GLOBAL CHANGE BIOL, V21, P2861, DOI 10.1111/gcb.12916
+   FRIEDMAN JH, 1991, ANN STAT, V19, P1, DOI 10.1214/aos/1176347963
+   Frohlich B, 2012, PATTERN RECOGNITION AND IMAGE ANALYSIS, V22, P113, DOI 10.1134/S1054661812010166
+   Gao BC, 1996, REMOTE SENS ENVIRON, V58, P257, DOI 10.1016/S0034-4257(96)00067-3
+   Garnaud C, 2014, INT J CLIMATOL, V34, P1098, DOI 10.1002/joc.3748
+   Gupta HV, 2009, J HYDROL, V377, P80, DOI 10.1016/j.jhydrol.2009.08.003
+   Haykin S, 1994, NEURAL NETWORK COMPR, V0, P0, DOI DOI 10.1142/S0129065794000372
+   Ho TK, 1998, IEEE T PATTERN ANAL, V20, P832, DOI 10.1109/34.709601
+   Hollinger DY, 2005, TREE PHYSIOL, V25, P873, DOI 10.1093/treephys/25.7.873
+   Huete A, 2002, REMOTE SENS ENVIRON, V83, P195, DOI 10.1016/S0034-4257(02)00096-2
+   Ichii K, 2009, AGR FOREST METEOROL, V149, P1907, DOI 10.1016/j.agrformet.2009.06.019
+   Jung M, 2009, BIOGEOSCIENCES, V6, P2001, DOI 10.5194/bg-6-2001-2009
+   Jung M, 2008, GLOBAL CHANGE BIOL, V14, P2349, DOI 10.1111/j.1365-2486.2008.01647.x
+   Jung M, 2013, PROCEDIA COMPUT SCI, V18, P2337, DOI 10.1016/j.procs.2013.05.405
+   Jung M, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001566
+   Jung M, 2010, NATURE, V467, P951, DOI 10.1038/nature09396
+   Justice CO, 2002, REMOTE SENS ENVIRON, V83, P3, DOI 10.1016/S0034-4257(02)00084-6
+   Kondo M, 2015, J GEOPHYS RES-BIOGEO, V120, P1226, DOI 10.1002/2014JG002866
+   Lasslop G, 2010, GLOBAL CHANGE BIOL, V16, P187, DOI 10.1111/j.1365-2486.2009.02041.x
+   Moffat AM, 2007, AGR FOREST METEOROL, V147, P209, DOI 10.1016/j.agrformet.2007.08.011
+   Myneni RB, 2002, REMOTE SENS ENVIRON, V83, P214, DOI 10.1016/S0034-4257(02)00074-3
+   Nash JE, 1970, J. HYDROL, V10, P282, DOI 10.1016/0022-1694(70)90255-6
+   Pachauri RK, 2007, CLIMATE CHANGE 2007: SYNTHESIS REPORT, V104, P0
+   Papale D, 2006, BIOGEOSCIENCES, V3, P571, DOI 10.5194/bg-3-571-2006
+   Papale D, 2003, GLOBAL CHANGE BIOL, V9, P525, DOI 10.1046/j.1365-2486.2003.00609.x
+   Papale D, 2015, J GEOPHYS RES-BIOGEO, V120, P1941, DOI 10.1002/2015JG002997
+   Paruelo JM, 2005, APPL VEG SCI, V8, P93, DOI 10.1111/j.1654-109X.2005.tb00633.x
+   Piao SL, 2013, GLOBAL CHANGE BIOL, V19, P2117, DOI 10.1111/gcb.12187
+   Reich PB, 2010, SCIENCE, V329, P774, DOI 10.1126/science.1194353
+   Reichstein M, 2005, GLOBAL CHANGE BIOL, V11, P1424, DOI 10.1111/j.1365-2486.2005.001002.x
+   Schaaf CB, 2002, REMOTE SENS ENVIRON, V83, P135, DOI 10.1016/S0034-4257(02)00091-3
+   Schwalm CR, 2012, NAT GEOSCI, V5, P551, DOI 10.1038/ngeo1529
+   Schwalm CR, 2010, GLOBAL CHANGE BIOL, V16, P657, DOI 10.1111/j.1365-2486.2009.01991.x
+   Seeger Matthias, 2004, INT J NEURAL SYST, V14, P69, DOI 10.1142/S0129065704001899
+   Shawe-Taylor J, 2004, KERNEL METHODS FOR PATTERN ANALYSIS, V0, P0
+   Shirmohammadi R, 2015, J NAT GAS SCI ENG, V26, P303, DOI 10.1016/j.jngse.2015.06.028
+   Sims DA, 2008, REMOTE SENS ENVIRON, V112, P1633, DOI 10.1016/j.rse.2007.08.004
+   Thornton PE, 2002, AGR FOREST METEOROL, V113, P185, DOI 10.1016/S0168-1923(02)00108-9
+   Tramontana G, 2015, REMOTE SENS ENVIRON, V168, P360, DOI 10.1016/j.rse.2015.07.015
+   Ungaro F, 2005, GEODERMA, V124, P293, DOI 10.1016/j.geoderma.2004.05.007
+   Valentini R, 2014, BIOGEOSCIENCES, V11, P381, DOI 10.5194/bg-11-381-2014
+   Vapnik V, 1997, ADV NEUR IN, V9, P281
+   Verrelst J, 2015, ISPRS J PHOTOGRAMM, V108, P273, DOI 10.1016/j.isprsjprs.2015.05.005
+   Wan ZM, 2002, REMOTE SENS ENVIRON, V83, P163, DOI 10.1016/S0034-4257(02)00093-7
+   Xiao JF, 2010, REMOTE SENS ENVIRON, V114, P576, DOI 10.1016/j.rse.2009.10.013
+   Xiao JF, 2008, AGR FOREST METEOROL, V148, P1827, DOI 10.1016/j.agrformet.2008.06.015
+   Xiao XM, 2002, REMOTE SENS ENVIRON, V82, P335, DOI 10.1016/S0034-4257(02)00051-2
+   Yang FH, 2007, REMOTE SENS ENVIRON, V110, P109, DOI 10.1016/j.rse.2007.02.016
+   Yang FH, 2006, IEEE T GEOSCI REMOTE, V44, P3452, DOI 10.1109/TGRS.2006.876297
+   Yebra M, 2015, REMOTE SENS ENVIRON, V163, P206, DOI 10.1016/j.rse.2015.03.016
+   Yuan WP, 2010, REMOTE SENS ENVIRON, V114, P1416, DOI 10.1016/j.rse.2010.01.022
+   Zhao Y, 2012, BIOGEOSCIENCES, V9, P2537, DOI 10.5194/bg-9-2537-2012
+NR 64
+TC 564
+Z9 613
+U1 8
+U2 319
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1726-4170
+EI 1726-4189
+J9 BIOGEOSCIENCES
+JI Biogeosciences
+PD JUN 15
+PY 2016
+VL 13
+IS 14
+BP 4291
+EP 4313
+DI 10.5194/bg-13-4291-2016
+PG 23
+WC Ecology; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA DT0ZU
+UT WOS:000381212300015
+DA 2025-11-05
+ER
+
+PT J
+AU Ding, JZ
+   Li, F
+   Yang, GB
+   Chen, LY
+   Zhang, BB
+   Liu, L
+   Fang, K
+   Qin, SQ
+   Chen, YL
+   Peng, YF
+   Ji, CJ
+   He, HL
+   Smith, P
+   Yang, YH
+AF Ding, Jinzhi
+   Li, Fei
+   Yang, Guibiao
+   Chen, Leiyi
+   Zhang, Beibei
+   Liu, Li
+   Fang, Kai
+   Qin, Shuqi
+   Chen, Yongliang
+   Peng, Yunfeng
+   Ji, Chengjun
+   He, Honglin
+   Smith, Pete
+   Yang, Yuanhe
+TI The permafrost carbon inventory on the Tibetan Plateau: a new evaluation using deep sediment cores
+SO GLOBAL CHANGE BIOLOGY
+LA English
+DT Article
+DE alpine permafrost; carbon-climate feedback; deep sediment; soil organic carbon stock; support vector machine
+ID soil organic-carbon; climate-change; vegetation; storage; matter; stocks; china; performance; enrichment; patterns
+AB The permafrost organic carbon (OC) stock is of global significance because of its large pool size and the potential positive feedback to climate warming. However, due to the lack of systematic field observations and appropriate upscaling methodologies, substantial uncertainties exist in the permafrost OC budget, which limits our understanding of the fate of frozen carbon in a warming world. In particular, the lack of comprehensive estimates of OC stocks across alpine permafrost means that current knowledge on this issue remains incomplete. Here, we evaluated the pool size and spatial variations of permafrost OC stock to 3m depth on the Tibetan Plateau by combining systematic measurements from a substantial number of pedons (i.e. 342 three-metre-deep cores and 177 50-cm-deep pits) with a machine learning technique (i.e. support vector machine, SVM). We also quantified uncertainties in permafrost carbon budget by conducting Monte Carlo simulations. Our results revealed that the combination of systematic measurements with the SVM model allowed spatially explicit estimates to be made. The OC density (OC amount per unit area, OCD) exhibited a decreasing trend from the south-eastern to the north-western plateau, with the exception that OCD in the swamp meadow was substantially higher than that in surrounding regions. Our results also demonstrated that Tibetan permafrost stored a large amount of OC in the top 3m, with the median OC pool size being 15.31 Pg C (interquartile range: 13.03-17.77Pg C). 44% of OC occurred in deep layers (i.e. 100-300cm), close to the proportion observed across the northern circumpolar permafrost region. The large carbon pool size together with significant permafrost thawing suggests a risk of carbon emissions and positive climate feedback across the Tibetan alpine permafrost region.
+C1 [Ding, Jinzhi; Li, Fei; Yang, Guibiao; Chen, Leiyi; Zhang, Beibei; Liu, Li; Fang, Kai; Qin, Shuqi; Chen, Yongliang; Peng, Yunfeng; Yang, Yuanhe] Chinese Acad Sci, Inst Bot, State Key Lab Vegetat & Environm Change, Beijing 100093, Peoples R China.
+   [Ding, Jinzhi; Li, Fei; Yang, Guibiao; Liu, Li; Fang, Kai; Qin, Shuqi] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+   [Zhang, Beibei] Inner Mongolia Univ Technol, Hohhot 010051, Inner Mongolia, Peoples R China.
+   [Ji, Chengjun] Peking Univ, Dept Ecol, Beijing 100871, Peoples R China.
+   [Ji, Chengjun] Peking Univ, Key Lab Earth Surface Proc, Minist Educ, Beijing 100871, Peoples R China.
+   [He, Honglin] Chinese Acad Sci, Inst Geog Sci & Nat Resources Res, Key Lab Ecosyst Network Observat & Modeling, Beijing 100101, Peoples R China.
+   [Smith, Pete] Univ Aberdeen, Inst Biol & Environm Sci, Aberdeen AB24 3UU, Scotland.
+C3 Chinese Academy of Sciences; Institute of Botany, CAS; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS; Inner Mongolia University of Technology; Peking University; Peking University; Chinese Academy of Sciences; Institute of Geographic Sciences & Natural Resources Research, CAS; University of Aberdeen
+RP Yang, YH (corresponding author), Chinese Acad Sci, Inst Bot, State Key Lab Vegetat & Environm Change, Beijing 100093, Peoples R China.
+EM yhyang@ibcas.ac.cn
+FU National Basic Research Program of China on Global Change [2014CB954001, 2015CB954201]; National Natural Science Foundation of China [31322011, 41371213]; Chinese Acedemy of Sciences-Peking University Pioneer Collaboration Team; Thousand Young Talents Program
+CR Unknown -, 2015, R LANG ENV STAT COMP, V0, P0
+   Unknown -, 1980, INTRODUCTION TO BIVARIATE AND MULTIVARIATE ANALYSIS, V0, P0
+   Unknown -, 2001, VEG ATL CHIN, V0, P0
+   Unknown -, 2000, POL GEOGR, V0, P0, DOI DOI 10.1080/10889370009377698
+   Brown J, 1998, CIRCUMARCTIC MAP PER, V0, P0
+   Burges CJC, 1998, DATA MIN KNOWL DISC, V2, P121, DOI 10.1023/A:1009715923555
+   Carvalhais N, 2014, NATURE, V514, P213, DOI 10.1038/nature13731
+   Chew G, 2012, ANAL BIOANAL CHEM, V402, P2463, DOI 10.1007/s00216-011-5698-4
+   Drake JM, 2006, J APPL ECOL, V43, P424, DOI 10.1111/j.1365-2664.2006.01141.x
+   Epstein HE, 2012, ENVIRON RES LETT, V7, P0, DOI 10.1088/1748-9326/7/1/015506
+   Fan Y, 2008, J GEOPHYS RES-ATMOS, V113, P0, DOI 10.1029/2007JD008470
+   GOWARD SN, 1985, VEGETATIO, V64, P3, DOI 10.1007/BF00033449
+   Grosse G, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001507
+   Harden JW, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL051958
+   He HL, 2014, J GEOPHYS RES-BIOGEO, V119, P466, DOI 10.1002/2013JG002449
+   HOLBEN BN, 1986, INT J REMOTE SENS, V7, P1417, DOI 10.1080/01431168608948945
+   Huete A, 2002, REMOTE SENS ENVIRON, V83, P195, DOI 10.1016/S0034-4257(02)00096-2
+   Hugelius G, 2014, BIOGEOSCIENCES, V11, P6573, DOI 10.5194/bg-11-6573-2014
+   Hugelius G, 2013, EARTH SYST SCI DATA, V5, P393, DOI 10.5194/essd-5-393-2013
+   Jobbágy EG, 2000, ECOL APPL, V10, P423, DOI 10.2307/2641104
+   Kavzoglu T, 2009, INT J APPL EARTH OBS, V11, P352, DOI 10.1016/j.jag.2009.06.002
+   Koven CD, 2015, PHILOS T R SOC A, V373, P0, DOI 10.1098/rsta.2014.0423
+   Koven CD, 2015, P NATL ACAD SCI USA, V112, P3752, DOI 10.1073/pnas.1415123112
+   Koven CD, 2013, J CLIMATE, V26, P1877, DOI 10.1175/JCLI-D-12-00228.1
+   Li QQ, 2013, CATENA, V104, P210, DOI 10.1016/j.catena.2012.11.012
+   Li R, 2012, CHINESE SCI BULL, V57, P4609, DOI 10.1007/s11434-012-5323-8
+   Lin JC, 2011, GLOBAL BIOGEOCHEM CY, V25, P0, DOI 10.1029/2010GB003884
+   Mishra U, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/3/035020
+   Mu C, 2015, CRYOSPHERE, V9, P479, DOI 10.5194/tc-9-479-2015
+   Nello C, 2000, GEN THEORY, V0, P0
+   Nowinski NS, 2010, OECOLOGIA, V163, P785, DOI 10.1007/s00442-009-1556-x
+   Pang QQ, 2009, COLD REG SCI TECHNOL, V57, P23, DOI 10.1016/j.coldregions.2009.01.005
+   Ping CL, 2008, NAT GEOSCI, V1, P615, DOI 10.1038/ngeo284
+   POST WM, 1982, NATURE, V298, P156, DOI 10.1038/298156a0
+   Rubinstein RY, 2008, SIMULATION MONTE CAR, Vsecond, P0
+   Schädel C, 2014, GLOBAL CHANGE BIOL, V20, P641, DOI 10.1111/gcb.12417
+   Schirrmeister L, 2002, QUATERN INT, V89, P97, DOI 10.1016/S1040-6182(01)00083-0
+   Schuur EAG, 2015, NATURE, V520, P171, DOI 10.1038/nature14338
+   Schuur EAG, 2009, NATURE, V459, P556, DOI 10.1038/nature08031
+   Strauss J, 2015, BIOGEOSCIENCES, V12, P2227, DOI 10.5194/bg-12-2227-2015
+   Strauss J, 2013, GEOPHYS RES LETT, V40, P6165, DOI 10.1002/2013GL058088
+   Tarnocai C, 2009, GLOBAL BIOGEOCHEM CY, V23, P0, DOI 10.1029/2008GB003327
+   Ueyama M, 2013, J GEOPHYS RES-BIOGEO, V118, P1266, DOI 10.1002/jgrg.20095
+   Vermote EF, 2008, J GEOPHYS RES-ATMOS, V113, P0, DOI 10.1029/2007JD009662
+   von Deimling TS, 2015, BIOGEOSCIENCES, V12, P3469, DOI 10.5194/bg-12-3469-2015
+   Walker AP, 2014, J GEOPHYS RES-BIOGEO, V119, P937, DOI 10.1002/2013JG002553
+   Walker DA, 2005, J VEG SCI, V16, P267, DOI 10.1111/j.1654-1103.2005.tb02365.x
+   WANG BL, 1995, QUATERNARY SCI REV, V14, P255, DOI 10.1016/0277-3791(95)00006-B
+   Wang SQ, 2003, TELLUS B, V55, P416, DOI 10.1034/j.1600-0889.2003.00039.x
+   Were K, 2015, ECOL INDIC, V52, P394, DOI 10.1016/j.ecolind.2014.12.028
+   Whiteman G, 2013, NATURE, V499, P401, DOI 10.1038/499401a
+   Wu HB, 2003, GLOBAL BIOGEOCHEM CY, V17, P0, DOI 10.1029/2001GB001844
+   Wu QB, 2008, J GEOPHYS RES-ATMOS, V113, P0, DOI 10.1029/2007JD009539
+   Wu QB, 2015, GLOBAL PLANET CHANGE, V124, P149, DOI 10.1016/j.gloplacha.2014.09.002
+   Wu QB, 2010, J GEOPHYS RES-ATMOS, V115, P0, DOI 10.1029/2009JD012974
+   Yang MX, 2010, EARTH-SCI REV, V103, P31, DOI 10.1016/j.earscirev.2010.07.002
+   Yang YH, 2009, J ARID ENVIRON, V73, P91, DOI 10.1016/j.jaridenv.2008.09.027
+   Yang YH, 2008, GLOBAL CHANGE BIOL, V14, P1592, DOI 10.1111/j.1365-2486.2008.01591.x
+   Yang YH, 2015, FUNCT ECOL, V29, P839, DOI 10.1111/1365-2435.12393
+   Zhang T, 1999, POLAR GEOGR., V23, P132, DOI 10.1080/10889379909377670
+   [赵林 ZHAO Lin], 2010, 冰川冻土 JOURNAL OF GLACIOLOGY AND GEOCRYOLOGY, V32, P1
+   Zhou YW, 1982, J GLACIOLOGY GEOCRYO, V4, P1
+NR 67
+TC 215
+Z9 247
+U1 27
+U2 592
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1354-1013
+EI 1365-2486
+J9 GLOBAL CHANGE BIOL
+JI Glob. Change Biol.
+PD AUG 15
+PY 2016
+VL 22
+IS 8
+BP 2688
+EP 2701
+DI 10.1111/gcb.13257
+PG 14
+WC Biodiversity Conservation; Ecology; Environmental Sciences
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA DR6MU
+UT WOS:000380016800005
+PM 26913840
+DA 2025-11-05
+ER
+
+PT J
+AU Jiang, C
+   Ryu, Y
+AF Jiang, Chongya
+   Ryu, Youngryel
+TI Multi-scale evaluation of global gross primary productivity and evapotranspiration products derived from Breathing Earth System Simulator (BESS)
+SO REMOTE SENSING OF ENVIRONMENT
+LA English
+DT Article
+DE Gross primary productivity; Evapotranspiration; BESS; Global; MPI-BGC; MODIS
+ID leaf-area index; carbon-dioxide exchange; ecosystem co2 exchange; water-use efficiency; light-use efficiency; terrestrial gross; flux measurements; eddy-covariance; land-surface; interannual variability
+AB Several global gross primary production (GPP) and evapotranspiration (ET) remote sensing products exist, mainly provided by machine-learning (e.g. MPI-BGC) and semi-empirical (e.g. MODIS) approaches. Process-based approaches have the advantage of representing the atmosphere-vegetation-soil system and associated fluxes as an organic integration, but their sophistication results in a lack of high spatiotemporal resolution continuous products. Targeting this gap, we reported a new set of global 8-day composite 1-km resolution GPP and ET products from 2000 to 2015, using a simplified process-based model, the Breathing Earth System Simulator (BESS). BESS couples atmosphere and canopy radiative transfer, photosynthesis and evapotranspiration, and uses MODIS atmosphere and land data and other satellite data sources as inputs. We evaluated BESS products against FLUXNET observations at site scale (total of 113 sites, 742 site years), and against MPI-BGC products at global scale. At site scale, BESS 8-day Products agreed with FLUXNET observations with R-2 = 0.67 and RMSE = 2.58 gCm(-2) d(-1) for GPP, and R-2 = 0.62 and RMSE = 0.78 mm d(-1) for ET, respectively, and they captured a majority of seasonal variability, about half of spatial variability, and a minority of interannual variability in FLUXNET observations. At global scale, BESS mean annual sum GPP and ET maps agreed with MPI-BGC products with R-2 = 0.93 and RMSE = 229 gC m(-2) y(-1) for GPP, and R-2 = 0.90 and RMSE = 118 mm y(-1) for ET, respectively. Over the period of 2001-2011, BESS quantified the mean global GPP and ET as 122 +/- 25 PgC y(-1) and 65 x 10(3) +/- 11 x 10(3) km(3) y(-1), respectively, with a significant ascending GPP trend by 0.27 PgC y(-2) (p < 0.05), similar to MPI-BGC products as well. Overall, BESS GPP and ET estimates were comparable with FLUXNET observations and MPI-BGC products. The process-based BESS can serve as a set of independent GPP and ET products from official MODIS GPP and ET products. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Jiang, Chongya; Ryu, Youngryel] Seoul Natl Univ, Res Inst Agr & Life Sci, Seoul, South Korea.
+   [Ryu, Youngryel] Seoul Natl Univ, Dept Landscape Architecture & Rural Syst Engn, Seoul 151921, South Korea.
+   [Ryu, Youngryel] Seoul Natl Univ, Interdisciplinary Program Agr & Forest Meteorol, Seoul, South Korea.
+   [Ryu, Youngryel] Seoul Natl Univ, Interdisciplinary Program Landscape Architecture, Seoul, South Korea.
+C3 Seoul National University (SNU); Seoul National University (SNU); Seoul National University (SNU); Seoul National University (SNU)
+RP Ryu, Y (corresponding author), Seoul Natl Univ, Dept Landscape Architecture & Rural Syst Engn, Seoul 151921, South Korea.
+EM yryu@snu.ac.kr
+FU National Research Foundation of Korea [NRF-2014R1A2A1A11051134]; CDIAC; OzFlux office; ChinaFlux office; AsiaFlux office
+CR Ammann C, 2007, AGR ECOSYST ENVIRON, V121, P5, DOI 10.1016/j.agee.2006.12.002
+   Anav A, 2015, REV GEOPHYS, V53, P785, DOI 10.1002/2015RG000483
+   Anav A, 2013, REMOTE SENS-BASEL, V5, P3637, DOI 10.3390/rs5083637
+   Anderson LJ, 2001, GLOBAL CHANGE BIOL, V7, P693, DOI 10.1046/j.1354-1013.2001.00438.x
+   Aubinet M, 2001, AGR FOREST METEOROL, V108, P293, DOI 10.1016/S0168-1923(01)00244-1
+   Badgley G, 2015, J HYDROMETEOROL, V16, P1449, DOI 10.1175/JHM-D-14-0040.1
+   Baldocchi D, 2016, AMERIFLUX, V0, P0
+   Baldocchi DD, 2004, AGR FOREST METEOROL, V123, P13, DOI 10.1016/j.agrformet.2003.11.006
+   Ball JT, 1988, ANAL STOMATA CONDUCT, V0, P0
+   Beer C, 2010, SCIENCE, V329, P834, DOI 10.1126/science.1184984
+   Belelli Marchesini L, 2007, BIOGEOSCI DISCUSS, V4, P165
+   Bergeron O, 2007, GLOBAL CHANGE BIOL, V13, P89, DOI 10.1111/j.1365-2486.2006.01281.x
+   Beringer J, 2011, AGR FOREST METEOROL, V151, P1409, DOI 10.1016/j.agrformet.2011.05.003
+   Billesbach D, 2016, AMERIFLUX, V0, P0
+   Bonal D, 2008, GLOBAL CHANGE BIOL, V14, P1917, DOI 10.1111/j.1365-2486.2008.01610.x
+   Bonan GB, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001593
+   Carrara A, 2003, AGR FOREST METEOROL, V119, P209, DOI 10.1016/S0168-1923(03)00120-5
+   Cernusak LA, 2011, AGR FOREST METEOROL, V151, P1462, DOI 10.1016/j.agrformet.2011.01.006
+   Cescatti A, 2003, PLANT CELL ENVIRON, V26, P429, DOI 10.1046/j.1365-3040.2003.00974.x
+   Ceschia E, 2010, AGR ECOSYST ENVIRON, V139, P363, DOI 10.1016/j.agee.2010.09.020
+   Chen B, 2016, AGR FOREST METEOROL, V216, P82, DOI 10.1016/j.agrformet.2015.09.017
+   Chen JM, 2012, GLOBAL BIOGEOCHEM CY, V26, P0, DOI 10.1029/2010GB003996
+   Chen SP, 2009, AGR FOREST METEOROL, V149, P1800, DOI 10.1016/j.agrformet.2009.06.009
+   COLLATZ GJ, 1992, AUST J PLANT PHYSIOL, V19, P519, DOI 10.1071/PP9920519
+   Cook BD, 2004, AGR FOREST METEOROL, V126, P271, DOI 10.1016/j.agrformet.2004.06.008
+   DOdorico P, 2014, REMOTE SENS ENVIRON, V142, P141, DOI 10.1016/j.rse.2013.12.005
+   Dai YJ, 2003, B AM METEOROL SOC, V84, P1013, DOI 10.1175/BAMS-84-8-1013
+   dePury DGG, 1997, PLANT CELL ENVIRON, V20, P537, DOI 10.1111/j.1365-3040.1997.00094.x
+   Desai AR, 2005, AGR FOREST METEOROL, V128, P33, DOI 10.1016/j.agrformet.2004.09.005
+   DICKINSON RE, 1983, ADV GEOPHYS, V25, P305
+   Dirmeyer PA, 2006, B AM METEOROL SOC, V87, P1381, DOI 10.1175/BAMS-87-10-1381
+   Dolman AJ, 2012, BIOGEOSCIENCES, V9, P5323, DOI 10.5194/bg-9-5323-2012
+   Dolman AJ, 2002, AGR FOREST METEOROL, V111, P157, DOI 10.1016/S0168-1923(02)00024-2
+   Domingues TF, 2007, PLANT ECOL, V193, P101, DOI 10.1007/s11258-006-9251-z
+   Dong G, 2011, ECOHYDROLOGY, V4, P211, DOI 10.1002/eco.200
+   Donohue RJ, 2014, REMOTE SENS ENVIRON, V155, P349, DOI 10.1016/j.rse.2014.09.007
+   Dorigo W, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL052988
+   Eamus D, 2013, AGR FOREST METEOROL, V182, P225, DOI 10.1016/j.agrformet.2013.04.020
+   Eugster W, 2006, INTERNATIONAL CONGRESS SERIES, V1293, P66
+   Fang HL, 2011, INT J REMOTE SENS, V32, P1039, DOI 10.1080/01431160903505310
+   Fares S, 2015, REND LINCEI-SCI FIS, V26, PS493, DOI 10.1007/s12210-014-0331-z
+   FARQUHAR GD, 1980, PLANTA, V149, P78, DOI 10.1007/BF00386231
+   Ferré C, 2012, PEDOBIOLOGIA, V55, P285, DOI 10.1016/j.pedobi.2012.05.001
+   Fischer ML, 2007, EARTH INTERACT, V11, P0
+   Fisher JB, 2008, REMOTE SENS ENVIRON, V112, P901, DOI 10.1016/j.rse.2007.06.025
+   Frankenberg C, 2011, GEOPHYS RES LETT, V38, P0, DOI 10.1029/2010GL045896
+   Friedl MA, 2010, REMOTE SENS ENVIRON, V114, P168, DOI 10.1016/j.rse.2009.08.016
+   Fu YL, 2006, AGR FOREST METEOROL, V137, P234, DOI 10.1016/j.agrformet.2006.02.009
+   Galvagno M, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/2/025008
+   Garrigues S, 2008, J GEOPHYS RES-BIOGEO, V113, P0, DOI 10.1029/2007JG000635
+   Gilmanov TG, 2007, AGR ECOSYST ENVIRON, V121, P93, DOI 10.1016/j.agee.2006.12.008
+   Goldstein AH, 2000, AGR FOREST METEOROL, V101, P113, DOI 10.1016/S0168-1923(99)00168-9
+   Gough CM, 2013, ECOL APPL, V23, P1202, DOI 10.1890/12-1554.1
+   Goulden ML, 2006, GLOBAL CHANGE BIOL, V12, P2146, DOI 10.1111/j.1365-2486.2006.01251.x
+   Groenendijk M, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2011JG001742
+   Grünwald T, 2007, TELLUS B, V59, P387, DOI 10.1111/j.1600-0889.2007.00259.x
+   Hazarika MK, 2005, REMOTE SENS ENVIRON, V94, P298, DOI 10.1016/j.rse.2004.10.004
+   He LM, 2012, REMOTE SENS ENVIRON, V119, P118, DOI 10.1016/j.rse.2011.12.008
+   Huang MT, 2015, GLOBAL CHANGE BIOL, V21, P2366, DOI 10.1111/gcb.12873
+   Huntington TG, 2006, J HYDROL, V319, P83, DOI 10.1016/j.jhydrol.2005.07.003
+   Hutley LB, 2011, AGR FOREST METEOROL, V151, P1417, DOI 10.1016/j.agrformet.2011.03.002
+   Ichii K, 2013, J FOREST RES-JPN, V18, P13, DOI 10.1007/s10310-012-0367-9
+   Jarvis A, 2008, HOLE-FILLED SRTM FOR THE GLOBE VERSION 4, V0, P0
+   Jung M, 2009, BIOGEOSCIENCES, V6, P2001, DOI 10.5194/bg-6-2001-2009
+   Jung M, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001566
+   Jung M, 2010, NATURE, V467, P951, DOI 10.1038/nature09396
+   Karan M, 2016, SCI TOTAL ENVIRON, V568, P1263, DOI 10.1016/j.scitotenv.2016.05.170
+   Kato T, 2006, GLOBAL CHANGE BIOL, V12, P1285, DOI 10.1111/j.1365-2486.2006.01153.x
+   Kattge J, 2011, GLOBAL CHANGE BIOL, V17, P2905, DOI 10.1111/j.1365-2486.2011.02451.x
+   Kattge J, 2009, GLOBAL CHANGE BIOL, V15, P976, DOI 10.1111/j.1365-2486.2008.01744.x
+   Keenan TF, 2012, GLOBAL CHANGE BIOL, V18, P1971, DOI 10.1111/j.1365-2486.2012.02678.x
+   Knohl A, 2003, AGR FOREST METEOROL, V118, P151, DOI 10.1016/S0168-1923(03)00115-1
+   Knyazikhin Y, 2013, P NATL ACAD SCI USA, V110, PE1075, DOI 10.1073/pnas.1301247110
+   Kobayashi H, 2008, REMOTE SENS ENVIRON, V112, P173, DOI 10.1016/j.rse.2007.04.010
+   Kubien DS, 2004, PLANT CELL ENVIRON, V27, P907, DOI 10.1111/j.1365-3040.2004.01196.x
+   Kurbatova J, 2008, BIOGEOSCIENCES, V5, P969, DOI 10.5194/bg-5-969-2008
+   Lawrence PJ, 2007, J GEOPHYS RES-BIOGEO, V112, P0, DOI 10.1029/2006JG000168
+   Leuning R, 2005, AGR FOREST METEOROL, V129, P151, DOI 10.1016/j.agrformet.2004.12.004
+   Lindauer M, 2014, AGR FOREST METEOROL, V197, P219, DOI 10.1016/j.agrformet.2014.07.005
+   Loubet B, 2011, PLANT SOIL, V343, P109, DOI 10.1007/s11104-011-0751-9
+   Lund M, 2012, J GEOPHYS RES-BIOGEO, V117, P0, DOI 10.1029/2011JG001901
+   Ma SY, 2007, AGR FOREST METEOROL, V147, P157, DOI 10.1016/j.agrformet.2007.07.008
+   Mao JF, 2015, ENVIRON RES LETT, V10, P0, DOI 10.1088/1748-9326/10/9/094008
+   Mao JF, 2012, J CLIMATE, V25, P5327, DOI 10.1175/JCLI-D-11-00401.1
+   Marañón-Jiménez S, 2011, FOREST ECOL MANAG, V261, P1436, DOI 10.1016/j.foreco.2011.01.030
+   Marcolla B, 2005, AGR FOREST METEOROL, V130, P193, DOI 10.1016/j.agrformet.2005.03.006
+   Matteucci M, 2015, SOIL BIOL BIOCHEM, V88, P224, DOI 10.1016/j.soilbio.2015.05.017
+   Mauder M, 2013, AGR FOREST METEOROL, V169, P122, DOI 10.1016/j.agrformet.2012.09.006
+   McMurtrie RE, 2008, FUNCT PLANT BIOL, V35, P521, DOI 10.1071/FP08128
+   Meir P, 2007, PLANT ECOL, V192, P277, DOI 10.1007/s11258-007-9320-y
+   Merbold L, 2009, GLOBAL CHANGE BIOL, V15, P2599, DOI 10.1111/j.1365-2486.2009.01962.x
+   Migliavacca M, 2009, AGR FOREST METEOROL, V149, P1460, DOI 10.1016/j.agrformet.2009.04.003
+   Miller SD, 2004, ECOL APPL, V14, P0
+   Miralles DG, 2014, NAT CLIM CHANGE, V4, P122, DOI 10.1038/nclimate2068
+   Mkhabela MS, 2009, AGR FOREST METEOROL, V149, P783, DOI 10.1016/j.agrformet.2008.10.025
+   MONTEITH JL, 1972, J APPL ECOL, V9, P747, DOI 10.2307/2401901
+   Moureaux C, 2006, AGR FOREST METEOROL, V139, P25, DOI 10.1016/j.agrformet.2006.05.009
+   Mu Q, 2007, REMOTE SENS ENVIRON, V111, P519, DOI 10.1016/j.rse.2007.04.015
+   Mu QZ, 2011, REMOTE SENS ENVIRON, V115, P1781, DOI 10.1016/j.rse.2011.02.019
+   Norby RJ, 2005, P NATL ACAD SCI USA, V102, P18052, DOI 10.1073/pnas.0509478102
+   Pavelka M, 2007, PLANT SOIL, V292, P171, DOI 10.1007/s11104-007-9213-9
+   PAW KT, 1988, AGR FOREST METEOROL, V43, P121, DOI 10.1016/0168-1923(88)90087-1
+   PAW KT, 1987, J THERM BIOL, V12, P227, DOI 10.1016/0306-4565(87)90009-X
+   Peel MC, 2007, HYDROL EARTH SYST SC, V11, P1633, DOI 10.5194/hess-11-1633-2007
+   Piao SL, 2013, GLOBAL CHANGE BIOL, V19, P2117, DOI 10.1111/gcb.12187
+   Pilegaard K, 2001, AGR FOREST METEOROL, V107, P29, DOI 10.1016/S0168-1923(00)00227-6
+   Pirk N, 2016, BIOGEOSCIENCES, V13, P903, DOI 10.5194/bg-13-903-2016
+   Platnick S, 2003, IEEE T GEOSCI REMOTE, V41, P459, DOI 10.1109/TGRS.2002.808301
+   Plummer SE, 2000, ECOL MODEL, V129, P169, DOI 10.1016/S0304-3800(00)00233-7
+   Posse G, 2016, IFOREST BIOGEOSCI, V0, Pe1
+   Prober SM, 2012, CLIMATIC CHANGE, V110, P227, DOI 10.1007/s10584-011-0092-y
+   Rambal S, 2004, GLOBAL CHANGE BIOL, V10, P1460, DOI 10.1111/j.1365-2486.2004.00819.x
+   Remer LA, 2005, J ATMOS SCI, V62, P947, DOI 10.1175/JAS3385.1
+   Reverter BR, 2010, BIOGEOSCIENCES, V7, P2601, DOI 10.5194/bg-7-2601-2010
+   Rey A, 2002, GLOBAL CHANGE BIOL, V8, P851, DOI 10.1046/j.1365-2486.2002.00521.x
+   Rodell M, 2015, J CLIMATE, V28, P8289, DOI 10.1175/JCLI-D-14-00555.1
+   Román MO, 2009, REMOTE SENS ENVIRON, V113, P2476, DOI 10.1016/j.rse.2009.07.009
+   Ruehr NK, 2012, AGR FOREST METEOROL, V164, P136, DOI 10.1016/j.agrformet.2012.05.015
+   Running SW, 2004, BIOSCIENCE, V54, P547, DOI 10.1641/0006-3568(2004)054[0547:ACSMOG]2.0.CO;2
+   Ryu Y, 2012, REMOTE SENS ENVIRON, V126, P116, DOI 10.1016/j.rse.2012.08.027
+   Ryu Y, 2012, AGR FOREST METEOROL, V152, P212, DOI 10.1016/j.agrformet.2011.09.010
+   Ryu Y, 2011, GLOBAL BIOGEOCHEM CY, V25, P0, DOI 10.1029/2011GB004053
+   Sabbatini S, 2016, BIOGEOSCIENCES, V13, P95, DOI 10.5194/bg-13-95-2016
+   Sasai T, 2005, J GEOPHYS RES-BIOGEO, V110, P0, DOI 10.1029/2005JG000045
+   Scanlon TM, 2004, GLOBAL CHANGE BIOL, V10, P329, DOI 10.1046/j.1365-2486.2003.00700.x
+   Schmid HP, 2000, AGR FOREST METEOROL, V103, P357, DOI 10.1016/S0168-1923(00)00140-4
+   Scholes RJ, 2001, KOEDOE, V44, P73
+   Schroder I, 2014, OZFLUX: AUSTRALIAN AND NEW ZEALAND FLUX RESEARCH AND MONITORING, V0, P0
+   Scott R, 2016, AMERIFLUX, V0, P0
+   Scott RL, 2010, AGR FOREST METEOROL, V150, P219, DOI 10.1016/j.agrformet.2009.11.002
+   Seemann SW, 2003, PROC SPIE, V4895, P168, DOI 10.1117/12.466686
+   Sellers PJ, 1997, SCIENCE, V275, P502, DOI 10.1126/science.275.5299.502
+   SELLERS PJ, 1995, REMOTE SENS ENVIRON, V51, P3, DOI 10.1016/0034-4257(94)00061-Q
+   Senay GB, 2013, J AM WATER RESOUR AS, V49, P577, DOI 10.1111/jawr.12057
+   Shabanov NV, 2005, IEEE T GEOSCI REMOTE, V43, P1855, DOI 10.1109/TGRS.2005.852477
+   Shao CL, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/2/025012
+   Shao P, 2013, J CLIMATE, V26, P8744, DOI 10.1175/JCLI-D-12-00831.1
+   Simard M, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2011JG001708
+   Simioni G, 2004, PLANT ECOL, V173, P233, DOI 10.1023/B:VEGE.0000029323.74523.80
+   Simioni G, 2004, TREE PHYSIOL, V24, P205, DOI 10.1093/treephys/24.2.205
+   Sjostrom M, 2008, BIOGEOSCI DISCUSS, V5, P2985
+   Smith KW, 2015, NAT CLIM CHANGE, V0, P0
+   Song Y, 2014, J HYDROL, V519, P3531, DOI 10.1016/j.jhydrol.2014.10.048
+   Spano DE L, 2005, JOINT M 6 S FIR FOR, V0, P0
+   Still CJ, 2003, GLOBAL BIOGEOCHEM CY, V17, P0, DOI 10.1029/2001GB001807
+   Sturtevant C, 2016, J GEOPHYS RES-BIOGEO, V121, P188, DOI 10.1002/2015JG003054
+   Sulman BN, 2009, BIOGEOSCIENCES, V6, P1115, DOI 10.5194/bg-6-1115-2009
+   Sundareshwar PV, 2007, SCIENCE, V316, P204, DOI 10.1126/science.1137417
+   Tedeschi V, 2006, GLOBAL CHANGE BIOL, V12, P110, DOI 10.1111/j.1365-2486.2005.01081.x
+   Urbanski S, 2007, J GEOPHYS RES-BIOGEO, V112, P0, DOI 10.1029/2006JG000293
+   van der Molen MK, 2004, AGR FOREST METEOROL, V122, P95, DOI 10.1016/j.agrformet.2003.09.003
+   Verma M, 2015, AGR FOREST METEOROL, V214, P416, DOI 10.1016/j.agrformet.2015.09.005
+   Verma M, 2014, BIOGEOSCIENCES, V11, P2185, DOI 10.5194/bg-11-2185-2014
+   Verma SB, 2005, AGR FOREST METEOROL, V131, P77, DOI 10.1016/j.agrformet.2005.05.003
+   Vesala T, 2005, GLOBAL BIOGEOCHEM CY, V19, P0, DOI 10.1029/2004GB002316
+   Vinukollu RK, 2011, HYDROL PROCESS, V25, P3993, DOI 10.1002/hyp.8393
+   Wallace JM, 2006, ATMOSPHERIC SCIENCE: AN INTRODUCTORY SURVEY, V92, P0
+   Wan ZM, 2008, REMOTE SENS ENVIRON, V112, P59, DOI 10.1016/j.rse.2006.06.026
+   Wang KC, 2010, J GEOPHYS RES-ATMOS, V115, P0, DOI 10.1029/2009JD013671
+   Wang Y, 2006, CSIRO ATMOSPHERE BIO, V0, P0
+   Westergaard-Nielsen A, 2013, ISPRS J PHOTOGRAMM, V86, P89, DOI 10.1016/j.isprsjprs.2013.09.006
+   Whitley R, 2016, BIOGEOSCIENCES, V13, P3245, DOI 10.5194/bg-13-3245-2016
+   Wohlfahrt G, 2008, J GEOPHYS RES-ATMOS, V113, P0, DOI 10.1029/2007JD009286
+   Wolfe RE, 1998, IEEE T GEOSCI REMOTE, V36, P1324, DOI 10.1109/36.701082
+   Xu LK, 2003, TREE PHYSIOL, V23, P865, DOI 10.1093/treephys/23.13.865
+   Yamazaki T, 2013, J METEOROL SOC JPN, V91, P273, DOI 10.2151/jmsj.2013-303
+   Yan H, 2012, REMOTE SENS ENVIRON, V124, P581, DOI 10.1016/j.rse.2012.06.004
+   Yan H, 2015, ECOL MODEL, V297, P42, DOI 10.1016/j.ecolmodel.2014.11.002
+   Yan H, 2013, J GEOPHYS RES-ATMOS, V118, P8969, DOI 10.1002/jgrd.50693
+   Yang ZL, 2011, J GEOPHYS RES-ATMOS, V116, P0, DOI 10.1029/2010JD015140
+   Yebra M, 2015, REMOTE SENS ENVIRON, V163, P206, DOI 10.1016/j.rse.2015.03.016
+   Yebra M, 2013, REMOTE SENS ENVIRON, V129, P250, DOI 10.1016/j.rse.2012.11.004
+   Yin XY, 2000, ANN BOT-LONDON, V85, P579, DOI 10.1006/anbo.1999.1104
+   Yu GR, 2006, AGR FOREST METEOROL, V137, P125, DOI 10.1016/j.agrformet.2006.02.011
+   Yuan WP, 2014, AGR FOREST METEOROL, V192, P108, DOI 10.1016/j.agrformet.2014.03.007
+   Yuan WP, 2010, REMOTE SENS ENVIRON, V114, P1416, DOI 10.1016/j.rse.2010.01.022
+   Zeng Z, 2012, ENVIRON RES LETT, V7, P1
+   Zhang FM, 2012, REMOTE SENS ENVIRON, V124, P717, DOI 10.1016/j.rse.2012.06.023
+   Zhang JH, 2006, AGR FOREST METEOROL, V137, P150, DOI 10.1016/j.agrformet.2006.02.004
+   Zhang K, 2015, SCI REP-UK, V5, P0, DOI 10.1038/srep15956
+   Zhang K, 2010, WATER RESOUR RES, V46, P0, DOI 10.1029/2009WR008800
+   Zhang YG, 2014, GLOBAL CHANGE BIOL, V20, P3727, DOI 10.1111/gcb.12664
+   Zhao MS, 2005, REMOTE SENS ENVIRON, V95, P164, DOI 10.1016/j.rse.2004.12.011
+   Zimmermann F, 2006, ATMOS ENVIRON, V40, P4782, DOI 10.1016/j.atmosenv.2006.03.056
+   Zscheischler J, 2014, ENVIRON RES LETT, V9, P0, DOI 10.1088/1748-9326/9/3/035001
+   Zscheischler J, 2013, ECOL INFORM, V15, P66, DOI 10.1016/j.ecoinf.2013.03.004
+NR 186
+TC 302
+Z9 331
+U1 19
+U2 282
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0034-4257
+EI 1879-0704
+J9 REMOTE SENS ENVIRON
+JI Remote Sens. Environ.
+PD DEC 1
+PY 2016
+VL 186
+IS 
+BP 528
+EP 547
+DI 10.1016/j.rse.2016.08.030
+PG 20
+WC Environmental Sciences; Remote Sensing; Imaging Science & Photographic Technology
+SC Environmental Sciences & Ecology; Remote Sensing; Imaging Science & Photographic Technology
+GA EO0IW
+UT WOS:000396382500041
+DA 2025-11-05
+ER
+

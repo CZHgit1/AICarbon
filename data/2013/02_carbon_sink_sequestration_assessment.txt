@@ -1,0 +1,113 @@
+PT J
+AU Menzer, O
+   Moffat, AM
+   Meiring, W
+   Lasslop, G
+   Schukat-Talamazzini, EG
+   Reichstein, M
+AF Menzer, Olaf
+   Moffat, Antje Maria
+   Meiring, Wendy
+   Lasslop, Gitta
+   Schukat-Talamazzini, Ernst Guenter
+   Reichstein, Markus
+TI Random errors in carbon and water vapor fluxes assessed with Gaussian Processes
+SO AGRICULTURAL AND FOREST METEOROLOGY
+LA English
+DT Article
+DE Random uncertainty; Net ecosystem productivity; Evapotranspiration; Eddy covariance; Annual sums; Gaussian Process; Machine Learning
+ID net ecosystem exchange; eddy covariance technique; long-term measurements; surface fluxes; co2 flux; uncertainty; model; dioxide; respiration; regression
+AB The flow of carbon between terrestrial ecosystems and the atmosphere is mainly driven by nonlinear, complex and time-lagged processes. Understanding the associated ecosystem responses is a key challenge regarding climate change questions such as the future development of the terrestrial carbon sink. However, high temporal resolution measurements of ecosystem variables (with the eddy covariance method) are subject to random error, that needs to be accounted for in model-data fusion, multi-site syntheses and up-scaling efforts. Gaussian Processes (GPs), a nonparametric regression method, have recently been shown to capture relationships in high-dimensional, nonlinear and noisy data. Heteroscedastic Gaussian Processes (HGPs) are a specialized GP method for data with inhomogeneous noise variance, such as eddy covariance measurements. Here, it is demonstrated that the HGP model captures measurement noise variances well, outperforming the model residual method and providing reasonable flux predictions at the same time. Based on meteorological drivers and temporal information, uncertainties of annual sums of carbon flux and water vapor flux at six different tower sites in Europe and North America are estimated. Similar noise patterns with different magnitudes were found across sites. Random uncertainties in annual sums of carbon fluxes were between 9.80 and 31.57 g C m(-2) yr(-1) (or 4-9% of the annual flux), and were between 2.54 and 8.13 mm yr(-1) (or 1-2% of the annual flux) for water vapor fluxes. The empirical HGP model offers a general method to estimate random errors at half-hourly resolution based on entire annual records of measurements. It is introduced as a new tool for random uncertainty assessment widely throughout the FLUXNET network. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Menzer, Olaf; Moffat, Antje Maria; Reichstein, Markus] Max Planck Inst Biogeochem, D-07701 Jena, Germany.
+   [Meiring, Wendy] Univ Calif Santa Barbara, Dept Stat & Appl Probabil, Santa Barbara, CA 93106 USA.
+   [Lasslop, Gitta] Max Planck Inst Meteorol, D-20146 Hamburg, Germany.
+   [Schukat-Talamazzini, Ernst Guenter] Univ Jena, Dept Math & Comp Sci, D-07743 Jena, Germany.
+C3 Max Planck Society; University of California System; University of California Santa Barbara; Max Planck Society; Friedrich Schiller University of Jena
+RP Menzer, O (corresponding author), Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+EM omenzer@bgc-jena.mpg.de
+FU European Commission
+CR Unknown -, 1997, MONTE CARLO IMPLEMEN, V0, P0
+   Unknown -, 1996, PH.D. THESIS, V0, P0
+   Aubinet M, 2000, ADV ECOL RES, V30, P113, DOI 10.1016/S0065-2504(08)60018-5
+   Aubinet M, 2012, EDDY COVARIANCE PRAC, V0, P0, DOI DOI 10.1007/978-94-007-2351-1
+   Baldocchi DD, 2003, GLOBAL CHANGE BIOL, V9, P479, DOI 10.1046/j.1365-2486.2003.00629.x
+   Baldocchi D, 2008, AUST J BOT, V56, P1, DOI 10.1071/BT07151
+   BARTLETT KB, 1993, CHEMOSPHERE, V26, P261, DOI 10.1016/0045-6535(93)90427-7
+   Beer C, 2010, SCIENCE, V329, P834, DOI 10.1126/science.1184984
+   Billesbach DP, 2011, AGR FOREST METEOROL, V151, P394, DOI 10.1016/j.agrformet.2010.12.001
+   Bishop ChristopherM, 2006, PATTERN RECOGN, V1, P0, DOI 10.1117/1.2819119
+   CLEVELAND WS, 1979, J AM STAT ASSOC, V74, P829, DOI 10.2307/2286407
+   Dragoni D, 2007, J GEOPHYS RES, V112, P0
+   Draper NR, 1998, WILEY SERIES PROBABI, V0, P0
+   Eugster W, 1997, BOUND-LAY METEOROL, V85, P293, DOI 10.1023/A:1000552311805
+   Finkelstein PL, 2001, J GEOPHYS RES-ATMOS, V106, P3503, DOI 10.1029/2000JD900731
+   Gao JT, 2004, J APPL PROBAB, V41, P467, DOI 10.1239/jap/1082999079
+   Goldberg PW, 1998, ADV NEUR IN, V10, P493
+   Golub GH, 2012, MATRIX COMPUTATIONS, V3, P0
+   Goulden ML, 1996, GLOBAL CHANGE BIOL, V2, P169, DOI 10.1111/j.1365-2486.1996.tb00070.x
+   Granier A, 2000, FUNCT ECOL, V14, P312, DOI 10.1046/j.1365-2435.2000.00434.x
+   Hollinger DY, 2005, TREE PHYSIOL, V25, P873, DOI 10.1093/treephys/25.7.873
+   Hollinger DY, 1999, GLOB CHANGE BIOL, V5, P891, DOI 10.1046/j.1365-2486.1999.00281.x
+   Hollinger DY, 2004, GLOBAL CHANGE BIOL, V10, P1689, DOI 10.1111/j.1365-2486.2004.00847.x
+   Keenan TF, 2011, OECOLOGIA, V167, P587, DOI 10.1007/s00442-011-2106-x
+   Kersting K, 2007, PROCEEDINGS OF THE 24TH INTERNATIONAL CONFERENCE ON MACHINE LEARNING, V0, PP393, DOI 10.1145/1273496.1273546
+   Knohl A, 2003, THESIS F SCHILLER U, V0, P0
+   Lasslop G, 2008, BIOGEOSCIENCES, V5, P1311, DOI 10.5194/bg-5-1311-2008
+   LENSCHOW DH, 1994, J ATMOS OCEAN TECH, V11, P661, DOI 10.1175/1520-0426(1994)011<0661:HLILEW>2.0.CO;2
+   Liu M, 2009, SCI CHINA SER D, V52, P257, DOI 10.1007/s11430-009-0010-6
+   LLOYD J, 1994, FUNCT ECOL, V8, P315, DOI 10.2307/2389824
+   MacKay DJC, 1998, NEURAL NETWORKS AND MACHINE LEARNING. PROCEEDINGS, V0, P133
+   Macke JH, 2011, NEUROIMAGE, V56, P570, DOI 10.1016/j.neuroimage.2010.04.272
+   Matheron G, 1963, ECON GEOL, V58, P1246, DOI 10.2113/GSECONGEO.58.8.1246
+   Menzer O, 2011, THESIS F SCHILLER U, V0, P0
+   Moffat AM, 2012, THESIS F SCHILLER U, V0, P0
+   Moffat AM, 2007, AGR FOREST METEOROL, V147, P209, DOI 10.1016/j.agrformet.2007.08.011
+   Moffat AM, 2010, GLOBAL CHANGE BIOL, V16, P2737, DOI 10.1111/j.1365-2486.2010.02171.x
+   Moncrieff JB, 1996, GLOB CHANGE BIOL, V2, P231, DOI 10.1111/j.1365-2486.1996.tb00075.x
+   Papale D, 2006, BIOGEOSCIENCES, V3, P571, DOI 10.5194/bg-3-571-2006
+   Papale D, 2003, GLOBAL CHANGE BIOL, V9, P525, DOI 10.1046/j.1365-2486.2003.00609.x
+   Quadrianto N, 2009, IEEE DATA MINING, V0, PP938, DOI 10.1109/ICDM.2009.82
+   Querino CAS, 2011, ATMOS CHEM PHYS, V11, P7943, DOI 10.5194/acp-11-7943-2011
+   Rambal S, 2004, GLOBAL CHANGE BIOL, V10, P1460, DOI 10.1111/j.1365-2486.2004.00819.x
+   Rannik Ü, 2006, AGR FOREST METEOROL, V138, P244, DOI 10.1016/j.agrformet.2006.05.007
+   Rasmussen CE, 2010, J MACH LEARN RES, V11, P3011
+   Raupach MR, 2005, GLOBAL CHANGE BIOL, V11, P378, DOI 10.1111/j.1365-2486.2005.00917.x
+   Reichstein M, 2005, GLOBAL CHANGE BIOL, V11, P1424, DOI 10.1111/j.1365-2486.2005.001002.x
+   Richardson AD, 2012, EDDY COVARIANCE PRAC, V0, PP173, DOI 10.1007/978-94-007-2351-1_7
+   Richardson AD, 2006, AGR FOREST METEOROL, V136, P1, DOI 10.1016/j.agrformet.2006.01.007
+   Richardson AD, 2005, AGR FOREST METEOROL, V131, P191, DOI 10.1016/j.agrformet.2005.05.008
+   Richardson AD, 2008, AGR FOREST METEOROL, V148, P38, DOI 10.1016/j.agrformet.2007.09.001
+   Salesky ST, 2012, BOUND-LAY METEOROL, V144, P113, DOI 10.1007/s10546-012-9710-0
+   Schmidt A, 2008, BOUND-LAY METEOROL, V126, P389, DOI 10.1007/s10546-007-9249-7
+   Schmidt A, 2012, J GEOPHYS RES-BIOGEO, V117, P0, DOI 10.1029/2012JG002100
+   Seeger Matthias, 2004, INT J NEURAL SYST, V14, P69, DOI 10.1142/S0129065704001899
+   Siegenthaler U, 2005, SCIENCE, V310, P1313, DOI 10.1126/science.1120130
+   Sun Y, 2010, J PHARM PHARMACOL, V62, P803
+   Suni T, 2003, BOREAL ENVIRON RES, V8, P287
+NR 58
+TC 18
+Z9 22
+U1 0
+U2 38
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0168-1923
+EI 1873-2240
+J9 AGR FOREST METEOROL
+JI Agric. For. Meteorol.
+PD SEP 15
+PY 2013
+VL 178
+IS 
+BP 161
+EP 172
+DI 10.1016/j.agrformet.2013.04.024
+PG 12
+WC Agronomy; Forestry; Meteorology & Atmospheric Sciences
+SC Agriculture; Forestry; Meteorology & Atmospheric Sciences
+GA 190OJ
+UT WOS:000322349800016
+DA 2025-11-05
+ER
+

@@ -1,0 +1,453 @@
+PT J
+AU Ahmadi, MA
+AF Ahmadi, Mohammad-Ali
+TI Modeling solubility of carbon dioxide in reservoir brine via smart techniques: application to carbon dioxide storage
+SO INTERNATIONAL JOURNAL OF LOW-CARBON TECHNOLOGIES
+LA English
+DT Article
+DE carbon dioxide reduction; CO2-brine solubility; neural network; CO2 sequestration
+ID artificial neural-network; co2 sequestration; asphaltene precipitation; geological storage; demonstration projects; oil-recovery; capture; prediction; gas; injection
+AB Nowadays, reduction of carbon dioxide (CO2) in the atmosphere via sequestration in deep saline aquifers is studied by numerous researchers. Solubility of CO2 in reservoir brine is a most important parameter in CO2 sequestration saline aquifers. Owing to the importance of this issue, in this paper different methods based on the concept of artificial intelligence, such as particle swarm optimization (PSO), artificial neural network (ANN) and hybrid approaches, are evolved to specify solubility of CO2 in brine at different conditions. The developed intelligent approaches are examined by comparing with precise actual data reported in previous publications. The results gained from the developed intelligent approaches are contrasted with the corresponding real CO2-brine solubility data. The average relative absolute error between the real and the corresponding model prediction data is found to be less than 1% for the hybrid PSO and genetic algorithm model.
+C1 [Ahmadi, Mohammad-Ali] Petr Univ Technol, Ahwaz Fac Petr Engn, Dept Petr Engn, Ahvaz, Iran.
+   [Ahmadi, Mohammad-Ali] IOR EOR Res Inst, Tehran, Iran.
+C3 Petroleum University of Technology
+RP Ahmadi, MA (corresponding author), Petr Univ Technol, Ahwaz Fac Petr Engn, Dept Petr Engn, Ahvaz, Iran.; Ahmadi, MA (corresponding author), IOR EOR Res Inst, Tehran, Iran.
+EM ahmadi6776@yahoo.com
+CR Ahmadi MA, 2016, INT J LOW-CARBON TEC, V11, P325, DOI 10.1093/ijlct/ctu034
+   Ahmadi MA, 2014, J PETROL SCI ENG, V123, P7, DOI 10.1016/j.petrol.2014.05.023
+   Ahmadi MA, 2014, FUEL, V137, P145, DOI 10.1016/j.fuel.2014.07.072
+   Ahmadi MA, 2014, FUEL, V124, P241, DOI 10.1016/j.fuel.2014.01.073
+   Ahmadi MA, 2012, J PETROL SCI ENG, V98-99, P40, DOI 10.1016/j.petrol.2012.08.011
+   Ahmadi MA, 2013, APPL SOFT COMPUT, V13, P1085, DOI 10.1016/j.asoc.2012.10.009
+   Ahmadi MA, 2011, J PET EXPLOR PROD TE, V1, P99, DOI 10.1007/s13202-011-0013-7
+   Ahmadi MA, 2012, FUEL, V102, P716, DOI 10.1016/j.fuel.2012.05.050
+   Ahmadi MA, 2012, FLUID PHASE EQUILIBR, V314, P46, DOI 10.1016/j.fluid.2011.10.016
+   Ahmadi MA, 2014, CHEM ENG TECHNOL, V37, P409, DOI 10.1002/ceat.201300155
+   Ametistova L, 2002, SCI TOTAL ENVIRON, V289, P213, DOI 10.1016/S0048-9697(01)01048-8
+   Andreani M, 2009, ENVIRON SCI TECHNOL, V43, P1226, DOI 10.1021/es8018429
+   Bachu S, 2003, J CAN PETROL TECHNOL, V42, P51, DOI 10.2118/03-09-02
+   Bachu S, 2002, J CAN PETROL TECHNOL, V41, P32
+   Baghban A, 2015, J SUPERCRIT FLUID, V98, P50, DOI 10.1016/j.supflu.2015.01.002
+   Bahadori A, 2009, INT J GREENH GAS CON, V3, P474, DOI 10.1016/j.ijggc.2009.01.003
+   Bankes ND, 2011, GREENH GASES, V1, P134, DOI 10.1002/ghg.014
+   Basbug B, 2007, J CAN PETROL TECHNOL, V46, P30
+   Busch A, 2008, INT J GREENH GAS CON, V2, P297, DOI 10.1016/j.ijggc.2008.03.003
+   Celia MA, 2009, GROUND WATER, V47, P627, DOI 10.1111/j.1745-6584.2009.00590.x
+   Coulibaly P, 2005, J HYDROL, V307, P164, DOI 10.1016/j.jhydrol.2004.10.008
+   Damen K, 2009, INT J GREENH GAS CON, V3, P217, DOI 10.1016/j.ijggc.2008.09.005
+   De Silva PNK, 2012, FUEL, V93, P13, DOI 10.1016/j.fuel.2011.07.004
+   Desideri U, 2008, INT J ENERG RES, V32, P1175, DOI 10.1002/er.1454
+   Dinis MAP, 2010, INTERNATIONAL JOURNAL OF ENERGY FOR A CLEAN ENVIRONMENT, V11, P35, DOI 10.1615/INTERJENERCLEANENV.001661
+   Dissanayake AL, 2012, J HYDRO-ENVIRON RES, V6, P195, DOI 10.1016/j.jher.2012.02.001
+   Dusseault MB, 2004, J CAN PETROL TECHNOL, V43, P49
+   Eccles JK, 2009, ENVIRON SCI TECHNOL, V43, P1962, DOI 10.1021/es801572e
+   Elliot TR, 2012, ENVIRON SCI TECHNOL, V46, P4223, DOI 10.1021/es2040015
+   Fisher L, 2003, J CAN PETROL TECHNOL, V42, P23
+   García-Pedrajas N, 2003, IEEE T NEURAL NETWOR, V14, P575, DOI 10.1109/TNN.2003.810618
+   Gibbins J, 2008, ENERG POLICY, V36, P4317, DOI 10.1016/j.enpol.2008.09.058
+   Gui P, 2008, J CAN PETROL TECHNOL, V47, P34
+   Hassan R, 2004, A COMPARISON OF PARTICLE SWARM OPTIMIZATION AND THE GENETIC ALGORITHM, V0, P1
+   Hassanzadeh H, 2008, INT J GREENH GAS CON, V2, P65, DOI 10.1016/S1750-5836(07)00010-2
+   Hassanzadeh H, 2009, ENERG FUEL, V23, P3328, DOI 10.1021/ef900125m
+   Holland JH, 1975, ADAPTATION IN NATURAL AND ARTIFICIAL SYSTEMS: AN INTRODUCTORY ANALYSIS WITH APPLICATIONS TO BIOLOGY, V0, P0
+   HORNIK K, 1990, NEURAL NETWORKS, V3, P551, DOI 10.1016/0893-6080(90)90005-6
+   HORNIK K, 1989, NEURAL NETWORKS, V2, P359, DOI 10.1016/0893-6080(89)90020-8
+   Johnsson F, 2011, GREENH GASES, V1, P119, DOI 10.1002/ghg.9
+   Khattri SK, 2011, J POROUS MEDIA, V14, P149, DOI 10.1615/JPorMedia.v14.i2.40
+   Khoo HH, 2006, ENVIRON PROG, V25, P208, DOI 10.1002/ep.10139
+   Lal R, 2008, ENERG ENVIRON SCI, V1, P86, DOI 10.1039/b809492f
+   Little MG, 2010, ENVIRON SCI TECHNOL, V44, P9225, DOI 10.1021/es102235w
+   Litynski JT, 2008, ENVIRON INT, V34, P127, DOI 10.1016/j.envint.2007.07.005
+   Liu HW, 2009, ENRGY PROCED, V1, P3877, DOI 10.1016/j.egypro.2009.02.190
+   Liu Q, 2011, GREENH GASES, V1, P211, DOI 10.1002/ghg.029
+   Lund H, 2012, ENERGY, V44, P469, DOI 10.1016/j.energy.2012.06.002
+   Michael K, 2010, INT J GREENH GAS CON, V4, P659, DOI 10.1016/j.ijggc.2009.12.011
+   Mitchell AC, 2009, INT J GREENH GAS CON, V3, P90, DOI 10.1016/j.ijggc.2008.05.002
+   Mitrovic M, 2011, ENRGY PROCED, V4, P6384, DOI 10.1016/j.egypro.2011.02.656
+   Mitrovic M, 2011, ENRGY PROCED, V4, P5685, DOI 10.1016/j.egypro.2011.02.562
+   Mohaghegh SD, 2005, JPT, V57, P86, DOI 10.2118/89033-JPT
+   Nash JE, 1970, J. HYDROL, V10, P282, DOI 10.1016/0022-1694(70)90255-6
+   Oh TH, 2010, RENEW SUST ENERG REV, V14, P2697, DOI 10.1016/j.rser.2010.06.003
+   Oltra C, 2010, INT J GREENH GAS CON, V4, P698, DOI 10.1016/j.ijggc.2010.02.001
+   Pamukcu YZ, 2008, J CAN PETROL TECHNOL, V47, P34
+   Plug WJ, 2008, SPE J, V13, P455, DOI 10.2118/108161-PA
+   Rubin ES, 2007, INT J GREENH GAS CON, V1, P188, DOI 10.1016/S1750-5836(07)00016-3
+   Scheffknecht G, 2008, INT J ENERGY CLEAN E, V9, P179, DOI 10.1615/ InterJEnerCleanEnv.v9.i1-3.130
+   Shafiei A, 2014, J SUPERCRIT FLUID, V95, P525, DOI 10.1016/j.supflu.2014.08.011
+   Shaw J, 2002, J CAN PETROL TECHNOL, V41, P51, DOI 10.2118/02-09-05
+   Shi JQ, 2007, INT J GREENH GAS CON, V1, P473, DOI 10.1016/S1750-5836(07)00013-8
+   Shi Y, 1988, P 1998 IEEE INT C EV, V0, P69
+   Solomon S, 2008, INT J GREENH GAS CON, V2, P502, DOI 10.1016/j.ijggc.2008.04.004
+   Stephens JC, 2011, GLOBAL ENVIRON CHANG, V21, P379, DOI 10.1016/j.gloenvcha.2011.01.008
+   Suekane T, 2008, INT J GREENH GAS CON, V2, P58, DOI 10.1016/S1750-5836(07)00096-5
+   Taggart I, 2010, SPE RESERV EVAL ENG, V13, P791, DOI 10.2118/124630-PA
+   Tokoro T, 2011, ENERG CONVERS MANAGE, V52, P2509, DOI 10.1016/j.enconman.2011.01.016
+   Trivedi JJ, 2010, J CAN PETROL TECHNOL, V49, P22, DOI 10.2118/134245-PA
+   Wang JS, 2012, INT J GREENH GAS CON, V11, P158, DOI 10.1016/j.ijggc.2012.08.002
+   Wilday J, 2011, PROCESS SAF ENVIRON, V89, P482, DOI 10.1016/j.psep.2011.09.002
+   Wilday J, 2011, PROCESS SAF ENVIRON, V89, P463, DOI 10.1016/j.psep.2011.06.021
+   Worthington SRH, 2009, GROUND WATER, V47, P326, DOI 10.1111/j.1745-6584.2009.00551.x
+   Yamamoto H, 2009, INT J GREENH GAS CON, V3, P586, DOI 10.1016/j.ijggc.2009.04.007
+   Yan W, 2011, INT J GREENH GAS CON, V5, P1460, DOI 10.1016/j.ijggc.2011.08.004
+   Yang HQ, 2008, J ENVIRON SCI, V20, P14, DOI 10.1016/S1001-0742(08)60002-9
+   Yang Y, 2011, ENERG ENVIRON SCI, V4, P4596, DOI 10.1039/c1ee01890f
+   Zeman F, 2010, J ENVIRON ENG-ASCE, V136, P756, DOI 10.1061/(ASCE)EE.1943-7870.0000178
+   Zendehboudi S, 2014, AICHE J, V60, P1905, DOI 10.1002/aic.14365
+   Zendehboudi S, 2013, CAN J CHEM ENG, V91, P1325, DOI 10.1002/cjce.21802
+   Zendehboudi S, 2013, IND ENG CHEM RES, V52, P6009, DOI 10.1021/ie301949c
+   Zendehboudi S, 2012, ENERG FUEL, V26, P3432, DOI 10.1021/ef300443j
+   Zhao XL, 2012, ENERG FUEL, V26, P5350, DOI 10.1021/ef300783c
+   Zhou D, 2011, INT J GREENH GAS CON, V5, P308, DOI 10.1016/j.ijggc.2010.09.011
+   Zhou QL, 2008, INT J GREENH GAS CON, V2, P626, DOI 10.1016/j.ijggc.2008.02.004
+NR 86
+TC 8
+Z9 8
+U1 6
+U2 26
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1748-1317
+EI 1748-1325
+J9 INT J LOW-CARBON TEC
+JI Int. J. Low-Carbon Technol.
+PD DEC 15
+PY 2016
+VL 11
+IS 4
+BP 441
+EP 454
+DI 10.1093/ijlct/ctv024
+PG 14
+WC Thermodynamics; Energy & Fuels
+SC Thermodynamics; Energy & Fuels
+GA EG6BE
+UT WOS:000391128000001
+DA 2025-11-05
+ER
+
+PT J
+AU Ahmadi, MA
+   Kashiwao, T
+   Rozyn, J
+   Bahadori, A
+AF Ahmadi, M. A.
+   Kashiwao, T.
+   Rozyn, J.
+   Bahadori, A.
+TI Accurate prediction of properties of carbon dioxide for carbon capture and sequestration operations
+SO PETROLEUM SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Carbon dioxide; carbon capture; carbon sequestration; viscosity; thermal conductivity; predictive modeling; least-squares support vector machine
+ID artificial neural-network; support vector machines; asphaltene precipitation; transport; permeability; reservoirs; algorithm
+AB Development of robust predictive models to estimate the transport properties of gases (namely viscosity and thermal conductivity) is of immense help in many engineering applications. This study highlights the application of the artificial neural network (ANN) and least squares support vector machine (LSSVM) modeling approaches to estimate the viscosity and thermal conductivity of CO2. To propose the machine learning methods, a total of 800 data gathered from the literature covering a wide temperature range of 200-1000 K and a wide pressure range of 0.1-100 MPa were used. Particle swarm optimization (PSO) and genetic algorithm (GA) as population-based stochastic search algorithms were applied for training of ANNs and to achieve the optimum LSSVM model variables. For the purpose of predicting viscosity, the PSO-ANN and GA-LSSVM methods yielded the mean absolute error (MAE) and coefficient of determination (R-2) values of 1.736 and 0.995 as well as 0.51930 and 0.99934, respectively for the whole data set, while for the purpose of predicting thermal conductivity, the PSO-ANN and GA-LSSVM models yielded the MAE and R-2 values of 1.43044 and 0.99704 as well as 0.72140 and 0.99857, respectively for the whole data set. Both methods provide properly capable method for predicting the thermal conductivity and viscosity of CO2.
+C1 [Ahmadi, M. A.] PUT, Ahwaz Fac Petr Engn, Ahvaz, Iran.
+   [Kashiwao, T.] Niihama Coll, Natl Inst Technol, Dept Elect & Control Engn, Niihama, Ehime, Japan.
+   [Rozyn, J.; Bahadori, A.] So Cross Univ, Sch Environm Sci & Engn, Lismore, NSW 2480, Australia.
+C3 Southern Cross University
+RP Bahadori, A (corresponding author), So Cross Univ, Sch Environm Sci & Engn, Lismore, NSW 2480, Australia.
+EM alireza.bahadori@scu.edu.au
+CR Ahmadi MA, 2015, FUEL, V140, P429, DOI 10.1016/j.fuel.2014.09.058
+   Ahmadi MA, 2014, FUEL, V124, P241, DOI 10.1016/j.fuel.2014.01.073
+   Ahmadi MA, 2014, FUEL, V117, P579, DOI 10.1016/j.fuel.2013.09.071
+   Ahmadi MA, 2013, GEOPHYS PROSPECT, V61, P582, DOI 10.1111/j.1365-2478.2012.01080.x
+   Ahmadi MA, 2012, J PETROL SCI ENG, V98-99, P40, DOI 10.1016/j.petrol.2012.08.011
+   Ahmadi MA, 2013, APPL SOFT COMPUT, V13, P1085, DOI 10.1016/j.asoc.2012.10.009
+   Ahmadi MA, 2011, J PET EXPLOR PROD TE, V1, P99, DOI 10.1007/s13202-011-0013-7
+   Ahmadi MA, 2012, FUEL, V102, P716, DOI 10.1016/j.fuel.2012.05.050
+   Ahmadi MA, 2012, FLUID PHASE EQUILIBR, V314, P46, DOI 10.1016/j.fluid.2011.10.016
+   Ahmadi MA, 2015, FUEL, V153, P276, DOI 10.1016/j.fuel.2015.02.094
+   Alvarado V, 2010, ENERGIES, V3, P1529, DOI 10.3390/en3091529
+   Unknown -, 2001, SWARM INTELL-US, V0, P0
+   Unknown -, 2018, PRACTICAL GENETIC AL, V0, P0, DOI DOI 10.1002/JMRS.288
+   Bahadori A, 2009, INT J GREENH GAS CON, V3, P768, DOI 10.1016/j.ijggc.2009.07.003
+   Bahadori A, 2009, INT J GREENH GAS CON, V3, P474, DOI 10.1016/j.ijggc.2009.01.003
+   Bahadori A, 2008, CHEM ENG-NEW YORK, V115, P52
+   CHUNG TH, 1988, IND ENG CHEM RES, V27, P671, DOI 10.1021/ie00076a024
+   Engelbrecht AP, 2002, COMPUTATIONAL INTELL, V0, P0
+   Fazeli H, 2013, ENERG FUEL, V27, P3523, DOI 10.1021/ef400179b
+   Gencoglu MT, 2009, EXPERT SYST APPL, V36, P10789, DOI 10.1016/j.eswa.2009.02.021
+   Keerthi SS, 2003, NEURAL COMPUT, V15, P1667, DOI 10.1162/089976603321891855
+   Moritis G, 2001, OIL GAS J, V99, P68
+   Poling BE, 1987, PROPERTIES GASES LIQ, V5th, P0
+   Sha W, 2007, MATER DESIGN, V28, P1747, DOI 10.1016/j.matdes.2007.02.009
+   Sivanandam SN, 1900, P15, V0, P0
+   Suykens JA, 2002, WORLD SCIENTIFIC, V0, P0
+   Suykens JAK, 1999, NEURAL PROCESS LETT, V9, P293, DOI 10.1023/A:1018628609742
+   Vandeginste V, 2008, INT J GREENH GAS CON, V2, P571, DOI 10.1016/j.ijggc.2008.02.001
+   Vapnik V, 1963, AUTOMAT REM CONTR+, V24, P0
+   VESOVIC V, 1990, J PHYS CHEM REF DATA, V19, P763, DOI 10.1063/1.555875
+   Vong CM, 2006, ENG APPL ARTIF INTEL, V19, P277, DOI 10.1016/j.engappai.2005.09.001
+   Zendehboudi S, 2013, IND ENG CHEM RES, V52, P6009, DOI 10.1021/ie301949c
+NR 35
+TC 20
+Z9 21
+U1 4
+U2 16
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1091-6466
+EI 1532-2459
+J9 PETROL SCI TECHNOL
+JI Pet. Sci. Technol.
+PD JUN 15
+PY 2016
+VL 34
+IS 1
+BP 97
+EP 103
+DI 10.1080/10916466.2015.1107847
+PG 7
+WC Energy & Fuels; Engineering, Chemical; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA DF1AK
+UT WOS:000371070600016
+DA 2025-11-05
+ER
+
+PT J
+AU Shin, J
+   Lee, CY
+   Kim, H
+AF Shin, Jungwoo
+   Lee, Chul-Yong
+   Kim, Hongbum
+TI Technology and demand forecasting for carbon capture and storage technology in South Korea
+SO ENERGY POLICY
+LA English
+DT Article
+DE Carbon capture and storage; Patent; Diffusion model; Demand forecasting
+ID renewable energy technology; fuel power-plants; product diffusion; network; television; emissions; project; biomass; growth; costs
+AB Among the various alternatives available to reduce greenhouse gas (GHG) emissions, carbon capture and storage (CCS) is considered to be a prospective technology that could both improve economic growth and meet GHG emission reduction targets. Despite the importance of CCS, however, studies of technology and demand forecasting for CCS are scarce. This study bridges this gap in the body of knowledge on this topic by forecasting CCS technology and demand based on an integrated model. For technology forecasting, a logistic model and patent network analysis are used to compare the competitiveness of CCS technology for selected countries. For demand forecasting, a competition diffusion model is adopted to consider competition among renewable energies and forecast demand. The results show that the number of patent applications for CCS technology will increase to 16,156 worldwide and to 4,790 in Korea by 2025. We also find that the United States has the most competitive CCS technology followed by Korea and France. Moreover, about 5 million tCO(2)e of GHG will be reduced by 2040 if CCS technology is adopted in Korea after 2020. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Shin, Jungwoo] Kyung Hee Univ, Dept Ind & Management Syst Engn, 1732 Deogyeong Daero, Yongin 446701, Gyeonggi, South Korea.
+   [Lee, Chul-Yong] KEEI, 405-11 Jongga Ro, Ulsan 44543, South Korea.
+   [Kim, Hongbum] Univ Pittsburgh, Sch Informat Sci, 135 North Bellefield Ave, Pittsburgh, PA 15260 USA.
+C3 Kyung Hee University; Korea Energy Economics Institute; Pennsylvania Commonwealth System of Higher Education (PCSHE); University of Pittsburgh
+RP Lee, CY (corresponding author), KEEI, 405-11 Jongga Ro, Ulsan 44543, South Korea.
+EM shinjung11@gmail.com; cylee@keei.re.kr; sirkim@snu.ac.kr
+FU Creative KISTEP Fellowship program; Korea Energy Economics Institute (KEEI) grant - South Korean Prime Minister's Office
+CR Akashi O, 2012, SUSTAIN SCI, V7, P139, DOI 10.1007/s11625-012-0166-4
+   Akbilgic O, 2015, APPL ENERG, V159, P11, DOI 10.1016/j.apenergy.2015.08.056
+   Anderson S, 2004, ANNU REV ENV RESOUR, V29, P109, DOI 10.1146/annurev.energy.29.082703.145619
+   Unknown -, 2014, 2014 IEEE STUDENTSCO, V0, P0
+   Arranz AM, 2015, ENERG POLICY, V82, P249, DOI 10.1016/j.enpol.2015.03.018
+   Azar C, 2006, CLIMATIC CHANGE, V74, P47, DOI 10.1007/s10584-005-3484-7
+   Azar C, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/3/034004
+   Bapuji H, 2011, J ENG TECHNOL MANAGE, V28, P215, DOI 10.1016/j.jengtecman.2011.06.001
+   BASS FM, 1969, MANAGE SCI, V15, P215, DOI 10.1287/mnsc.15.5.215
+   Bass FM, 2001, INTERFACES, V31, PS82, DOI 10.1287/inte.31.3s.82.9677
+   BAYUS BL, 1993, MANAGE SCI, V39, P1319, DOI 10.1287/mnsc.39.11.1319
+   Bloomberg New Energy Finance (BNEF), 2014, OP CCS CAN BLUEPR ON, V0, P6
+   Cantner U, 2006, RES POLICY, V35, P463, DOI 10.1016/j.respol.2006.01.002
+   Choi C, 2007, TECHNOL FORECAST SOC, V74, P1296, DOI 10.1016/j.techfore.2006.10.008
+   Choi JY, 2015, SUSTAINABILITY-BASEL, V7, P11546, DOI 10.3390/su70911546
+   Cormos CC, 2016, FUEL, V169, P50, DOI 10.1016/j.fuel.2015.12.005
+   Duncan GT, 2001, INT SER OPER RES MAN, V30, P195
+   Frank LD, 2004, TECHNOL FORECAST SOC, V71, P391, DOI 10.1016/S0040-1625(02)00392-X
+   Geum Y, 2012, ETRI J, V34, P439, DOI 10.4218/etrij.12.1711.0010
+   Gibbins J, 2008, ENERG POLICY, V36, P4317, DOI 10.1016/j.enpol.2008.09.058
+   Gough C, 2006, 8 INT C GREENH GAS C, V0, P19
+   GRILICHES Z, 1957, ECONOMETRICA, V25, P501, DOI 10.2307/1905380
+   HAHN M, 1994, MARKET SCI, V13, P224, DOI 10.1287/mksc.13.3.224
+   Ho TH, 2002, MANAGE SCI, V48, P187, DOI 10.1287/mnsc.48.2.187.257
+   Huh SY, 2014, ENERG POLICY, V69, P248, DOI 10.1016/j.enpol.2014.02.028
+   IEA, 2014, ENERGY TECHNOLOGY PE, V0, P0
+   International Energy Agency, 2009, CARB CAPT STOR FULL, V0, P0
+   Jeong S, 2015, SCIENTOMETRICS, V104, P841, DOI 10.1007/s11192-015-1606-6
+   Joo SH, 2010, SCIENTOMETRICS, V83, P435, DOI 10.1007/s11192-009-0108-9
+   Kapetaki Z, 2016, ENRGY PROCED, V86, P12, DOI 10.1016/j.egypro.2016.01.002
+   Kern F, 2016, TECHNOL FORECAST SOC, V102, P250, DOI 10.1016/j.techfore.2015.09.010
+   Kim S, 2016, TECHNOL ANAL STRATEG, V0, P0
+   Korea Academy of Science and Technology, 2014, 90 KAST, V0, P0
+   Korea Energy Economics Institute, 2014, 2014 YB EN STAT, V0, P0
+   Lee J, 2006, TECHNOL FORECAST SOC, V73, P362, DOI 10.1016/j.techfore.2004.12.002
+   Lee PC, 2010, INNOV-MANAG POLICY P, V12, P26, DOI 10.5172/impp.12.1.26
+   Liu HW, 2010, ENERG POLICY, V38, P59, DOI 10.1016/j.enpol.2009.08.063
+   MAHAJAN V, 1995, MARKET SCI, V14, PG79, DOI 10.1287/mksc.14.3.G79
+   MANSFIELD E, 1961, ECONOMETRICA, V29, P741, DOI 10.2307/1911817
+   Mansouri NY, 2013, ENERG POLICY, V63, P681, DOI 10.1016/j.enpol.2013.06.087
+   Marshall JP, 2016, ENERG POLICY, V99, P288, DOI 10.1016/j.enpol.2016.05.044
+   Ministry of Environment, 2014, NAT GREENH GAS EM RE, V0, P0
+   Ministry of Trade Industry and Energy, 2015, LONG TERM PROM PLAN, V0, P0
+   Odeh NA, 2008, ENERG POLICY, V36, P367, DOI 10.1016/j.enpol.2007.09.026
+   Roco MihailC, 2003, CONVERGING TECHNOLOG, V0, P0
+   Rubin ES, 2012, ENVIRON SCI TECHNOL, V46, P3076, DOI 10.1021/es204514f
+   Scott J, 2017, SOCIAL NETWORK ANALYSIS, V4th, P0
+   Setiawan AD, 2013, ENERG POLICY, V61, P1188, DOI 10.1016/j.enpol.2013.06.057
+   Stauffer PH, 2011, ENVIRON SCI TECHNOL, V45, P8597, DOI 10.1021/es200510f
+   Stern N, 2008, AM ECON REV, V98, P1, DOI 10.1257/aer.98.2.1
+   Tan YT, 2016, ENERG CONVERS MANAGE, V118, P204, DOI 10.1016/j.enconman.2016.03.079
+   Technavio Research, 2015, 2015 2019 GLOB CCS M, V0, P0
+   THOMAS RJ, 1985, J PROD INNOVAT MANAG, V2, P45
+   Tzimas E, 2007, ENERG POLICY, V35, P3991, DOI 10.1016/j.enpol.2007.01.027
+   United Nations Industrial Development Organization, 2011, TECHN ROADM CARB CAP, V0, P0
+   Viebahn P, 2007, INT J GREENH GAS CON, V1, P121, DOI 10.1016/S1750-5836(07)00024-2
+   Wasserman S, 1995, SOCIAL NETWORK ANAL, V0, P0
+   Xu Y, 2015, UTIL POLICY, V36, P43, DOI 10.1016/j.jup.2015.09.001
+NR 58
+TC 27
+Z9 28
+U1 2
+U2 61
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0301-4215
+EI 1873-6777
+J9 ENERG POLICY
+JI Energy Policy
+PD NOV 15
+PY 2016
+VL 98
+IS 
+BP 1
+EP 11
+DI 10.1016/j.enpol.2016.08.009
+PG 11
+WC Economics; Energy & Fuels; Environmental Sciences; Environmental Studies
+SC Business & Economics; Energy & Fuels; Environmental Sciences & Ecology
+GA EB3WS
+UT WOS:000387300300001
+DA 2025-11-05
+ER
+
+PT J
+AU Tatar, A
+   Barati, A
+   Yarahmadi, A
+   Najafi, A
+   Lee, M
+   Bahadori, A
+AF Tatar, Afshin
+   Barati, Ali
+   Yarahmadi, Ali
+   Najafi, Adel
+   Lee, Moonyong
+   Bahadori, Alireza
+TI Prediction of carbon dioxide solubility in aqueous mixture of methyldiethanolamine and N-methylpyrrolidone using intelligent models
+SO INTERNATIONAL JOURNAL OF GREENHOUSE GAS CONTROL
+LA English
+DT Article
+DE CO2; Solubility; GA-RBF; Modeling; CMIS; Methyldiethanolamine; N-Methylpyrrolidone
+ID ionic liquids; high-pressure; neural-networks; crude-oil; equilibrium; systems; gas; viscosity; parameters; constants
+AB Clear knowledge about the solubility of acid gases such as CO2 in different solvents at different states is very important, especially for carbon capture from flue gases. This study highlights the application of artificial intelligence in prediction of carbon dioxide solubility in a mix solvent of methyldiethanolamine and N-methylpyrrolidone at wide range of temperature and pressure. The input data of the models were temperature, pressure, and saturation pressure and the output parameter was the solubility of CO2. Different intelligent approaches such as MLP-ANN, GA-RBF, CSA-LSSVM, Hybrid-ANFIS, PSO-ANFIS, and CMIS were developed and the reliability of models was investigated through different graphical and statistical methods. Result showed that the developed models are accurate and predictive for estimation of experimental solubility data. However, the CMIS approach exhibited better results compared to other intelligent approaches. Results of this study showed that intelligent based algorithms are powerful alternatives for time-consuming and difficult experimental processes of solubility measurement. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Tatar, Afshin] Islamic Azad Univ, North Tehran Branch, Young Researchers & Elite Club, Tehran, Iran.
+   [Barati, Ali; Najafi, Adel] Islamic Azad Univ, Ahwaz Branch, Young Researchers & Elite Club, Ahvaz, Iran.
+   [Yarahmadi, Ali] PUT, Ahwaz Fac Petr Engn, Dept Petr Engn, Ahvaz, Iran.
+   [Lee, Moonyong] Yeungnam Univ, Sch Chem Engn, Gyeungsan, South Korea.
+   [Bahadori, Alireza] So Cross Univ, Sch Environm Sci & Engn, Lismore, NSW, Australia.
+C3 Islamic Azad University; Islamic Azad University; Yeungnam University; Southern Cross University
+RP Tatar, A (corresponding author), Islamic Azad Univ, North Tehran Branch, Young Researchers & Elite Club, Tehran, Iran.
+EM Afshin.Tatar@gmail.com; a.bahadori@scu.edu.au
+CR Ahmadi MA, 2014, J PETROL SCI ENG, V123, P7, DOI 10.1016/j.petrol.2014.05.023
+   Ahmadi MA, 2014, FUEL, V137, P145, DOI 10.1016/j.fuel.2014.07.072
+   Ahmadi MA, 2015, J SUPERCRIT FLUID, V97, P81, DOI 10.1016/j.supflu.2014.11.009
+   Ai N, 2005, J CHEM ENG DATA, V50, P492, DOI 10.1021/je049696s
+   Unknown -, 2004, NEURAL NETWORKS, V0, PP2, DOI 10.5555/541500
+   Unknown -, 2009, PET. COAL, V0, P0
+   Arce PF, 2010, FLUID PHASE EQUILIBR, V295, P9, DOI 10.1016/j.fluid.2010.03.030
+   Baghban A, 2015, J SUPERCRIT FLUID, V98, P50, DOI 10.1016/j.supflu.2015.01.002
+   Baylar A, 2009, EXPERT SYST APPL, V36, P8368, DOI 10.1016/j.eswa.2008.10.061
+   Broomhead DS, 1988, COMPLEX SYSTEMS, V2, P321
+   Chamkalani A, 2012, CHEM ENG SCI, V81, P202, DOI 10.1016/j.ces.2012.06.060
+   Coulibaly P, 2005, J HYDROL, V307, P164, DOI 10.1016/j.jhydrol.2004.10.008
+   Cybenko G, 1989, MATHEMATICS OF CONTROL, V0, P0
+   Darvish H, 2015, J AFR EARTH SCI, V111, P409, DOI 10.1016/j.jafrearsci.2015.08.001
+   Darwin C, 1859, ON THE ORIGINS OF SPECIES BY MEANS OF NATURAL SELECTION, V0, PP247, DOI 10.4324/9780203509104
+   Dayhoff J, 1990, NEURAL NETWORK ARCHI, V0, P0
+   Eberhart R, 1995, PROCEEDINGS OF THE SIXTH INTERNATIONAL SYMPOSIUM ON MICRO MACHINE AND HUMAN SCIENCE, V0, PP39, DOI 10.1109/MHS.1995.494215
+   Eberhart RC, 1996, COMPUTATIONAL INTELL, V0, P0
+   Eslamimanesh A, 2012, FLUID PHASE EQUILIBR, V316, P34, DOI 10.1016/j.fluid.2011.11.029
+   Eslamimanesh A, 2011, IND ENG CHEM RES, V50, P12807, DOI 10.1021/ie2011164
+   Eslamimanesh A, 2011, CHEM ENG SCI, V66, P3039, DOI 10.1016/j.ces.2011.03.016
+   Fabian V, 1997, COMPUT MATH APPL, V33, P81, DOI 10.1016/S0898-1221(96)00221-0
+   Fogel DB, 2006, EVOLUTIONARY COMPUTATION: TOWARD A NEW PHILOSOPHY OF MACHINE INTELLIGENCE, V0, P1, DOI 10.1002/0471749214
+   Genest C, 1986, STATISTICAL SCI, V1, P114, DOI 10.1214/SS/1177013825
+   George J, 2004, J CHEM ENG DATA, V49, P235, DOI 10.1021/je0340809
+   Gharagheizi F, 2011, IND ENG CHEM RES, V50, P11382, DOI 10.1021/ie200962w
+   Hashem Sherif, 1993, APPROXIMATING A FUNCTION AND ITS DERIVATIVES USING MSE-OPTIMAL LINEAR COMBINATIONS OF TRAINED FEEDFORWARD NEURAL NETWORKS, V0, P0
+   Hassan Rania, 2005, PROCEEDINGS OF THE 1ST AIAA MULTIDISCIPLINARY DESIGN OPTIMIZATION SPECIALIST CONFERENCE, V0, P18
+   Henni A, 2004, J CHEM ENG DATA, V49, P231, DOI 10.1021/je034073k
+   Holland JH, 1992, ADAPTATION IN NATURAL AND ARTIFICIAL SYSTEMS: AN INTRODUCTORY ANALYSIS WITH APPLICATIONS TO BIOLOGY, V0, P0
+   HUANG SH, 1994, IEEE T COMPON PACK A, V17, P212, DOI 10.1109/95.296402
+   JACOBS RA, 1995, NEURAL COMPUT, V7, P867, DOI 10.1162/neco.1995.7.5.867
+   Jang JSR, 1997, NEURO FUZZY SOFT COM, Vthird, P0, DOI 10.1109/TAC.1997.633847
+   Ji XY, 2010, FLUID PHASE EQUILIBR, V293, P141, DOI 10.1016/j.fluid.2010.02.024
+   JOU FY, 1982, IND ENG CHEM PROC DD, V21, P539, DOI 10.1021/i200019a001
+   Jou FY, 2005, FLUID PHASE EQUILIBR, V228, P465, DOI 10.1016/j.fluid.2004.10.004
+   Karri V, 1999, PROCEEDINGS THIRD INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND MULTIMEDIA APPLICATIONS. ICCIMA99, V0, P55
+   KIRKPATRICK S, 1983, SCIENCE, V220, P671, DOI 10.1126/science.220.4598.671
+   Kohl A, 1997, GAS PURIFICATION, V5th, P0
+   Lee CW, 2004, J CHEM ENG DATA, V49, P53, DOI 10.1021/je0301545
+   Lee KH, 2006, FIRST COURSE ON FUZZY THEORY AND APPLICATIONS, V0, P0
+   Liu HX, 2005, J PHYS CHEM B, V109, P20565, DOI 10.1021/jp052223n
+   Mayr E, 1988, NEW PHILOS BIOL OBSE, V0, P0
+   METROPOLIS N, 1953, J CHEM PHYS, V21, P1087, DOI 10.1063/1.1699114
+   Mohaghegh S, 2000, J PETROL TECHNOL, V52, P40, DOI 10.2118/61925-JPT
+   Morteza N-T, 2015, J GEOPHYS ENG, V12, P188
+   Nadai DV, 2013, FUEL, V105, P325, DOI 10.1016/j.fuel.2012.06.018
+   Nikravesh M, 2003, SOFT COMPUTING INTEL, VFirst, P0
+   Nilsson NJ, 1965, LEARNING MACHINES FD, V0, P0
+   Olatunji SO, 2011, EXPERT SYST APPL, V38, P10911, DOI 10.1016/j.eswa.2011.02.132
+   Pelckman K, 2002, LS SVMLAB MATLAB C T, V0, P0
+   PENG D, 1976, IND ENG CHEM FUND, V15, P59, DOI 10.1021/i160057a011
+   Perrone MP, 1992, WHEN NETWORKS DISAGREE: ENSEMBLE METHODS FOR HYBRID NEURAL NETWORKS, V0, P0
+   Powell M, 1987, CLARENDON PRESS I MA, V0, P143
+   Safamirzaei M, 2012, FLUID PHASE EQUILIBR, V332, P165, DOI 10.1016/j.fluid.2012.07.009
+   Safamirzaei M, 2012, THERMOCHIM ACTA, V545, P125, DOI 10.1016/j.tca.2012.07.005
+   Safamirzaei M, 2011, FLUID PHASE EQUILIBR, V309, P53, DOI 10.1016/j.fluid.2011.06.022
+   Safari H, 2014, ASIA-PAC J CHEM ENG, V9, P256, DOI 10.1002/apj.1765
+   Safari H, 2014, IND ENG CHEM RES, V53, P11488, DOI 10.1021/ie501702z
+   Safari H, 2014, FLUID PHASE EQUILIBR, V374, P48, DOI 10.1016/j.fluid.2014.04.010
+   Santos RB, 2013, CHEM ENGINEER TRANS, V32, P1375, DOI 10.3303/CET1332230
+   Sayahi T, 2016, INT J THERM SCI, V99, P180, DOI 10.1016/j.ijthermalsci.2015.08.010
+   Schwefel H-P, 1993, EVOLUTION OPTIMUM SE, V0, P0
+   Shafiei A, 2014, J SUPERCRIT FLUID, V95, P525, DOI 10.1016/j.supflu.2014.08.011
+   Shariati A, 2013, KOREAN J CHEM ENG, V30, P187, DOI 10.1007/s11814-012-0118-9
+   Sharkey AJC, 1996, CONNECTION SCIENCE, V8, P299, DOI 10.1080/095400996116785
+   Shen K, 2005, FUEL, V84, P1144, DOI 10.1016/j.fuel.2004.06.042
+   Shokrollahi A, 2015, J TAIWAN INST CHEM E, V55, P17, DOI 10.1016/j.jtice.2015.04.009
+   SOAVE G, 1972, CHEM ENG SCI, V27, P1197, DOI 10.1016/0009-2509(72)80096-4
+   Suykens JAK, 1999, NEURAL PROCESS LETT, V9, P293, DOI 10.1023/A:1018628609742
+   Tatar A, 2014, J NAT GAS SCI ENG, V21, P79, DOI 10.1016/j.jngse.2014.07.017
+   Tatar A, 2013, J NAT GAS SCI ENG, V15, P82, DOI 10.1016/j.jngse.2013.09.008
+   Torrecilla JS, 2008, CHEMOMETR INTELL LAB, V93, P149, DOI 10.1016/j.chemolab.2008.05.004
+   Vapnik V, 1998, NATURE STAT LEARNING, V1st, P0, DOI 10.1007/978-1-4757-2440-0
+   Wilamowski BM, 1996, IEEE IJCNN, V0, PP1670, DOI 10.1109/ICNN.1996.549151
+   Xavier-de-Souza S, 2010, IEEE T SYST MAN CY B, V40, P320, DOI 10.1109/TSMCB.2009.2020435
+   XU L, 1992, IEEE T SYST MAN CYB, V22, P418, DOI 10.1109/21.155943
+   Yao XJ, 2005, MOL PHARMACEUT, V2, P348, DOI 10.1021/mp050027v
+   Yu H, 2011, IEEE T IND ELECTRON, V58, P5438, DOI 10.1109/TIE.2011.2164773
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   Zendehboudi S, 2014, AICHE J, V60, P1905, DOI 10.1002/aic.14365
+   Zendehboudi S, 2012, ENERG FUEL, V26, P3432, DOI 10.1021/ef300443j
+   Zurada JM, 1992, INTRO ARTIFICIAL NEU, V0, P0
+NR 83
+TC 57
+Z9 61
+U1 1
+U2 46
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1750-5836
+EI 1878-0148
+J9 INT J GREENH GAS CON
+JI Int. J. Greenh. Gas Control
+PD APR 15
+PY 2016
+VL 47
+IS 
+BP 122
+EP 136
+DI 10.1016/j.ijggc.2016.01.048
+PG 15
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering, Environmental; Engineering, Chemical
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA DG3SB
+UT WOS:000371989100012
+DA 2025-11-05
+ER
+

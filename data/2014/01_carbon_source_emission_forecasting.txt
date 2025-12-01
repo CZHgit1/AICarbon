@@ -1,0 +1,162 @@
+PT J
+AU Gutiérrez-Jáimez, R
+   Gutiérrez-Sánchez, R
+   Nafidi, A
+   Ramos-Abalos, EM
+AF Gutierrez-Jaimez, Ramon
+   Gutierrez-Sanchez, Ramon
+   Nafidi, Ahmed
+   Ramos-Abalos, Eva M.
+TI A bivariate stochastic Gamma diffusion model: statistical inference and application to the joint modelling of the gross domestic product and CO2 emissions in Spain
+SO STOCHASTIC ENVIRONMENTAL RESEARCH AND RISK ASSESSMENT
+LA English
+DT Article
+DE Bivariate stochastic; Gamma diffusion process; Likelihood estimation using discrete sampling; Matrix differential calculus; Normal and Wishart random matrices
+ID trend
+AB This paper examines the use of a bivariate stochastic Gamma diffusion model to represent the co-evolution of the stochastic variables CO2 emission and gross domestic product (GDP) in Spain. These variables were selected in view of the strong correlation between them. We compare the results obtained to those provided by the Gamma one-dimensional process with exogenous factors, taking CO2 emission as an endogenous variable and GDP as the exogenous factor. This methodology was applied to a real case, with two dependent variables: firstly, GDP and CO2 emission from the combustion of fossil fuels (gas, liquid and solid fuels) and cement manufacture in Spain. And secondly, with GDP and CO2 emission from the consumption and flaring of natural gas in Spain. The joint dynamic evolution of these factors is represented by the proposed model. In addition, a comparison is made with results obtained from fitting the data using the Gamma diffusion process with external factors, in which GDP is the variable containing the external information. This implementation was carried out on the basis of annual observations of the variables over the periods 1986-2008 and 1986-2009, respectively.
+C1 [Gutierrez-Jaimez, Ramon; Gutierrez-Sanchez, Ramon; Ramos-Abalos, Eva M.] Univ Granada, Fac Sci, Dept Stat & Operat Res, E-18071 Granada, Spain.
+   [Nafidi, Ahmed] Univ Hassan 1, Ecole Super Technol Berrechid, Lab LAMSAD, Berrechid 26100, Morocco.
+C3 University of Granada; Hassan First University of Settat
+RP Ramos-Abalos, EM (corresponding author), Univ Granada, Fac Sci, Dept Stat & Operat Res, Campus Fuentenueva, E-18071 Granada, Spain.
+EM ramosa@ugr.es
+FU IDI-Spain [FQM 2006-2271, MTM 2011-28962]
+CR Aït-Sahalia Y, 2002, ECONOMETRICA, V70, P223, DOI 10.1111/1468-0262.00274
+   Aït-Sahalia Y, 2008, ANN STAT, V36, P906, DOI 10.1214/009053607000000622
+   Anderson TW, 1984, INTRO MULTIVARIATE S, V0, P0
+   Becker S, 2006, STOCH ENV RES RISK A, V20, P435, DOI 10.1007/s00477-006-0036-7
+   Cantet P, 2011, STOCH ENV RES RISK A, V25, P429, DOI 10.1007/s00477-010-0440-x
+   Christakos G, 2003, STOCH ENV RES RISK A, V17, P175, DOI 10.1007/s00477-003-0132-x
+   Frank TD, 2002, PHYS REV E, V66, P0, DOI 10.1103/PhysRevE.66.011914
+   Gutiérrez R, 2008, ENVIRONMETRICS, V19, P643, DOI 10.1002/env.906
+   Gutiérrez R, 2009, APPL ENERG, V86, P18, DOI 10.1016/j.apenergy.2008.03.016
+   Gutiérrez R, 2008, STOCH ENV RES RISK A, V22, P57, DOI 10.1007/s00477-006-0097-7
+   Gutiérrez R, 2012, STOCH ENV RES RISK A, V26, P533, DOI 10.1007/s00477-011-0499-z
+   Gutierrez R, 1997, APPL STAT-J ROY ST C, V4, P140
+   Gutierrez R, 2010, MONOGRAFIAS SEMINARI, V36, P79
+   Gutierrez R, 2010, MONOGRAFIAS SEMINARI, V35, P263
+   GUTIERREZ R, 2004, MONOGRAFIAS SEMINARI, V31, P337
+   GUTIERREZ R, 2008, MONOGRAFAS SEMINARIO, V34, P117
+   P��rez R, 1991, APPL STOCHAST MODELS DATA ANAL, V7, P295, DOI 10.1002/asm.3150070402
+   Ramanathan R, 2002, INTERNATIONAL JOURNAL OF GLOBAL ENERGY ISSUES, V17, P214
+   Ramanathan R, 2006, TECHNOL FORECAST SOC, V73, P483, DOI 10.1016/j.techfore.2005.06.012
+   Shao QX, 2010, STOCH ENV RES RISK A, V24, P221, DOI 10.1007/s00477-009-0312-4
+   Varughese MM, 2013, COMPUT STAT DATA AN, V57, P417, DOI 10.1016/j.csda.2012.07.010
+   Xu J, 2011, STOCH ENV RES RISK A, V25, P139
+   ZEHNA PW, 1966, ANN MATH STAT, V37, P744, DOI 10.1214/aoms/1177699475
+NR 23
+TC 3
+Z9 3
+U1 0
+U2 4
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1436-3240
+EI 1436-3259
+J9 STOCH ENV RES RISK A
+JI Stoch. Environ. Res. Risk Assess.
+PD JUL 15
+PY 2014
+VL 28
+IS 5
+BP 1125
+EP 1134
+DI 10.1007/s00477-013-0802-2
+PG 10
+WC Engineering, Environmental; Engineering, Civil; Environmental Sciences; Statistics & Probability; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Mathematics; Water Resources
+GA AH3VB
+UT WOS:000336052800005
+DA 2025-11-05
+ER
+
+PT J
+AU Perlman, J
+   Hijmans, RJ
+   Horwath, WR
+AF Perlman, Joshua
+   Hijmans, Robert J.
+   Horwath, William R.
+TI A metamodelling approach to estimate global N2O emissions from agricultural soils
+SO GLOBAL ECOLOGY AND BIOGEOGRAPHY
+LA English
+DT Article
+DE Aggregation; agriculture; climate change; global modelling; greenhouse gasses; metamodel; N2O emissions; random forest; soil data
+ID nitrous-oxide emissions; model; daycent; aggregation; methodology; management; fertilizer; systems; fields; lands
+AB Aim Modelling complex environmental and ecological processes over large geographic areas is challenging, particularly when basic research and model development for such processes has historically been at the local scale. Moving from local toward global analysis brings up numerous issues related to data processing, aggregation, tradeoffs between model quality and data quality, and prioritization of data collection and/or compilation efforts. We studied these issues in the context of modelling emissions of N2O (a potent greenhouse gas) from agricultural soils. Location Global. Methods We developed metamodels of the DeNitrification-DeComposition (DNDC) model, a mechanistic model that simulates greenhouse gas emissions from agricultural soils, to estimate global N2O emissions from maize and wheat fields. We ran DNDC for a diverse sample of global climate and soil types, and fitted the model output as a function of (sometimes simplified) model input variables, using the random forest machine learning algorithm. We used the metamodels to estimate global N2O emissions from maize and wheat at a very high spatial resolution (c. 1 km(2)) and examined the effects of different approaches of using soil data as well as the effects of spatial aggregation of soil and climate data. Results The average coefficient of determination (R-2) between holdout data (DNDC output not used to construct the metamodel) and metamodel predictions was 0.97 for maize and 0.91 for wheat. The metamodels were sensitive to soil properties, particularly to soil organic carbon content. Global emission estimates with the metamodel were highly sensitive to the spatial aggregation and other forms of generalization of soil data, but much less so to aggregation of climate data. Main conclusions Using a simplified metamodel with data of high spatial resolution could produce results that are more accurate than those obtained with a full mechanistic model and lower-resolution data.
+C1 [Perlman, Joshua; Hijmans, Robert J.] Univ Calif Davis, Dept Environm Sci & Policy, Davis, CA 95616 USA.
+   [Horwath, William R.] Univ Calif Davis, Dept Land Air & Water Resources, Davis, CA 95616 USA.
+C3 University of California System; University of California Davis; University of California System; University of California Davis
+RP Perlman, J (corresponding author), Univ Calif Davis, Dept Environm Sci & Policy, One Shields Ave, Davis, CA 95616 USA.
+EM jperlman@ucdavis.edu
+FU UC Davis Provost's Dissertation Year Fellowship; J. G. Boswell Endowed Chair in Soil Science; Natural Resources Defense Council
+CR Unknown -, 2013, WORLD GREENH GAS EM, V0, P0
+   Unknown -, 2023, MACH. LEARN., V0, P0
+   Unknown -, 2012, HARMONIZED WORLD SOI, V0, P0
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Del Grosso SJ, 2006, J ENVIRON QUAL, V35, P1451, DOI 10.2134/jeq2005.0160
+   Del Grosso SJ, 2005, SOIL TILL RES, V83, P9, DOI 10.1016/j.still.2005.02.007
+   Del Grosso SJ, 2009, GLOBAL PLANET CHANGE, V67, P44, DOI 10.1016/j.gloplacha.2008.12.006
+   DEWIT CT, 1987, GEODERMA, V40, P253, DOI 10.1016/0016-7061(87)90036-X
+   Easton ZM, 2008, J HYDROL, V348, P279, DOI 10.1016/j.jhydrol.2007.10.008
+   Gallaher M, 2006, GLOBAL MITIGATION OF NON-CO2 GREENHOUSE GASES, V0, P0
+   Gatzke SE, 2011, SOIL SCI SOC AM J, V75, P1908, DOI 10.2136/sssaj2010.0418
+   Gu JX, 2013, SOIL BIOL BIOCHEM, V60, P134, DOI 10.1016/j.soilbio.2013.01.029
+   Hastie Trevor, 2016, THE ELEMENTS OF STATISTICAL LEARNING, VSecond, P0
+   Heathman GC, 2009, J SOIL WATER CONSERV, V64, P17, DOI 10.2489/jswc.64.1.17
+   Hijmans RJ, 1996, NETH J AGR SCI, V44, P145
+   Hijmans RJ, 2005, INT J CLIMATOL, V25, P1965, DOI 10.1002/joc.1276
+   Kleijnen JPC, 1987, STAT TOOLS SIMULATIO, V0, P0
+   Kleijnen JPC, 2000, EUR J OPER RES, V120, P14, DOI 10.1016/S0377-2217(98)00392-0
+   Kucharik CJ, 2000, GLOBAL BIOGEOCHEM CY, V14, P795, DOI 10.1029/1999GB001138
+   Lakshminarayan PG, 1996, CAN J AGR ECON, V44, P277, DOI 10.1111/j.1744-7976.1996.tb00151.x
+   Li CS, 2004, GLOBAL BIOGEOCHEM CY, V18, P0, DOI 10.1029/2003GB002045
+   Li CS, 1996, GLOBAL BIOGEOCHEM CY, V10, P297, DOI 10.1029/96GB00470
+   Li CS, 2001, NUTR CYCL AGROECOSYS, V60, P159, DOI 10.1023/A:1012642201910
+   LI CS, 1992, J GEOPHYS RES-ATMOS, V97, P9759, DOI 10.1029/92JD00509
+   Li H, 2010, AGR ECOSYST ENVIRON, V135, P24, DOI 10.1016/j.agee.2009.08.003
+   Mikkelsen RL, 2011, ACS SYM SER, V1072, P135
+   Parton WJ, 1998, GLOBAL PLANET CHANGE, V19, P35, DOI 10.1016/S0921-8181(98)00040-X
+   Perlman J, 2013, ENVIRON MODELL SOFTW, V48, P183, DOI 10.1016/j.envsoft.2013.07.002
+   Piñeros Garcet JD, 2006, ECOL MODEL, V193, P629, DOI 10.1016/j.ecolmodel.2005.08.045
+   Portmann FT, 2010, GLOBAL BIOGEOCHEM CY, V24, P0, DOI 10.1029/2008GB003435
+   Potter P, 2010, EARTH INTERACT, V14, P0, DOI 10.1175/2009EI288.1
+   R Development Core Team, 2011, R: A LANGUAGE AND ENVIRON- MENT FOR STATISTICAL COMPUTING, V0, P0
+   RABBINGE R, 1994, FUTURE OF THE LAND, V0, P31
+   Sacks WJ, 2010, GLOBAL ECOL BIOGEOGR, V19, P607, DOI 10.1111/j.1466-8238.2010.00551.x
+   SLOBODKIN LB, 1958, ECOLOGY, V39, P550, DOI 10.2307/1931774
+   Sparks AH, 2011, ECOSPHERE, V2, P0, DOI 10.1890/ES11-00128.1
+   Suddick EC, 2011, ACS SYM SER, V1072, P203
+   van Bodegom PM, 2002, GLOBAL BIOGEOCHEM CY, V16, P0, DOI 10.1029/2000GB001381
+   van Groenigen JW, 2004, PLANT SOIL, V263, P101, DOI 10.1023/B:PLSO.0000047729.43185.46
+   VANDIEPEN CA, 1989, SOIL USE MANAGE, V5, P16, DOI 10.1111/j.1475-2743.1989.tb00755.x
+   Villa-Vialaneix N, 2012, ENVIRON MODELL SOFTW, V34, P51, DOI 10.1016/j.envsoft.2011.05.003
+   Wang GG, 2007, J MECH DESIGN, V129, P370, DOI 10.1115/1.2429697
+   Xu-Ri, 2003, SOIL BIOL BIOCHEM, V35, P615, DOI 10.1016/S0038-0717(03)00009-9
+NR 50
+TC 31
+Z9 39
+U1 4
+U2 131
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1466-822X
+EI 1466-8238
+J9 GLOBAL ECOL BIOGEOGR
+JI Glob. Ecol. Biogeogr.
+PD AUG 15
+PY 2014
+VL 23
+IS 8
+BP 912
+EP 924
+DI 10.1111/geb.12166
+PG 13
+WC Ecology; Geography, Physical
+SC Environmental Sciences & Ecology; Physical Geography
+GA AL4NT
+UT WOS:000339110400009
+DA 2025-11-05
+ER
+

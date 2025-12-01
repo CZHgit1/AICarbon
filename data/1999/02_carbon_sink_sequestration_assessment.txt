@@ -1,0 +1,197 @@
+PT J
+AU Jones, MH
+   Fahnestock, JT
+   Welker, JM
+AF Jones, MH
+   Fahnestock, JT
+   Welker, JM
+TI Early and late winter CO2 efflux from arctic tundra in the Kuparuk River watershed, Alaska, USA
+SO ARCTIC ANTARCTIC AND ALPINE RESEARCH
+LA English
+DT Article
+ID northern alaska; carbon storage; soils; climate; fluxes; season; snow; n2o
+AB Large amounts of soil carbon and sensitivity of arctic ecosystems to climate change is leading to increased interest in the spatial and temporal variability of CO2 release from arctic tundra during winter. The purpose of this research was to quantify early and late winter CO2 efflux along a 200-km transect of the Kuparuk River drainage in northern Alaska, from the foothills of the Brooks Range to Prudhoe Bay. Measurements were made in November 1996 and April 1997 at 25 sites which encompassed four broad tundra types, including upland tussock tundra, water tracks, tall willow riparian, and coastal plain tundra. Carbon dioxide concentrations within the snowpack were measured using a portable infrared gas analyzer, and conservative CO2 efflux estimates were calculated using a steady-state diffusion model. Mean CO2 efflux in November was 204, 314, 359, and 527 mg CO2 m(-2) d(-1) for tall willow riparian, upland tussock, coastal plain, and water track tundra, respectively, while in April means were 70, 82, 96, and 203 mg CO2 m(-2) d(-1). Snow depth and temperature exhibited no direct relationship with CO2 loss, suggesting that winter CO2 efflux from arctic tundra is controlled by additional mechanisms. Our measurements are the most spatially extensive yet made in arctic tundra.
+C1 Univ Wyoming, Dept Renewable Resources, Laramie, WY 82071 USA.
+C3 University of Wyoming
+RP Jones, MH (corresponding author), Ohio State Univ, Dept Ecol Evolut & Organismal Biol, Columbus, OH 43210 USA.
+CR Brooks PD, 1996, BIOGEOCHEMISTRY, V32, P93, DOI 10.1007/BF00000354
+   Brooks PD, 1997, OECOLOGIA, V110, P403, DOI 10.1007/s004420050175
+   COXSON DS, 1987, SOIL BIOL BIOCHEM, V19, P49, DOI 10.1016/0038-0717(87)90125-8
+   COYNE PI, 1971, NATURE, V234, P407, DOI 10.1038/234407a0
+   Fahnestock JT, 1998, J GEOPHYS RES-ATMOS, V103, P29023, DOI 10.1029/98JD00805
+   GROGAN P, 1997, COMMUNICATION, V0, P0
+   GROGAN P, 1996, COMMUNICATION, V0, P0
+   Jones MH, 1998, ARCTIC ALPINE RES, V30, P373, DOI 10.2307/1552009
+   KELLEY JJ, 1968, ECOLOGY, V49, P358, DOI 10.2307/1934472
+   MARION GM, 1997, INT S PHYS CHEM EC S, V0, P349
+   MASSMAN W, 1995, IAHS PUBL, V228, P71
+   MAZUR P, 1980, ORIGINS LIFE EVOL B, V10, P137, DOI 10.1007/BF00928665
+   McKane RB, 1997, ECOLOGY, V78, P1170, DOI 10.1890/0012-9658(1997)078[1170:CEOTCS]2.0.CO;2
+   Michaelson GJ, 1996, ARCTIC ALPINE RES, V28, P414, DOI 10.2307/1551852
+   OECHEL WC, 1993, NATURE, V361, P520, DOI 10.1038/361520a0
+   Oechel WC, 1997, GLOBAL BIOGEOCHEM CY, V11, P163, DOI 10.1029/96GB03035
+   OECHEL WC, 1995, ECOL APPL, V5, P846, DOI 10.2307/1941992
+   Oechel WC, 1992, PHYSIOLOGICAL ECOLOG, V0, PP139, DOI 10.1016/B978-0-12-168250-7.50013-4
+   *SAS I INC, 1989, SAS STAT US GUID VER, V2, P0
+   Schimel JP, 1996, SOIL BIOL BIOCHEM, V28, P1061, DOI 10.1016/0038-0717(96)00083-1
+   SHAVER GR, 1991, ECOL MONOGR, V61, P1, DOI 10.2307/1942997
+   SOMMERFELD RA, 1993, WATER RESOUR RES, V29, P2485, DOI 10.1029/93WR01071
+   SOMMERFELD RA, 1993, NATURE, V361, P140, DOI 10.1038/361140a0
+   Zhang T, 1996, ARCTIC ALPINE RES, V28, P509, DOI 10.2307/1551862
+   Zimov SA, 1996, CLIMATIC CHANGE, V33, P111, DOI 10.1007/BF00140516
+   ZIMOV SA, 1993, J GEOPHYS RES-ATMOS, V98, P5017, DOI 10.1029/92JD02473
+NR 26
+TC 55
+Z9 60
+U1 1
+U2 22
+PU INST ARCTIC ALPINE RES
+PI BOULDER
+PA UNIV COLORADO, BOULDER, CO 80309 USA
+SN 1523-0430
+EI 
+J9 ARCT ANTARCT ALP RES
+JI Arct. Antarct. Alp. Res.
+PD MAY 15
+PY 1999
+VL 31
+IS 2
+BP 187
+EP 190
+DI 10.2307/1552607
+PG 4
+WC Environmental Sciences; Geography, Physical
+SC Environmental Sciences & Ecology; Physical Geography
+GA 211KV
+UT WOS:000081160900008
+DA 2025-11-03
+ER
+
+PT J
+AU Kheshgi, HS
+   Jain, AK
+   Wuebbles, DJ
+AF Kheshgi, HS
+   Jain, AK
+   Wuebbles, DJ
+TI Model-based estimation of the global carbon budget and its uncertainty from carbon dioxide and carbon isotope records
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+ID fossil-fuel co2; general-circulation model; annual coral rings; past 2 century; atmospheric co2; tracer distributions; bomb radiocarbon; c-13/c-12 ratio; diffusion-model; world oceans
+AB A global carbon cycle model is used to reconstruct the carbon budget, balancing emissions from fossil fuel and land use with carbon uptake by the oceans, and the terrestrial biosphere. We apply Bayesian statistics to estimate uncertainty of carbon uptake by the oceans and the terrestrial biosphere based on carbon dioxide and carbon isotope records, and prior information on model parameter probability distributions. This results in a quantitative reconstruction of past carbon budget and its uncertainty derived from an explicit choice of model, data-based constraints, and prior distribution of parameters. Our estimated ocean sink for the 1980s is 17 +/- 7 Gt C (90% confidence interval) and is comparable to the estimate of 20 +/- 8 Gt C given in the recent Intergovernmental Panel on Clmate Change assessment [Schimel et al., 1996]. Constraint choice is tested to determine which records have the most influence over estimates of the past carbon budget; records individually (e.g., bomb-radiocarbon inventory) have little effect since there are other records which form similar constraints.
+C1 Univ Illinois, Dept Atmospher Sci, Urbana, IL 61801 USA.
+   ExxonMobil Res & Engn Co, Corp Res Labs, Annandale, NJ 08801 USA.
+C3 University of Illinois System; University of Illinois Urbana-Champaign; Exxon Mobil Corporation
+RP Kheshgi, HS (corresponding author), Univ Illinois, Dept Atmospher Sci, 105 S Gregory Ave, Urbana, IL 61801 USA.
+EM hskhesh@erenj.com
+CR ANDREWS RJ, 1995, INT UN GEOD GEOPH IU, V0, P0
+   Unknown -, 1981, SCOPE 16 CARBON CYCL, V0, P0
+   Unknown -, 1992, UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE, V0, P0
+   BACASTOW R, 1973, BROOKHAVEN SYM BIOL, V0, P86
+   BREWER PG, 1978, GEOPHYS RES LETT, V5, P997, DOI 10.1029/GL005i012p00997
+   Broecker WS, 1985, HOW TO BUILD A HABITABLE PLANET, V0, P0
+   Broecker WS, 1982, TRACERS SEA, V0, P0
+   BROECKER WS, 1994, GLOBAL BIOGEOCHEM CY, V8, P377, DOI 10.1029/94GB00680
+   BROECKER WS, 1980, RADIOCARBON, V22, P565, DOI 10.1017/S0033822200009966
+   BROECKER WS, 1985, J GEOPHYS RES-OCEANS, V90, P6953, DOI 10.1029/JC090iC04p06953
+   BROECKER WS, 1993, GLOBAL BIOGEOCHEM CY, V7, P619, DOI 10.1029/93GB01445
+   BROECKER WS, 1995, GLOBAL BIOGEOCHEM CY, V9, P263, DOI 10.1029/95GB00208
+   Bruno M, 1997, GLOBAL BIOGEOCHEM CY, V11, P111, DOI 10.1029/96GB03611
+   Bullister JL, 1989, OCEANOGRAPHY, V2, P12
+   CHEN GT, 1979, NATURE, V277, P205, DOI 10.1038/277205a0
+   CIAIS P, 1995, SCIENCE, V269, P1098, DOI 10.1126/science.269.5227.1098
+   CRAIG H, 1957, TELLUS, V9, P1, DOI 10.1111/j.2153-3490.1957.tb01848.x
+   DONEY SC, 1993, J GEOPHYS RES-OCEANS, V98, P18069, DOI 10.1029/93JC00917
+   DRUFFEL EM, 1978, GEOPHYS RES LETT, V5, P913, DOI 10.1029/GL005i011p00913
+   DRUFFEL EM, 1980, RADIOCARBON, V22, P363, DOI 10.1017/S0033822200009656
+   DRUFFEL EM, 1981, GEOPHYS RES LETT, V8, P59, DOI 10.1029/GL008i001p00059
+   DRUFFEL ERM, 1986, NATURE, V321, P58, DOI 10.1038/321058a0
+   DURAN MA, 1995, CHEM ENG SCI, V50, P495, DOI 10.1016/0009-2509(94)00260-X
+   ENTING I G, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P459, DOI 10.1111/j.1600-0889.1987.tb00206.x
+   Enting IG, 1994, FUTURE EMISSIONS CON, V0, P0
+   FRIEDLI H, 1986, NATURE, V324, P237, DOI 10.1038/324237a0
+   Gruber N, 1996, GLOBAL BIOGEOCHEM CY, V10, P809, DOI 10.1029/96GB01608
+   HARRISON K, 1993, GLOBAL BIOGEOCHEM CY, V7, P69, DOI 10.1029/92GB02938
+   Harvey LDD, 1989, GLOBAL BIOGEOCHEM CY, V3, P137, DOI 10.1029/GB003i002p00137
+   HARVEY LDD, 1989, CLIMATIC CHANGE, V15, P343, DOI 10.1007/BF00240464
+   Heimann M, 1996, GLOBAL BIOGEOCHEM CY, V10, P89, DOI 10.1029/95GB03191
+   HESSHAIMER V, 1994, NATURE, V370, P201, DOI 10.1038/370201a0
+   Hoffert M I, 1981, CARBON CYCLE MODELLING, V0, P287
+   Jain AK, 1997, J GEOPHYS RES-ATMOS, V102, P1327, DOI 10.1029/96JD03092
+   JAIN AK, 1995, GLOBAL BIOGEOCHEM CY, V9, P153, DOI 10.1029/94GB02394
+   Jain AK, 1996, TELLUS B, V48, P583, DOI 10.1034/j.1600-0889.1996.t01-1-00012.x
+   JAIN AK, 1994, UCRLJC116526 L LIV N, V0, P0
+   Joos F, 1996, TELLUS B, V48, P397, DOI 10.1034/j.1600-0889.1996.t01-2-00006.x
+   Keeling CD, 1973, CHEM LOWER ATMOSPHER, V0, PP251, DOI 10.1007/978-1-4684-1986-3
+   KEELING CD, 1979, NATURE, V277, P121, DOI 10.1038/277121a0
+   KEELING CD, 1995, NATURE, V375, P666, DOI 10.1038/375666a0
+   KEELING CD, 1993, 4 INT CO2 C WORLD ME, V0, P67
+   KEELING CD, 1981, CARBON CYCLE MODELIN, V16, P89
+   Keeling CharlesD, 1989, ASPECTS OF CLIMATE VARIABILITY IN THE PACIFIC AND WESTERN AMERICAS, V0, PP165, DOI 10.1111/j.1365-2486.2010.02222.x
+   Keeling RF, 1996, NATURE, V381, P218, DOI 10.1038/381218a0
+   KHESHGI HS, 1991, J GEOPHYS RES-OCEANS, V96, P4957, DOI 10.1029/90JC02336
+   Kheshgi HS, 1996, CLIMATIC CHANGE, V33, P31, DOI 10.1007/BF00140512
+   Kheshgi HS, 1996, TELLUS B, V48, P3, DOI 10.1034/j.1600-0889.1996.00002.x
+   KHESHGI HS, 1997, P A WMA 90 ANN M EXH, V0, P0
+   KROOPNICK PM, 1985, DEEP-SEA RES, V32, P57, DOI 10.1016/0198-0149(85)90017-2
+   Maier-Reimer E, 1987, CLIM DYNAM, V2, P63, DOI 10.1007/BF01054491
+   MAIERREIMER E, 1993, GLOBAL BIOGEOCHEM CY, V7, P645, DOI 10.1029/93GB01355
+   Marland G, 1994, TRENDS 93, V0, P505
+   Mensch M, 1998, J GEOPHYS RES-OCEANS, V103, P15923, DOI 10.1029/98JC00145
+   NEFTEL A, 1985, NATURE, V315, P45, DOI 10.1038/315045a0
+   NOZAKI Y, 1978, GEOPHYS RES LETT, V5, P825, DOI 10.1029/GL005i010p00825
+   OBRIEN K, 1979, J GEOPHYS RES-SPACE, V84, P423, DOI 10.1029/JA084iA02p00423
+   OESCHGER H, 1975, TELLUS, V27, P168, DOI 10.1111/j.2153-3490.1975.tb01671.x
+   Press SJ, 2003, SUBJECTIVE AND OBJECTIVE BAYESIAN STATISTICS: PRINCIPLES, V0, P0
+   QUAY PD, 1992, SCIENCE, V256, P74, DOI 10.1126/science.256.5053.74
+   SARMIENTO JL, 1992, J GEOPHYS RES-OCEANS, V97, P3621, DOI 10.1029/91JC02849
+   Schimel D, 1995, CLIMATE CHANGE 1995: THE SCIENCE OF CLIMATE CHANGE, V0, P65
+   Schlesinger WH, 1991, BIOGEOCHEMISTRY: AN ANALYSIS OF GLOBAL CHANGE, V0, P0, DOI DOI 10.1016/B978-0-12-814608-8.00003-7
+   SHAFFER G, 1995, J GEOPHYS RES-OCEANS, V100, P2659, DOI 10.1029/94JC01167
+   SIEGENTHALER U, 1993, NATURE, V365, P119, DOI 10.1038/365119a0
+   SIEGENTHALER U, 1992, TELLUS B, V44, P186, DOI 10.1034/j.1600-0889.1992.t01-2-00003.x
+   SIEGENTHALER U, 1983, J GEOPHYS RES-OCEANS, V88, P3599, DOI 10.1029/JC088iC06p03599
+   SIEGENTHALER U, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P140
+   Siegenthaler U, 1981, SCORE 16, V0, P249
+   STUIVER M, 1980, SCIENCE, V207, P11, DOI 10.1126/science.207.4426.11
+   STUIVER M, 1981, EARTH PLANET SC LETT, V53, P349, DOI 10.1016/0012-821X(81)90040-6
+   SUESS HE, 1955, SCIENCE, V122, P415, DOI 10.1126/science.122.3166.415-a
+   SUNDQUIST ET, 1985, GEOPHYS MONOGR SER, V0, P5
+   TAKAHASHI T, 1981, SCOPE, V16, P159
+   Tans P, 1981, CARBON CYCLE MODELIN, V0, P127
+   TANS PP, 1993, GLOBAL BIOGEOCHEM CY, V7, P353, DOI 10.1029/93GB00053
+   TANS PP, 1978, CARBON 13 CARBON 14, V0, P0
+   TOGGWEILER JR, 1989, J GEOPHYS RES-OCEANS, V94, P8243, DOI 10.1029/JC094iC06p08243
+   VOLK T, 1984, THESIS NY U ANN ARBO, V0, P0
+   VOLK T, 1985, GEOPHYS MONOGR SER, V0, P91
+   Volk T, 1988, GLOBAL BIOGEOCHEM CY, V2, P73, DOI 10.1029/GB002i002p00073
+   Watson RT, 1990, CLIMATE CHANGE: THE IPCC SCIENTIFIC ASSESSMENT, V0, P1
+   WIGLEY TML, 1993, TELLUS B, V45, P409, DOI 10.1034/j.1600-0889.1993.t01-4-00002.x
+NR 83
+TC 15
+Z9 17
+U1 0
+U2 9
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 2169-8996
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD DEC 27
+PY 1999
+VL 104
+IS D24
+BP 31127
+EP 31143
+DI 10.1029/1999JD900992
+PG 17
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 273DQ
+UT WOS:000084692900017
+DA 2025-11-03
+ER
+

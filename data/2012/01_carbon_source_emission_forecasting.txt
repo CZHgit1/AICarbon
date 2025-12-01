@@ -1,0 +1,132 @@
+PT J
+AU Israel, VP
+   Migon, HS
+AF Israel, Vinicius P.
+   Migon, Helio S.
+TI Stochastic models for greenhouse gas emission rate estimation from hydroelectric reservoirs: a Bayesian hierarchical approach
+SO JOURNAL OF APPLIED STATISTICS
+LA English
+DT Article
+DE gas emission rate estimation; Bayesian framework; hierarchical models; diffusion process; stochastic differential equations; discretization
+ID diffusion-models; likelihood; inference
+AB Herein, we propose a fully Bayesian approach to the greenhouse gas emission problem. The goal of this work is to estimate the emission rate of polluting gases from the area flooded by hydroelectric reservoirs. We present models for gas concentration evolution in two ways: first, by proposing them from ordinary differential equation solutions and, second, by using stochastic differential equations with a discretization scheme. Finally, we present techniques to estimate the emission rate for the entire reservoir. In order to carry out the inference, we use the Bayesian framework with Monte Carlo via Markov Chain methods. Discretization schemes over continuous differential equations are used when necessary. These models applied to greenhouse gas emission and Bayesian inference for this purpose are completely new in statistical literature, as far as we know, and contribute to estimate the amount of polluting gases released from hydroelectric reservoirs in Brazil. The proposed models are applied in a real data set and results are presented.
+C1 [Israel, Vinicius P.; Migon, Helio S.] Univ Fed Rio de Janeiro, Dept Stat, Inst Math, BR-21945970 Rio De Janeiro, Brazil.
+C3 Universidade Federal do Rio de Janeiro
+RP Israel, VP (corresponding author), Univ Fed Rio de Janeiro, Dept Stat, Inst Math, BR-21945970 Rio De Janeiro, Brazil.
+EM vinicius@im.ufrj.br
+FU CNPq; CAPES; FAPERJ
+CR Unknown -, 1994, 413 U CAL BERK DEP S, V0, P0
+   Unknown -, 2006, MARKOV CHAIN MONTE C, V0, P0, DOI DOI 10.1201/9781482296426/MARKOV-CHAIN-MONTE-CARLO-DANI-GAMERMAN-HEDIBERT-LOPES
+   Chib S, 2001, J AM STAT ASSOC, V96, P270, DOI 10.1198/016214501750332848
+   COX JC, 1985, ECONOMETRICA, V53, P385, DOI 10.2307/1911242
+   dos Santos MA, 2005, IVIG COPPE UFRJ REPO, V0, P0
+   Elerian O, 2001, ECONOMETRICA, V69, P959, DOI 10.1111/1468-0262.00226
+   Eraker B, 2001, J BUS ECON STAT, V19, P177, DOI 10.1198/073500101316970403
+   GAMERMAN D, 1993, J ROY STAT SOC B MET, V55, P629
+   GNEITING T, 2004, STRICTLY PROPER SCOR, V0, P0
+   Gschlossl S, 2005, SPATIAL MODELLING CL, V0, P0
+   HUTCHINSON GL, 1981, SOIL SCI SOC AM J, V45, P311, DOI 10.2136/sssaj1981.03615995004500020017x
+   Migon Helio S, 2008, MODELOS HIERARQUICOS, V0, P0
+   OHagan A, 1998, J ROY STAT SOC D-STA, V47, P21, DOI 10.1111/1467-9884.00114
+   Pedersen AR, 2001, SOIL SCI SOC AM J, V65, P49, DOI 10.2136/sssaj2001.65149x
+   PEDERSEN AR, 1995, SCAND J STAT, V22, P55
+   Pedersen AR, 2000, SCAND J STAT, V27, P385, DOI 10.1111/1467-9469.00196
+   Roberts GO, 2001, BIOMETRIKA, V88, P603, DOI 10.1093/biomet/88.3.603
+   Rosa LP, 2002, BRA00029 ANEEL, V0, P0
+   Spiegelhalter DJ, 2002, J ROY STAT SOC B, V64, P583, DOI 10.1111/1467-9868.00353
+NR 19
+TC 1
+Z9 2
+U1 1
+U2 18
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0266-4763
+EI 1360-0532
+J9 J APPL STAT
+JI J. Appl. Stat.
+PD JUN 15
+PY 2012
+VL 39
+IS 5
+BP 1069
+EP 1086
+DI 10.1080/02664763.2011.636417
+PG 18
+WC Statistics & Probability
+SC Mathematics
+GA 947KI
+UT WOS:000304428500009
+DA 2025-11-05
+ER
+
+PT J
+AU Aschwanden, GDPA
+   Wullschleger, T
+   Müller, H
+   Schmitt, G
+AF Aschwanden, Gideon D. P. A.
+   Wullschleger, Tobias
+   Mueller, Hanspeter
+   Schmitt, Gerhard
+TI Agent based evaluation of dynamic city models A combination of human decision processes and an emission model for transportation based on acceleration and instantaneous speed
+SO AUTOMATION IN CONSTRUCTION
+LA English
+DT Article
+DE Urban planning; Multi-agent system; Artificial intelligence; Generative city model; Occupant movement; Dynamic emission model; Greenhouse gas emission; Traffic simulation
+AB This project presents a simulation tool to evaluate procedurally generated 3D city models with a set of agents representing pedestrians, the environment and urban street actors towards greenhouse gas emission from transportation. This empiric tool for architects and urban planners analyses, predicts and quantifies traffic fluctuations over time, and define the number of pedestrians, individual traffic and public transport in each area and street of a city. Examples show that the allocation of functions within a city contributes to the appearance of traffic congestion and therefore emissions. This tool simulates the decisions and returns information about the path occupants take and their individual experiences such as stress, effort and deviations. This allows planners to evaluate their design before implementation in an empirical way. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Aschwanden, Gideon D. P. A.; Wullschleger, Tobias; Mueller, Hanspeter; Schmitt, Gerhard] Swiss Fed Inst Technol, Chair Informat Architecture, Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP Aschwanden, GDPA (corresponding author), Swiss Fed Inst Technol, Chair Informat Architecture, Zurich, Switzerland.
+EM aschwanden@arch.ethz.ch; wtobias@student.ethz.ch; hamuelle@student.ethz.ch; schmitt@arch.ethz.ch
+CR Bratton Benjamin H, 2008, INTERACTIONS, V15, P20, DOI 10.1145/1353782.1353785
+   Brooks RA, 1991, P 12 INT JOINT C ART, V0, P569
+   CERNUSCHI S, 1995, SCI TOTAL ENVIRON, V169, P175, DOI 10.1016/0048-9697(95)04646-I
+   CHANDLER RE, 1958, OPER RES, V6, P165, DOI 10.1287/opre.6.2.165
+   Day D, 1997, J PLAN LIT, V11, P421, DOI 10.1177/088541229701100309
+   Gibson JamesJ, 1977, ECOLOGICAL APPROACH, V0, P0
+   Guy SJ, 2009, S COMPUTER ANIMATION, V0, P177
+   HALATSCH J, 2008, 7 CHIN URB HOUS C FA, V0, P0
+   Harvey David, 2001, SPACES OF CAPITAL: TOWARDS A CRITICAL GEOGRAPHY, V0, P0
+   Helbing D, 2000, NATURE, V407, P487, DOI 10.1038/35035023
+   HELBING D, 1995, PHYS REV E, V51, P4282, DOI 10.1103/PhysRevE.51.4282
+   Hiller B, 2002, URBAN DESIGN INTERNATIONAL, V7, P153, DOI 10.1057/palgrave.udi.9000082
+   Holmen BA, 1998, TRANSPORT RES D-TR E, V3, P117, DOI 10.1016/S1361-9209(97)00032-1
+   Katz P, 1994, THE NEW URBANISM: TOWARD AN ARCHITECTURE OF COMMUNITY, V0, P0
+   KERNER BS, 1994, PHYS REV E, V50, P54, DOI 10.1103/PhysRevE.50.54
+   Kristensson A, 2004, ATMOS ENVIRON, V38, P657, DOI 10.1016/j.atmosenv.2003.10.030
+   Le Bon Gustave, 1991, PSYCHOL FOULES, V0, P0
+   Müller P, 2006, ACM T GRAPHIC, V25, P614, DOI 10.1145/1141911.1141931
+   SJODIN A, 1995, SCI TOTAL ENVIRON, V169, P157, DOI 10.1016/0048-9697(95)04644-G
+   WEGENER M, 1994, J AM PLANN ASSOC, V60, P17, DOI 10.1080/01944369408975547
+   Wiedemann R, 1991, ADVANCED TELEMATICS IN ROAD TRANSPORT, V0, P0
+   Yokoya Y, 2004, PHYS REV E, V69, P0, DOI 10.1103/PhysRevE.69.016121
+   Zipf GeorgeK, 1949, HUMAN BEHAVIOUR PRIN, V0, P0
+NR 36
+TC 14
+Z9 17
+U1 3
+U2 42
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0926-5805
+EI 1872-7891
+J9 AUTOMAT CONSTR
+JI Autom. Constr.
+PD MAR 15
+PY 2012
+VL 22
+IS 
+BP 81
+EP 89
+DI 10.1016/j.autcon.2011.07.001
+PG 9
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA 910LF
+UT WOS:000301637500009
+DA 2025-11-05
+ER
+

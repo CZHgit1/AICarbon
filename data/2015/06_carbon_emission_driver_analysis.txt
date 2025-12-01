@@ -1,0 +1,121 @@
+PT J
+AU Menzer, O
+   Meiring, W
+   Kyriakidis, PC
+   McFadden, JP
+AF Menzer, Olaf
+   Meiring, Wendy
+   Kyriakidis, Phaedon C.
+   McFadden, Joseph P.
+TI Annual sums of carbon dioxide exchange over a heterogeneous urban landscape through machine learning based gap-filling
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Carbon dioxide; Eddy covariance; Gap-filling; Urban ecosystem; Machine learning; Uncertainty; Spatial heterogeneity
+ID net ecosystem exchange; cities metropolitan-area; quality assessment; fluxes; co2; uncertainty; forests; heat; environments; neighborhood
+AB A small, but growing, number of flux towers in urban environments measure surface-atmospheric exchanges of carbon dioxide by the eddy covariance method. As in all eddy covariance studies, obtaining annual sums of urban CO2 exchange requires imputation of data gaps due to low turbulence and non-stationary conditions, adverse weather, and instrument failures. Gap-filling approaches that are widely used for measurements from towers in natural vegetation are based on light and temperature response models. However, they do not account for key features of the urban environment including tower footprint heterogeneity and localized CO2 sources. Here, we present a novel gap-filling modeling framework that uses machine learning to select explanatory variables, such as continuous traffic counts and temporal variables, and then constrains models separately for spatially classified subsets of the data. We applied the modeling framework to a three year time series of measurements from a tall broadcast tower in a suburban neighborhood of Minneapolis-Saint Paul, Minnesota, USA. The gap-filling performance was similar to that reported for natural measurement sites, explaining 64% to 88% of the variability in the fluxes. Simulated carbon budgets were in good agreement with an ecophysiological bottom-up study at the same site. Total annual carbon dioxide flux sums for the tower site ranged from 1064 to 1382 g C m(-2) yr(-1), across different years and different gap-filling methods. Bias errors of annual sums resulting from gap-filling did not exceed 18 g C m(-2) yr(-1) and random uncertainties did not exceed +/- 44 g C m(-2) yr(-1) (or +/- 3.8% of the annual flux). Regardless of the gap-filling method used, the year-to-year differences in carbon exchange at this site were small. In contrast, the modeled annual sums of CO2 exchange differed by a factor of two depending on wind direction. This indicated that the modeled time series captured the spatial variability in both the biogenic and anthropogenic CO2 sources and sinks in a reproducible way. The gap-filling approach developed here may also be useful for inhomogeneous sites other than urban areas, such as logged forests or ecosystems under disturbance from fire or pests. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Menzer, Olaf; Kyriakidis, Phaedon C.; McFadden, Joseph P.] Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA.
+   [Meiring, Wendy] Univ Calif Santa Barbara, Dept Stat & Appl Probabil, Santa Barbara, CA 93106 USA.
+C3 University of California System; University of California Santa Barbara; University of California System; University of California Santa Barbara
+RP Menzer, O (corresponding author), Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USA.
+EM menzer@geog.ucsb.edu
+FU NASA Earth Science Division, North American Carbon Program (NACP) [NNG04GN80G]
+CR Unknown -, 1997, MONTE CARLO IMPLEMEN, V0, P0
+   Unknown -, 1996, PH.D. THESIS, V0, P0
+   Aubinet M, 2000, ADV ECOL RES, V30, P113, DOI 10.1016/S0065-2504(08)60018-5
+   Baldocchi D, 2008, AUST J BOT, V56, P1, DOI 10.1071/BT07151
+   Barr AG, 2013, AGR FOREST METEOROL, V171, P31, DOI 10.1016/j.agrformet.2012.11.023
+   Bishop CM, 1996, NEURAL NETWORKS PATT, V0, P0
+   Bishop ChristopherM, 2006, PATTERN RECOGN, V1, P0, DOI 10.1117/1.2819119
+   Braswell BH, 2005, GLOBAL CHANGE BIOL, V11, P335, DOI 10.1111/j.1365-2486.2005.00897.x
+   Broomhead DS, 1988, COMPLEX SYSTEMS, V2, P321
+   Canadell J, 2009, GLOB. CARBON CYCLE, V2, P0
+   Christen A, 2011, ATMOS ENVIRON, V45, P6057, DOI 10.1016/j.atmosenv.2011.07.040
+   Crawford B, 2014, THEOR APPL CLIMATOL, V0, P1
+   Crawford B, 2011, ATMOS ENVIRON, V45, P896, DOI 10.1016/j.atmosenv.2010.11.017
+   Cybenko G, 1989, MATHEMATICS OF CONTROL, V0, P0
+   EFRON B, 1979, ANN STAT, V7, P1, DOI 10.1214/aos/1176344552
+   Falge E, 2001, AGR FOREST METEOROL, V107, P43, DOI 10.1016/S0168-1923(00)00225-2
+   Feigenwinter C, 2012, EDDY COVARIANCE - A PRACTICAL GUIDE TO MEA- SUREMENT AND DATA ANALYSIS, V0, PP377, DOI 10.1007/978-94-007-2351-1
+   Foken T, 1996, AGR FOREST METEOROL, V78, P83, DOI 10.1016/0168-1923(95)02248-1
+   Golub GH, 2012, MATRIX COMPUTATIONS, V3, P0
+   Goulden ML, 1996, GLOBAL CHANGE BIOL, V2, P169, DOI 10.1111/j.1365-2486.1996.tb00070.x
+   Grimmond CSB, 2004, J GEOPHYS RES-ATMOS, V109, P0, DOI 10.1029/2004JD004936
+   Grimmond CSB, 2002, ENVIRON POLLUT, V116, PS243, DOI 10.1016/S0269-7491(01)00256-1
+   Gurney K, 1997, INTRO NEURAL NETWORK, V0, P0, DOI DOI 10.4324/9780203451519
+   Hestenes MR, 1980, CONJUGATE DIRECTION, V0, P0
+   Hiller RV, 2011, BOUND-LAY METEOROL, V138, P215, DOI 10.1007/s10546-010-9558-0
+   Hollinger DY, 2005, TREE PHYSIOL, V25, P873, DOI 10.1093/treephys/25.7.873
+   Hollinger DY, 2004, GLOBAL CHANGE BIOL, V10, P1689, DOI 10.1111/j.1365-2486.2004.00847.x
+   Järvi L, 2012, ATMOS CHEM PHYS, V12, P8475, DOI 10.5194/acp-12-8475-2012
+   Kellett R, 2013, LANDSCAPE URBAN PLAN, V110, P48, DOI 10.1016/j.landurbplan.2012.10.002
+   Kljun N, 2004, BOUND-LAY METEOROL, V112, P503, DOI 10.1023/B:BOUN.0000030653.71031.96
+   Kordowski K, 2010, ATMOS ENVIRON, V44, P2722, DOI 10.1016/j.atmosenv.2010.04.039
+   Kotthaus S, 2012, ATMOS ENVIRON, V57, P301, DOI 10.1016/j.atmosenv.2012.04.024
+   Liu M, 2009, SCI CHINA SER D, V52, P257, DOI 10.1007/s11430-009-0010-6
+   MacKay DJC, 1998, NEURAL NETWORKS AND MACHINE LEARNING. PROCEEDINGS, V0, P133
+   MacKay DJC, 1994, MODELS OF NEURAL NETWORKS, VIII, P211
+   Matheron G, 1963, ECON GEOL, V58, P1246, DOI 10.2113/GSECONGEO.58.8.1246
+   Mauder M, 2008, BIOGEOSCIENCES, V5, P451, DOI 10.5194/bg-5-451-2008
+   Mauder M, 2011, ARBEITSERGEBNISSE, V0, P0
+   Menzer O, 2013, AGR FOREST METEOROL, V178, P161, DOI 10.1016/j.agrformet.2013.04.024
+   Moffat AM, 2012, THESIS F SCHILLER U, V0, P0
+   Moffat AM, 2007, AGR FOREST METEOROL, V147, P209, DOI 10.1016/j.agrformet.2007.08.011
+   Moncrieff JB, 1996, GLOB CHANGE BIOL, V2, P231, DOI 10.1111/j.1365-2486.1996.tb00075.x
+   MOORE CJ, 1986, BOUND-LAY METEOROL, V37, P17, DOI 10.1007/BF00122754
+   Morgenstern K, 2004, AGR FOREST METEOROL, V123, P201, DOI 10.1016/j.agrformet.2003.12.003
+   NAKAMURA Y, 1988, ATMOS ENVIRON, V22, P2691, DOI 10.1016/0004-6981(88)90437-4
+   NARASIMHA MJ, 1978, IEEE T COMMUN, V26, P934, DOI 10.1109/TCOM.1978.1094144
+   Nordbo A, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL053087
+   Papale D, 2006, BIOGEOSCIENCES, V3, P571, DOI 10.5194/bg-3-571-2006
+   Papale D, 2003, GLOBAL CHANGE BIOL, V9, P525, DOI 10.1046/j.1365-2486.2003.00609.x
+   Peters EB, 2012, J GEOPHYS RES-BIOGEO, V117, P0, DOI 10.1029/2011JG001933
+   Peters EB, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2010JG001463
+   Pickett STA, 2008, BIOSCIENCE, V58, P139, DOI 10.1641/B580208
+   Radeloff VC, 2005, CONSERV BIOL, V19, P793, DOI 10.1111/j.1523-1739.2005.00387.x
+   Ramamurthy P, 2011, ATMOS ENVIRON, V45, P73, DOI 10.1016/j.atmosenv.2010.09.049
+   Rasmussen CE, 2010, J MACH LEARN RES, V11, P3011
+   Reichstein M, 2005, GLOBAL CHANGE BIOL, V11, P1424, DOI 10.1111/j.1365-2486.2005.001002.x
+   Richardson AD, 2006, AGR FOREST METEOROL, V136, P1, DOI 10.1016/j.agrformet.2006.01.007
+   RUMELHART DE, 1986, NATURE, V323, P533, DOI 10.1038/323533a0
+   Satterthwaite D, 2008, ENVIRON URBAN, V20, P539, DOI 10.1177/0956247808096127
+   Schmidt A, 2008, BOUND-LAY METEOROL, V126, P389, DOI 10.1007/s10546-007-9249-7
+   SCHOTANUS P, 1983, BOUND-LAY METEOROL, V26, P81, DOI 10.1007/BF00164332
+   Seeger Matthias, 2004, INT J NEURAL SYST, V14, P69, DOI 10.1142/S0129065704001899
+   Sen Roy S, 2009, J APPL METEOROL CLIM, V48, P669, DOI 10.1175/2008JAMC1983.1
+   Seto KC, 2012, P NATL ACAD SCI USA, V109, P16083, DOI 10.1073/pnas.1211658109
+   Soegaard H, 2003, REMOTE SENS ENVIRON, V87, P283, DOI 10.1016/S0034-4257(03)00185-8
+   Stewart ID, 2012, B AM METEOROL SOC, V93, P1879, DOI 10.1175/BAMS-D-11-00019.1
+   Taylor KE, 2001, J GEOPHYS RES-ATMOS, V106, P7183, DOI 10.1029/2000JD900719
+   Todhunter PE, 1996, CLIMATE RES, V6, P59, DOI 10.3354/cr006059
+   Velasco E, 2010, GEOGR COMPASS, V4, P1238, DOI 10.1111/j.1749-8198.2010.00384.x
+   Vesala T, 2008, TELLUS B, V60, P188, DOI 10.1111/j.1600-0889.2007.00312.x
+   WEBB EK, 1980, Q J ROY METEOR SOC, V106, P85, DOI 10.1002/qj.49710644707
+   Weissert LF, 2014, URBAN CLIM, V8, P100, DOI 10.1016/j.uclim.2014.01.002
+NR 72
+TC 27
+Z9 30
+U1 1
+U2 81
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD JAN 15
+PY 2015
+VL 101
+IS 
+BP 312
+EP 327
+DI 10.1016/j.atmosenv.2014.11.006
+PG 16
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA AZ1SB
+UT WOS:000348017000032
+DA 2025-11-05
+ER
+

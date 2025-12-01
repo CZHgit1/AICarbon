@@ -1,0 +1,97 @@
+PT J
+AU Thompson, R
+AF Thompson, Roy
+TI The relationship of the phase and amplitude of the annual cycle of CO2 to phenological events
+SO PLANT ECOLOGY & DIVERSITY
+LA English
+DT Article
+ID carbon-dioxide emissions; primary productivity npp; comparing global-models; atmospheric co2; soil respiration; spring phenology; seasonal cycle; simplex-method; mauna-loa; temperature
+AB Background: A key current issue in studies of global CO2 is the cause of the recent pronounced changes in the timing (phase) and amplitude of its annual cycle. Aim: To use a sensitivity analysis in order to identify the most influential parameters in a new four-box diffusion model of global CO2 transport. Methods: A new diffusion model of global atmospheric transport is developed, implemented by optimisation and used to assess the effects of oceanic, terrestrial and anthropogenic CO2 fluxes on the annual CO2 cycle. As the terrestrial phenology of living organisms in the temperate zones is identified as the central process of concern an improved phenological model for the temperate zones is proposed and used in up-scaling from plant to planet. Results: The diffusion model is found to be able to mimic many of the features observed by the GLOBALVIEW-CO2 network, including the global trend, latitudinal gradient, and annual waveform. Conclusions: It is concluded that, out of five rival hypotheses considered at the outset, the springtime phenology of terrestrial biomes is the dominant controller of recent changes to the annual CO2 cycle.
+C1 Univ Edinburgh, Sch Geosci, Edinburgh, Midlothian, Scotland.
+C3 University of Edinburgh
+RP Thompson, R (corresponding author), Univ Edinburgh, Sch Geosci, Edinburgh, Midlothian, Scotland.
+EM roy@ed.ac.uk
+CR Andres RJ, 1996, GLOBAL BIOGEOCHEM CY, V10, P419, DOI 10.1029/96GB01523
+   Unknown -, 2004, AUSTRALIAN SCIENCE, V0, P0
+   Arber A, 1950, THE NATURAL PHILOSOPHY OF PLANT FORM, V0, P0
+   BACASTOW RB, 1976, NATURE, V261, P116, DOI 10.1038/261116a0
+   BACASTOW RB, 1985, J GEOPHYS RES-ATMOS, V90, P10529, DOI 10.1029/JD090iD06p10529
+   Baldocchi D, 2004, SCOPE SER, V62, P295
+   Blasing TJ, 2005, TELLUS B, V57, P107, DOI 10.1111/j.1600-0889.2005.00136.x
+   Buermann W, 2007, P NATL ACAD SCI USA, V104, P4249, DOI 10.1073/pnas.0611224104
+   CHMIELEWSKI FM, 1996, PHENOL SEASON, V1, P19
+   Clark RM, 2010, INT J CLIMATOL, V30, P1599, DOI 10.1002/joc.2004
+   Cramer W, 1999, GLOBAL CHANGE BIOL, V5, P1, DOI 10.1046/j.1365-2486.1999.00009.x
+   del Giorgio PA, 2002, NATURE, V420, P379, DOI 10.1038/nature01165
+   Douglass DH, 2004, PHYS LETT A, V323, P315, DOI 10.1016/j.physleta.2004.01.066
+   Erickson DJ, 1996, J GEOPHYS RES-ATMOS, V101, P15079, DOI 10.1029/95JD03680
+   Falkowski PG, 1998, SCIENCE, V281, P200, DOI 10.1126/science.281.5374.200
+   FITTER AH, 1995, FUNCT ECOL, V9, P55, DOI 10.2307/2390090
+   Friedlingstein P, 2006, J CLIMATE, V19, P3337, DOI 10.1175/JCLI3800.1
+   Gu LH, 2003, TASK VEG SC, V39, P467
+   Gurney KR, 2008, GLOBAL BIOGEOCHEM CY, V22, P0, DOI 10.1029/2007GB003082
+   Gurney KR, 2009, ENVIRON SCI TECHNOL, V43, P5535, DOI 10.1021/es900806c
+   Holst N, 2007, WEED RES, V47, P1, DOI 10.1111/j.1365-3180.2007.00534.x
+   Houghton RA, 2007, ANNU REV EARTH PL SC, V35, P313, DOI 10.1146/annurev.earth.35.031306.140057
+   Houghton RA, 2003, TELLUS B, V55, P378, DOI 10.1034/j.1600-0889.2003.01450.x
+   Houghton RA, 2002, CLIM POLICY, V2, P71, DOI 10.1016/S1469-3062(02)00012-8
+   Jeanneret F, 2010, PHENOLOGICAL RESEARCH: METHODS FOR ENVIRONMENTAL AND CLIMATE CHANGE ANALYSIS, V0, PP63, DOI 10.1007/978-90-481-3335-2_3
+   Kaminski T, 2002, GLOBAL BIOGEOCHEM CY, V16, P0, DOI 10.1029/2001GB001463
+   KEELING CD, 1960, TELLUS, V12, P200, DOI 10.1111/j.2153-3490.1960.tb01300.x
+   Kettle H, 2009, ATMOS CHEM PHYS, V9, P529, DOI 10.5194/acp-9-529-2009
+   Kucharik CJ, 2006, ECOL MODEL, V196, P1, DOI 10.1016/j.ecolmodel.2005.11.031
+   Lagarias JC, 1998, SIAM J OPTIMIZ, V9, P112, DOI 10.1137/S1052623496303470
+   Linkosalo T, 2006, TREE PHYSIOL, V26, P1165, DOI 10.1093/treephys/26.9.1165
+   MAIERREIMER E, 1993, GLOBAL BIOGEOCHEM CY, V7, P645, DOI 10.1029/93GB01355
+   Malhi Y, 2009, GLOBAL CHANGE BIOL, V15, P1255, DOI 10.1111/j.1365-2486.2008.01780.x
+   Menzel A, 2006, GLOBAL CHANGE BIOL, V12, P1969, DOI 10.1111/j.1365-2486.2006.01193.x
+   Miller JB, 2008, NATURE, V451, P26, DOI 10.1038/451026a
+   Mitchell TD, 2005, INT J CLIMATOL, V25, P693, DOI 10.1002/joc.1181
+   Mueller KL, 2008, J GEOPHYS RES-ATMOS, V113, P0, DOI 10.1029/2007JD009734
+   Nash J, 1990, COMPACT NUMERICAL ME, V0, P0
+   NELDER JA, 1965, COMPUT J, V7, P308, DOI 10.1093/comjnl/7.4.308
+   Nemry B, 1999, GLOB CHANGE BIOL, V5, P65, DOI 10.1046/j.1365-2486.1999.00008.x
+   Nemry B, 1996, J GEOPHYS RES-ATMOS, V101, P7111, DOI 10.1029/95JD03656
+   Peterson TC, 1997, B AM METEOROL SOC, V78, P2837, DOI 10.1175/1520-0477(1997)078<2837:AOOTGH>2.0.CO;2
+   Piao SL, 2008, NATURE, V451, P49, DOI 10.1038/nature06444
+   RAICH JW, 1992, TELLUS B, V44, P81, DOI 10.1034/j.1600-0889.1992.t01-1-00001.x
+   REVELLE R, 1957, TELLUS, V9, P18, DOI 10.1111/j.2153-3490.1957.tb01849.x
+   Richardson AD, 2009, TREE PHYSIOL, V29, P321, DOI 10.1093/treephys/tpn040
+   Sabine CL, 2007, GREENHOUSE GAS SINKS, V0, PP31, DOI 10.1079/9781845931896.0031
+   Sasai T, 2007, ECOL MODEL, V208, P135, DOI 10.1016/j.ecolmodel.2007.05.014
+   Schlesinger WH, 2000, BIOGEOCHEMISTRY, V48, P7, DOI 10.1023/A:1006247623877
+   Scurlock JMO, 1999, ECOL APPL, V9, P913, DOI 10.2307/2641338
+   Takahashi T, 2002, DEEP-SEA RES PT II, V49, P1601, DOI 10.1016/S0967-0645(02)00003-6
+   Taylor JA, 1998, GEOPHYS RES LETT, V25, P4173, DOI 10.1029/1998GL900018
+   Thompson R, 2008, HOLOCENE, V18, P95, DOI 10.1177/0959683607085599
+   Thompson R, 2006, INT J BIOMETEOROL, V50, P312, DOI 10.1007/s00484-005-0017-4
+   Waring RH, 1998, TREE PHYSIOL, V18, P129
+   Wright MH, 1996, NUMERICAL ANAL P 199, V0, P191
+   Zeebe Richard E, 2001, ELSEV OCEANOGR SERIE, V65, P0
+NR 57
+TC 3
+Z9 3
+U1 1
+U2 19
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1755-0874
+EI 1755-1668
+J9 PLANT ECOL DIVERS
+JI Plant Ecol. Divers.
+PD JUN 15
+PY 2011
+VL 4
+IS 2-3
+BP 213
+EP 226
+DI 10.1080/17550874.2011.615347
+PG 14
+WC Plant Sciences
+SC Plant Sciences
+GA 886YH
+UT WOS:000299890600009
+DA 2025-11-05
+ER
+

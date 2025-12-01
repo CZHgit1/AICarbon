@@ -1,0 +1,95 @@
+PT J
+AU Mañón-Salas, C
+   Moreno-Goytia, EL
+   Hernández-Berriel, MC
+   Marquez-Benavides, L
+AF Manon-Salas, C.
+   Moreno-Goytia, E. L.
+   Hernandez-Berriel, Ma. C.
+   Marquez-Benavides, L.
+TI ESTIMATION OF SOLID WASTE BIOMETHANIZATION: DEVELOPMENT OF NOVEL METHODOLOGY AND ANFIS MODELS
+SO APPLIED ARTIFICIAL INTELLIGENCE
+LA English
+DT Article
+ID neural-network; biogas generation; methane; prediction; leachate
+AB This article presents the application of a technique of artificial intelligence (AI) that explores the possibility of using a model to estimate the biomethanization of municipal solid waste (MSW). The model uses data from an experiment in which MSW is anaerobically digested under three different moisture regimes by leachate recycling. A method utilizing a neurofuzzy inference system is used because AI systems have a high capacity for empiric learning. Considering the importance of finding an effective selection of the most valuable variables for the model, this methodology includes the following techniques: Exhaustive Search (or brute-force search); Stepwise, a step-by-step regression method; and the use of Expert Knowledge. With the use of the fuzzy logic toolbox (MATLAB(R)), nine models were generated. However, when a case study is used to detail the method, the proposed methodology can also be used with any other system with a set of input and output data.
+C1 [Hernandez-Berriel, Ma. C.; Marquez-Benavides, L.] Univ Michoacana, Morelia 58302, Michoacan, Mexico.
+   [Manon-Salas, C.] Univ Autonoma Baja California, Inst Engn, Mexicali 21100, Baja California, Mexico.
+   [Moreno-Goytia, E. L.] Inst Tecnol Morelia, Morelia, Michoacan, Mexico.
+   [Hernandez-Berriel, Ma. C.] Inst Tecnol Toluca, Metepec, Edo De Mexico, Mexico.
+C3 Universidad Michoacana de San Nicolas de Hidalgo; Universidad Autonoma de Baja California
+RP Marquez-Benavides, L (corresponding author), Univ Michoacana, San Juanito Itzicuaro S-N, Morelia 58302, Michoacan, Mexico.
+EM lmarquez@umich.mx
+FU National Council of Science and Technology (CONACyT) in Mexico [252887, 62776]
+CR Abdallah M, 2011, WORLD ACADEMY OF SCIENCE, V0, P0
+   Abdallah M, 2009, CAN J CIVIL ENG, V36, P701, DOI 10.1139/L09-015
+   Abebe AJ, 2000, P 4 INT C HYDR IOW C, V0, P0
+   Abu Qdais H, 2009, RESOURCES CONSERVATI, V54, P359
+   Afshar-Kazemi MA, 2011, INT P ECON DEV RES, V14, P230
+   Akkaya E, 2009, 5 INT ADV TECHN S IA, V0, P0
+   Cabalar AF, 2012, COMPUT GEOTECH, V40, P14, DOI 10.1016/j.compgeo.2011.09.008
+   Cakmakci M, 2007, BIOPROC BIOSYST ENG, V30, P349, DOI 10.1007/s00449-007-0131-2
+   Chugh S, 1998, WASTE MANAGE RES, V16, P564, DOI 10.1177/0734242X9801600607
+   Daels T, 2010, ENVIRON TECHNOL, V30, P1575
+   Del Real Olvera J, 2009, INT J ENVIRON POLLUT, V25, P33
+   Erdirencelebi D, 2011, APPL MATH MODEL, V25, P33
+   FuzzyTech®, 2010, US MAN 5 3, V0, P0
+   Garg A, 2006, WASTE MANAGE RES, V24, P363, DOI 10.1177/0734242X06065189
+   Gurijala KR, 1997, APPL ENVIRON MICROB, V63, P3797, DOI 10.1128/AEM.63.10.3797-3803.1997
+   Hair JF, 1998, MULTIVARIATE DATA ANALYSIS, VFifth, P0
+   Hanss M, 2000, PEACHFUZZ 2000 : 19TH INTERNATIONAL CONFERENCE OF THE NORTH AMERICAN FUZZY INFORMATION PROCESSING SOCIETY - NAFIPS, V0, PP439, DOI 10.1109/NAFIPS.2000.877469
+   Hernandez-Berriel MC, 2010, THE OPEN WASTE MANAGEMENT JOURNAL, V3, P155
+   Jalili GZM, 2008, INT J ENVIRON RES, V2, P13
+   JANG JSR, 1993, IEEE T SYST MAN CYB, V23, P665, DOI 10.1109/21.256541
+   JANG JSR, 1995, P IEEE, V83, P378, DOI 10.1109/5.364486
+   Kindlein J, 2006, WASTE MANAGE RES, V24, P376, DOI 10.1177/0734242X06065506
+   KurtulusOzcan H, 2008, ENVIRON ENG SCI, V26, P1
+   Martín S, 2001, WASTE MANAGE RES, V19, P425, DOI 10.1177/0734242X0101900507
+   MATLAB®, 2009, LANG TECHN COMP VERS, V0, P0
+   Mullai P, 2011, BIORESOURCE TECHNOL, V102, P5492, DOI 10.1016/j.biortech.2011.01.085
+   Nath K, 2011, BIORESOURCE TECHNOL, V102, P8569, DOI 10.1016/j.biortech.2011.03.108
+   Naylor TH, 1982, TECNICAS SIMULACION, V0, P0
+   Noori R, 2009, IRAN J PUBLIC HEALTH, V38, P74
+   Ogwueleka TC, 2010, IRAN J ENVIRON HEALT, V7, P259
+   Ojolo SJ, 2008, IRAN J ENVIRON HEALT, V5, P179
+   Ozkaya B, 2007, ENVIRON MODELL SOFTW, V22, P815, DOI 10.1016/j.envsoft.2006.03.004
+   Patil GP, 1994, HDB STAT, V0, P0
+   Sugeno M, 1993, IEEE TRANSACTIONS ON FUZZY SYSTEMS, V1, P7, DOI 10.1109/TFUZZ.1993.390281
+   TAKAGI T, 1985, IEEE T SYST MAN CYB, V15, P116, DOI 10.1109/TSMC.1985.6313399
+   Themelis NJ, 2007, RENEW ENERG, V32, P1243, DOI 10.1016/j.renene.2006.04.020
+   Tinsley H, 2000, HANDBOOK OF APPLIED MULTIVARIATE STATISTICS AND MATHEMATICAL MODELING, V0, P0
+   US EPA, 2005, LANDF GAS EM MOD LAN, V0, P0
+   Vadillo I, 2005, GEOGACETA, V37, P139
+   Vavilin VA, 2006, BIODEGRADATION, V17, P389, DOI 10.1007/s10532-005-9009-7
+   Waewsak C, 2010, J ENVIRON SCI-CHINA, V22, P1883, DOI 10.1016/S1001-0742(09)60334-X
+   Wan JQ, 2011, APPL SOFT COMPUT, V11, P3238, DOI 10.1016/j.asoc.2010.12.026
+   White J, 2004, WASTE MANAGE, V24, P227, DOI 10.1016/j.wasman.2003.11.009
+   Wuebbles DJ, 2002, EARTH-SCI REV, V57, P177, DOI 10.1016/S0012-8252(01)00062-9
+   Zacharof AI, 2004, WASTE MANAGE, V24, P453, DOI 10.1016/j.wasman.2003.09.010
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 22
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0883-9514
+EI 1087-6545
+J9 APPL ARTIF INTELL
+JI Appl. Artif. Intell.
+PD JUN 15
+PY 2012
+VL 26
+IS 5
+BP 445
+EP 465
+DI 10.1080/08839514.2012.670975
+PG 21
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 940KF
+UT WOS:000303887700002
+DA 2025-11-05
+ER
+

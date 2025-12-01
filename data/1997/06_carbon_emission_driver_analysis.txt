@@ -1,0 +1,103 @@
+PT J
+AU Nakazawa, T
+   Morimoto, S
+   Aoki, S
+   Tanaka, M
+AF Nakazawa, T
+   Morimoto, S
+   Aoki, S
+   Tanaka, M
+TI Temporal and spatial variations of the carbon isotopic ratio of atmospheric carbon dioxide in the western Pacific region
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+ID past 2 century; secular variations; ice core; co2; japan; ocean; abundance; transport; increase; exchange
+AB CO2 samples were collected on board container ships between Japan and Australia and between Japan and the United States from April 1984 to December 1991. They were then analyzed for their delta(13)C values with a precision of 0.02 parts per thousand. The seasonal cycle of delta(13)C was clearly observable at latitudes from 55 degrees N to the equator. Peak-to-peak amplitude of the average seasonal cycle of delta(13)C was about 0.8 parts per thousand at latitudes north of 40 degrees N and decreased going southward to 0.2 parts per thousand at the equator. The comparison of the observed seasonal cycles of delta(13)C With those of the CO2 concentration suggests that the seasonal CO2 cycles observed at latitudes north of the equator are due to the seasonal change in terrestrial biospheric activities. However, air transport from the southern hemisphere is also thought to be partly responsible for the seasonal CO2 cycles at northern low latitudes. Values of delta(13)C decreased secularly at a rate of about -0.03 parts per thousand/year, owing mainly to increased amounts of isotopically light CO2 produced in fossil fuel combustion and deforestation. Interannual variations of the long-term trend of delta(13)C in association with the El Nino-Southern Oscillation (ENSO) event and other factors were clearly observed, which were. almost opposite in phase with those of the CO2 concentration. From the comparison of the observed long-term trend of delta(13)C with those calculated using a box diffusion model, it is suggested that an imbalance of the CO2 exchange between the atmosphere and the terrestrial biosphere could be responsible for such interannual variations.
+C1 NATL INST POLAR RES, ITABASHI KU, TOKYO 173, JAPAN.
+C3 Research Organization of Information & Systems (ROIS); National Institute of Polar Research (NIPR) - Japan
+RP Nakazawa, T (corresponding author), TOHOKU UNIV, FAC SCI, CTR ATMOSPHER & OCEAN SCI, SENDAI, MIYAGI 98077, JAPAN.
+CR ALLISON CE, 1994, BASELINE ATMOSPHERIC, V0, P10
+   BODEN TA, 1992, ORNLCDIAC049, V0, P0
+   CIAIS P, 1995, J GEOPHYS RES-ATMOS, V100, P5051, DOI 10.1029/94JD02847
+   CONWAY T J, 1988, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V40, P81, DOI 10.1111/j.1600-0889.1988.tb00214.x
+   CONWAY TJ, 1994, J GEOPHYS RES-ATMOS, V99, P22831, DOI 10.1029/94JD01951
+   COPLEN TB, 1983, NATURE, V302, P236, DOI 10.1038/302236a0
+   CRAIG H, 1957, GEOCHIM COSMOCHIM AC, V12, P133, DOI 10.1016/0016-7037(57)90024-8
+   Enting IG, 1993, 29 CSIRO DIV ATM RES, V0, P0
+   ENTING IG, 1992, AVERAGE GLOAL DISTRI, V0, P0
+   FARQUHAR GD, 1989, ANNU REV PLANT PHYS, V40, P503, DOI 10.1146/annurev.pp.40.060189.002443
+   FRANCEY RJ, 1985, J ATMOS CHEM, V3, P247, DOI 10.1007/BF00210499
+   FRANCEY RJ, 1995, NATURE, V373, P326, DOI 10.1038/373326a0
+   FRANCEY RJ, 1990, BASELINE ATMOSPHERIC, V0, P16
+   FRIEDLI H, 1988, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V40, P129, DOI 10.1111/j.1600-0889.1988.tb00216.x
+   FRIEDLI H, 1986, NATURE, V324, P237, DOI 10.1038/324237a0
+   FRIEDLI H, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P80
+   GAMO T, 1995, GEOPHYS RES LETT, V22, P397, DOI 10.1029/94GL03269
+   Gamo T, 1989, TELLUS B, V41, P127, DOI 10.1111/j.1600-0889.1989.tb00130.x
+   Hamming RW, 1977, DIGITAL FILTERS, V0, P0
+   Houghton JT, 1990, CLIMATE CHANGE, V2nd ed., P0
+   International Atomic Energy Agency, 1995, REF INT MAT STABL IS, V0, P0
+   KAYE JA, 1987, REV GEOPHYS, V25, P1609, DOI 10.1029/RG025i008p01609
+   KEELING CD, 1984, J GEOPHYS RES-ATMOS, V89, P4615, DOI 10.1029/JD089iD03p04615
+   KEELING CD, 1958, GEOCHIM COSMOCHIM AC, V13, P322, DOI 10.1016/0016-7037(58)90033-4
+   KEELING CD, 1995, NATURE, V375, P666, DOI 10.1038/375666a0
+   KEELING CD, 1989, GEOPHYS MONOGR SER, V55, P305, DOI 10.1029/GM055P0305
+   Keeling CharlesD, 1989, ASPECTS OF CLIMATE VARIABILITY IN THE PACIFIC AND WESTERN AMERICAS, V0, PP165, DOI 10.1111/j.1365-2486.2010.02222.x
+   KOMHYR WD, 1985, J GEOPHYS RES-ATMOS, V90, P5567, DOI 10.1029/JD090iD03p05567
+   MACHIDA T, 1995, GEOPHYS RES LETT, V22, P2921, DOI 10.1029/95GL02822
+   Mook WG, 1973, INTERNATIONAL JOURNAL OF MASS SPECTROMETRY AND ION PHYSICS, V12, P273, DOI 10.1016/0020-7381(73)80044-0
+   MOOK WG, 1983, J GEOPHYS RES-OCEANS, V88, P915, DOI 10.1029/JC088iC15p10915
+   MOOK WG, 1983, ISOT GEOSCI, V1, P237
+   NAKAZAWA T, 1991, TELLUS B, V43, P126, DOI 10.1034/j.1600-0889.1991.00007.x
+   NAKAZAWA T, 1991, TELLUS B, V43, P106, DOI 10.1034/j.1600-0889.1991.t01-1-00005.x
+   NAKAZAWA T, 1993, TELLUS B, V45, P258, DOI 10.1034/j.1600-0889.1993.t01-2-00004.x
+   NAKAZAWA T, 1992, TELLUS B, V44, P161, DOI 10.1034/j.1600-0889.1992.t01-2-00001.x
+   NAKAZAWA T, 1995, GEOPHYS RES LETT, V22, P1229, DOI 10.1029/95GL01188
+   NAKAZAWA T, 1993, J GLACIOL, V39, P209, DOI 10.3189/S0022143000015860
+   NAKAZAWA T, 1993, GEOPHYS RES LETT, V20, P943, DOI 10.1029/93GL00776
+   Nakazawa T, 1993, P 4 CO2 INT C GLOB A, V0, P193
+   NAKAZAWA T, 1996, IN PRESS ENVIRONMETR, V0, P0
+   NEFTEL A, 1985, NATURE, V315, P45, DOI 10.1038/315045a0
+   OESCHGER H, 1975, TELLUS, V27, P168, DOI 10.1111/j.2153-3490.1975.tb01671.x
+   PEARMAN GI, 1986, J ATMOS CHEM, V4, P81, DOI 10.1007/BF00053774
+   QUAY PD, 1992, SCIENCE, V256, P74, DOI 10.1126/science.256.5053.74
+   REINSCH CH, 1967, NUMER MATH, V10, P177, DOI 10.1007/BF02162161
+   SIEGENTHALER U, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P140
+   Siegenthaler U, 1981, SCOPE 16 CARBON CYCL, V0, P246
+   TANAKA M, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P29
+   TANAKA M, 1983, J METEOROL SOC JPN, V61, P678, DOI 10.2151/jmsj1965.61.4_678
+   TANAKA M, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P72
+   TANS P, 1981, SCOPE 16 CARBON CYCL, V0, P127
+   TANS PP, 1989, J GEOPHYS RES-ATMOS, V94, P5151, DOI 10.1029/JD094iD04p05151
+   TANS PP, 1990, SCIENCE, V247, P1431, DOI 10.1126/science.247.4949.1431
+   TANS PP, 1993, GLOBAL BIOGEOCHEM CY, V7, P353, DOI 10.1029/93GB00053
+   TANS PP, 1991, CMDL SUMMARY REPORT, V0, P24
+   TANS PP, 1992, CMDL SUMMARY REPORT, V0, P15
+   *WORLD MET ORG, 1992, WDCGG DATA REPORT A, V0, P0
+NR 58
+TC 64
+Z9 70
+U1 0
+U2 3
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 2169-8996
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD JAN 20
+PY 1997
+VL 102
+IS D1
+BP 1271
+EP 1285
+DI 10.1029/96JD02720
+PG 15
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA WE445
+UT WOS:A1997WE44500008
+DA 2025-11-03
+ER
+

@@ -1,0 +1,119 @@
+PT J
+AU Fernández-Landa, A
+   Algeet-Abarquero, N
+   Fernández-Moya, J
+   Guillén-Climent, ML
+   Pedroni, L
+   García, F
+   Espejo, A
+   Villegas, JF
+   Marchamalo, M
+   Bonatti, J
+   Escamochero, I
+   Rodríguez-Noriega, P
+   Papageorgiou, S
+   Fernandes, E
+AF Fernandez-Landa, Alfredo
+   Algeet-Abarquero, Nur
+   Fernandez-Moya, Jesus
+   Luz Guillen-Climent, Maria
+   Pedroni, Lucio
+   Garcia, Felipe
+   Espejo, Andres
+   Felipe Villegas, Juan
+   Marchamalo, Miguel
+   Bonatti, Javier
+   Escamochero, Inigo
+   Rodriguez-Noriega, Pablo
+   Papageorgiou, Stavros
+   Fernandes, Erick
+TI An Operational Framework for Land Cover Classification in the Context of REDD plus Mechanisms. A Case Study from Costa Rica
+SO REMOTE SENSING
+LA English
+DT Article
+DE open source; forest; deforestation; IR MAD; Random Forest; Landsat; QGIS; R; ORFEO; python
+ID environmental service payments; random forest classifier; satellite imagery; osa peninsula; area; tm; deforestation; biodiversity; efficiency; dynamics
+AB REDD+ implementation requires robust, consistent, accurate and transparent national land cover historical data and monitoring systems. Satellite imagery is the only data source with enough periodicity to provide consistent land cover information in a cost-effective way. The main aim of this paper is the creation of an operational framework for monitoring land cover dynamics based on Landsat imagery and open-source software. The methodology integrates the entire land cover and land cover change mapping processes to produce a consistent series of Land Cover maps. The consistency of the time series is achieved through the application of a single trained machine learning algorithm to radiometrically normalized imagery using iteratively re-weighted multivariate alteration detection (IR-MAD) across all dates of the historical period. As a result, seven individual Land Cover maps of Costa Rica were produced from 1985/1986 to 2013/2014. Post-classification land cover change detection was performed to evaluate the land cover dynamics in Costa Rica. The validation of the land cover maps showed an overall accuracy of 87% for the 2013/2014 map, 93% for the 2000/2001 map and 89% for the 1985/1986 map. Land cover changes between forest and non-forest classes were validated for the period between 2001 and 2011, obtaining an overall accuracy of 86%. Forest age-classes were generated through a multi-temporal analysis of the maps. By linking deforestation dynamics with forest age, a more accurate discussion of the carbon emissions along the time series can be presented.
+C1 [Fernandez-Landa, Alfredo; Algeet-Abarquero, Nur; Luz Guillen-Climent, Maria; Escamochero, Inigo; Rodriguez-Noriega, Pablo] Agresta S Coop, Duque Fernan Nunez 2, Madrid 28012, Spain.
+   [Fernandez-Moya, Jesus] Freelance, Plaza Constituc 8, Madrid 28694, Spain.
+   [Pedroni, Lucio; Felipe Villegas, Juan] CDI, Residencial La Castilla 30201, Paraiso De Cart, Costa Rica.
+   [Garcia, Felipe] CEI Montegancedo, DIMAP, Madrid 28223, Spain.
+   [Espejo, Andres] AFOLU Global Serv, Pozuelo Alarcon 28224, Spain.
+   [Marchamalo, Miguel] UPM, Avda Prof Aranguren, Madrid 28040, Spain.
+   [Bonatti, Javier] UCR, San Jose 11501, Costa Rica.
+   [Papageorgiou, Stavros; Fernandes, Erick] World Bank, 1818 H St NW, Washington, DC 20433 USA.
+C3 Universidad Politecnica de Madrid; Universidad Costa Rica; The World Bank
+RP Fernández-Landa, A (corresponding author), Agresta S Coop, Duque Fernan Nunez 2, Madrid 28012, Spain.
+EM afernandez@agresta.org; nalgeet@agresta.org; jesusfmoya@gmail.com; mguillen@agresta.org; lpedroni@carbondecisions.com; fgarcia@dimap.es; andres.espejo@afoluglobalservices.com; jfvillegas@carbondecisions.com; miguel.marchamalo@upm.es; jbonatti2011@gmail.com; iescamochero@agresta.org; prodriguez@agresta.org; spapageorgiou@worldbank.org; efernandes@worldbank.org
+FU Forest Carbon Partnership Facility (FCPF)
+CR Angelsen A, 2012, ANALYSING REDD+: CHALLENGES AND CHOICES, V0, P31
+   Unknown -, 2009, QGIS GEOGR INF SYST, V0, P0
+   Unknown -, 1967, LIFE ZONE EC LIFE ZO, V0, P0
+   Unknown -, 2015, GEOSCI MODEL DEV, V0, P0, DOI DOI 10.5194/gmd-8-1991-2015
+   Unknown -, 2023, MACH. LEARN., V0, P0
+   Unknown -, 2015, GEOGR RES AN SUPP SY, V0, P0
+   Unknown -, 2012, SCIENCE, V0, P0, DOI DOI 10.1126/science.1215904
+   Unknown -, 2012, EST COB FOR COST RIC, V0, P0
+   Arroyo-Mora JP, 2005, AGR ECOSYST ENVIRON, V106, P27, DOI 10.1016/j.agee.2004.07.002
+   Barton DN, 2009, J ENVIRON MANAGE, V90, P901, DOI 10.1016/j.jenvman.2008.02.010
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Broadbent EN, 2012, LANDSCAPE ECOL, V27, P731, DOI 10.1007/s10980-012-9722-7
+   Canty M, 2014, IMAGE ANALYSIS, V0, P0
+   Canty MJ, 2008, REMOTE SENS ENVIRON, V112, P1025, DOI 10.1016/j.rse.2007.07.013
+   Chander G, 2009, REMOTE SENS ENVIRON, V113, P893, DOI 10.1016/j.rse.2009.01.007
+   Daniels AE, 2010, ECOL ECON, V69, P2116, DOI 10.1016/j.ecolecon.2010.06.011
+   De Sy V, 2012, CURR OPIN ENV SUST, V4, P696, DOI 10.1016/j.cosust.2012.09.013
+   Dewan AM, 2009, APPL GEOGR, V29, P390, DOI 10.1016/j.apgeog.2008.12.005
+   Fagan ME, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/3/034017
+   Fahsi A, 2000, FOREST ECOL MANAG, V128, P57, DOI 10.1016/S0378-1127(99)00272-8
+   Gallant JC, 2003, WATER RESOUR RES, V39, P0, DOI 10.1029/2002WR001426
+   Ghimire B, 2012, GISCI REMOTE SENS, V49, P623, DOI 10.2747/1548-1603.49.5.623
+   Gislason PO, 2006, PATTERN RECOGN LETT, V27, P294, DOI 10.1016/j.patrec.2005.08.011
+   Hansen MC, 2012, REMOTE SENS ENVIRON, V122, P66, DOI 10.1016/j.rse.2011.08.024
+   HARALICK RM, 1979, P IEEE, V67, P786, DOI 10.1109/PROC.1979.11328
+   Horning N, 2013, INTRODUCTION TO DECISION TREES AND RANDOM FORESTS, V0, P0
+   Joseph S, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/3/034038
+   Kalacska M, 2008, J ENVIRON MANAGE, V88, P348, DOI 10.1016/j.jenvman.2007.03.015
+   Martinuzzi S, 2007, CREATING CLOUD-FREE LANDSAT ETM+ DATA SETS IN TROPICAL LANDSCAPES, V0, P0
+   Mellor A, 2013, REMOTE SENS-BASEL, V5, P2838, DOI 10.3390/rs5062838
+   Morse WC, 2009, ECOL SOC, V14, P0
+   Olofsson P, 2014, REMOTE SENS ENVIRON, V148, P42, DOI 10.1016/j.rse.2014.02.015
+   Pal M, 2005, INT J REMOTE SENS, V26, P217, DOI 10.1080/01431160412331269698
+   Pontius RG, 2001, AGR ECOSYST ENVIRON, V85, P191, DOI 10.1016/S0167-8809(01)00183-9
+   Quinlan JohnRoss, 1993, C4 5 PROGRAMS MACHIN, V1, P0
+   Rodriguez-Galiano VF, 2012, ISPRS J PHOTOGRAMM, V67, P93, DOI 10.1016/j.isprsjprs.2011.11.002
+   Sánchez-Azofeifa G, 2001, BIOTROPICA, V33, P378, DOI 10.1111/j.1744-7429.2001.tb00192.x
+   Sanchez-Azofeifa GA, 2007, CONSERV BIOL, V21, P1165, DOI 10.1111/j.1523-1739.2007.00751.x
+   Sanchez-Azofeifa GA, 2002, MT RES DEV, V22, P352, DOI 10.1659/0276-4741(2002)022[0352:DOTDAN]2.0.CO;2
+   Sesnie SE, 2008, REMOTE SENS ENVIRON, V112, P2145, DOI 10.1016/j.rse.2007.08.025
+   Shimada M, 2014, REMOTE SENS ENVIRON, V155, P13, DOI 10.1016/j.rse.2014.04.014
+   Sierra R, 2006, ECOL ECON, V59, P131, DOI 10.1016/j.ecolecon.2005.10.010
+   Vittek M, 2014, REMOTE SENS-BASEL, V6, P658, DOI 10.3390/rs6010658
+   Waske B, 2009, ISPRS J PHOTOGRAMM, V64, P450, DOI 10.1016/j.isprsjprs.2009.01.003
+NR 50
+TC 9
+Z9 12
+U1 1
+U2 35
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2072-4292
+J9 REMOTE SENS-BASEL
+JI Remote Sens.
+PD JUL 15
+PY 2016
+VL 8
+IS 7
+BP 
+EP 
+DI 10.3390/rs8070593
+PG 17
+WC Environmental Sciences; Geosciences, Multidisciplinary; Remote Sensing; Imaging Science & Photographic Technology
+SC Environmental Sciences & Ecology; Geology; Remote Sensing; Imaging Science & Photographic Technology
+GA DU5AR
+UT WOS:000382224800063
+DA 2025-11-05
+ER
+

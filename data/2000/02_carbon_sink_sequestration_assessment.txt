@@ -1,0 +1,179 @@
+PT J
+AU Gaudinski, JB
+   Trumbore, SE
+   Davidson, EA
+   Zheng, SH
+AF Gaudinski, JB
+   Trumbore, SE
+   Davidson, EA
+   Zheng, SH
+TI Soil carbon cycling in a temperate forest: radiocarbon-based estimates of residence times, sequestration rates and partitioning of fluxes
+SO BIOGEOCHEMISTRY
+LA English
+DT Article
+DE carbon; dynamics; isotope disequilibrium; radiocarbon; soil respiration; temperate forests
+ID northern hardwood forest; gas diffusivity; organic-matter; fine roots; nitrogen; respiration; dynamics; co2; ecosystem; turnover
+AB Temperate forests of North America are thought to be significant sinks of atmospheric CO2. We developed a below-ground carbon (C) budget for well-drained soils in Harvard Forest Massachusetts, an ecosystem that is storing C. Measurements of carbon and radiocarbon (C-14) inventory were used to determine the turnover time and maximum rate of CO2 production from heterotrophic respiration of three fractions of soil organic matter (SOM): recognizable litter fragments (L), humified low density material (H), and high density or mineral-associated organic matter (M). Turnover times in all fractions increased with soil depth and were 2-5 years for recognizable leaf litter, 5-10 years for root litter, 40-100+ years for low density humified material and > 100 years for carbon associated with minerals. These turnover times represent the time carbon resides in the plant + soil system, and may underestimate actual decomposition rates if carbon resides for several years in living root, plant or woody material. Soil respiration was partitioned into two components using C-14: recent photosynthate which is metabolized by roots and microorganisms within a year of initial fixation (Recent-C), and C that is respired during microbial decomposition of SOM that resides in the soil for several years or longer (Reservoir-C). For the whole soil, we calculate that decomposition of Reservoir-C contributes approximately 41% of the total annual soil respiration. Of this 41%, recognizable leaf or root detritus accounts for 80% of the flux, and 20% is from the more humified fractions that dominate the soil carbon stocks. Measurements of CO2 and (CO2)-C-14 in the soil atmosphere and in total soil respiration were combined with surface CO2 fluxes and a soil gas diffusion model to determine the flux and isotopic signature of C produced as a function of soil depth. 63% of soil respiration takes place in the top 15 cm of the soil (O + A + Ap horizons). The average residence time of Reservoir-C in the plant + soil system is 8 +/- 1 years and the average age of carbon in total soil respiration (Recent-C + Reservoir-C) is 4 +/- 1 years. The O and A horizons have accumulated 4.4 kgC m(-2) above the plow layer since abandonment by settlers in the late-1800's. C pools contributing the most to soil respiration have short enough turnover times that they are likely in steady state. However, most C is stored as humified organic matter within both the O and A horizons and has turnover times from 40 to 100+ years respectively. These reservoirs continue to accumulate carbon at a combined rate of 10-30 gC m(-2) yr(-1). This rate of accumulation is only 5-15% of the total ecosystem C sink measured in this stand using eddy covariance methods.
+C1 Univ Calif Irvine, Dept Earth Syst Sci, Irvine, CA 92717 USA.
+   Woods Hole Res Ctr, Woods Hole, MA 02543 USA.
+C3 University of California System; University of California Irvine; Woodwell Climate Research Center
+RP Gaudinski, JB (corresponding author), Univ Calif Irvine, Dept Earth Syst Sci, Irvine, CA 92717 USA.
+CR BAUER JE, 1992, ANAL CHEM, V64, P824, DOI 10.1021/ac00031a024
+   BOWDEN RD, 1993, CAN J FOREST RES, V23, P1402, DOI 10.1139/x93-177
+   BURCHULADZE AA, 1989, RADIOCARBON, V31, P771
+   BURKE MK, 1994, PLANT SOIL, V162, P135, DOI 10.1007/BF01416099
+   COLLIN M, 1988, SOIL SCI SOC AM J, V52, P1559, DOI 10.2136/sssaj1988.03615995005200060007x
+   Currie WS, 1996, BIOGEOCHEMISTRY, V35, P471, DOI 10.1007/BF02183037
+   Davidson EA, 1998, GLOBAL CHANGE BIOL, V4, P217, DOI 10.1046/j.1365-2486.1998.00128.x
+   DAVIDSON EA, 1995, TELLUS B, V47, P550, DOI 10.1034/j.1600-0889.47.issue5.3.x
+   de Jong E, 1972, SOIL SCI, V113, P28
+   FAHEY TJ, 1994, J ECOL, V82, P533, DOI 10.2307/2261262
+   FERNANDEZ IJ, 1993, CAN J SOIL SCI, V73, P317, DOI 10.4141/cjss93-034
+   FOSTER DR, 1992, J ECOL, V80, P753, DOI 10.2307/2260864
+   Fung I, 1997, GLOBAL BIOGEOCHEM CY, V11, P507, DOI 10.1029/97GB01751
+   Goulden ML, 1996, GLOBAL CHANGE BIOL, V2, P169, DOI 10.1111/j.1365-2486.1996.tb00070.x
+   Hamburg SP, 1984, FOREST SOILS AND TREATMENT IMPACTS. PROCEEDINGS, V0, P145
+   HARDEN JW, 1992, SCIENCE, V258, P1921, DOI 10.1126/science.258.5090.1921
+   HENDRICK RL, 1992, ECOLOGY, V73, P1094, DOI 10.2307/1940183
+   HENDRICK RL, 1993, CAN J FOREST RES, V23, P2507, DOI 10.1139/x93-312
+   HENDRY MJ, 1993, WATER RESOUR RES, V29, P973, DOI 10.1029/92WR02847
+   HORWATH WR, 1994, TREE PHYSIOL, V14, P1163, DOI 10.1093/treephys/14.10.1163
+   HUNTINGTON TG, 1989, SOIL SCI, V148, P380, DOI 10.1097/00010694-198911000-00009
+   HUNTINGTON TG, 1988, SOIL SCI SOC AM J, V52, P1162, DOI 10.2136/sssaj1988.03615995005200040049x
+   JOHNSON D, 1994, PLANT SOIL, V165, P129, DOI 10.1007/BF00009969
+   Johnson DW, 1998, ADV SOIL SCI-SER, V0, PP351, DOI 10.17660/ActaHortic.1998.464.53
+   Levin I, 1997, RADIOCARBON, V39, P205, DOI 10.1017/S0033822200052012
+   MCCLAUGHERTY CA, 1982, ECOLOGY, V63, P1481, DOI 10.2307/1938874
+   MILLINGTON R, 1961, T FARADAY SOC, V57, P1200, DOI 10.1039/tf9615701200
+   Schimel DS, 1997, P NATL ACAD SCI USA, V94, P8280, DOI 10.1073/pnas.94.16.8280
+   SCHLESINGER WH, 1990, NATURE, V348, P232, DOI 10.1038/348232a0
+   Simard SW, 1997, NATURE, V388, P579, DOI 10.1038/41557
+   SOUTHON JR, 1992, RADIOCARBON, V34, P473, DOI 10.1017/S0033822200063712
+   STUIVER M, 1977, RADIOCARBON, V19, P355, DOI 10.1017/S0033822200003672
+   Thompson MV, 1996, GLOBAL BIOGEOCHEM CY, V10, P711, DOI 10.1029/96GB01667
+   Thompson MV, 1999, GLOBAL CHANGE BIOL, V5, P371, DOI 10.1046/j.1365-2486.1999.00235.x
+   TRUMBORE SE, 1995, GLOBAL BIOGEOCHEM CY, V9, P515, DOI 10.1029/95GB02148
+   VOGEL JS, 1992, RADIOCARBON, V34, P344, DOI 10.1017/S0033822200063529
+   VOGT KA, 1986, ADV ECOL RES, V15, P303, DOI 10.1016/S0065-2504(08)60122-1
+   WOFSY SC, 1993, SCIENCE, V260, P1314, DOI 10.1126/science.260.5112.1314
+NR 41
+TC 491
+Z9 592
+U1 3
+U2 312
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0168-2563
+EI 1573-515X
+J9 BIOGEOCHEMISTRY
+JI Biogeochemistry
+PD OCT 15
+PY 2000
+VL 51
+IS 1
+BP 33
+EP 69
+DI 10.1023/A:1006301010014
+PG 37
+WC Environmental Sciences; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA 332LB
+UT WOS:000088074800002
+DA 2025-11-03
+ER
+
+PT J
+AU Thomas, SM
+   Cook, FJ
+   Whitehead, D
+   Adams, JA
+AF Thomas, SM
+   Cook, FJ
+   Whitehead, D
+   Adams, JA
+TI Seasonal soil-surface carbon fluxes from the root systems of young Pinus radiata trees growing at ambient and elevated CO2 concentration
+SO GLOBAL CHANGE BIOLOGY
+LA English
+DT Article
+DE elevated CO2 concentration; fine roots; Pinus radiata; soil CO2 flux
+ID atmospheric co2; fine-root; dioxide concentration; n fertilization; ponderosa pine; douglas-fir; respiration; nitrogen; temperature; forests
+AB Elevated atmospheric CO2 concentration may result in increased below-ground carbon allocation by trees, thereby altering soil carbon cycling. Seasonal estimates of soil surface carbon flux were made to determine whether carbon losses from Pinus radiata trees growing at elevated CO2 concentration were higher than those at ambient CO2 concentration, and whether this was related to increased fine root growth. Monthly soil surface carbon flux density (f) measurements were made on plots with trees growing at ambient (350) and elevated (650 mu mol mol(-1)) CO2 concentration in large open-top chambers. Prior to planting the soil carbon concentration (0.1%) and f (0.28 mu mol m(-2) s(-1) at 15 degrees C) were low. A function describing the radial pattern of f with distance from tree stems was used to estimate the annual carbon flux from tree plots. Seasonal estimates of fine root production were made from minirhizotrons and the radial distribution of roots compared with radial measurements of f. A one-dimensional gas diffusion model was used to estimate f from soil CO2 concentrations at four depths. For the second year of growth, the annual carbon flux from the plots was 1671 g y(-1) and 1895 g y(-1) at ambient and elevated CO2 concentrations, respectively, although this was not a significant difference. Higher f at elevated CO2 concentration was largely explained by increased fine root biomass. Fine root biomass and stem production were both positively related to f. Both root length density and f declined exponentially with distance from the stem, and had similar length scales. Diurnal changes in f were largely explained by changes in soil temperature at a depth of 0.05 m. Ignoring the change of f with increasing distance from tree stems when scaling to a unit ground area basis from measurements with individual trees could result in under- or overestimates of soil-surface carbon fluxes, especially in young stands when fine roots are unevenly distributed.
+C1 Lincoln Univ, Soil & Phys Sci Grp, Soil Plant & Ecol Sci Div, Canterbury, New Zealand.
+   CSIRO Land & Water, CQDNR, Indooroopilly, Qld 4074, Australia.
+   Landcare Res, Lincoln 8152, New Zealand.
+   New Zealand Forest Res Inst, Christchurch, New Zealand.
+C3 Lincoln University - New Zealand; Commonwealth Scientific & Industrial Research Organisation (CSIRO); CSIRO Land & Water; Landcare Research - New Zealand; Scion
+RP Thomas, SM (corresponding author), New Zealand Inst Crop & Food Res Ltd, Private Bag 4704, Christchurch, New Zealand.
+EM thomass@crop.cri.nz
+CR AMUNDSON RG, 1990, J GEOCHEM EXPLOR, V38, P13, DOI 10.1016/0375-6742(90)90091-N
+   BENASHER J, 1994, SOIL SCI SOC AM J, V58, P926, DOI 10.2136/sssaj1994.03615995005800030040x
+   BENASHER J, 1994, SOIL SCI SOC AM J, V58, P930, DOI 10.2136/sssaj1994.03615995005800030041x
+   Berntson GM, 1997, PLANT SOIL, V190, P211, DOI 10.1023/A:1004222131516
+   Bouma TJ, 1997, PLANT CELL ENVIRON, V20, P1495, DOI 10.1046/j.1365-3040.1997.d01-52.x
+   Burton AJ, 1997, TREE PHYSIOL, V17, P421
+   Canadell JG, 1996, PLANT SOIL, V187, P391, DOI 10.1007/BF00017102
+   CEULEMANS R, 1994, NEW PHYTOL, V127, P425, DOI 10.1111/j.1469-8137.1994.tb03961.x
+   Cook FJ, 1998, ECOL MODEL, V109, P155, DOI 10.1016/S0304-3800(98)00034-9
+   CURTIS PS, 1994, PLANT SOIL, V165, P1, DOI 10.1007/BF00009957
+   Davidson EA, 1998, GLOBAL CHANGE BIOL, V4, P217, DOI 10.1046/j.1365-2486.1998.00128.x
+   DAVIES H, 1992, ACTA HORTIC, V319, P279
+   DOSSKEY MG, 1990, NEW PHYTOL, V115, P269, DOI 10.1111/j.1469-8137.1990.tb00452.x
+   EAMUS D, 1989, ADV ECOL RES, V19, P1
+   EWEL KC, 1987, CAN J FOREST RES, V17, P325, DOI 10.1139/x87-054
+   Fitter AH, 1996, PLANT SOIL, V187, P299, DOI 10.1007/BF00017095
+   GORDON AM, 1987, CAN J FOREST RES, V17, P304, DOI 10.1139/x87-051
+   HAYNES BE, 1995, TREE PHYSIOL, V15, P317, DOI 10.1093/treephys/15.5.317
+   Hungate BA, 1997, NATURE, V388, P576, DOI 10.1038/41550
+   JOHNSON D, 1994, PLANT SOIL, V165, P129, DOI 10.1007/BF00009969
+   Jong EDe, 1972, SOIL SCIENCE, V113, P328, DOI 10.1097/00010694-197205000-00006
+   KORNER C, 1992, SCIENCE, V257, P1672, DOI 10.1126/science.257.5077.1672
+   Landsberg JJ, 1997, FOREST ECOL MANAG, V95, P209, DOI 10.1016/S0378-1127(97)00026-1
+   LLOYD J, 1994, FUNCT ECOL, V8, P315, DOI 10.2307/2389824
+   *NZ SOIL BUR, 1974, SOILS CHRISTCHURCH R, V0, P0
+   PAJARI B, 1995, PLANT SOIL, V168, P563, DOI 10.1007/BF00029369
+   PREGITZER KS, 1995, NEW PHYTOL, V129, P579, DOI 10.1111/j.1469-8137.1995.tb03025.x
+   QI JE, 1994, NEW PHYTOL, V128, P435, DOI 10.1111/j.1469-8137.1994.tb02989.x
+   RAICH JW, 1992, TELLUS B, V44, P81, DOI 10.1034/j.1600-0889.1992.t01-1-00001.x
+   ROUSSEAU JVD, 1990, FOREST SCI, V36, P101
+   Ryan MG, 1996, TREE PHYSIOL, V16, P333
+   RYGIEWICZ PT, 1994, NATURE, V369, P58, DOI 10.1038/369058a0
+   Smith SE, 1997, MYCORRHIZAL SYMBIOSI, V0, P0
+   SODERSTROM B, 1987, SOIL BIOL BIOCHEM, V19, P231, DOI 10.1016/0038-0717(87)90002-2
+   Soil Survey Staff, 1990, KEYS SOIL TAX, V0, P0
+   Tate KR, 1997, GLOBAL CHANGE BIOL, V3, P225, DOI 10.1046/j.1365-2486.1997.00094.x
+   Thomas SM, 1996, TREE PHYSIOL, V16, P1015
+   Thomas SM, 1999, GLOBAL CHANGE BIOL, V5, P107, DOI 10.1046/j.1365-2486.1998.00210.x
+   Tingey DT, 1997, ENVIRON EXP BOT, V37, P73, DOI 10.1016/S0098-8472(97)00003-8
+   UPCHURCH DR, 1983, AGRON J, V75, P1009, DOI 10.2134/agronj1983.00021962007500060033x
+   VANVEEN JA, 1991, ECOL APPL, V1, P175, DOI 10.2307/1941810
+   Vose JM, 1997, PLANT SOIL, V190, P19, DOI 10.1023/A:1004204129128
+   Whitehead D, 1995, J BIOGEOGR, V22, P307, DOI 10.2307/2845925
+   Zogg GP, 1996, TREE PHYSIOL, V16, P719, DOI 10.1093/treephys/16.8.719
+NR 44
+TC 12
+Z9 18
+U1 4
+U2 34
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1354-1013
+EI 1365-2486
+J9 GLOBAL CHANGE BIOL
+JI Glob. Change Biol.
+PD APR 15
+PY 2000
+VL 6
+IS 4
+BP 393
+EP 406
+DI 10.1046/j.1365-2486.2000.00321.x
+PG 14
+WC Biodiversity Conservation; Ecology; Environmental Sciences
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA 320VD
+UT WOS:000087420300003
+DA 2025-11-03
+ER
+

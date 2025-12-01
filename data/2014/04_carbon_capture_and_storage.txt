@@ -1,0 +1,262 @@
+PT J
+AU Fernandez, M
+   Boyd, PG
+   Daff, TD
+   Aghaji, MZ
+   Woo, TK
+AF Fernandez, Michael
+   Boyd, Peter G.
+   Daff, Thomas D.
+   Aghaji, Mohammad Zein
+   Woo, Tom K.
+TI Rapid and Accurate Machine Learning Recognition of High Performing Metal Organic Frameworks for CO2 Capture
+SO JOURNAL OF PHYSICAL CHEMISTRY LETTERS
+LA English
+DT Article
+ID methane storage; adsorption; networks; selectivity
+AB In this work, we have developed quantitative structure-property relationship (QSPR) models using advanced machine learning algorithms that can rapidly and accurately recognize high-performing metal organic framework (MOF) materials for CO2 capture. More specifically, QSPR classifiers have been developed that can, in a fraction of a section, identify candidate MOFs with enhanced CO2 adsorption capacity (>1 mmol/g at 0.15 bar and >4 mmol/g at 1 bar). The models were tested on a large set of 292 050 MOFs that were not part of the training set. The QSPR classifier could recover 945 of the top 1000 MOFs in the test set while flagging only 10% of the whole library for compute intensive screening. Thus, using the machine learning classifiers as part of a high-throughput screening protocol would result in an order of magnitude reduction in compute time and allow intractably large structure libraries and search spaces to be screened.
+C1 [Fernandez, Michael; Boyd, Peter G.; Daff, Thomas D.; Aghaji, Mohammad Zein; Woo, Tom K.] Univ Ottawa, Dept Chem, Ctr Catalysis Res & Innovat, Ottawa, ON K1N 6N5, Canada.
+C3 University of Ottawa
+RP Woo, TK (corresponding author), Univ Ottawa, Dept Chem, Ctr Catalysis Res & Innovat, 10 Marie Curie Private, Ottawa, ON K1N 6N5, Canada.
+EM twoo@uottawa.ca
+FU NSERC of Canada; Carbon Management Canada; Canada Research Chairs Program
+CR Campañá C, 2009, J CHEM THEORY COMPUT, V5, P2866, DOI 10.1021/ct9003405
+   Chen BL, 2010, ACCOUNTS CHEM RES, V43, P1115, DOI 10.1021/ar100023y
+   Colón YJ, 2014, CHEM SOC REV, V43, P5735, DOI 10.1039/c4cs00070f
+   Corma A, 2010, CHEM REV, V110, P4606, DOI 10.1021/cr9003924
+   CORTES C, 1995, MACH LEARN, V20, P273, DOI 10.1007/BF00994018
+   Deng HX, 2010, SCIENCE, V327, P846, DOI 10.1126/science.1181761
+   Düren T, 2009, CHEM SOC REV, V38, P1237, DOI 10.1039/b803498m
+   Evans OR, 2002, ACCOUNTS CHEM RES, V35, P511, DOI 10.1021/ar0001012
+   Farha OK, 2010, NAT CHEM, V2, P944, DOI 10.1038/nchem.834
+   Fernandez M, 2013, J PHYS CHEM C, V117, P14095, DOI 10.1021/jp404287t
+   Fernandez M, 2013, J PHYS CHEM C, V117, P7681, DOI 10.1021/jp4006422
+   Henke S, 2010, CHEM-EUR J, V16, P14296, DOI 10.1002/chem.201002341
+   Horcajada P, 2012, CHEM REV, V112, P1232, DOI 10.1021/cr200256v
+   Kadantsev ES, 2013, J PHYS CHEM LETT, V4, P3056, DOI 10.1021/jz401479k
+   Kent CA, 2010, J AM CHEM SOC, V132, P12767, DOI 10.1021/ja102804s
+   Lee J, 2009, CHEM SOC REV, V38, P1450, DOI 10.1039/b807080f
+   Li JR, 2009, CHEM SOC REV, V38, P1477, DOI 10.1039/b802426j
+   Ma LQ, 2009, CHEM SOC REV, V38, P1248, DOI 10.1039/b807083k
+   Martin RL, 2014, J AM CHEM SOC, V136, P5006, DOI 10.1021/ja4123939
+   Pophale R, 2011, PHYS CHEM CHEM PHYS, V13, P12407, DOI 10.1039/c0cp02255a
+   Smit B, 2008, CHEM REV, V108, P4125, DOI 10.1021/cr8002642
+   Suh MP, 2012, CHEM REV, V112, P782, DOI 10.1021/cr200274s
+   Tafipolsky M, 2010, MICROPOR MESOPOR MAT, V129, P304, DOI 10.1016/j.micromeso.2009.07.006
+   Vaidhyanathan R, 2010, SCIENCE, V330, P650, DOI 10.1126/science.1194237
+   Wilmer CE, 2012, ENERG ENVIRON SCI, V5, P9849, DOI 10.1039/c2ee23201d
+   Wilmer CE, 2012, J PHYS CHEM LETT, V3, P2506, DOI 10.1021/jz3008485
+   Wilmer CE, 2012, NAT CHEM, V4, P83, DOI 10.1038/NCHEM.1192
+   Xie ZG, 2010, J AM CHEM SOC, V132, P922, DOI 10.1021/ja909629f
+NR 28
+TC 262
+Z9 282
+U1 10
+U2 353
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1948-7185
+EI 
+J9 J PHYS CHEM LETT
+JI J. Phys. Chem. Lett.
+PD SEP 4
+PY 2014
+VL 5
+IS 17
+BP 3056
+EP 3060
+DI 10.1021/jz501331m
+PG 5
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science, Multidisciplinary; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Science & Technology - Other Topics; Materials Science; Physics
+GA AO4UR
+UT WOS:000341337400024
+PM 26278259
+DA 2025-11-05
+ER
+
+PT J
+AU Li, W
+   Zhu, JT
+   Cheng, YP
+   Lu, SQ
+AF Li, Wei
+   Zhu, Jin-tuo
+   Cheng, Yuan-ping
+   Lu, Shou-qing
+TI Evaluation of coal swelling-controlled CO2 diffusion processes
+SO GREENHOUSE GASES-SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE carbon dioxide; desorption; diffusion; swelling
+ID adsorption-induced coal; argonne premium coals; carbon-dioxide; macromolecular structure; sorption capacity; gas-diffusion; methane; permeability; transport; moisture
+AB CO2 sequestration in deep and unmineable coalbeds is regarded as a viable option for carbon storage. CO2 diffusion is a key parameter determining the effectiveness of sealing CO2 in coal seams. By conducting laboratory tests of coal CO2 desorption and unsteady gas diffusion theory model calculations, the desorption dynamics of Yaojie coal were studied under the condition of constant temperature and varied balance pressures, and the CO2 diffusion coefficient was obtained using the non-steady diffusion model at different times. The results show that the higher the balance pressure is, the greater the diffusion coefficient is under the same conditions. As the pressure drops, the CO2 diffusion coefficient gradually decreases as time increases, and the mass fraction of desorbed CO2 has a linear relationship with the diffusion coefficient. It was observed that under high pressures, the diffusion coefficient initially increases and then gradually decreases. The non-steady CO2 diffusion in Yaojie coal is related to CO2-induced swelling and to the effect of dissolved CO2 on the coal's structures and properties, especially under high-pressure conditions. The glass transition of coal containing CO2 may be the governing factor leading to the nonlinear diffusion of CO2 in coal.
+C1 [Li, Wei; Zhu, Jin-tuo; Lu, Shou-qing] China Univ Min & Technol, Xuzhou 221116, Peoples R China.
+   [Li, Wei] Key Lab Coal Based CO2 Capture & Geol Storage, Xuzhou, Jiangsu, Peoples R China.
+   [Cheng, Yuan-ping] China Univ Min & Technol, Natl Engn Res Ctr Coal & Gas Control, Xuzhou 221116, Peoples R China.
+C3 China University of Mining & Technology; China University of Mining & Technology
+RP Cheng, YP (corresponding author), China Univ Min & Technol, Fac Safety Engn, Xuzhou 221116, Peoples R China.
+EM ypchengcumt@126.com
+FU Natural Science Foundation for the Youth of China [41202118]; Fundamental Research Funds for the Central Universities [2012QNB03]; The Key Laboratory of Coal-based CO2 Capture and Geological Storage, Jiangsu Province [2011KF04]
+CR Busch A, 2003, INT J COAL GEOL, V55, P205, DOI 10.1016/S0166-5162(03)00113-7
+   Busch A, 2011, INT J COAL GEOL, V87, P49, DOI 10.1016/j.coal.2011.04.011
+   Cui XJ, 2004, FUEL, V83, P293, DOI 10.1016/j.fuel.2003.09.001
+   Day S, 2008, INT J COAL GEOL, V74, P41, DOI 10.1016/j.coal.2007.09.006
+   Fitzgerald JE, 2005, FUEL, V84, P2351, DOI 10.1016/j.fuel.2005.05.002
+   Goodman AL, 2007, INT J COAL GEOL, V72, P153, DOI 10.1016/j.coal.2007.01.005
+   Goodman AL, 2006, ENERG FUEL, V20, P2537, DOI 10.1021/ef060188t
+   GOVINDJEE S, 1993, J MECH PHYS SOLIDS, V41, P863, DOI 10.1016/0022-5096(93)90003-X
+   He XQ, 2001, J CHINA U MINING TEC, V30, P1
+   Jasinge D, 2012, ENERGY, V39, P303, DOI 10.1016/j.energy.2012.01.010
+   Jian X, 2012, SCI CHINA EARTH SCI, V55, P633, DOI 10.1007/s11430-011-4272-4
+   Larsen JW, 2004, INT J COAL GEOL, V57, P63, DOI 10.1016/j.coal.2003.08.001
+   Li KS, 2001, POLY MAT SCI ENG, V17, P19
+   MACKINNON AJ, 1995, ENERG FUEL, V9, P25, DOI 10.1021/ef00049a004
+   Mastalerz M, 2012, ENERG FUEL, V26, P3586, DOI 10.1021/ef3003813
+   Mathews JP, 2011, FUEL PROCESS TECHNOL, V92, P718, DOI 10.1016/j.fuproc.2010.05.037
+   Mazumder S, 2011, SPE J, V16, P856, DOI 10.2118/109506-PA
+   Mirzaeian M, 2006, ENERG FUEL, V20, P2022, DOI 10.1021/ef060040+
+   Pan ZJ, 2007, INT J COAL GEOL, V69, P243, DOI 10.1016/j.coal.2006.04.006
+   Pan ZJ, 2010, FUEL, V89, P3207, DOI 10.1016/j.fuel.2010.05.038
+   Peppas NA, 1997, POLYMER, V38, P3425, DOI 10.1016/S0032-3861(97)00031-1
+   Perera MSA, 2011, ENERGY, V36, P6442, DOI 10.1016/j.energy.2011.09.023
+   RITGER PL, 1987, FUEL, V66, P815, DOI 10.1016/0016-2361(87)90130-X
+   Romanov V, 2006, CHEM ENG TECHNOL, V29, P368, DOI 10.1002/ceat.200500242
+   Romanov VN, 2006, ENERG FUEL, V20, P415, DOI 10.1021/ef050318i
+   Romanov V, 2007, ENERG FUEL, V21, P1646, DOI 10.1021/ef060476p
+   Sakurovs R, 2009, INT J COAL GEOL, V77, P16, DOI 10.1016/j.coal.2008.07.001
+   Shi JQ, 2003, FUEL, V82, P1219, DOI 10.1016/S0016-2361(03)00010-3
+   Suuberg EM, 1997, ENERG FUEL, V11, P1103, DOI 10.1021/ef970004y
+   Taylor GH, 1998, ORGANIC PETROLOGY NE, V0, P0
+   Wei XR, 2007, CHEM ENG SCI, V62, P4193, DOI 10.1016/j.ces.2007.04.032
+   [张登峰 Zhang Dengfeng], 2011, 煤炭学报 JOURNAL OF CHINA COAL SOCIETY, V36, P1693
+NR 32
+TC 12
+Z9 12
+U1 3
+U2 87
+PU WILEY PERIODICALS, INC
+PI SAN FRANCISCO
+PA ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, CA 94104 USA
+SN 2152-3878
+EI 
+J9 GREENH GASES
+JI Greenh. Gases
+PD FEB 15
+PY 2014
+VL 4
+IS 1
+BP 131
+EP 139
+DI 10.1002/ghg.1390
+PG 9
+WC Energy & Fuels; Engineering, Environmental; Environmental Sciences
+SC Energy & Fuels; Engineering; Environmental Sciences & Ecology
+GA AB7GS
+UT WOS:000331958300011
+DA 2025-11-05
+ER
+
+PT J
+AU Nasri, NS
+   Hamza, UD
+   Ismail, SN
+   Ahmed, MM
+   Mohsin, R
+AF Nasri, Noor S.
+   Hamza, Usman D.
+   Ismail, Siti N.
+   Ahmed, Murtala M.
+   Mohsin, Rahmat
+TI Assessment of porous carbons derived from sustainable palm solid waste for carbon dioxide capture
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+ID activated carbon; shell; oil; co2; adsorption; porosity; coconut; carbonization; enhancement; kinetics
+AB Potentials of solid agro-wastes from palm processing mills (palm kernel) for producing low cost porous carbons were investigated. The study deals with the use of palm kernel shell based porous carbons as adsorbents for CO2 capture. Carbonization of the palm kernel shell (PKS) was carried out at 700 degrees C followed by CO2 activation. The porous carbons were characterized using Fourier transform infrared spectroscopy (FTIR), thermogravimetric and derivative thermogravimetric (TG/DTA) analysis, scanning electron microscopy (SEM), proximate analysis, ultimate analysis and nitrogen adsorption tests. The adsorption equilibrium of CO2 on palm kernel shell activated carbon was measured using a static volumetric technique. Adsorption of CO2 on the porous carbons was conducted at 30 degrees C for pressures up to 4 bars. The equilibrium data were simulated using the Freundlich and Langmuir isotherms, with both models having R-2 > 0.98. The experimental kinetic data was fitted to the pseudo-first-order, pseudo-second-order and Elovich equations, while the adsorption mechanism was evaluated using the Webber-Moris intra-particle diffusion model. Higher CO2 uptake of 7.32 mmol/g was obtained for PAC (palm kernel activated carbon) at 30 degrees C and 4 bars. PAC adsorbed 23.52 kg CO2/t PKS. The findings revealed the potential of palm shell as a viable and sustainable biomass for preparation of activated carbon for gas adsorption applications. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Nasri, Noor S.; Hamza, Usman D.; Ahmed, Murtala M.; Mohsin, Rahmat] Univ Teknol Malaysia, UTM MPRC Oil & Gas Inst, Sustainabil Waste To Wealth Unit, Utm Johor Bahru 81310, Johor, Malaysia.
+   [Hamza, Usman D.] Abubakar Tafawa Balewa Univ, Chem Engn Programme, Bauchi, Nigeria.
+   [Hamza, Usman D.] Univ Teknol Malaysia, Fac Chem Engn, Dept Chem Engn, Utm Johor Bahru 81310, Johor, Malaysia.
+   [Ismail, Siti N.] Univ Malaysia Pahang, Gas Engn Dept, Gambang Kuantan 26300, Pahang, Malaysia.
+   [Ahmed, Murtala M.] Univ Maiduguri, Fac Engn, Dept Chem Engn, Maiduguri, Borno, Nigeria.
+   [Nasri, Noor S.; Ahmed, Murtala M.; Mohsin, Rahmat] Univ Teknol Malaysia, Fac Petr & Renewable Energy Engn, Utm Johor Bahru, Johor, Malaysia.
+C3 Universiti Teknologi Malaysia; Universiti Teknologi Malaysia; Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA); Universiti Teknologi Malaysia
+RP Nasri, NS (corresponding author), Univ Teknol Malaysia, UTM MPRC Oil & Gas Inst, Sustainabil Waste To Wealth Unit, Utm Johor Bahru 81310, Johor, Malaysia.
+EM noorshaw@petroleum.utm.my
+FU Ministry of Higher Education (MOHE), Malaysia through the Fundamental Research Grant Scheme (FRGS) [J1300007837.4F096]; University Research Grant (URG) - Universiti Teknologi Malaysia, Johor Bahru Johor [Q.J130000.2542.00H91]
+CR Al-Hajjaj A, 2011, INT J HYDROGEN ENERG, V36, P14464, DOI 10.1016/j.ijhydene.2011.07.110
+   Aroua MK, 2008, SEP PURIF TECHNOL, V62, P609, DOI 10.1016/j.seppur.2008.03.003
+   Boonpoke1 A, 2011, JOURNAL OF SUSTAINABLE ENERGY ENVIRONMENT, V2, P77, DOI 10.1016/J.BEJ.2006.06.007
+   Chen Y, 2012, ENVIRON PROG SUSTAIN, V31, P585, DOI 10.1002/ep.10584
+   Choi S, 2009, CHEMSUSCHEM, V2, P796, DOI 10.1002/cssc.200900036
+   Daud WMAW, 2004, BIORESOURCE TECHNOL, V93, P63, DOI 10.1016/j.biortech.2003.09.015
+   Deguchi H, 2011, INT J GREENH GAS CON, V5, P1533, DOI 10.1016/j.ijggc.2011.08.010
+   Etim UJ, 2012, J. SAUDI CHEM. SOC, V0, P0
+   Fatemi S, 2011, CHEM ENG RES DES, V89, P1669, DOI 10.1016/j.cherd.2010.10.002
+   Foo KY, 2012, CHEM ENG J, V187, P53, DOI 10.1016/j.cej.2012.01.079
+   Germer J, 2008, ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY, V10, P697, DOI 10.1007/s10668-006-9080-1
+   Guo J, 2008, J POROUS MAT, V15, P535, DOI 10.1007/s10934-007-9129-z
+   Hu ZH, 2001, CARBON, V39, P877, DOI 10.1016/S0008-6223(00)00198-6
+   Hussain Z, 2000, BIOMASS BIOENERG, V22, P505
+   Inagaki M, 2009, NEW CARBON MATER, V24, P193, DOI 10.1016/S1872-5805(08)60048-7
+   Kalam MA, 2002, BIOMASS BIOENERG, V23, P471, DOI 10.1016/S0961-9534(02)00085-5
+   Kaouah F, 2013, J CLEAN PROD, V54, P296, DOI 10.1016/j.jclepro.2013.04.038
+   KIKKINIDES ES, 1993, IND ENG CHEM RES, V32, P2714, DOI 10.1021/ie00023a038
+   Kim BJ, 2010, J COLLOID INTERF SCI, V342, P575, DOI 10.1016/j.jcis.2009.10.045
+   Lee CS, 2013, CHEM ENG J, V0, P0
+   Li W, 2008, IND CROP PROD, V28, P190, DOI 10.1016/j.indcrop.2008.02.012
+   Liu Y, 2012, J CLEAN PROD, V32, P204, DOI 10.1016/j.jclepro.2012.03.021
+   Lua AC, 2001, COLLOID SURFACE A, V179, P151, DOI 10.1016/S0927-7757(00)00651-8
+   Luo JJ, 2011, J CHEM ENG DATA, V56, P4919, DOI 10.1021/je200834p
+   Mohammed MAA, 2012, BIORESOURCE TECHNOL, V110, P628, DOI 10.1016/j.biortech.2012.01.056
+   Nieto-Delgado C, 2011, BIOMASS BIOENERG, V35, P103, DOI 10.1016/j.biombioe.2010.08.025
+   Ntuli V, 2013, S AFR J SCI, V109, P64, DOI 10.1590/sajs.2013/1077
+   Omar R, 2011, FUEL, V90, P1536, DOI 10.1016/j.fuel.2011.01.023
+   Plaza MG, 2010, APPL SURF SCI, V256, P6843, DOI 10.1016/j.apsusc.2010.04.099
+   Przepiórski J, 2004, APPL SURF SCI, V225, P235, DOI 10.1016/j.apsusc.2003.10.006
+   Qin YP, 2012, INT J MIN SCI TECHNO, V22, P763, DOI 10.1016/j.ijmst.2012.11.010
+   Qiu H, 2009, J ZHEJIANG UNIV-SC A, V10, P716, DOI 10.1631/jzus.A0820524
+   Razuan R, 2010, BIORESOURCE TECHNOL, V101, P4622, DOI 10.1016/j.biortech.2010.01.079
+   Reijnders L, 2008, J CLEAN PROD, V16, P477, DOI 10.1016/j.jclepro.2006.07.054
+   Sevilla M, 2011, ENERG ENVIRON SCI, V4, P1765, DOI 10.1039/c0ee00784f
+   Shafeeyan MS, 2011, APPL SURF SCI, V257, P3936, DOI 10.1016/j.apsusc.2010.11.127
+   Shafeeyan MS, 2010, J ANAL APPL PYROL, V89, P143, DOI 10.1016/j.jaap.2010.07.006
+   Sukiran M, 2008, THESIS U MALAYA MALA, V0, P0
+   Sumathi S, 2010, CHEM ENG J, V162, P194, DOI 10.1016/j.cej.2010.05.028
+   Tan IAW, 2008, COLLOID SURFACE A, V318, P88, DOI 10.1016/j.colsurfa.2007.12.018
+   Tanyildizi MS, 2011, CHEM ENG J, V168, P1234, DOI 10.1016/j.cej.2011.02.021
+   Toro-Molina C, 2012, J CLEAN PROD, V34, P110, DOI 10.1016/j.jclepro.2011.11.051
+   Tsamba AJ, 2006, FUEL PROCESS TECHNOL, V87, P523, DOI 10.1016/j.fuproc.2005.12.002
+   Wang QA, 2011, ENERG ENVIRON SCI, V4, P42, DOI 10.1039/c0ee00064g
+   Xu B, 2010, MATER CHEM PHYS, V124, P504, DOI 10.1016/j.matchemphys.2010.07.002
+   Yagmur E, 2012, J POROUS MAT, V19, P995, DOI 10.1007/s10934-011-9557-7
+   Yun CH, 2001, CARBON, V39, P559, DOI 10.1016/S0008-6223(00)00163-9
+   Yusoff S, 2006, J CLEAN PROD, V14, P87, DOI 10.1016/j.jclepro.2004.07.005
+NR 48
+TC 114
+Z9 130
+U1 3
+U2 85
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD MAY 15
+PY 2014
+VL 71
+IS 
+BP 148
+EP 157
+DI 10.1016/j.jclepro.2013.11.053
+PG 10
+WC Green & Sustainable Science & Technology; Engineering, Environmental; Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences & Ecology
+GA AI3OD
+UT WOS:000336770900015
+DA 2025-11-05
+ER
+

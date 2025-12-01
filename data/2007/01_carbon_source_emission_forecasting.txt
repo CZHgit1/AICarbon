@@ -1,0 +1,94 @@
+PT J
+AU Weeks, EP
+   McMahon, PB
+AF Weeks, Edwin P.
+   McMahon, Peter B.
+TI Nitrous oxide fluxes from cultivated areas and rangeland: U.S. High Plains
+SO VADOSE ZONE JOURNAL
+LA English
+DT Article
+ID colorado shortgrass steppe; global n2o budget; unsaturated zone; vadose zone; sulfur-hexafluoride; diffusion; water; solubility; emissions; transport
+AB Concentration profiles of N(2)O, a greenhouse gas, and the conservative trace gases SF(6) and the chlorofluorocarbons CFC-11, CFC-12, CFC-113, and were measured periodically through thick vadose zones at nine sites in the U. S. High Plains. The CFC and SF(6) measurements were used to calibrate a one-dimensional gas diffusion model, using the parameter identification program UCODE. The calibrated model was used with N(2)O measurements to estimate average annual N(2)O flux from both the root zone and the deep vadose zone to the atmosphere. Estimates of root-zone N(2)O fluxes from three rangeland sites ranged from near 0 to about 0.2 kg N(2)O-N ha(-1) yr(-1), values near the low end of the ranges determined for native grass from other studies. Estimates of root-zone N(2)O fluxes from two fields planted to corn (Zea mays L.) of about 2 to 6 kg N(2)O-N ha(-1) yr(-1) are similar to those determined for corn in other studies. Estimates of N(2)O flux from Conservation Reserve grassland converted from irrigated corn indicate that production of N(2)O is substantially reduced following conversion from cropland. Small N(2)O fluxes from the water table or from deep in the vadose zone occurred at three sites, ranging from 0.004 to 0.02 kg N(2)O-N ha(-1) yr(-) (1). Our estimates of N(2)O flux represent space-and time-averaged values that should be useful to more fully evaluate the significance of instantaneous point flux measurements.
+C1 US Geol Survey, Lakewood, CO 80225 USA.
+C3 United States Department of the Interior; United States Geological Survey
+RP Weeks, EP (corresponding author), US Geol Survey, Box 25046,MS 413, Lakewood, CO 80225 USA.
+EM epweeks@usgs.gov
+CR Unknown -, 1976, HANDBOOK OF CHEMISTRY AND PHYSICS, V0, P0
+   Bird BR, 1960, TRANSPORT PHENOMENA, V1, P0
+   BOWDEN WB, 1992, BIOGEOCHEMISTRY, V18, P77, DOI 10.1007/BF00002704
+   BOWDEN WB, 1986, BIOGEOCHEMISTRY, V2, P249, DOI 10.1007/BF02180161
+   BROWN JD, 1980, THESIS U ARIZONA TUC, V0, P0
+   BU X, 1995, DEEP-SEA RES PT I, V42, P1151, DOI 10.1016/0967-0637(95)00052-8
+   Bullister JL, 2002, DEEP-SEA RES PT I, V49, P175, DOI 10.1016/S0967-0637(01)00051-6
+   BUSENBERG E, 1992, WATER RESOUR RES, V28, P2257, DOI 10.1029/92WR01263
+   Busenberg E, 2000, WATER RESOUR RES, V36, P3011, DOI 10.1029/2000WR900151
+   Busenberg E, 1993, 934054 USGS, V0, P0
+   Campbell GS, 1973, INTRO ENV BIOPHYSICS, V0, P0
+   CICERONE RJ, 1987, SCIENCE, V237, P35, DOI 10.1126/science.237.4810.35
+   COOK PG, 1995, WATER RESOUR RES, V31, P263, DOI 10.1029/94WR02232
+   COOK PG, 2000, ENV TRACERS HYDROLOG, V0, P0
+   EICHNER MJ, 1990, J ENVIRON QUAL, V19, P272, DOI 10.2134/jeq1990.00472425001900020013x
+   Engesgaard P, 2004, VADOSE ZONE J, V3, P1249
+   FIRESTONE MK, 1989, LIFE SCI R, V47, P7
+   GOODROAD LL, 1984, J ENVIRON QUAL, V13, P448, DOI 10.2134/jeq1984.00472425001300030024x
+   Healy RW, 1990, 904025 USGS, V0, P0
+   HILL MC, 1998, 984005 USGS, V0, P0
+   *INT AT EN AG, 2006, GUID US CHLOR HYDR I, V0, P0
+   Kroeze C, 1999, GLOBAL BIOGEOCHEM CY, V13, P1, DOI 10.1029/1998GB900020
+   LETEY J, 1981, SOIL SCI SOC AM J, V45, P727, DOI 10.2136/sssaj1981.03615995004500040010x
+   MASSMANN J, 1992, WATER RESOUR RES, V28, P777, DOI 10.1029/91WR02766
+   MATHEWS JF, 1972, CHEM REV, V72, P71, DOI 10.1021/cr60275a004
+   McMahon PB, 2006, WATER RESOUR RES, V42, P0, DOI 10.1029/2005WR004417
+   MCMAHON PB, 2003, 034171 USGS, V0, P0
+   Menyailo OV, 2006, GLOBAL BIOGEOCHEM CY, V20, P0, DOI 10.1029/2005GB002527
+   MILLINGTON RJ, 1959, SCIENCE, V130, P100, DOI 10.1126/science.130.3367.100-a
+   MONFORT JP, 1991, J CHEM ENG DATA, V36, P135, DOI 10.1021/je00002a001
+   Mosier AR, 1997, GLOBAL BIOGEOCHEM CY, V11, P29, DOI 10.1029/96GB03612
+   Mosier AR, 1996, GLOBAL BIOGEOCHEM CY, V10, P387, DOI 10.1029/96GB01454
+   Osaka K, 2006, J GEOPHYS RES-BIOGEO, V111, P0, DOI 10.1029/2005JG000026
+   PERRY JH, 1963, PERRYS CHEM ENG HB, V0, P0
+   Phillips FA, 2007, AGR FOREST METEOROL, V143, P92, DOI 10.1016/j.agrformet.2006.11.011
+   Poeter EP, 1998, DOCUMENTATION OF UCODE, V0, P0
+   *REST CHLOR LAB, 2007, AIR CURV, V0, P0
+   ROCHESTER IJ, 2001, AUST J SOIL RES, V31, P197
+   RONEN D, 1988, NATURE, V335, P57, DOI 10.1038/335057a0
+   Santella N, 2003, ENVIRON SCI TECHNOL, V37, P1069, DOI 10.1021/es0156993
+   Santella N, 2006, ENVIRON SCI TECHNOL, V40, P4414, DOI 10.1021/es052376o
+   Severinghaus JP, 1997, J GEOPHYS RES-ATMOS, V102, P16783, DOI 10.1029/97JD00525
+   SMITH KA, 1994, J GEOPHYS RES-ATMOS, V99, P16541, DOI 10.1029/94JD00619
+   Thornton FC, 1996, SOIL SCI SOC AM J, V60, P1127, DOI 10.2136/sssaj1996.03615995006000040024x
+   THORSTENSON DC, 1983, RADIOCARBON, V25, P315, DOI 10.1017/S0033822200005622
+   van Bochove E, 1998, SOIL SCI SOC AM J, V62, P1178, DOI 10.2136/sssaj1998.03615995006200050004x
+   VANBAVEL CHM, 1951, SOIL SCI, V72, P33, DOI 10.1097/00010694-195107000-00003
+   Walvoord MA, 2003, SCIENCE, V302, P1021, DOI 10.1126/science.1086435
+   WARNER M, 1985, J GEN MANAGE, V11, P12, DOI 10.1177/030630708501100202
+   WEEKS EP, 1982, WATER RESOUR RES, V18, P1365, DOI 10.1029/WR018i005p01365
+   WEISS RF, 1980, MAR CHEM, V8, P347, DOI 10.1016/0304-4203(80)90024-9
+   Werner D, 2004, VADOSE ZONE J, V3, P1240
+NR 52
+TC 4
+Z9 5
+U1 1
+U2 16
+PU SOIL SCI SOC AMER
+PI MADISON
+PA 677 SOUTH SEGOE ROAD, MADISON, WI 53711 USA
+SN 1539-1663
+EI 
+J9 VADOSE ZONE J
+JI Vadose Zone J.
+PD AUG 15
+PY 2007
+VL 6
+IS 3
+BP 496
+EP 510
+DI 10.2136/vzj2006.0164
+PG 15
+WC Environmental Sciences; Soil Science; Water Resources
+SC Environmental Sciences & Ecology; Agriculture; Water Resources
+GA 204AP
+UT WOS:000249015500007
+DA 2025-11-05
+ER
+

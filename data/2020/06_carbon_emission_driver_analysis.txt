@@ -1,0 +1,1951 @@
+PT J
+AU Froemelt, A
+   Buffat, R
+   Hellweg, S
+AF Froemelt, Andreas
+   Buffat, Rene
+   Hellweg, Stefanie
+TI Machine learning based modeling of households: A regionalized bottom-up approach to investigate consumption-induced environmental impacts
+SO JOURNAL OF INDUSTRIAL ECOLOGY
+LA English
+DT Article
+DE data mining; household consumption; industrial ecology; large-scale bottom-up model; machine learning; spatial analysis
+ID greenhouse-gas emissions; carbon footprint; big data; energy-consumption; decision-making; products; behavior; options
+AB As major drivers of economy, households induce a large share of worldwide environmental impacts. The variability of local consumption patterns and associated environmental impacts needs to be quantified as an important starting point to devise targeted measures aimed at reducing household environmental footprints. The goal of this article is the development and appraisal of a comprehensive regionalized bottom-up model that assesses realistic environmental profiles for individual households in a specific region. For this purpose, a physically based building energy model, the results of an agent-based transport simulation, and a data-driven household consumption model were interlinked within a new probability-based classification framework and applied to the case of Switzerland. The resulting model predicts the demands in about 400 different consumption areas for each Swiss household by considering its particular circumstances and produces a realistic picture of variability in household environmental footprints. An analysis of the model results on a municipal level reveals per-capita income, population density, buildings' age, and household structure as possible drivers of municipal carbon footprints. While higher-emission municipalities are located in rural areas and tend to show higher shares of older buildings, lower-emission communities have larger proportions of families and can be found in highly populated regions by trend. However, the opposing effects of various variables observed in this analysis confirm the importance of a model that is able to capture regional distinctions. The overall model constitutes a comprehensive information base supporting policymakers in understanding consumption patterns in their region and deriving environmental strategies tailored to their specific population.
+C1 [Froemelt, Andreas; Hellweg, Stefanie] Swiss Fed Inst Technol, Inst Environm Engn, Chair Ecol Syst Design, HPZ E32-2,John von Neumann Weg 9, CH-8093 Zurich, Switzerland.
+   [Buffat, Rene] Swiss Fed Inst Technol, Inst Cartog & Geoinformat, Chair Geoinformat Engn, Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich; Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP Froemelt, A (corresponding author), Swiss Fed Inst Technol, Inst Environm Engn, Chair Ecol Syst Design, HPZ E32-2,John von Neumann Weg 9, CH-8093 Zurich, Switzerland.
+EM froemelt@ifu.baug.ethz.ch
+FU Swiss Innovation Agency Innosuisse; Swiss National Science Foundation (SNSF) [P2EZP2_184267]; Swiss National Science Foundation (SNF) [P2EZP2_184267] Funding Source: Swiss National Science Foundation (SNF)
+CR Afionis S, 2017, WIRES CLIM CHANGE, V8, P0, DOI 10.1002/wcc.438
+   Unknown -, 2011, CITIES AND CLIMATE CHANGE: GLOBAL REPORT ON HUMAN SETTLEMENTS, V0, P0
+   *ARE, 2017, OV GUT BER ARE GRUND, V0, P0
+   Axhausen KW, 2016, THE MULTI-AGENT TRANSPORT SIMULATION MATSIM, V0, P0, DOI DOI 10.5334/BAW
+   Baiocchi G, 2010, J IND ECOL, V14, P50, DOI 10.1111/j.1530-9290.2009.00216.x
+   BAUER C, 2016, OPPORTUNITIES CHALLE, V0, P0
+   Bin S, 2005, ENERG POLICY, V33, P197, DOI 10.1016/S0301-4215(03)00210-6
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Buffat R, 2017, APPL ENERG, V208, P277, DOI 10.1016/j.apenergy.2017.10.041
+   *BUND LNAD SWISST, 2014, SWISSBOUNDARIES3D, V0, P0
+   *BUND STAT, 2014, FED REG, V0, P0
+   *BUND STAT, 2014, STRASS 2013, V0, P0
+   *BUND STAT, 2012, MOB SCHWEIZ ERG MIKR, V0, P0
+   *BUND STAT, 2013, HAUSH HABE 2009 BIS, V0, P0
+   *BUND STAT, 2013, HAUSH 2011 KOMM ERG, V0, P0
+   *BUND UMW, 2012, KOMM ABW, V0, P0
+   Cai H, 2013, ENVIRON SCI TECHNOL, V47, P9035, DOI 10.1021/es401008f
+   Druckman A, 2008, ENERG POLICY, V36, P3177, DOI 10.1016/j.enpol.2008.03.021
+   *EC CTR, 2016, EC DAT VERS 3 3 CUT, V0, P0
+   *EUR, 2019, DEGR URB DEGURBA, V0, P0
+   *EXIOBASE CONS, 2014, EXIOBASE VERS 2 2 2, V0, P0
+   Fernández-Delgado M, 2014, J MACH LEARN RES, V15, P3133
+   Fisher RA, 1946, STATISTICAL METHODS FOR RESEARCH WORKERS., V0, P0
+   Frederiks ER, 2015, RENEW SUST ENERG REV, V41, P1385, DOI 10.1016/j.rser.2014.09.026
+   Frischknecht R, 2018, INT J LIFE CYCLE ASS, V23, P381, DOI 10.1007/s11367-017-1429-1
+   Froemelt A, 2018, ENVIRON SCI TECHNOL, V52, P8467, DOI 10.1021/acs.est.8b01452
+   Froemelt A, 2018, J IND ECOL, V22, P92, DOI 10.1111/jiec.12534
+   Froemelt A, 2017, J IND ECOL, V21, P332, DOI 10.1111/jiec.12438
+   Girod B, 2010, J IND ECOL, V14, P31, DOI 10.1111/j.1530-9290.2009.00202.x
+   Girod B, 2009, ENERG POLICY, V37, P5650, DOI 10.1016/j.enpol.2009.08.026
+   Heeren N, 2013, RENEW SUST ENERG REV, V20, P45, DOI 10.1016/j.rser.2012.11.064
+   Hertwich EG, 2011, ECON SYST RES, V23, P27, DOI 10.1080/09535314.2010.536905
+   Hertwich EG, 2009, ENVIRON SCI TECHNOL, V43, P6414, DOI 10.1021/es803496a
+   Hertwich EG, 2005, ENVIRON SCI TECHNOL, V39, P4673, DOI 10.1021/es0497375
+   Horta IM, 2017, J IND ECOL, V21, P294, DOI 10.1111/jiec.12428
+   Ivanova D, 2017, ENVIRON RES LETT, V12, P0, DOI 10.1088/1748-9326/aa6da9
+   Ivanova D, 2016, J IND ECOL, V20, P526, DOI 10.1111/jiec.12371
+   Jones C, 2014, ENVIRON SCI TECHNOL, V48, P895, DOI 10.1021/es4034364
+   Jones CM, 2011, ENVIRON SCI TECHNOL, V45, P4088, DOI 10.1021/es102221h
+   Jungbluth N, 2011, ENV IMPACTS SWISS CO, V0, P0
+   Koch P, 2015, AGRIBALYSE : METHODOLOGY REPORT - VERSION 1.2 385, V0, P0
+   Kohonen T, 1998, NEUROCOMPUTING, V21, P1, DOI 10.1016/S0925-2312(98)00030-7
+   Kohonen T, 2001, SELF-ORGANIZING MAPS, V3rd, P0
+   Kuhn M, 2013, APPLIED PREDICTIVE MODELING, V0, P0, DOI DOI 10.1007/978-1-4614-6849-3_3
+   Lenzen M, 2006, ENERGY, V31, P181, DOI 10.1016/j.energy.2005.01.009
+   Li J, 2017, J CLEAN PROD, V143, P582, DOI 10.1016/j.jclepro.2016.12.071
+   LLOYD SP, 1982, IEEE T INFORM THEORY, V28, P129, DOI 10.1109/TIT.1982.1056489
+   MEISTER K, 2010, 12 WORLD C TRANSP RE, V0, P0
+   Minx JC, 2009, ECON SYST RES, V21, P187, DOI 10.1080/09535310903541298
+   Minx J, 2013, ENVIRON RES LETT, V8, P0, DOI 10.1088/1748-9326/8/3/035039
+   Moran D, 2018, ENVIRON RES LETT, V13, P0, DOI 10.1088/1748-9326/aac72a
+   Niculescu-Mizil A, 2005, PROCEEDINGS OF THE 22ND INTERNATIONAL CONFERENCE ON MACHINE LEARNING, V0, PP625, DOI 10.1145/1102351.1102430
+   North M, 2012, DATA MINING FOR THE MASSES. A GLOBAL TEXT PROJECT BOOK, V0, P0
+   ORourke D, 2015, ANNU REV ENV RESOUR, V40, P233, DOI 10.1146/annurev-environ-102014-021224
+   Ottelin J, 2019, ENVIRON RES LETT, V14, P0, DOI 10.1088/1748-9326/ab2212
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Saner D, 2016, INT J LIFE CYCLE ASS, V21, P654, DOI 10.1007/s11367-015-0924-5
+   Saner D, 2013, ENVIRON SCI TECHNOL, V47, P5988, DOI 10.1021/es304084p
+   Schanes K, 2016, J CLEAN PROD, V139, P1033, DOI 10.1016/j.jclepro.2016.08.154
+   Spangenberg JH, 2002, ECOL ECON, V43, P127, DOI 10.1016/S0921-8009(02)00212-4
+   Steen-Olsen K, 2016, J IND ECOL, V20, P582, DOI 10.1111/jiec.12405
+   Steffen W, 2015, SCIENCE, V347, P0, DOI 10.1126/science.1259855
+   Sundaravaradan N, 2011, IEEE I SYMP SUST SYS, V0, P0
+   Swan LG, 2009, RENEW SUST ENERG REV, V13, P1819, DOI 10.1016/j.rser.2008.09.033
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Tukker A, 2006, J IND ECOL, V10, P159, DOI 10.1162/jiec.2006.10.3.159
+   Tukker A, 2006, J IND ECOL, V10, P183, DOI 10.1162/jiec.2006.10.3.183
+   Tukker A, 2010, J IND ECOL, V14, P13, DOI 10.1111/j.1530-9290.2009.00208.x
+   Underwood A, 2015, ECOL ECON, V116, P182, DOI 10.1016/j.ecolecon.2015.04.028
+   WALLBAUM H, 2010, GEBAUDEPARKMODELL, V0, P0
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   Weber CL, 2008, ECOL ECON, V66, P379, DOI 10.1016/j.ecolecon.2007.09.021
+   Wernet G, 2008, ENVIRON SCI TECHNOL, V42, P6717, DOI 10.1021/es7022362
+   Wernet G, 2016, INT J LIFE CYCLE ASS, V21, P1218, DOI 10.1007/s11367-016-1087-8
+   Wiedenhofer D, 2018, CURR OPIN ENV SUST, V30, P7, DOI 10.1016/j.cosust.2018.02.007
+   Wood R, 2015, SUSTAINABILITY-BASEL, V7, P138, DOI 10.3390/su7010138
+   Xu M, 2015, J IND ECOL, V19, P205, DOI 10.1111/jiec.12241
+NR 77
+TC 35
+Z9 43
+U1 1
+U2 48
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1088-1980
+EI 1530-9290
+J9 J IND ECOL
+JI J. Ind. Ecol.
+PD JUN 15
+PY 2020
+VL 24
+IS 3
+BP 639
+EP 652
+DI 10.1111/jiec.12969
+EA NOV 2019
+PG 14
+WC Green & Sustainable Science & Technology; Engineering, Environmental; Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences & Ecology
+GA LV3AV
+UT WOS:000498217600001
+DA 2025-11-07
+ER
+
+PT J
+AU Song, MJ
+   Choi, S
+   Bae, WB
+   Lee, J
+   Han, H
+   Kim, DD
+   Kwon, M
+   Myung, J
+   Kim, YM
+   Yoon, S
+AF Song, Min Joon
+   Choi, Sangki
+   Bae, Wo Bin
+   Lee, Jaejin
+   Han, Heejoo
+   Kim, Daehyun D.
+   Kwon, Miye
+   Myung, Jaewook
+   Kim, Young Mo
+   Yoon, Sukhwan
+TI Identification of primary effecters of N2O emissions from full-scale biological nitrogen removal systems using random forest approach
+SO WATER RESEARCH
+LA English
+DT Article
+DE Nitrous oxide; Wastewater treatment plants; Biological nitrogen removal; Nitrification; Denitrification; Random forest
+ID waste-water treatment; ammonia-oxidizing bacteria; oxide production; activated-sludge; dissolved-oxygen; treatment plants; reduction; denitrification; oxidation; nitrite
+AB Wastewater treatment plants (WWTPs) have long been recognized as point sources of N2O, a potent greenhouse gas and ozone-depleting agent. Multiple mechanisms, both biotic and abiotic, have been suggested to be responsible for N2O production from WWTPs, with basis on extrapolation from laboratory results and statistical analyses of metadata collected from operational full-scale plants. In this study, random forest (RF) analysis, a machine-learning approach for feature selection from highly multivariate datasets, was adopted to investigate N2O production mechanism in activated sludge tanks of WWTPs from a novel perspective. Standardized measurements of N2O effluxes coupled with exhaustive metadata collection were performed at activated sludge tanks of three biological nitrogen removal WWTPs at different times of the year. The multivariate datasets were used as inputs for RF analyses. Computation of the permutation variable importance measures returned biomass-normalized dissolved inorganic carbon concentration (DIC center dot VSS-1) and specific ammonia oxidation activity (sOURAOB) as the most influential parameters determining N2O emissions from the aerated zones (or phases) of activated sludge bioreactors. For the anoxic tanks, dissolved-organic-carbon-to-NO2-/NO3- ratio (DOC center dot(NO2-N + NO3--N)(-1)) was singled out as the most influential. These data analysis results clearly indicate disparate mechanisms for N2O generation in the oxic and anoxic activated sludge bioreactors, and provide evidences against significant contributions of N2O carryover across different zones or phases or niche-specific microbial reactions, with aerobic NH3/NH4+ oxidation to NO2- and anoxic denitrification predominantly responsible from aerated and anoxic zones or phases of activated sludge bioreactors, respectively. (c) 2020 Elsevier Ltd. All rights reserved.
+C1 [Song, Min Joon; Han, Heejoo; Kim, Daehyun D.; Kwon, Miye; Myung, Jaewook; Yoon, Sukhwan] Korea Adv Inst Sci & Technol, Dept Civil & Environm Engn, Daejeon 34141, South Korea.
+   [Choi, Sangki; Bae, Wo Bin] Gwangju Inst Sci & Technol, Sch Earth Sci & Environm Engn, Gwangju 61005, South Korea.
+   [Lee, Jaejin] Iowa State Univ, Dept Agr & Biosyst Engn, Ames, IA 50011 USA.
+   [Kim, Young Mo] Hanyang Univ, Dept Civil & Environm Engn, Seoul 04763, South Korea.
+C3 Korea Advanced Institute of Science & Technology (KAIST); Gwangju Institute of Science & Technology (GIST); Iowa State University; Hanyang University
+RP Yoon, S (corresponding author), Korea Adv Inst Sci & Technol, Dept Civil & Environm Engn, Daejeon 34141, South Korea.
+EM syoon80@kaist.ac.kr
+FU "R&D Center for reduction of Non-CO2 Greenhouse gases" - Korea Ministry of Environment (MOE) as "Global Top Environment RD Program" [2017002420002]
+CR Aboobakar A, 2013, WATER RES, V47, P524, DOI 10.1016/j.watres.2012.10.004
+   Ahn JH, 2010, ENVIRON SCI TECHNOL, V44, P4505, DOI 10.1021/es903845y
+   Unknown -, 2015, RSTUDIO: INTEGRATED DEVELOPMENT FOR R, V0, P0, DOI DOI 10.1016/J.AQUATOX.2007.08.011
+   Unknown -, 2014, DATA CLASSIFICATION, V0, P0, DOI DOI 10.1109/ICNP.2014.61
+   Unknown -, 2008, SPEARMAN RANK CORRELATION COEFFICIENT, V0, PP502, DOI 10.1007/978-0-387-32833-1_379
+   APHA, 2017, STANDARD METHODS EXA, V23, P0, DOI 10.2105/SMWW.2882.04810.2105/SMWW.2882.048
+   Chandran K, 2005, WATER RES, V39, P4969, DOI 10.1016/j.watres.2005.10.001
+   Chandran K, 2011, METHOD ENZYMOL, V486, P369, DOI 10.1016/S0076-6879(11)86016-7
+   Daelman MRJ, 2015, SCI TOTAL ENVIRON, V536, P1, DOI 10.1016/j.scitotenv.2015.06.122
+   deGraaf AAV, 1996, MICROBIOL-UK, V142, P2187
+   Díaz-Uriarte R, 2006, BMC BIOINFORMATICS, V7, P0, DOI 10.1186/1471-2105-7-3
+   Fay MP, 2010, STAT SURV, V4, P1, DOI 10.1214/09-SS051
+   Flörke M, 2013, GLOBAL ENVIRON CHANG, V23, P144, DOI 10.1016/j.gloenvcha.2012.10.018
+   Friedman Jerome, 2001, THE ELEMENTS OF STATISTICAL LEARNING, V1, P0
+   Graf DRH, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0114118
+   Gregorutti B, 2017, STAT COMPUT, V27, P659, DOI 10.1007/s11222-016-9646-1
+   Hollister JW, 2016, ECOSPHERE, V7, P0, DOI 10.1002/ecs2.1321
+   IPCC, 2019, 2019 REFINEMENT 2006, V0, P0
+   Itokawa H, 2001, WATER RES, V35, P657, DOI 10.1016/S0043-1354(00)00309-2
+   Janitza S, 2013, BMC BIOINFORMATICS, V14, P0, DOI 10.1186/1471-2105-14-119
+   Jiang D, 2015, ENVIRON SCI TECHNOL, V49, P2523, DOI 10.1021/es5043222
+   Jiang QQ, 1999, APPL ENVIRON MICROB, V65, P2679
+   Kampschreur MJ, 2009, WATER RES, V43, P4093, DOI 10.1016/j.watres.2009.03.001
+   Kishida N, 2004, WATER SCI TECHNOL, V49, P359, DOI 10.2166/wst.2004.0775
+   Kosonen H, 2016, ENVIRON SCI TECHNOL, V50, P5547, DOI 10.1021/acs.est.5b04466
+   KRUSKAL WH, 1952, J AM STAT ASSOC, V47, P583, DOI 10.1080/01621459.1952.10483441
+   Krzywinski M, 2015, NAT METHODS, V12, P1103, DOI 10.1038/nmeth.3665
+   Lam KL, 2020, WATER RES, V173, P0, DOI 10.1016/j.watres.2020.115519
+   Lever J, 2017, NAT METHODS, V14, P641, DOI 10.1038/nmeth.4346
+   Liaw A, 2012, PACKAGE "RANDOMFOREST": BREIMAN AND CUTLERS RANDOM FORESTS FOR CLASSIFICATION AND REGRESSION, V0, P0
+   Liu SR, 2017, ENVIRON SCI TECHNOL, V51, P13122, DOI 10.1021/acs.est.7b02360
+   Mellbye BL, 2016, APPL ENVIRON MICROB, V82, P3310, DOI 10.1128/AEM.00294-16
+   Ni BJ, 2013, ENVIRON SCI TECHNOL, V47, P7795, DOI 10.1021/es4005398
+   Pan YT, 2013, WATER RES, V47, P3273, DOI 10.1016/j.watres.2013.02.054
+   Pan YT, 2012, WATER RES, V46, P4832, DOI 10.1016/j.watres.2012.06.003
+   Peng L, 2015, WATER RES, V74, P58, DOI 10.1016/j.watres.2015.02.003
+   Peng L, 2015, WATER RES, V73, P29, DOI 10.1016/j.watres.2015.01.021
+   Peng L, 2014, WATER RES, V66, P12, DOI 10.1016/j.watres.2014.08.009
+   Powers DM, 2011, EVALUATION PRECISION, V0, P0, DOI DOI 10.9735/2229-3981
+   Rodriguez-Caballero A, 2015, WATER RES, V71, P1, DOI 10.1016/j.watres.2014.12.032
+   Song MJ, 2020, BIOL FERT SOILS, V56, P687, DOI 10.1007/s00374-020-01443-2
+   Spérandio M, 2016, BIOPROC BIOSYST ENG, V39, P493, DOI 10.1007/s00449-015-1532-2
+   Statnikov A, 2008, BMC BIOINFORMATICS, V9, P0, DOI 10.1186/1471-2105-9-319
+   Strobl C, 2007, BMC BIOINFORMATICS, V8, P0, DOI 10.1186/1471-2105-8-25
+   Sun SC, 2013, WATER SCI TECHNOL, V67, P1887, DOI 10.2166/wst.2013.066
+   Tallec G, 2006, WATER RES, V40, P2972, DOI 10.1016/j.watres.2006.05.037
+   Terada A, 2017, ENVIRON SCI TECHNOL, V51, P2748, DOI 10.1021/acs.est.6b05521
+   Toyoda S, 2011, ENVIRON SCI TECHNOL, V45, P917, DOI 10.1021/es102985u
+   van Loosdrecht MCM, 2016, EXPT METHODS WASTEWA, V0, P73
+   Vasilaki V, 2019, WATER RES, V161, P392, DOI 10.1016/j.watres.2019.04.022
+   Vasilaki V, 2018, WATER RES, V140, P387, DOI 10.1016/j.watres.2018.04.052
+   Victor DG, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, V0, P111
+   Vieira A, 2019, SCI TOTAL ENVIRON, V651, P2460, DOI 10.1016/j.scitotenv.2018.10.132
+   Vincenzi S, 2011, ECOL MODEL, V222, P1471, DOI 10.1016/j.ecolmodel.2011.02.007
+   Wunderlin P, 2012, WATER RES, V46, P1027, DOI 10.1016/j.watres.2011.11.080
+   Yoon S, 2016, APPL ENVIRON MICROB, V82, P3793, DOI 10.1128/AEM.00409-16
+NR 56
+TC 42
+Z9 50
+U1 16
+U2 210
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0043-1354
+EI 1879-2448
+J9 WATER RES
+JI Water Res.
+PD OCT 1
+PY 2020
+VL 184
+IS 
+BP 
+EP 
+DI 10.1016/j.watres.2020.116144
+PG 9
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA OS2BK
+UT WOS:000589969900004
+PM 32731040
+DA 2025-11-07
+ER
+
+PT J
+AU Magazzino, C
+   Mele, M
+   Schneider, N
+AF Magazzino, Cosimo
+   Mele, Marco
+   Schneider, Nicolas
+TI The relationship between municipal solid waste and greenhouse gas emissions: Evidence from Switzerland
+SO WASTE MANAGEMENT
+LA English
+DT Article
+DE Municipal solid waste; Greenhouse gas; Waste sector; Recycling; Environmental sustainability; Machine Learning
+ID renewable energy-consumption; environmental kuznets curve; system dynamics model; economic-growth; co2 emissions; empirical-evidence; circular economy; oecd country; middle-east; generation
+AB Municipal solid waste generation is becoming a prominent issue in the environmental arena. The aim of this paper is to investigate the relationship among municipal waste generation, greenhouse gas emissions, and GDP in Switzerland over the period 1990-2017. We apply both time series procedures (stationarity and causality tests) and a Machine Learning approach. Empirical findings underline a bidirectional causal relationship between municipal solid waste generation and GDP, indicating that the Environmental Kuznets Curve hypothesis holds for Switzerland. Moreover, we found that waste recovery (recycling and composting) is a key driver in mitigating greenhouse gas emissions. In fact, in the Tree Model, the probability that a change in the waste recovery variable could lead to a reduction in the greenhouse gas emissions registered a value of 87%. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Magazzino, Cosimo] Roma Tre Univ, Rome, Italy.
+   [Mele, Marco] Univ Teramo, Teramo, TE, Italy.
+   [Schneider, Nicolas] Paris 1 Pantheon Sorbonne Univ, Paris, France.
+C3 Roma Tre University; University of Teramo
+RP Magazzino, C (corresponding author), Roma Tre Univ, Rome, Italy.
+EM cosimo.magazzino@uniroma3.it; mmele@unite.it; Nicolas.Schneider@etu.univ-paris1.fr
+CR Abbasi M, 2016, WASTE MANAGE, V56, P13, DOI 10.1016/j.wasman.2016.05.018
+   Abrate G, 2010, HERMES WORKING PAPER, V0, P0
+   Abu Hajar HA, 2020, J CLEAN PROD, V258, P0, DOI 10.1016/j.jclepro.2020.120539
+   Acaravci A, 2010, ENERGY, V35, P5412, DOI 10.1016/j.energy.2010.07.009
+   Alam P, 2013, INTERNATIONAL JOURNAL OF SUSTAINABLE DEVELOPMENT AND GREEN ECONOMICS IJSDGE, V2, P165
+   Alec Liu, 2015, INTERNATIONAL JOURNAL OF SUSTAINABLE BUILT ENVIRONMENT, V4, P165, DOI 10.1016/j.ijsbe.2015.11.002
+   Ali Syeda Maria, 2014, JOURNAL OF KING SAUD UNIVERSITY SCIENCE, V26, P59, DOI 10.1016/j.jksus.2013.08.003
+   Unknown -, 2019, SUSTAINABILITY, V0, P0
+   Apergis N, 2014, ENERG ECON, V42, P226, DOI 10.1016/j.eneco.2014.01.003
+   Apergis N, 2010, ECOL ECON, V69, P2255, DOI 10.1016/j.ecolecon.2010.06.014
+   Arbulú I, 2015, WASTE MANAGE, V46, P628, DOI 10.1016/j.wasman.2015.04.014
+   Arouri ME, 2012, ENERG POLICY, V45, P342, DOI 10.1016/j.enpol.2012.02.042
+   Azadi S, 2016, WASTE MANAGE, V48, P14, DOI 10.1016/j.wasman.2015.09.034
+   Baalbaki R, 2020, ECON BULL, V40, P1049
+   Barbier E, 2011, NAT RESOUR FORUM, V35, P233, DOI 10.1111/j.1477-8947.2011.01397.x
+   Bogner J, 2008, WASTE MANAGE RES, V26, P11, DOI 10.1177/0734242X07088433
+   Bölük G, 2014, ENERGY, V74, P439, DOI 10.1016/j.energy.2014.07.008
+   Chen CC, 2010, INT J ENVIRON SCI TE, V7, P447, DOI 10.1007/BF03326154
+   Clarke C, 2019, RESOUR CONSERV RECY, V141, P465, DOI 10.1016/j.resconrec.2018.10.003
+   Cole MA, 1997, ENVIRON DEV ECON, V2, P401, DOI 10.1017/S1355770X97000211
+   Cover TM, 1990, ELEMENTS INFORM THEO, V0, P0
+   DAdamo I, 2019, WASTE MANAGE, V95, P102, DOI 10.1016/j.wasman.2019.06.005
+   Dace E, 2014, RESOUR CONSERV RECY, V87, P175, DOI 10.1016/j.resconrec.2014.04.004
+   Daniel Hoornweg PB-T, 2012, WHAT A WASTE: A GLOBAL REVIEW OF SOLID WASTE MANAGEMENT, V0, P0, DOI DOI 10.1111/FEBS.13058
+   Das S, 2019, J CLEAN PROD, V228, P658, DOI 10.1016/j.jclepro.2019.04.323
+   Dinda S, 2006, ECOL ECON, V57, P167, DOI 10.1016/j.ecolecon.2005.03.028
+   Dolado JJ, 1996, ECONOMET REV, V15, P369, DOI 10.1080/07474939608800362
+   Eleyan D, 2013, WASTE MANAGE RES, V31, P986, DOI 10.1177/0734242X13490981
+   Fan SJ, 2020, SCI TOTAL ENVIRON, V701, P0, DOI 10.1016/j.scitotenv.2019.134721
+   Federal Office for the Environment (FOE), 2018, WAST RAW MAT BRIEF, V0, P0
+   Federal Office for the Environment (FOE), 2016, WAST DISP, V0, P0
+   Di Nola MF, 2018, WASTE MANAGE, V78, P717, DOI 10.1016/j.wasman.2018.06.006
+   Galeotti M, 2006, ECOL ECON, V57, P152, DOI 10.1016/j.ecolecon.2005.03.031
+   GRANGER CWJ, 1969, ECONOMETRICA, V37, P424, DOI 10.2307/1912791
+   Islam T, 2018, WORLD ACADEMY OF SCIENCE, V0, P0
+   Iwata H, 2012, APPL ECON, V44, P3513, DOI 10.1080/00036846.2011.577023
+   Jaligot R, 2018, RESOUR CONSERV RECY, V130, P260, DOI 10.1016/j.resconrec.2017.12.014
+   Jalil A, 2009, ENERG POLICY, V37, P5167, DOI 10.1016/j.enpol.2009.07.044
+   Jayanthakumaran K, 2012, ENERG POLICY, V42, P450, DOI 10.1016/j.enpol.2011.12.010
+   Johnstone N, 2004, LAND ECON, V80, P529, DOI 10.2307/3655808
+   Juba P, 2017, SOUTH SUDAN USING ARTIFICIAL NEURAL NETWORKS (ANNS) AND AUTOREGRESSIVE MOVING AVERAGES (ARMA), V4, P211
+   Kannangara M, 2018, WASTE MANAGE, V74, P3, DOI 10.1016/j.wasman.2017.11.057
+   Karousakis K, 2006, MUNICIPAL SOLID WAST, V0, P0
+   Khajuria Anupam, 2012, INTERNATIONAL JOURNAL OF ENVIRONMENTAL SCIENCES, V2, P504, DOI 10.6088/ijes.00202030051
+   Khan SAR, 2019, SUSTAIN DEV, V27, P1063, DOI 10.1002/sd.1958
+   Khan SAR, 2018, J CLEAN PROD, V185, P588, DOI 10.1016/j.jclepro.2018.02.226
+   Kivyiro P, 2014, ENERGY, V74, P595, DOI 10.1016/j.energy.2014.07.025
+   Kuznets S, 1955, AM ECON REV, V45, P1
+   Lee S, 2016, WASTE MANAGE, V56, P593, DOI 10.1016/j.wasman.2016.07.022
+   Liu JH, 2019, INT J ENV RES PUB HE, V16, P0, DOI 10.3390/ijerph16101717
+   Ludwig C, 2003, MUNICIPAL SOLID WAST, V0, P0
+   Luttenberger LR, 2020, J CLEAN PROD, V256, P0, DOI 10.1016/j.jclepro.2020.120495
+   Magazzino C, 2019, INT J SUST DEV WORLD, V26, P522, DOI 10.1080/13504509.2019.1606863
+   Magazzino C, 2016, ENERG SOURCE PART B, V11, P960, DOI 10.1080/15567249.2014.940092
+   Magazzino C, 2016, COGENT ECON FINANC, V4, P0, DOI 10.1080/23322039.2016.1152729
+   Malinauskaite J, 2017, ENERGY, V141, P2013, DOI 10.1016/j.energy.2017.11.128
+   Mazzanti M, 2005, ENVIRON. SCI, V2, P409, DOI 10.1080/15693430500364707
+   Mazzanti M, 2008, J ENVIRON DEV, V17, P51, DOI 10.1177/1070496507312575
+   Mazzanti M, 2008, APPL ECON LETT, V15, P287, DOI 10.1080/13504850500407640
+   Mesjasz-Lech A, 2019, SUSTAINABILITY, V11-4159, P2
+   *OECD, 2019, WAST MUN WAST OECD E, V0, P0
+   *OECD, 2019, AIR CLIM GREENH GAS, V0, P0
+   OECD, 2015, ENV GLANC IND, V0, P0
+   Omri A, 2014, ENERGY, V72, P554, DOI 10.1016/j.energy.2014.05.081
+   Omri A, 2013, ENERG ECON, V40, P657, DOI 10.1016/j.eneco.2013.09.003
+   Pearl J, 1995, BIOMETRIKA, V82, P669, DOI 10.1093/biomet/82.4.669
+   Rigamonti L, 2016, ECOL INDIC, V60, P1, DOI 10.1016/j.ecolind.2015.06.022
+   Rothman DS, 1998, ECOL ECON, V25, P143
+   Saboori B, 2012, ENERG POLICY, V51, P184, DOI 10.1016/j.enpol.2012.08.065
+   Saidi K, 2015, ENERGY REP, V1, P62, DOI 10.1016/j.egyr.2015.01.003
+   Salau O, 2017, INT J REG DEV, V4, P1
+   Sauvé S, 2016, ENVIRON DEV, V17, P48, DOI 10.1016/j.envdev.2015.09.002
+   SELDEN TM, 1994, J ENVIRON ECON MANAG, V27, P147, DOI 10.1006/jeem.1994.1031
+   Shafiei S, 2014, ENERG POLICY, V66, P547, DOI 10.1016/j.enpol.2013.10.064
+   Meza JKS, 2019, HELIYON, V5, P0, DOI 10.1016/j.heliyon.2019.e02810
+   Swart J, 2015, RESOUR CONSERV RECY, V94, P43, DOI 10.1016/j.resconrec.2014.11.005
+   TODA HY, 1995, J ECONOMETRICS, V66, P225, DOI 10.1016/0304-4076(94)01616-8
+   Wanner T, 2015, NEW POLIT ECON, V20, P21, DOI 10.1080/13563467.2013.866081
+   Yu Z, 2018, LOGFORUM, V14, P479, DOI 10.17270/J.LOG.2018.304
+NR 79
+TC 133
+Z9 147
+U1 4
+U2 133
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0956-053X
+EI 1879-2456
+J9 WASTE MANAGE
+JI Waste Manage.
+PD JUL 15
+PY 2020
+VL 113
+IS 
+BP 508
+EP 520
+DI 10.1016/j.wasman.2020.05.033
+PG 13
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA ML4IZ
+UT WOS:000549433000027
+PM 32546447
+DA 2025-11-07
+ER
+
+PT J
+AU Goulier, L
+   Paas, B
+   Ehrnsperger, L
+   Klemm, O
+AF Goulier, Laura
+   Paas, Bastian
+   Ehrnsperger, Laura
+   Klemm, Otto
+TI Modelling of Urban Air Pollutant Concentrations with Artificial Neural Networks Using Novel Input Variables
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE ANN; prediction; traffic; sound; acoustic; ozone; nitrogen oxides; ammonia; particulate matter; deep learning
+ID ultrafine particles; particulate matter; part 1; exhaust; ammonia; management; emissions; forecasts; selection; rainfall
+AB Since operating urban air quality stations is not only time consuming but also costly, and because air pollutants can cause serious health problems, this paper presents the hourly prediction of ten air pollutant concentrations (CO2, NH3, NO, NO2, NOx, O-3, PM1, PM2.5, PM10 and PN10) in a street canyon in Munster using an artificial neural network (ANN) approach. Special attention was paid to comparing three predictor options representing the traffic volume: we included acoustic sound measurements (sound), the total number of vehicles (traffic), and the hour of the day and the day of the week (time) as input variables and then compared their prediction powers. The models were trained, validated and tested to evaluate their performance. Results showed that the predictions of the gaseous air pollutants NO, NO2, NOx, and O-3 reveal very good agreement with observations, whereas predictions for particle concentrations and NH3 were less successful, indicating that these models can be improved. All three input variable options (sound, traffic and time) proved to be suitable and showed distinct strengths for modelling various air pollutant concentrations.
+C1 [Goulier, Laura; Paas, Bastian; Ehrnsperger, Laura; Klemm, Otto] Univ Munster, Climatol Res Grp, Heisenbergstr 2, D-48149 Munster, Germany.
+C3 University of Munster
+RP Goulier, L (corresponding author), Univ Munster, Climatol Res Grp, Heisenbergstr 2, D-48149 Munster, Germany.
+EM laura.goulier@uni-muenster.de; bastian.paas@uni-muenster.de; laura.ehrnsperger@uni-muenster.de; otto.klemm@uni-muenster.de
+FU Deutsche Forschungsgemeinschaft [DFG KL 623/21]
+CR Adams MD, 2016, J ENVIRON MANAGE, V168, P133, DOI 10.1016/j.jenvman.2015.12.012
+   AKAIKE H, 1974, IEEE T AUTOMAT CONTR, VAC19, P716, DOI 10.1109/TAC.1974.1100705
+   Arhami M, 2013, ENVIRON SCI POLLUT R, V20, P4777, DOI 10.1007/s11356-012-1451-6
+   Atkinson RW, 2013, EPIDEMIOLOGY, V24, P44, DOI 10.1097/EDE.0b013e318276ccb8
+   Bai Y, 2016, ATMOS POLLUT RES, V7, P557, DOI 10.1016/j.apr.2016.01.004
+   Banke Jim, 2012, NASA, V0, P0
+   Behera SN, 2013, ENVIRON SCI POLLUT R, V20, P8092, DOI 10.1007/s11356-013-2051-9
+   Bowden GJ, 2005, J HYDROL, V301, P75, DOI 10.1016/j.jhydrol.2004.06.021
+   Cabaneros SM, 2019, ENVIRON MODELL SOFTW, V119, P285, DOI 10.1016/j.envsoft.2019.06.014
+   Cai M, 2009, TRANSPORT RES D-TR E, V14, P32, DOI 10.1016/j.trd.2008.10.004
+   Dekoninck L, 2016, P5740, V0, P0
+   Dijkstra HA, 2019, NETWORKS CLIMATE, V0, P49
+   Fabbian D, 2007, WEATHER FORECAST, V22, P372, DOI 10.1175/WAF980.1
+   Favarato G, 2014, AIR QUAL ATMOS HLTH, V7, P459, DOI 10.1007/s11869-014-0265-8
+   Fernando TMKG, 2009, J HYDROL, V367, P165, DOI 10.1016/j.jhydrol.2008.10.019
+   Gardner MW, 1999, ATMOS ENVIRON, V33, P709, DOI 10.1016/S1352-2310(98)00230-1
+   GEMAN S, 1992, NEURAL COMPUT, V4, P1, DOI 10.1162/neco.1992.4.1.1
+   Gidhagen L, 2004, ATMOS ENVIRON, V38, P2029, DOI 10.1016/j.atmosenv.2004.02.014
+   Goodfellow I, 2018, DEEP LEARNING UMFASS, V0, P1
+   Guo LC, 2016, ENVIRON POLLUT, V215, P195, DOI 10.1016/j.envpol.2016.05.003
+   Hagan MT, 1995, NEURAL NETWORK DESIG, V0, P473
+   Heinrich J, 2007, INT J HYG ENVIR HEAL, V210, P617, DOI 10.1016/j.ijheh.2007.07.012
+   Ketzel M, 2004, ATMOS ENVIRON, V38, P2639, DOI 10.1016/j.atmosenv.2004.02.020
+   Ketzel M, 2007, ATMOS ENVIRON, V41, P9370, DOI 10.1016/j.atmosenv.2007.09.005
+   Klemm O, 2001, J CHEM EDUC, V78, P1641, DOI 10.1021/ed078p1641
+   KOHONEN T, 1990, P IEEE, V78, P1464, DOI 10.1109/5.58325
+   LI-COR Inc, 2016, EDDYPRO SOFTW 6 2 0, V0, P0
+   May RJ, 2010, NEURAL NETWORKS, V23, P283, DOI 10.1016/j.neunet.2009.11.009
+   May R, 2011, ARTIFICIAL NEURAL NETWORKS - METHODOLOGICAL ADVANCES AND BIOMEDICAL APPLICATIONS, V0, P19
+   May RJ, 2008, ENVIRON MODELL SOFTW, V23, P1312, DOI 10.1016/j.envsoft.2008.03.007
+   Paas B, 2017, ENVIRONMENTS, V4, P0, DOI 10.3390/environments4020026
+   Pasero E, 2010, AIR POLLUT INTECHOPE, V0, P0, DOI DOI 10.5772/10050
+   Pattinson J, 2017, CULT HIST MOD WAR, V0, P1
+   Prachi Kumar N, 2011, INTERNATIONAL JOURNAL FOR ENVIRONMENTAL REHABILITATION AND CONSERVATION, VII, P30
+   Rashid T, 2017, NEURONALE NETZE SELB, V0, P88
+   Reitermanova Z, 2010, WDS, V10, P31
+   Rey GD, 2018, NEURONALE NETZE EINF, V0, P15
+   Rojas R, 1996, NEURAL NETWORKS SYST, V0, P155
+   RStudio Inc, 2018, RSTUDIO 3 6 1 INT DE, V0, P0
+   Seinfeld JH, 2006, ATMOSPHERIC CHEM PHY, V0, P209
+   Sharma A, 2000, J HYDROL, V239, P232, DOI 10.1016/S0022-1694(00)00346-2
+   Sharma M, 2007, J ATMOS CHEM, V58, P1, DOI 10.1007/s10874-007-9074-x
+   Suarez-Bertoa R, 2014, ATMOS ENVIRON, V97, P43, DOI 10.1016/j.atmosenv.2014.07.050
+   Timmers VRJH, 2016, ATMOS ENVIRON, V134, P10, DOI 10.1016/j.atmosenv.2016.03.017
+   Vallero D, 2014, FUNDAMENTALS OF AIR POLLUTION, VFifth Edit, P197
+   Viana M, 2008, J AEROSOL SCI, V39, P827, DOI 10.1016/j.jaerosci.2008.05.007
+   Wilks DS, 2009, STAT METHODS ATMOSPH, V0, P55
+   World Health Organisation Regional Office for Europe, 2011, BURDEN DIS ENV NOISE, V0, P91
+   Wurzler S, 2016, METEOROL Z, V25, P319, DOI 10.1127/metz/2016/0707
+   Zellner R, 2011, CHEMIE WOLKEN DARUNT, V0, P114
+NR 51
+TC 27
+Z9 28
+U1 1
+U2 33
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD MAR 2
+PY 2020
+VL 17
+IS 6
+BP 
+EP 
+DI 10.3390/ijerph17062025
+PG 22
+WC Environmental Sciences; Public, Environmental & Occupational Health
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational Health
+GA LI2VS
+UT WOS:000529342300215
+PM 32204378
+DA 2025-11-07
+ER
+
+PT J
+AU Simmonds, PG
+   Rigby, M
+   Manning, AJ
+   Park, S
+   Stanley, KM
+   McCulloch, A
+   Henne, S
+   Graziosi, F
+   Maione, M
+   Arduini, J
+   Reimann, S
+   Vollmer, MK
+   Mühle, J
+   O'Doherty, S
+   Young, D
+   Krummel, PB
+   Fraser, PJ
+   Weiss, RF
+   Salameh, PK
+   Harth, CM
+   Park, MK
+   Park, H
+   Arnold, T
+   Rennick, C
+   Steele, LP
+   Mitrevski, B
+   Wang, RHJ
+   Prinn, RG
+AF Simmonds, Peter G.
+   Rigby, Matthew
+   Manning, Alistair J.
+   Park, Sunyoung
+   Stanley, Kieran M.
+   McCulloch, Archie
+   Henne, Stephan
+   Graziosi, Francesco
+   Maione, Michela
+   Arduini, Jgor
+   Reimann, Stefan
+   Vollmer, Martin K.
+   Muhle, Jens
+   O'Doherty, Simon
+   Young, Dickon
+   Krummel, Paul B.
+   Fraser, Paul J.
+   Weiss, Ray F.
+   Salameh, Peter K.
+   Harth, Christina M.
+   Park, Mi-Kyung
+   Park, Hyeri
+   Arnold, Tim
+   Rennick, Chris
+   Steele, L. Paul
+   Mitrevski, Blagoj
+   Wang, Ray H. J.
+   Prinn, Ronald G.
+TI The increasing atmospheric burden of the greenhouse gas sulfur hexafluoride (SF6)
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+LA English
+DT Article
+ID halogenated compounds; anthropogenic sources; tall towers; emissions; trends; transport; lifetime; halocarbons; dispersion; history
+AB We report a 40-year history of SF6 atmospheric mole fractions measured at the Advanced Global Atmospheric Gases Experiment (AGAGE) monitoring sites, combined with archived air samples, to determine emission estimates from 1978 to 2018. Previously we reported a global emission rate of 7.3 +/- 0.6 Gg yr(-1) in 2008 and over the past decade emissions have continued to increase by about 24 % to 9.04 +/- 0.35 Gg yr(-1) in 2018. We show that changing patterns in SF6 consumption from developed (Kyoto Protocol Annex-1) to developing countries (non-Annex-1) and the rapid global expansion of the electric power industry, mainly in Asia, have increased the demand for SF6-insulated switchgear, circuit breakers, and transformers. The large bank of SF6 sequestered in this electrical equipment provides a substantial source of emissions from maintenance, replacement, and continuous leakage. Other emissive sources of SF6 occur from the magnesium, aluminium, and electronics industries as well as more minor industrial applications. More recently, reported emissions, including those from electrical equipment and metal industries, primarily in the Annex-1 countries, have declined steadily through substitution of alternative blanketing gases and technological improvements in less emissive equipment and more efficient industrial practices. Nevertheless, there are still demands for SF6 in Annex-1 countries due to economic growth, as well as continuing emissions from older equipment and additional emissions from newly installed SF6-insulated electrical equipment, although at low emission rates. In addition, in the non-Annex-1 countries, SF6 emissions have increased due to an expansion in the growth of the electrical power, metal, and electronics industries to support their continuing development. There is an annual difference of 2.5-5 Gg yr(-1) (1990-2018) between our modelled top-down emissions and the UNFCCC-reported bottom-up emissions (United Nations Framework Convention on Climate Change), which we attempt to reconcile through analysis of the potential contribution of emissions from the various industrial applications which use SF6. We also investigate regional emissions in East Asia (China, S. Korea) and western Europe and their respective contributions to the global atmospheric SF6 inventory. On an average annual basis, our estimated emissions from the whole of China are approximately 10 times greater than emissions from western Europe. In 2018, our modelled Chinese and western European emissions accounted for similar to 36 % and 3.1 %, respectively, of our global SF6 emissions estimate.
+C1 [Simmonds, Peter G.; Rigby, Matthew; Stanley, Kieran M.; McCulloch, Archie; O'Doherty, Simon; Young, Dickon] Univ Bristol, Sch Chem, Bristol, Avon, England.
+   [Henne, Stephan; Reimann, Stefan; Vollmer, Martin K.] Swiss Fed Labs Mat Sci & Technol, Lab Air Pollut & Environm Technol Empa, Dubendorf, Switzerland.
+   [Muhle, Jens; Weiss, Ray F.; Salameh, Peter K.; Harth, Christina M.] Univ Calif San Diego, Scripps Inst Oceanog SIO, La Jolla, CA 92093 USA.
+   [Manning, Alistair J.] Met Off, Hadley Ctr, Exeter, Devon, England.
+   [Krummel, Paul B.; Fraser, Paul J.; Steele, L. Paul; Mitrevski, Blagoj] CSIRO, Climate Sci Ctr, Aspendale, Vic, Australia.
+   [Wang, Ray H. J.] Georgia Inst Technol, Sch Earth & Atmospher Sci, Atlanta, GA 30332 USA.
+   [Prinn, Ronald G.] MIT, Ctr Global Change Sci, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Park, Sunyoung] Kyungpook Natl Univ, Dept Oceanog, Daegu, South Korea.
+   [Park, Mi-Kyung; Park, Hyeri] Kyungpook Natl Univ, Kyungpook Inst Oceanog, Daegu, South Korea.
+   [Stanley, Kieran M.] Goethe Univ Frankfurt, Inst Atmospher & Environm Sci, Frankfurt, Germany.
+   [Graziosi, Francesco; Maione, Michela; Arduini, Jgor] Univ Urbino, Dept Pure & Appl Sci DiSPeA, Bologna, Italy.
+   [Graziosi, Francesco; Maione, Michela; Arduini, Jgor] Natl Res Council CNR, Inst Atmospher Sci & Climate ISAC, Bologna, Italy.
+   [Arnold, Tim; Rennick, Chris] Natl Phys Lab, Teddington, Middx, England.
+   [Arnold, Tim] Univ Edinburgh, Sch GeoSci, Edinburgh, Midlothian, Scotland.
+C3 University of Bristol; Swiss Federal Institutes of Technology Domain; Swiss Federal Laboratories for Materials Science & Technology (EMPA); University of California System; University of California San Diego; Scripps Institution of Oceanography; Met Office - UK; Hadley Centre; Commonwealth Scientific & Industrial Research Organisation (CSIRO); University System of Georgia; Georgia Institute of Technology; Massachusetts Institute of Technology (MIT); Kyungpook National University (KNU); Kyungpook National University (KNU); Goethe University Frankfurt; University of Urbino; Consiglio Nazionale delle Ricerche (CNR); Istituto di Scienze dell'Atmosfera e del Clima (ISAC-CNR); National Physical Laboratory - UK; University of Edinburgh
+RP Simmonds, PG (corresponding author), Univ Bristol, Sch Chem, Bristol, Avon, England.
+EM petergsimmonds@aol.com
+FU NASA [NAG5-12669, NNX07AE89G, NNX11AF17G, NAG5-4023, NNX07AE87G, NNX07AF09G, NNX11AF15G, NNX11AF16G]; University of Bristol [GA01103, 1028/06/2015, 1537/06/2018]; NOAA [RA-133R-15-CN-0008]; National Research Foundation of Korea (NRF), Ministry of Education [NRF-2019R1A2B5B02070239]; BEIS; NERC [NE/M014851/1, NE/I021365/1, NE/L013088/1] Funding Source: UKRI; Natural Environment Research Council [NE/L013088/1, NE/M014851/1, 1379736, NE/I021365/1] Funding Source: researchfish
+CR AGAGE, 2020, GUID US AGAGE DAT, V0, P0
+   Unknown -, 1997, THE KYOTO PROTOCOL, V0, P0
+   Unknown -, 2011, SCIENTIFIC ASSESSMENT OF OZONE DEPLETION: 2010, V0, P516
+   Unknown -, 1996, IPCC GUIDELINES NATL, V0, P0
+   Unknown -, 2020, RENEWABLE CAPACITY S, V0, P0
+   Arnold T, 2018, ATMOS CHEM PHYS, V18, P13305, DOI 10.5194/acp-18-13305-2018
+   Arnold T, 2012, ANAL CHEM, V84, P4798, DOI 10.1021/ac300373e
+   Bakwin PS, 1997, J GEOPHYS RES-ATMOS, V102, P15915, DOI 10.1029/97JD00869
+   Biasse JM, 2014, SCHNEIDER ELECT, V0, P0
+   Brunner D, 2017, ATMOS CHEM PHYS, V17, P10651, DOI 10.5194/acp-17-10651-2017
+   Burges K, 2018, CONCEPT SF6 FREE TRA, V0, P0
+   Busenberg E, 2000, WATER RESOUR RES, V36, P3011, DOI 10.1029/2000WR900151
+   CAPIEL/UNIPEDE, 1999, OBS CAPIEL UNIPEDE R, V0, P0
+   Cheng JH, 2013, INT J GREENH GAS CON, V17, P106, DOI 10.1016/j.ijggc.2013.04.003
+   Chinese Wind Energy Association (CWEA), 2017, IEA WIND TCP ANN REP, V0, P0
+   Collins CF, 1965, JAPCA-INT J AIR POLL, V15, P109
+   CULLEN MJP, 1993, METEOROL MAG, V122, P81
+   CUNNOLD D, 1978, J GEOPHYS RES-OCEANS, V83, P5493, DOI 10.1029/JC083iC11p05493
+   CUNNOLD DM, 1983, J GEOPHYS RES-OCEANS, V88, P8401, DOI 10.1029/JC088iC13p08401
+   Deeds DA, 2008, GEOCHIM COSMOCHIM AC, V72, P999, DOI 10.1016/j.gca.2007.11.027
+   Dervos CT, 2000, J AIR WASTE MANAGE, V50, P137, DOI 10.1080/10473289.2000.10463996
+   DRIVAS PJ, 1972, ENVIRON SCI TECHNOL, V6, P609, DOI 10.1021/es60066a005
+   DRIVAS PJ, 1974, ATMOS ENVIRON, V8, P1155, DOI 10.1016/0004-6981(74)90049-3
+   [Eggleston SIPCCIPCC], 2006, GUIDELINES FOR NATIONAL GREENHOUSE GAS INVENTORIES, V0, P0
+   Elkins JW, 2009, B AM METEOROL SOC, V90, PS38, DOI 10.1175/BAMS-90-8-STATEOFTHECLIMATE
+   Engel A, 2019, SCI ASSESSMENT OZONE, V0, P0
+   EPA, 2019, OV SF6 EM SOURC RED, V0, P0
+   Fang X, 2014, ATMOS CHEM PHYS, V14, P4779, DOI 10.5194/acp-14-4779-2014
+   Fang XK, 2013, ENVIRON SCI TECHNOL, V47, P3848, DOI 10.1021/es304348x
+   Fraser PJ, 2004, BASELINE ATMOSPHERIC, V0, P18
+   Ganesan AL, 2015, ATMOS CHEM PHYS, V15, P6393, DOI 10.5194/acp-15-6393-2015
+   Geller LS, 1997, GEOPHYS RES LETT, V24, P675, DOI 10.1029/97GL00523
+   Graziosi F, 2015, ATMOS ENVIRON, V112, P196, DOI 10.1016/j.atmosenv.2015.04.042
+   GWEC, 2019, GLOBAL WIND REPORT, V0, P0
+   Harnisch J, 1996, GEOPHYS RES LETT, V23, P1099, DOI 10.1029/96GL01198
+   Harnish J, 2003, B430402002336380MARE, V0, P0
+   Henne S, 2016, ATMOS CHEM PHYS, V16, P3683, DOI 10.5194/acp-16-3683-2016
+   Hurst DF, 2006, J GEOPHYS RES-ATMOS, V111, P0, DOI 10.1029/2005JD006785
+   IEA, 2020, WORLD EN OUTL, V0, P0
+   Jones A, 2007, AIR POLLUTION MODELI, V0, P0, DOI DOI 10.1007/978-0-387-68854-1_62
+   Kim J, 2010, GEOPHYS RES LETT, V37, P0, DOI 10.1029/2010GL043263
+   KO MKW, 1993, J GEOPHYS RES-ATMOS, V98, P10499, DOI 10.1029/93JD00228
+   Kovács T, 2017, ATMOS CHEM PHYS, V17, P883, DOI 10.5194/acp-17-883-2017
+   KREY PW, 1977, J GEOPHYS RES-OC ATM, V82, P1753, DOI 10.1029/JC082i012p01753
+   Krol M, 2018, GEOSCI MODEL DEV, V11, P3109, DOI 10.5194/gmd-11-3109-2018
+   Levin I, 2010, ATMOS CHEM PHYS, V10, P2655, DOI 10.5194/acp-10-2655-2010
+   LI K, 2018, J PHYS D APPL PHYS, V51, P0
+   Li S, 2011, ENVIRON SCI TECHNOL, V45, P5668, DOI 10.1021/es104124k
+   LOVELOCK JE, 1971, NATURE, V230, P379, DOI 10.1038/230379a0
+   Maione M, 2013, SCI TOTAL ENVIRON, V445, P155, DOI 10.1016/j.scitotenv.2012.12.056
+   MAISS M, 1994, GEOPHYS RES LETT, V21, P569, DOI 10.1029/94GL00179
+   Maiss M, 1996, ATMOS ENVIRON, V30, P1621, DOI 10.1016/1352-2310(95)00425-4
+   Maiss M, 1998, ENVIRON SCI TECHNOL, V32, P3077, DOI 10.1021/es9802807
+   Martin D, 2011, Q J ROY METEOR SOC, V137, P2047, DOI 10.1002/qj.881
+   Miller BR, 2008, ANAL CHEM, V80, P1536, DOI 10.1021/ac702084k
+   Myhre G, 2019, CLIMATE CHANGE LAND, V0, P0
+   National Bureau of Statistics, 2017, CHIN IND EC STAT YB, V0, P0
+   NIEMEYER L, 1992, IEEE T ELECTR INSUL, V27, P184, DOI 10.1109/14.123455
+   Okubo H, 2011, IEEE ELECTR INSUL M, V27, P34, DOI 10.1109/MEI.2011.5739421
+   Olivier JGJ, 1999, GOOD PRACTICE GUIDAN, V0, P227
+   Ottinger D, 2015, J INTEGR ENVIRON SCI, V12, P5, DOI 10.1080/1943815X.2015.1092452
+   Palmer B, 1996, SF6 EMISSIONS MAGNES, V0, P217
+   Patra PK, 1997, J GEOPHYS RES-ATMOS, V102, P8855, DOI 10.1029/96JD03503
+   Patra PK, 2018, SOLA, V14, P91, DOI 10.2151/sola.2018-016
+   Prinn RG, 2008, ALE GAGE AGAGE NETWO, V0, P0, DOI DOI 10.3334/CDIAC/ATG.DB1001
+   Prinn RG, 2000, J GEOPHYS RES-ATMOS, V105, P17751, DOI 10.1029/2000JD900141
+   Prinn RG, 2018, EARTH SYST SCI DATA, V10, P985, DOI 10.5194/essd-10-985-2018
+   RAVISHANKARA AR, 1993, SCIENCE, V259, P194, DOI 10.1126/science.259.5092.194
+   Ray EA, 2017, J GEOPHYS RES-ATMOS, V122, P4626, DOI 10.1002/2016JD026198
+   Rigby M, 2019, NATURE, V569, P546, DOI 10.1038/s41586-019-1193-4
+   Rigby M, 2014, GEOPHYS RES LETT, V41, P2623, DOI 10.1002/2013GL059099
+   Rigby M, 2013, ATMOS CHEM PHYS, V13, P2691, DOI 10.5194/acp-13-2691-2013
+   Rigby M, 2011, ATMOS CHEM PHYS, V11, P9887, DOI 10.5194/acp-11-9887-2011
+   Rigby M, 2010, ATMOS CHEM PHYS, V10, P10305, DOI 10.5194/acp-10-10305-2010
+   RINSLAND CP, 1993, J GEOPHYS RES-ATMOS, V98, P20491, DOI 10.1029/93JD02258
+   SALTZMAN BE, 1966, ANAL CHEM, V38, P753, DOI 10.1021/ac60238a020
+   Schwarz W, 2000, EU WORKSH LUX, V0, P0
+   Scottish Hydro Electric, 2013, 201314 SCOTT SO EL, V0, P0
+   SIMMONDS PG, 1972, ANAL CHEM, V44, P860, DOI 10.1021/ac60312a029
+   SINGH HB, 1977, JAPCA J AIR WASTE MA, V27, P332, DOI 10.1080/00022470.1977.10470427
+   SINGH HB, 1979, SCIENCE, V203, P899, DOI 10.1126/science.203.4383.899
+   Smythe K, 2004, P C SF6 ENV SCOTTSD, V0, P0
+   South Korea, 2017, 2 BIENN UPD REP KOR, V0, P0
+   Stanley KM, 2018, ATMOS MEAS TECH, V11, P1437, DOI 10.5194/amt-11-1437-2018
+   Stavert AR, 2019, ATMOS MEAS TECH, V12, P4495, DOI 10.5194/amt-12-4495-2019
+   Stohl A, 2005, ATMOS CHEM PHYS, V5, P2461, DOI 10.5194/acp-5-2461-2005
+   TURK AMOS, 1968, ENVIRON SCI TECHNOL, V2, P44, DOI 10.1021/es60013a001
+   UNFCCC, 2019, ANN 1 PART GHG INV S, V0, P0
+   UNFCCC (United Nations Framework on Climate Change), 2010, DAT 1990 2007 CRF DA, V0, P0
+   Victor DG, 1998, IR98053 IIASA, V0, P0
+   Vollmer MK, 2009, GEOPHYS RES LETT, V36, P0, DOI 10.1029/2009GL038659
+   Vollmer MK, 2002, MAR CHEM, V78, P137, DOI 10.1016/S0304-4203(02)00015-4
+   Weiss RF, 2011, PHILOS T R SOC A, V369, P1925, DOI 10.1098/rsta.2011.0006
+   Widger P, 2018, ENERGIES, V11, P0, DOI 10.3390/en11082037
+   Xiao S, 2018, ENERGY REP, V4, P486, DOI 10.1016/j.egyr.2018.07.006
+   Zhou S, 2018, SUSTAINABILITY-BASEL, V10, P0, DOI 10.3390/su10072402
+   Zu C, 2011, P 1 INT C EL POW EQ, V0, P299
+NR 97
+TC 105
+Z9 121
+U1 4
+U2 87
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1680-7316
+EI 1680-7324
+J9 ATMOS CHEM PHYS
+JI Atmos. Chem. Phys.
+PD JUN 23
+PY 2020
+VL 20
+IS 12
+BP 7271
+EP 7290
+DI 10.5194/acp-20-7271-2020
+PG 20
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA MD1EF
+UT WOS:000543717500005
+DA 2025-11-07
+ER
+
+PT J
+AU Tang, ZP
+   Mei, Z
+   Liu, WD
+   Xia, Y
+AF Tang Zhipeng
+   Mei Ziao
+   Liu Weidong
+   Xia Yan
+TI Identification of the key factors affecting Chinese carbon intensity and their historical trends using random forest algorithm
+SO JOURNAL OF GEOGRAPHICAL SCIENCES
+LA English
+DT Article
+DE machine learning; random forest; carbon intensity; key factors; China
+ID decomposition analysis; behavior
+AB The Chinese government ratified the Paris Climate Agreement in 2016. Accordingly, China aims to reduce carbon dioxide emissions per unit of gross domestic product (carbon intensity) to 60%-65% of 2005 levels by 2030. However, since numerous factors influence carbon intensity in China, it is critical to assess their relative importance to determine the most important factors. As traditional methods are inadequate for identifying key factors from a range of factors acting in concert, machine learning was applied in this study. Specifically, random forest algorithm, which is based on decision tree theory, was employed because it is insensitive to multicollinearity, is robust to missing and unbalanced data, and provides reasonable predictive results. We identified the key factors affecting carbon intensity in China using random forest algorithm and analyzed the evolution in the key factors from 1980 to 2017. The dominant factors affecting carbon intensity in China from 1980 to 1991 included the scale and proportion of energy-intensive industry, the proportion of fossil fuel-based energy, and technological progress. The Chinese economy developed rapidly between 1992 and 2007; during this time, the effects of the proportion of service industry, price of fossil fuel, and traditional residential consumption on carbon intensity increased. Subsequently, the Chinese economy entered a period of structural adjustment after the 2008 global financial crisis; during this period, reductions in emissions and the availability of new energy types began to have effects on carbon intensity, and the importance of residential consumption increased. The results suggest that optimizing the energy and industrial structures, promoting technological advancement, increasing green consumption, and reducing emissions are keys to decreasing carbon intensity within China in the future. These approaches will help achieve the goal of reducing carbon intensity to 60%-65% of the 2005 level by 2030.
+C1 [Tang Zhipeng; Mei Ziao; Liu Weidong] Chinese Acad Sci, Key Lab Reg Sustainable Dev Modeling, Inst Geog Sci & Nat Resources Res, Beijing 100101, Peoples R China.
+   [Tang Zhipeng; Mei Ziao; Liu Weidong] Univ Chinese Acad Sci, Coll Resources & Environm, Beijing 100049, Peoples R China.
+   [Xia Yan] Chinese Acad Sci, Inst Sci & Dev, Beijing 100190, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Geographic Sciences & Natural Resources Research, CAS; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS; Chinese Academy of Sciences
+RP Xia, Y (corresponding author), Chinese Acad Sci, Inst Sci & Dev, Beijing 100190, Peoples R China.
+EM tangzp@igsnrr.ac.cn; xiayan@casipm.ac.cn
+FU National Natural Science Foundation of China [41771135]
+CR Unknown -, 2017, J BEIJING I TECHNOLO, V0, P0
+   Unknown -, 2017, SOFT SCI, V0, P0, DOI DOI 10.13956/j.ss.1001-8409.2017.07.03
+   Unknown -, 2010, ECON. RES. J, V0, P0, DOI DOI 10.3969/j.issn.1001-828X.2016.22.010
+   Unknown -, 2016, J. DALIAN UNIV. TECHNOL. SOC. SCI. ED, V0, P0
+   Unknown -, 2016, GEOGR. RES. DEV, V0, P0
+   Breiman L, 1984, CLASSIFICATION REGRE, V0, P0
+   Breiman L, 2001, J. CLIN. MICROBIOL, V0, P0, DOI DOI 10.1023/A:1010933404324
+   Cao Z, 2014, STUDY ON OPTIMIZATION OF RANDOM FORESTS ALGORITHM, V0, P0
+   [董梅 Dong Mei], 2018, 中国人口·资源与环境 CHINA POPULATION RESOURCES AND ENVIRONMENT, V28, P94
+   Ebohon OJ, 2006, ENERG POLICY, V34, P3599, DOI 10.1016/j.enpol.2004.10.012
+   Fan JL, 2013, APPL ENERG, V101, P323, DOI 10.1016/j.apenergy.2012.01.020
+   Fan Y, 2007, ECOL ECON, V62, P683, DOI 10.1016/j.ecolecon.2006.08.016
+   Gingrich S, 2011, ENERG POLICY, V39, P535, DOI 10.1016/j.enpol.2010.10.006
+   Greening LA, 2001, ENERG ECON, V23, P153, DOI 10.1016/S0140-9883(00)00059-1
+   Iverson LR, 2008, FOREST ECOL MANAG, V254, P390, DOI 10.1016/j.foreco.2007.07.023
+   Kohavi R, 1998, MACH LEARN, V30, P271
+   Li HQ, 2012, ENERG POLICY, V41, P393, DOI 10.1016/j.enpol.2011.10.061
+   Stern DI, 2010, ENERG POLICY, V38, P6776, DOI 10.1016/j.enpol.2010.06.049
+   Tong J P, 2017, JOURNAL OF ARID LAND RESOURCES AND ENVIRONMENT, V31, P43
+   Voigt S, 2014, ENERG ECON, V41, P47, DOI 10.1016/j.eneco.2013.10.015
+   [王韶华 Wang Shaohua], 2013, 资源科学 RESOURCES SCIENCE, V35, P1438
+   You HeYuan You HeYuan, 2014, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V30, P224
+   Yuan JH, 2012, RENEW SUST ENERG REV, V16, P4970, DOI 10.1016/j.rser.2012.03.065
+   [张苗 Zhang Miao], 2016, 资源科学 RESOURCES SCIENCE, V38, P265, DOI 10.18402/resci.2016.02.09
+   Zhang YG, 2009, ECOL ECON, V68, P2399, DOI 10.1016/j.ecolecon.2009.03.014
+NR 29
+TC 41
+Z9 44
+U1 2
+U2 102
+PU SCIENCE PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 1009-637X
+EI 1861-9568
+J9 J GEOGR SCI
+JI J. Geogr. Sci.
+PD MAY 15
+PY 2020
+VL 30
+IS 5
+BP 743
+EP 756
+DI 10.1007/s11442-020-1753-4
+PG 14
+WC Geography, Physical
+SC Physical Geography
+GA LI5PZ
+UT WOS:000529539000004
+DA 2025-11-07
+ER
+
+PT J
+AU Byrnes, DK
+   Van Meter, KJ
+   Basu, NB
+AF Byrnes, D. K.
+   Van Meter, K. J.
+   Basu, N. B.
+TI Long-Term Shifts in US Nitrogen Sources and Sinks Revealed by the New TREND-Nitrogen Data Set (1930-2017)
+SO GLOBAL BIOGEOCHEMICAL CYCLES
+LA English
+DT Article
+DE budget; fertilizer; homogenization; landscape; manure; nitrogen
+ID net anthropogenic nitrogen; conterminous united-states; agricultural land; regional-variation; phosphorus inputs; corn-belt; export; population; watersheds; fertilizer
+AB Reactive nitrogen (N) fluxes have increased tenfold over the last century, driven by increases in population, shifting diets, and increased use of commercial N fertilizers. Runoff of excess N from intensively managed landscapes threatens drinking water quality and disrupts aquatic ecosystems. Excess N is also a major source of greenhouse gas emissions from agricultural soils. While N emissions from agricultural landscapes are known to originate from not only current-year N input but also legacy N accumulation in soils and groundwater, there has been limited access to fine-scale, long-term data regarding N inputs and outputs over decades of intensive agricultural land use. In the present work, we synthesize population, agricultural, and atmospheric deposition data to develop a comprehensive, 88-year (1930-2017) data set of county-scale components of the N mass balance across the contiguous United States (Trajectories Nutrient Dataset for nitrogen [TREND-nitrogen]). Using a machine-learning algorithm, we also develop spatially explicit typologies for components of the N mass balance. Our results indicate a large range of N trajectory behaviors across the United States due to differences in land use and management and particularly due to the very different drivers of N dynamics in densely populated urban areas compared with intensively managed agricultural zones. Our analysis of N trajectories also demonstrates a widespread functional homogenization of agricultural landscapes. This newly developed typology of N trajectories improves our understanding of long-term N dynamics, and the underlying data set provides a powerful tool for modeling the impacts of legacy N on past, present, and future water quality. Plain Language Summary Over the last century, people have increasingly used nitrogen fertilizer to increase crop yields. The nitrogen not taken up by crops in agricultural areas runs off of the land and pollutes rivers, lakes, and coastal areas. This excess nitrogen also forms a powerful greenhouse gas that contributes to climate change. Excess nitrogen can build up in the environment over time and pollute our water for decades. It is therefore necessary for us to know how much extra nitrogen has been applied over many decades to better understand current risks to the environment. In our study, we have used multiple data sources to calculate how much nitrogen has been added to the landscape, how much nitrogen has been removed through crop production, and how much human waste is produced, for every county in the contiguous United States from 1930 to 2017. We show that the main sources of nitrogen can be different in different areas of the country. We also show that high levels of nitrogen use can make landscapes in very different climates look very similar. This new data set will be very important for creating models that can predict how decades of high nitrogen inputs impact water quality and future changes in climate.
+C1 [Byrnes, D. K.] Univ Waterloo, Dept Civil & Environm Engn, Waterloo, ON, Canada.
+   [Van Meter, K. J.] Univ Illinois, Dept Earth & Environm Sci, Chicago, IL USA.
+   [Basu, N. B.] Univ Waterloo, Dept Earth & Environm Sci, Waterloo, ON, Canada.
+   [Basu, N. B.] Univ Waterloo, Water Inst, Waterloo, ON, Canada.
+C3 University of Waterloo; University of Illinois System; University of Illinois Chicago; University of Illinois Chicago Hospital; University of Waterloo; University of Waterloo
+RP Basu, NB (corresponding author), Univ Waterloo, Dept Earth & Environm Sci, Waterloo, ON, Canada.; Basu, NB (corresponding author), Univ Waterloo, Water Inst, Waterloo, ON, Canada.
+EM nandita.basu@uwaterloo.ca
+FU NSERC; Ontario Early Researcher Award; University of Illinois at Chicago; Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST)
+CR Alexander P, 2015, GLOBAL ENVIRON CHANG, V35, P138, DOI 10.1016/j.gloenvcha.2015.08.011
+   Alexander RB, 1990, 90130 US GEOL SURV, V0, P0, DOI DOI 10.3133/ofr90130
+   Alexander RB, 2001, COAST ESTUAR STUD, V57, P119
+   Unknown -, 2010, PUBL CROP SPEC DAT L, V0, P0
+   Unknown -, 2010, NUTRIENTS IN THE NATIONS STREAMS AND GROUNDWATER, V0, P0
+   Ascott MJ, 2017, NAT COMMUN, V8, P0, DOI 10.1038/s41467-017-01321-w
+   Ay M, 2014, J HYDROL, V511, P279, DOI 10.1016/j.jhydrol.2014.01.054
+   Basu NB, 2010, GEOPHYS RES LETT, V37, P0, DOI 10.1029/2010GL045168
+   Boland-Brien SJ, 2014, HYDROL PROCESS, V28, P5010, DOI 10.1002/hyp.9967
+   Bouwman AF, 2005, PEDOSPHERE, V15, P137
+   Boyer EW, 2002, BIOGEOCHEMISTRY, V57, P137, DOI 10.1023/A:1015709302073
+   Butler TJ, 2003, ATMOS ENVIRON, V37, P2093, DOI 10.1016/S1352-2310(03)00103-1
+   Byrnes DK, 2020, TRAJECTORIES NUTR DA, V0, P0
+   Camargo JA, 2006, ENVIRON INT, V32, P831, DOI 10.1016/j.envint.2006.05.002
+   Cao PY, 2018, EARTH SYST SCI DATA, V10, P969, DOI 10.5194/essd-10-969-2018
+   Chen DJ, 2014, ENVIRON SCI TECHNOL, V48, P5683, DOI 10.1021/es500127t
+   Collins Kimberly, 2004, IMPERIAL-MEXICALI VALLEYS: DEVELOPMENT AND ENVIRONMENT OF THE U.S.-MEXICAN BORDER REGION, V0, P0
+   Del Grosso S, 2002, ENVIRON POLLUT, V116, PS75, DOI 10.1016/S0269-7491(01)00260-3
+   Donner SD, 2004, GLOBAL BIOGEOCHEM CY, V18, P0, DOI 10.1029/2003GB002093
+   EPA, 2004, 832R04001 US EPA, V0, P0
+   EPA, 2005, HDB MAN ONS CLUST DE, V0, P0
+   Galloway JN, 2008, SCIENCE, V320, P889, DOI 10.1126/science.1136674
+   GALLOWAY JN, 1995, GLOBAL BIOGEOCHEM CY, V9, P235, DOI 10.1029/95GB00158
+   Goyette JO, 2016, GLOBAL BIOGEOCHEM CY, V30, P1000, DOI 10.1002/2016GB005384
+   Granastein D, 2014, WASHINGTON AGR NUMBE, V0, P0
+   Green TR, 2018, SCI TOTAL ENVIRON, V618, P1613, DOI 10.1016/j.scitotenv.2017.09.325
+   Grizzetti B, 2005, WATER SCI TECHNOL, V51, P83, DOI 10.2166/wst.2005.0578
+   Groffman PM, 2014, FRONT ECOL ENVIRON, V12, P74, DOI 10.1890/120374
+   Gu BJ, 2013, GLOBAL ENVIRON CHANG, V23, P1112, DOI 10.1016/j.gloenvcha.2013.05.004
+   Haines M, 2018, US AGR DATA 1840 201, V0, P0, DOI DOI 10.3886/ICPSR35206.v4
+   Hamlin QF, 2020, J GEOPHYS RES-BIOGEO, V125, P0, DOI 10.1029/2019JG005134
+   Han HJ, 2008, BIOGEOCHEMISTRY, V91, P177, DOI 10.1007/s10533-008-9279-3
+   Hansen B, 2017, SCI REP-UK, V7, P0, DOI 10.1038/s41598-017-07147-2
+   Harding LW Jr, 2019, SCI REP-UK, V9, P0, DOI 10.1038/s41598-019-43036-6
+   Hartigan JA, 1979, APPLIED STATISTICS, V28, P100, DOI 10.2307/2346830
+   Hilimire K, 2011, J SUSTAIN AGR, V35, P376, DOI 10.1080/10440046.2011.562042
+   Hong BG, 2013, ENVIRON SCI TECHNOL, V47, P5199, DOI 10.1021/es303437c
+   Hong B, 2012, ECOL MODEL, V227, P117, DOI 10.1016/j.ecolmodel.2011.12.002
+   Hong B, 2011, ENVIRON MODELL SOFTW, V26, P623, DOI 10.1016/j.envsoft.2010.11.012
+   Houck JP, 1972, SOYBEANS THEIR PRODU, V0, P0
+   Houlton BZ, 2013, BIOGEOCHEMISTRY, V114, P11, DOI 10.1007/s10533-012-9801-5
+   Howarth RW, 2006, BIOGEOCHEMISTRY, V79, P163, DOI 10.1007/s10533-006-9010-1
+   Howarth RW, 2002, AMBIO, V31, P88, DOI 10.1639/0044-7447(2002)031[0088:NUITUS]2.0.CO;2
+   Hudiburg TW, 2016, NAT ENERGY, V1, P0, DOI 10.1038/NENERGY.2015.5
+   Hymowitz T, 2005, CROP SCI, V45, P473, DOI 10.2135/cropsci2005.0473
+   Ilampooranan I, 2019, WATER RESOUR RES, V55, P3941, DOI 10.1029/2018wr023815
+   Kahl JS, 2004, ENVIRON SCI TECHNOL, V38, P484A, DOI 10.1021/es040686l
+   Keppen D, 2015, J ENVIRON STUD SCI, V5, P362, DOI 10.1007/s13412-015-0283-3
+   Kodinariya TMPRMakwana, 2013, INT J ADV RES COMPUT, V1, P90, DOI 10.18576/AMIS/100428
+   Kopácek J, 2013, ENVIRON SCI TECHNOL, V47, P6400, DOI 10.1021/es400181m
+   Lassaletta L, 2014, ENVIRON RES LETT, V9, P0, DOI 10.1088/1748-9326/9/10/105011
+   Likas A, 2003, PATTERN RECOGN, V36, P451, DOI 10.1016/S0031-3203(02)00060-2
+   Lloret J, 2016, BIOGEOCHEMISTRY, V129, P165, DOI 10.1007/s10533-016-0225-5
+   MacKAY DJC, 2004, INFORMATION THEORY, V0, P0
+   Mallya G, 2013, J HYDROL ENG, V18, P737, DOI 10.1061/(ASCE)HE.1943-5584.0000786
+   Mayorga E, 2010, ENVIRON MODELL SOFTW, V25, P837, DOI 10.1016/j.envsoft.2010.01.007
+   McKinney ML, 2006, BIOL CONSERV, V127, P247, DOI 10.1016/j.biocon.2005.09.005
+   Metson GS, 2016, SCI TOTAL ENVIRON, V542, P1117, DOI 10.1016/j.scitotenv.2015.08.047
+   Miller EE, 1948, ECON GEOGR, V24, P19, DOI 10.2307/141035
+   Mosier AR, 2004, SCOPE SER, V65, P3
+   Ort DR, 2014, SCIENCE, V344, P483, DOI 10.1126/science.1253884
+   Ortolano L, 2000, GRAND COULEE DAM COL, V0, P0
+   Rabalais NN, 2002, HYDROBIOLOGIA, V475, P39, DOI 10.1023/A:1020388503274
+   Rieniets T, 2009, NAT CULT, V4, P231, DOI 10.3167/nc.2009.040302
+   Rockström J, 2009, NATURE, V461, P472, DOI 10.1038/461472a
+   Sabo RD, 2019, J GEOPHYS RES-BIOGEO, V124, P3104, DOI 10.1029/2019JG005110
+   Schullehner J, 2018, INT J CANCER, V143, P73, DOI 10.1002/ijc.31306
+   Sebilo M, 2013, P NATL ACAD SCI USA, V110, P18185, DOI 10.1073/pnas.1305372110
+   Smil V, 1999, NATURE, V400, P415, DOI 10.1038/22672
+   Steele MK, 2014, ECOL APPL, V24, P1070, DOI 10.1890/13-0983.1
+   Swaney DP, 2019, DATA BRIEF, V25, P0, DOI 10.1016/j.dib.2019.104265
+   Swaney DP, 2018, SCI TOTAL ENVIRON, V635, P498, DOI 10.1016/j.scitotenv.2018.04.027
+   Swaney DP, 2012, CURR OPIN ENV SUST, V4, P203, DOI 10.1016/j.cosust.2012.03.004
+   Syakila A, 2011, GREENHOUSE GAS MEASUREMENT AND MANAGEMENT, V1, P17, DOI 10.3763/ghgmm.2010.0007
+   USCensus Bureau, 2007, CENS US DEC COUNT PO, V0, P0
+   USCensus Bureau, 2016, CENS US INT COUNT PO, V0, P0
+   USDA, 2018, FERT US PRIC, V0, P0
+   USDA National Agricultural Statistics Service (NASS), 2017, NASS QUICK STATS DAT, V0, P0
+   USDA-NASS, 2017, CENSUS OF AGRICULTURE, V0, P0
+   Van Meter KJ, 2018, SCIENCE, V360, P427, DOI 10.1126/science.aar4462
+   Van Meter KJ, 2017, GLOBAL BIOGEOCHEM CY, V31, P2, DOI 10.1002/2016GB005498
+   Van Meter KJ, 2016, ENVIRON RES LETT, V11, P0, DOI 10.1088/1748-9326/11/3/035014
+   Van Meter KJ, 2015, ECOL APPL, V25, P451, DOI 10.1890/14-0662.1
+   Waisanen PJ, 2002, GLOBAL BIOGEOCHEM CY, V16, P0, DOI 10.1029/2001GB001843
+   Ward MH, 2018, INT J ENV RES PUB HE, V15, P0, DOI 10.3390/ijerph15071557
+   Yang QC, 2016, SCI TOTAL ENVIRON, V541, P1592, DOI 10.1016/j.scitotenv.2015.10.044
+   Yiridoe EK, 1997, J ENVIRON QUAL, V26, P1255, DOI 10.2134/jeq1997.00472425002600050009x
+NR 87
+TC 63
+Z9 75
+U1 4
+U2 121
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0886-6236
+EI 1944-9224
+J9 GLOBAL BIOGEOCHEM CY
+JI Glob. Biogeochem. Cycle
+PD SEP 15
+PY 2020
+VL 34
+IS 9
+BP 
+EP 
+DI 10.1029/2020GB006626
+PG 16
+WC Environmental Sciences; Geosciences, Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Geology; Meteorology & Atmospheric Sciences
+GA NY5CH
+UT WOS:000576406900003
+DA 2025-11-07
+ER
+
+PT J
+AU Chamberlain, SD
+   Hemes, KS
+   Eichelmann, E
+   Szutu, DJ
+   Verfaillie, JG
+   Baldocchi, DD
+AF Chamberlain, Samuel D.
+   Hemes, Kyle S.
+   Eichelmann, Elke
+   Szutu, Daphne J.
+   Verfaillie, Joseph G.
+   Baldocchi, Dennis D.
+TI Effect of Drought-Induced Salinization on Wetland Methane Emissions, Gross Ecosystem Productivity, and Their Interactions
+SO ECOSYSTEMS
+LA English
+DT Article
+DE eddy covariance; carbon dioxide; photosynthesis; peatland; transfer entropy; complex systems; saltwater intrusion
+ID eddy covariance; scale co2; salinity; fluxes; carbon; exchange; evapotranspiration; persistence; future; marsh
+AB Salinity gradients across estuaries influence wetland carbon storage, methane (CH4) biogeochemistry, and plant productivity. Estuarine freshwater wetlands may experience increases in salinity during drought; however, the impact of salinization on greenhouse gas (GHG) emissions is uncertain. We measured ecosystem-scale GHG emissions from a wetland experiencing salinization during the 2011-2017 California drought and used information theory analyses to quantify couplings and causal interactions between CH4 fluxes and two dominant environmental drivers; gross ecosystem photosynthesis and temperature. Machine learning models were then used to estimate salinization-induced changes in CH4 fluxes and plant productivity. We observed dynamic CH4 flux-driver relationships across the salinization disturbance event, where temperature connections strengthened, and productivity connections dampened during salinization. Annual gross ecosystem productivity reduced by 64% during peak salinization, whereas annual CH4 emissions only reduced by 10%, suggesting that other CH4 substrate sources compensated for reductions in recent photosynthate. Our results demonstrate the value of applying information theory and machine learning approaches to ecological analyses and suggest that drought-induced salinization may increase GHG emissions from estuarine freshwater wetlands.
+C1 [Chamberlain, Samuel D.; Hemes, Kyle S.; Eichelmann, Elke; Szutu, Daphne J.; Verfaillie, Joseph G.; Baldocchi, Dennis D.] Univ Calif Berkeley, Dept Environm Sci Policy & Management, 130 Mulford Hall, Berkeley, CA 94720 USA.
+C3 University of California System; University of California Berkeley
+RP Chamberlain, SD (corresponding author), Univ Calif Berkeley, Dept Environm Sci Policy & Management, 130 Mulford Hall, Berkeley, CA 94720 USA.
+EM schamberlain@berkeley.edu
+FU U.S. Department of Energy's Office of Science [7079856]; California Division of Fish and Wildlife, through California Department of Water Resources [4600011240]
+CR Albert LP, 2017, OECOLOGIA, V184, P25, DOI 10.1007/s00442-017-3853-0
+   Unknown -, 2016, J GEOPHYS RES-BIOGEO, V0, P0, DOI DOI 10.1002/2015JG003224
+   Unknown -, 2009, WATER RESOUR RES, V0, P0, DOI DOI 10.1029/2008WR007279
+   Unknown -, 2017, SAN FRANC ESTUARY WA, V0, P0, DOI DOI 10.15447/sfews.2017v15iss3art2
+   Unknown -, 2017, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0
+   Unknown -, 2010, HISTORIC, V0, P0
+   Ardón M, 2016, BIOGEOCHEMISTRY, V127, P411, DOI 10.1007/s10533-016-0189-5
+   Baldocchi D, 2015, AGR FOREST METEOROL, V207, P117, DOI 10.1016/j.agrformet.2015.03.010
+   Baldocchi D, 2014, GLOBAL CHANGE BIOL, V20, P3600, DOI 10.1111/gcb.12649
+   Barnett L, 2009, PHYS REV LETT, V103, P0, DOI 10.1103/PhysRevLett.103.238701
+   BEARE PA, 1987, ESTUARIES, V10, P165, DOI 10.2307/1352181
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Breiman L, 1996, MACH LEARN, V24, P123, DOI 10.1371/journal.pone.0010433
+   Bridgham SD, 2013, GLOBAL CHANGE BIOL, V19, P1325, DOI 10.1111/gcb.12131
+   Chamberlain SD, 2018, GLOBAL CHANGE BIOL, V24, P4107, DOI 10.1111/gcb.14124
+   Chamberlain SD, 2017, BOUND-LAY METEOROL, V165, P197, DOI 10.1007/s10546-017-0275-9
+   Chambers LG, 2013, BIOGEOCHEMISTRY, V115, P363, DOI 10.1007/s10533-013-9841-5
+   Chu H, 2017, J GEOPHYS RES-BIOGEO, V122, P289, DOI 10.1002/2016JG003576
+   Detto M, 2012, AM NAT, V179, P524, DOI 10.1086/664628
+   Eichelmann E, 2018, AGR FOREST METEOROL, V256, P179, DOI 10.1016/j.agrformet.2018.03.007
+   Feldman DR, 2018, NAT GEOSCI, V11, P238, DOI 10.1038/s41561-018-0085-9
+   Getz WM, 2018, ECOL LETT, V21, P153, DOI 10.1111/ele.12893
+   GLENN E, 1995, AQUAT BOT, V52, P75, DOI 10.1016/0304-3770(95)00492-I
+   Griscom BW, 2017, P NATL ACAD SCI USA, V114, P11645, DOI 10.1073/pnas.1710465114
+   Grolemond G, 2011, J STAT SOFTW, V40, P1
+   Hampton SE, 2013, FRONT ECOL ENVIRON, V11, P156, DOI 10.1890/120103
+   Hatala JA, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL051303
+   Hatala JA, 2012, AGR ECOSYST ENVIRON, V150, P1, DOI 10.1016/j.agee.2012.01.009
+   Hemes KS, 2018, GEOPHYS RES LETT, V45, P6081, DOI 10.1029/2018GL077747
+   Herbert ER, 2015, ECOSPHERE, V6, P0, DOI 10.1890/ES14-00534.1
+   Holm GO, 2016, WETLANDS, V36, P401, DOI 10.1007/s13157-016-0746-7
+   Knox SH, 2018, J GEOPHYS RES-BIOGEO, V123, P787, DOI 10.1002/2017JG004048
+   Knox SH, 2016, J GEOPHYS RES-BIOGEO, V121, P978, DOI 10.1002/2015JG003247
+   Knox SH, 2015, GLOBAL CHANGE BIOL, V21, P750, DOI 10.1111/gcb.12745
+   Krauss KW, 2018, GLOBAL BIOGEOCHEM CY, V32, P817, DOI 10.1029/2018GB005897
+   Kroeger KD, 2017, SCI REP-UK, V7, P0, DOI 10.1038/s41598-017-12138-4
+   Kuhn M, 2013, APPL PREDICTIVE MODE, V810, P0, DOI 10.1007/978-1-4614-6849-3
+   Larsen LG, 2017, LIMNOL OCEANOGR, V62, PS160, DOI 10.1002/lno.10613
+   Larsen LG, 2016, EARTH-SCI REV, V160, P111, DOI 10.1016/j.earscirev.2016.06.016
+   Leifeld J, 2018, NAT COMMUN, V9, P0, DOI 10.1038/s41467-018-03406-6
+   Miller RL, 2008, SAN FRANCISCO ESTUARY AND WATERSHED SCIENCE, V6, P0
+   Mitsch WJ, 2013, LANDSCAPE ECOL, V28, P583, DOI 10.1007/s10980-012-9758-8
+   Morrissey EM, 2014, GLOBAL CHANGE BIOL, V20, P1351, DOI 10.1111/gcb.12431
+   Neubauer SC, 2015, ECOSYSTEMS, V18, P1000, DOI 10.1007/s10021-015-9879-4
+   Nielsen DL, 2009, CLIMATIC CHANGE, V95, P523, DOI 10.1007/s10584-009-9564-8
+   Oikawa PY, 2017, J GEOPHYS RES-BIOGEO, V122, P145, DOI 10.1002/2016JG003438
+   Petrescu AMR, 2015, P NATL ACAD SCI USA, V112, P4594, DOI 10.1073/pnas.1416267112
+   Poffenbarger HJ, 2011, WETLANDS, V31, P831, DOI 10.1007/s13157-011-0197-0
+   Rinderera M, 2018, EARTH-SCI REV, V178, P29, DOI 10.1016/j.earscirev.2018.01.009
+   Runge J, 2015, NAT COMMUN, V6, P0, DOI 10.1038/ncomms9502
+   Runge J, 2012, PHYS REV LETT, V108, P0, DOI 10.1103/PhysRevLett.108.258701
+   Stocker BD, 2018, NEW PHYTOL, V218, P1430, DOI 10.1111/nph.15123
+   Sturtevant C, 2016, J GEOPHYS RES-BIOGEO, V121, P188, DOI 10.1002/2015JG003054
+   Syvitski JPM, 2009, NAT GEOSCI, V2, P681, DOI 10.1038/NGEO629
+   van Dijk G, 2015, BIOGEOCHEMISTRY, V126, P71, DOI 10.1007/s10533-015-0140-1
+   Vicuna S, 2007, J AM WATER RESOUR AS, V43, P482, DOI 10.1111/j.1752-1688.2007.00038.x
+   Watson EB, 2009, PLANT ECOL, V205, P113, DOI 10.1007/s11258-009-9602-7
+   WEBB EK, 1980, Q J ROY METEOR SOC, V106, P85, DOI 10.1002/qj.49710644707
+   Yu R, 2019, GLOBAL CHANGE BIOL, V25, P2352, DOI 10.1111/gcb.14602
+   Yvon-Durocher G, 2014, NATURE, V507, P488, DOI 10.1038/nature13164
+   Zeileis A, 2005, J STAT SOFTW, V14, P0
+NR 65
+TC 48
+Z9 55
+U1 3
+U2 101
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1432-9840
+EI 1435-0629
+J9 ECOSYSTEMS
+JI Ecosystems
+PD APR 15
+PY 2020
+VL 23
+IS 3
+BP 675
+EP 688
+DI 10.1007/s10021-019-00430-5
+PG 14
+WC Ecology
+SC Environmental Sciences & Ecology
+GA LJ7OG
+UT WOS:000530349500015
+DA 2025-11-07
+ER
+
+PT J
+AU Sarkodie, SA
+   Ackom, E
+   Bekun, FV
+   Owusu, PA
+AF Sarkodie, Samuel Asumadu
+   Ackom, Emmanuel
+   Bekun, Festus Victor
+   Owusu, Phebe Asantewaa
+TI Energy-Climate-Economy-Population Nexus: An Empirical Analysis in Kenya, Senegal, and Eswatini
+SO SUSTAINABILITY
+LA English
+DT Article
+DE kernel regularized least squares; environmental Kuznets curve; climate change; Kenya; Senegal; Eswatini; energy-growth-population nexus; panel data; heterogeneity; Kaya identity
+ID carbon-dioxide emissions; electricity consumption; growth; industrialization; tests
+AB Motivated by the Sustainable Development Goals (SDGs) and its impact by 2030, this study examines the relationship between energy consumption (SDG 7), climate (SDG 13), economic growth and population in Kenya, Senegal and Eswatini. We employ a Kernel Regularized Least Squares (KRLS) machine learning technique and econometric methods such as Dynamic Ordinary Least Squares (DOLS), Fully Modified Ordinary Least Squares (FMOLS) regression, the Mean-Group (MG) and Pooled Mean-Group (PMG) estimation models. The econometric techniques confirm the Environmental Kuznets Curve (EKC) hypothesis between income level and CO(2)emissions while the machine learning method confirms the scale effect hypothesis. We find that while CO(2)emissions, population and income level spur energy demand and utilization, economic development is driven by energy use and population dynamics. This demonstrates that income, population growth, energy and CO(2)emissions are inseparable, but require a collective participative decision in the achievement of the SDGs.
+C1 [Sarkodie, Samuel Asumadu; Owusu, Phebe Asantewaa] Nord Univ, Business Sch, Post Box 1490, N-8049 Bodo, Norway.
+   [Ackom, Emmanuel] Denmark Tech Univ DTU, Dept Technol Management & Econ, UNEP DTU Partnership, UN City Campus,Marmorvej 51, DK-2100 Copenhagen, Denmark.
+   [Bekun, Festus Victor] Istanbul Gelisim Univ, Fac Econ Adm & Social Sci, TR-34310 Istanbul, Turkey.
+   [Bekun, Festus Victor] South Ural State Univ, Sch Econ & Management, Dept Accounting Anal & Audit, 76 Lenin Aven, Chelyabinsk 454080, Russia.
+C3 Nord University; Technical University of Denmark; Istanbul Gelisim University; South Ural State University
+RP Sarkodie, SA (corresponding author), Nord Univ, Business Sch, Post Box 1490, N-8049 Bodo, Norway.
+EM asumadusarkodiesamuel@yahoo.com; emac@dtu.dk; fbekun@gelisim.edu.tr; phebeasantewaa@yahoo.com
+CR Unknown -, 2019, WORLD DEVELOPMENT INDICATORS, V0, P0
+   Asumadu-Sarkodie S, 2017, ENERG SOURCE PART B, V12, P77, DOI 10.1080/15567249.2016.1227886
+   Asumadu-Sarkodie S, 2017, ENERG SOURCE PART B, V12, P32, DOI 10.1080/15567249.2016.1225135
+   Asumadu-Sarkodie S, 2017, ENERG SOURCE PART B, V12, P495, DOI 10.1080/15567249.2016.1208304
+   Baranzini A, 2013, ENERG ECON, V36, P464, DOI 10.1016/j.eneco.2012.09.015
+   Barrett JA, 2014, DRIVERS, V0, P0
+   Canadell JG, 2007, P NATL ACAD SCI USA, V104, P18866, DOI 10.1073/pnas.0702737104
+   Dafrallah T, 2016, AIMS ENERGY, V4, P589, DOI 10.3934/energy.2016.4.589
+   Damette O, 2013, ENERG ECON, V37, P193, DOI 10.1016/j.eneco.2012.12.011
+   Davis SJ, 2010, SCIENCE, V329, P1330, DOI 10.1126/science.1188566
+   Destek MA, 2019, SCI TOTAL ENVIRON, V650, P2483, DOI 10.1016/j.scitotenv.2018.10.017
+   Dietz T, 2012, APPL GEOGR, V32, P21, DOI 10.1016/j.apgeog.2010.10.011
+   Energypedia Africa Energy Outlook, 2019, WORLD EN OUTL SPEC R, V0, P0
+   Etokakpan MU, 2020, ENERGY STRATEG REV, V31, P0, DOI 10.1016/j.esr.2020.100526
+   GROSSMAN GM, 1993, MEXICO-U.S. FREE TRADE AGREEMENT, V0, PP13, DOI 10.3386/W3914
+   Hainmueller J, 2014, POLIT ANAL, V22, P143, DOI 10.1093/pan/mpt019
+   Halicioglu F, 2009, ENERG POLICY, V37, P1156, DOI 10.1016/j.enpol.2008.11.012
+   IEA, 2019, EXP EN DAT CAT IND C, V0, P0
+   Kao C, 1999, J ECONOMETRICS, V90, P1, DOI 10.1016/S0304-4076(98)00023-2
+   KRAFT J, 1978, J ENERGY DEV, V3, P401
+   ONeill BC, 2010, P NATL ACAD SCI USA, V107, P17521, DOI 10.1073/pnas.1004581107
+   Owusu PA, 2016, COGENT ENG, V3, P0, DOI 10.1080/23311916.2016.1167990
+   Ozturk I, 2010, ENERG POLICY, V38, P340, DOI 10.1016/j.enpol.2009.09.024
+   Pedroni P, 2001, REV ECON STAT, V83, P727, DOI 10.1162/003465301753237803
+   Pedroni P, 1996, FULLY MODIFIED UNPUB, V5, P1
+   Pesaran MH, 2004, WORKING PAPER, V0, P0
+   Pesaran MH, 2007, J APPL ECONOMET, V22, P265, DOI 10.1002/jae.951
+   Raupach MR, 2007, P NATL ACAD SCI USA, V104, P10288, DOI 10.1073/pnas.0700609104
+   Roser M, 2019, HUMAN DEV INDEX HDI, V0, P0
+   Sarkodie SA, 2020, RENEW SUST ENERG REV, V117, P0, DOI 10.1016/j.rser.2019.109481
+   Sarkodie SA, 2018, SCI TOTAL ENVIRON, V643, P1590, DOI 10.1016/j.scitotenv.2018.06.320
+   Schandl H, 2016, J CLEAN PROD, V132, P45, DOI 10.1016/j.jclepro.2015.06.100
+   Tang CF, 2013, APPL ENERG, V104, P297, DOI 10.1016/j.apenergy.2012.10.061
+   Usman O, 2019, ENVIRON SCI POLLUT R, V26, P13390, DOI 10.1007/s11356-019-04696-z
+NR 34
+TC 30
+Z9 37
+U1 4
+U2 18
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD AUG 15
+PY 2020
+VL 12
+IS 15
+BP 
+EP 
+DI 10.3390/su12156202
+PG 14
+WC Green & Sustainable Science & Technology; Environmental Sciences; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA NL1XV
+UT WOS:000567217600001
+DA 2025-11-07
+ER
+
+PT J
+AU Xu, JS
+   Saleh, M
+   Hatzopoulou, M
+AF Xu, Junshi
+   Saleh, Marc
+   Hatzopoulou, Marianne
+TI A machine learning approach capturing the effects of driving behaviour and driver characteristics on trip-level emissions
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+DE Eco-score; Emission factor; Driver experience; SHAP; Gradient boosting; Vehicle emissions
+ID road grade; vehicles; model
+AB This study investigates the effects of different variables including meteorology, trip characteristics (such as time of day), driving characteristics (such as the frequency of extended idling), and driver characteristics (such as driving experience) on trip-level emission factors (EFs). Drivers in the Greater Toronto and Hamilton Area (GTHA) were recruited to collect in-vehicle GPS data over a one-week study period from March to July 2018. Data from 1113 driving trips were collected, including characteristics of the trips and the drivers (51 independent variables). Trip emissions were estimated in addition to a driving eco-score indicator (on a hundred point scale) based on log-transformed emissions of greenhouse gases (GHG) in CO2eq and fine particulate matter (PM2.5). A machine learning approach, the Extreme Gradient Boosting (XGBoost), was used to develop prediction models for CO2eq and PM2.5 emissions at a trip level. The coefficient of determination (R-2) and root-mean-square-error (RMSE) of eco-score models were respectively 0.84 (std. dev. 0.05), and 10.26 (std. dev. 1.24) for CO2eq, and 0.85 (std. dev. 0.03), and 10.64 (std. dev. 0.79) for PM2.5. The novel Shapley additive explanation (SHAP) measures were employed to reveal the importance of various features affecting trip emissions. For CO2eq, driving behavior such as the frequency of extended idling was found to have the most significant impact on the trip emission intensity. Additionally, driving experience was the most significant discrete feature affecting the ecoscore. For PM2.5, the most significant feature was driver age, which was highly correlated with vehicle model year. Finally, commuter drivers were found to have lower CO2eq and PM2.5 emission intensities, owing to their familiarity with route and traffic conditions.
+C1 [Xu, Junshi; Saleh, Marc; Hatzopoulou, Marianne] Univ Toronto, Civil & Mineral Engn, Toronto, ON, Canada.
+C3 University of Toronto
+RP Hatzopoulou, M (corresponding author), Univ Toronto, Civil & Mineral Engn, Toronto, ON, Canada.
+EM junshi.xu@mail.utoronto.ca; marc.saleh@mail.utoronto.ca; marianne.hatzopoulou@utoronto.ca
+FU Natural Sciences and Engineering Research Council of Canada [RGPAS 493151-16]
+CR Alam MS, 2018, TRANSPORT PLAN TECHN, V41, P244, DOI 10.1080/03081060.2018.1435436
+   Alam MS, 2014, TRANSPORT POLICY, V35, P42, DOI 10.1016/j.tranpol.2014.05.016
+   Unknown -, 2014, CANMAP ROUTELOGISTIC, V0, P0
+   Ashby B, 2018, TTS 2016 DATA GUIDE, V0, P0
+   Bai S, 2015, INT EM INV C 2015, V0, P0
+   Barth M, 2009, TRANSPORT RES D-TR E, V14, P400, DOI 10.1016/j.trd.2009.01.004
+   Belz NP, 2011, TRANSPORT RES REC, V0, PP184, DOI 10.3141/2265-21
+   Ben-Chaim M, 2013, ENERGIES, V6, P117, DOI 10.3390/en6010117
+   Bühlmann P, 2007, STAT SCI, V22, P477, DOI 10.1214/07-STS242
+   Chen C, 2018, J ADV TRANSPORT, V0, P0, DOI DOI 10.1155/2018/9530470
+   Chen T, 2015, XGBOOST EXTREME GRAD, V0, P0
+   Ferreira JC, 2015, IEEE T INTELL TRANSP, V16, P1
+   Frey HC, 2008, ENVIRON SCI TECHNOL, V42, P2483, DOI 10.1021/es702493v
+   Goudarzi MA, 2017, GEOD CARTOGR, V43, P56, DOI 10.3846/20296991.2017.1330767
+   Krecl P, 2018, ATMOS ENVIRON, V186, P229, DOI 10.1016/j.atmosenv.2018.05.042
+   Lundberg SM, 2018, CONSISTENT INDIVIDUA, V0, P0
+   Ministry of Natural Resources, 2017, LAND INF ONT DAT DES, V0, P0
+   Ontarios Ministry of Transportation, 2016, ONT STAT MAN REP SUM, V0, P0
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Robinson C, 2017, APPL ENERG, V208, P889, DOI 10.1016/j.apenergy.2017.09.060
+   Schipperijn J, 2014, FRONT PUBLIC HEALTH, V2, P0, DOI 10.3389/fpubh.2014.00021
+   Sentoff KM, 2015, TRANSPORT RES D-TR E, V35, P175, DOI 10.1016/j.trd.2014.11.021
+   Song GH, 2009, TRANSPORT RES REC, V0, PP11, DOI 10.3141/2139-02
+   Svetnik V, 2005, J CHEM INF MODEL, V45, P786, DOI 10.1021/ci0500379
+   Tu R, 2018, TRANSPORT RES D-TR E, V62, P604, DOI 10.1016/j.trd.2018.04.011
+   USEPA, 2013, MOVES2014A US GUID, V0, P0
+   US Environmental Protection Agency, 2011, DEV EM RAT LIGHT DUT, V0, P0
+   US EPA, 2014, BRAK TIR WEAR EM ON, V0, P0
+   USEPA, 2015, EXH EM RAT LIGHT DUT, V0, P0
+   Wang J, 2004, TRANSPORT RES REC, V0, P158
+   Wang SP, 2011, COMPUT RISK MANAG, V0, PP437, DOI 10.1007/978-3-642-18387-4_48
+   Xu XD, 2016, TRANSPORT RES REC, V0, PP107, DOI 10.3141/2570-12
+   Zhao WM, 2018, TRANSPORT RES C-EMER, V95, P802, DOI 10.1016/j.trc.2018.05.025
+   Zheng FF, 2017, TRANSP RES PROC, V27, P624, DOI 10.1016/j.trpro.2017.12.142
+   Zhou M, 2016, TRANSPORT RES D-TR E, V49, P203, DOI 10.1016/j.trd.2016.09.008
+   2017, 1900, P1, V0, P0
+NR 36
+TC 29
+Z9 39
+U1 2
+U2 65
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 1873-2844
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD MAR 1
+PY 2020
+VL 224
+IS 
+BP 
+EP 
+DI 10.1016/j.atmosenv.2020.117311
+PG 14
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA LD2LV
+UT WOS:000525865300023
+DA 2025-11-07
+ER
+
+PT J
+AU Wu, HB
+   Zhao, Q
+   Gao, QZ
+   Li, YE
+   Wan, YF
+   Li, Y
+   Tian, D
+   Liao, YL
+   Fan, MR
+   Ganjurjav, H
+   Hu, GZ
+   Wang, B
+   Chen, X
+   Qin, XB
+AF Wu, Hongbao
+   Zhao, Qiang
+   Gao, Qingzhu
+   Li, Yu'e
+   Wan, Yunfan
+   Li, Yong
+   Tian, Di
+   Liao, Yulin
+   Fan, Meirong
+   Ganjurjav, Hasbagan
+   Hu, Guozheng
+   Wang, Bin
+   Chen, Xuan
+   Qin, Xiaobo
+TI Human Activities Inducing High CH4 Diffusive Fluxes in an Agricultural River Catchment in Subtropical China
+SO SUSTAINABILITY
+LA English
+DT Article
+DE CH4 diffusive fluxes; spatiotemporal variation; agricultural catchment; river network; human activities
+ID soil microbial community; fresh-water; methane production; gas-exchange; nitrogen deposition; emissions; carbon; oxidation; release; estuary
+AB Methane (CH4) is one of the key greenhouse gases (GHGs) in the atmosphere with current concentration of 1859 ppb in 2017 due to climate change and anthropogenic activities. Rivers are of increasing concern due to sources of atmospheric CH4. However, knowledge and data limitations exist for field studies of subtropical agricultural river catchments, particularly in southern China. The headspace balance method and the diffusion model method were employed to assess spatiotemporal variations of CH4 diffusive fluxes from April 2015 to January 2016 in four order reaches (S1, S2, S3, and S4) of the Tuojia River, Hunan, China. Results indicated that both the dissolved concentrations and diffusive fluxes of CH4 showed obvious spatiotemporal variations. The observed mean concentration and diffusive flux of CH4 were 0.40 +/- 0.02 mu mol L-1 and 41.19 +/- 2.50 mu g m(-2) h(-1), respectively, showing the river to be a strong source of atmospheric CH4. The CH4 diffusive fluxes during the rice-growing seasons were significantly greater than the winter fallow season (an increase of 80.26%). The spatial distribution of CH4 diffusive fluxes increased gradually from (17.58 +/- 1.42) to (55.56 +/- 4.32) mu g m(-2) h(-1) due to the organic and nutrient loading into the river waterbodies, with the maximum value at location S2 and the minimum value at location S1. Correlation analysis showed that the CH4 diffusive fluxes exhibited a positive relationship with the dissolved organic carbon (DOC), salinity, and water temperature (WT), while a negative correlation occurred between CH4 diffusive fluxes and the dissolved oxygen (DO) concentration, as well as the pH value. Our findings highlighted that a good understanding of exogenous nutrient loading in agricultural catchments will clarify the influence of human activities on river water quality and then constrain the global CH4 budget.
+C1 [Wu, Hongbao; Gao, Qingzhu; Li, Yu'e; Wan, Yunfan; Ganjurjav, Hasbagan; Hu, Guozheng; Wang, Bin; Chen, Xuan; Qin, Xiaobo] Chinese Acad Agr Sci, Inst Environm & Sustainable Dev Agr, Beijing 100081, Peoples R China.
+   [Zhao, Qiang] Anhui Normal Univ, Sch Geog & Tourism, Wuhu 241000, Peoples R China.
+   [Li, Yu'e; Li, Yong] Chinese Acad Sci, Inst Subtrop Agr, Key Lab Agroecol Proc Subtrop Reg, Changsha 410125, Peoples R China.
+   [Tian, Di] Capital Normal Univ, Coll Life Sci, Beijing 100048, Peoples R China.
+   [Liao, Yulin] Soils & Fertilizer Inst Hunan Prov, Changsha 410125, Peoples R China.
+   [Fan, Meirong] Changsha Environm Protect Coll, Changsha 410004, Peoples R China.
+C3 Chinese Academy of Agricultural Sciences; Institute of Environment & Sustainable Development in Agriculture, CAAS; Anhui Normal University; Chinese Academy of Sciences; Institute of Subtropical Agriculture, CAS; Capital Normal University
+RP Qin, XB (corresponding author), Chinese Acad Agr Sci, Inst Environm & Sustainable Dev Agr, Beijing 100081, Peoples R China.
+EM qinxiaobo@caas.cn
+FU National Natural Science Foundation of China [41775157, 41475129]; National Key Basic Research Program of China [2012CB417106]
+CR Unknown -, 2014, STATISTICAL DATABASE, V0, P0
+   Anthony SE, 2012, LIMNOL OCEANOGR, V57, P1517, DOI 10.4319/lo.2012.57.5.1517
+   Avery GB, 2003, BIOGEOCHEMISTRY, V62, P19, DOI 10.1023/A:1021128400602
+   BACHOON D, 1992, SOIL BIOL BIOCHEM, V24, P21, DOI 10.1016/0038-0717(92)90237-R
+   Bastviken D, 2011, SCIENCE, V331, P50, DOI 10.1126/science.1196808
+   Bodelier PLE, 2004, FEMS MICROBIOL ECOL, V47, P265, DOI 10.1016/S0168-6496(03)00304-0
+   Borges AV, 2018, SCI TOTAL ENVIRON, V610, P342, DOI 10.1016/j.scitotenv.2017.08.047
+   [陈槐 CHEN Huai], 2006, 应用与环境生物学报 CHINESE JOURNAL OF APPLIED AND ENVIRONMENTAL BIOLOGY, V12, P726
+   Chin KJ, 1999, APPL ENVIRON MICROB, V65, P2341
+   Conrad R, 1999, FEMS MICROBIOL ECOL, V28, P193, DOI 10.1111/j.1574-6941.1999.tb00575.x
+   Crowe SA, 2011, GEOBIOLOGY, V9, P61, DOI 10.1111/j.1472-4669.2010.00257.x
+   Ding WX, 2005, ATMOS ENVIRON, V39, P3199, DOI 10.1016/j.atmosenv.2005.02.022
+   Dyson KE, 2011, BIOGEOCHEMISTRY, V103, P125, DOI 10.1007/s10533-010-9452-3
+   Galbally IE, 2008, J ENVIRON QUAL, V37, P599, DOI 10.2134/jeq2006.0445
+   Gao XX, 2007, STUDY METHANE FLUX E, V0, P0
+   Gong Dian-lin, 2017, JOURNAL OF ECOLOGY AND RURAL ENVIRONMENT, V33, P509, DOI 10.11934/j.issn.1673-4831.2017.06.004
+   Hao LP, 2011, ENVIRON SCI TECHNOL, V45, P508, DOI 10.1021/es102228v
+   Heilman MA, 2001, AQUAT BOT, V71, P19, DOI 10.1016/S0304-3770(01)00166-8
+   Hines ME, 2008, GLOBAL BIOGEOCHEM CY, V22, P0, DOI 10.1029/2006GB002903
+   Holmes ME, 2014, J GEOPHYS RES-BIOGEO, V119, P1267, DOI 10.1002/jgrg.20122
+   Huttunen JT, 2006, BOREAL ENVIRON RES, V11, P27
+   KELLY CA, 1981, LIMNOL OCEANOGR, V26, P891, DOI 10.4319/lo.1981.26.5.0891
+   KHALIL MAK, 1983, J GEOPHYS RES-OCEANS, V88, P5131, DOI 10.1029/JC088iC09p05131
+   Kirschke S, 2013, NAT GEOSCI, V6, P813, DOI 10.1038/NGEO1955
+   Kirtman B, 2013, CLIMATE CHANGE 2013, V0, P0, DOI DOI 10.1017/CBO9781107415324
+   Koné YJM, 2010, BIOGEOCHEMISTRY, V100, P21, DOI 10.1007/s10533-009-9402-0
+   KUIVILA KM, 1989, GEOCHIM COSMOCHIM AC, V53, P409, DOI 10.1016/0016-7037(89)90392-X
+   Le Mer J, 2001, EUR J SOIL BIOL, V37, P25, DOI 10.1016/S1164-5563(01)01067-6
+   Li JL, 2018, GEODERMA, V315, P1, DOI 10.1016/j.geoderma.2017.11.033
+   Liss PS, 1986, ROLE AIR GAS EXCHANG, V0, P113
+   [刘恺华 Liu Kaihua], 2015, 地球与环境 EARTH AND ENVIRONMENT, V43, P415
+   Lü F, 2013, WATER RES, V47, P2297, DOI 10.1016/j.watres.2013.01.049
+   Oswald K, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0132574
+   Qin XB, 2020, SCI TOTAL ENVIRON, V717, P0, DOI 10.1016/j.scitotenv.2020.137244
+   Qin XB, 2019, ENVIRON SCI TECHNOL, V53, P10781, DOI 10.1021/acs.est.9b03896
+   Qu BG, 2017, SCI REP-UK, V7, P1, DOI 10.1038/srep43059
+   Rajkumar AN, 2008, MAR POLLUT BULL, V56, P2043, DOI 10.1016/j.marpolbul.2008.08.005
+   Raymond PA, 2001, ESTUARIES, V24, P312, DOI 10.2307/1352954
+   Reeburgh WS, 2007, CHEM REV, V107, P486, DOI 10.1021/cr050362v
+   Schade JD, 2016, LIMNOL OCEANOGR, V61, PS165, DOI 10.1002/lno.10337
+   Schrier-Uijl AP, 2011, BIOGEOCHEMISTRY, V102, P265, DOI 10.1007/s10533-010-9440-7
+   Seitzinger SP, 1998, GLOBAL BIOGEOCHEM CY, V12, P93, DOI 10.1029/97GB03657
+   Sieczko AK, 2016, LIMNOL OCEANOGR, V61, PS175, DOI 10.1002/lno.10346
+   Song LF, 2014, CHARACTERISTIC INFLU, V0, P0
+   Stanley EH, 2016, ECOL MONOGR, V86, P146, DOI 10.1890/15-1027
+   Tan YJ, 2017, GREENHOUSE GASES EMI, V0, P0
+   Teodoru CR, 2014, BIOGEOSCIENCES DISCUSS, V11, P16391, DOI 10.5194/bgd-11-16391- 2014
+   Thu ZY, 2019, AGR OUTLOOK, V4, P6
+   Tian D, 2017, SCI TOTAL ENVIRON, V607, P1367, DOI 10.1016/j.scitotenv.2017.06.057
+   Venkiteswaran JJ, 2014, ENVIRON SCI TECHNOL, V48, P1566, DOI 10.1021/es500069j
+   Wang Y, 2014, AGR ECOSYST ENVIRON, V184, P9, DOI 10.1016/j.agee.2013.11.007
+   WANNINKHOF R, 1992, J GEOPHYS RES-OCEANS, V97, P7373, DOI 10.1029/92JC00188
+   Whiticar MJ, 1999, CHEM GEOL, V161, P291, DOI 10.1016/S0009-2541(99)00092-3
+   WMO, 2017, GREENH GAS B, V0, P0
+   Wright AL, 2001, SOIL SCI SOC AM J, V65, P588, DOI 10.2136/sssaj2001.652588x
+   Wu HB, 2017, GREENHOUSE GAS EMISS, V0, P0
+   [吴红宝 Wu Hongbao], 2017, 环境科学学报 ACTA SCIENTIAE CIRCUMSTANTIAE, V37, P1539
+   [吴凯 WU Kai], 2006, 灌溉排水学报 JOURNAL OF IRRIGATION AND DRAINAGE, V25, P7
+   Wu S, 2019, ENVIRON SCI TECHNOL, V53, P3499, DOI 10.1021/acs.est.8b05286
+   Xiong QL, 2016, APPL SOIL ECOL, V101, P72, DOI 10.1016/j.apsoil.2016.01.011
+   Xu W, 2017, MICROMACHINED THERMAL FLOW SENSOR BASED ON CMOS MEMS TECHNOLOGY, V0, P0
+   Yang LB, 2012, J INTEGR AGR, V11, P665, DOI 10.1016/S2095-3119(12)60054-9
+   Yang SS, 2015, ATMOS POLLUT RES, V6, P52, DOI 10.5094/APR.2015.007
+   Yuan MD, 2016, METHANOGENESIS NITRO, V0, P0
+   Zeng FW, 2011, BIOGEOCHEMISTRY, V104, P275, DOI 10.1007/s10533-010-9501-y
+   Zhang G, 2008, BIOGEOCHEMISTRY, V91, P71, DOI 10.1007/s10533-008-9259-7
+   Zhang W, 2011, GLOBAL CHANGE BIOL, V17, P3511, DOI 10.1111/j.1365-2486.2011.02495.x
+   [张羽 Zhang Yu], 2016, 中国农业科学 SCIENTIA AGRICULTURA SINICA, V49, P3968
+   Zhao Qiang, 2018, YINGYONG SHENGTAI XUEBAO, V29, P1450, DOI 10.13287/j.1001-9332.201805.030
+   Zhu ZL, 2002, NITROGEN CYCLING, V0, P0
+   Zou JW, 2005, GLOBAL BIOGEOCHEM CY, V19, P0, DOI 10.1029/2004GB002401
+NR 71
+TC 6
+Z9 8
+U1 2
+U2 76
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD MAR 1
+PY 2020
+VL 12
+IS 5
+BP 
+EP 
+DI 10.3390/su12052114
+PG 16
+WC Green & Sustainable Science & Technology; Environmental Sciences; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA KY3KU
+UT WOS:000522470900415
+DA 2025-11-07
+ER
+
+PT J
+AU Csillik, O
+   Asner, GP
+AF Csillik, Ovidiu
+   Asner, Gregory P.
+TI Aboveground carbon emissions from gold mining in the Peruvian Amazon
+SO ENVIRONMENTAL RESEARCH LETTERS
+LA English
+DT Article
+DE deep learning; forest degradation; gold mining; Madre de Dios; Planet Dove; REDD plus; tropical forest
+ID vegetation index; conservation; deforestation; satellite; impacts; planet; stocks; area
+AB In the Peruvian Amazon, high biodiversity tropical forest is underlain by gold-enriched subsurface alluvium deposited from the Andes, which has generated a clash between short-term earnings for miners and long-term environmental damage. Tropical forests sequester important amounts of carbon, but deforestation and forest degradation continue to spread in Madre de Dios, releasing carbon to the atmosphere. Updated spatially explicit quantification of aboveground carbon emissions caused by gold mining is needed to further motivate conservation efforts and to understand the effects of illegal mining on greenhouse gases. We used satellite remote sensing, airborne LiDAR, and deep learning models to create high-resolution, spatially explicit estimates of aboveground carbon stocks and emissions from gold mining in 2017 and 2018. For an area of similar to 750 000 ha, we found high variations in aboveground carbon density (ACD) with mean ACD of 84.6 (36.4 standard deviation) Mg C ha(-1) and 83.9 (36.0) Mg C ha(-1) for 2017 and 2018, respectively. An alarming 1.12 Tg C of emissions occurred in a single year affecting 23,613 hectares, including in protected zones and their ecological buffers. Our methods and findings are preparatory steps for the creation of an automated, high-resolution forest carbon emission monitoring system that will track near real-time changes and will support actions to reduce the environmental impacts of gold mining and other destructive forest activities.
+C1 [Csillik, Ovidiu; Asner, Gregory P.] Arizona State Univ, Ctr Global Discovery & Conservat Sci, Tempe, AZ 85281 USA.
+C3 Arizona State University; Arizona State University-Tempe
+RP Csillik, O (corresponding author), Arizona State Univ, Ctr Global Discovery & Conservat Sci, Tempe, AZ 85281 USA.
+EM ocsillik@asu.edu
+FU Erol Foundation; Avatar Alliance Foundation; Margaret A Cargill Foundation; David and Lucile Packard Foundation; Grantham Foundation for the Protection of the Environment; WMKeck Foundation; John D and Catherine T MacArthur Foundation; Andrew Mellon Foundation; Gordon and Betty Moore Foundation
+CR Abadi M, 2016, PROCEEDINGS OF OSDI16: 12TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, V0, P265
+   Alonzo M, 2016, SCI REP-UK, V6, P0, DOI 10.1038/srep35129
+   Alvarez-Berrios Nora L, 2015, ENVIRONMENTAL RESEARCH LETTERS, V10, P0, DOI 10.1088/1748-9326/10/1/014006
+   Alvarez-Berríos N, 2016, TROP CONSERV SCI, V9, P832, DOI 10.1177/194008291600900216
+   Unknown -, 2017, PLANET APPLICATION PROGRAM INTERFACE: IN SPACE FOR LIFE ON EARTH, V0, P0
+   Unknown -, 2019, MAAP 96 GOLD MIN DEF, V0, P0
+   Aragon B, 2018, REMOTE SENS-BASEL, V10, P0, DOI 10.3390/rs10121867
+   Asner GP, 2017, REMOTE SENS ECOL CON, V3, P57, DOI 10.1002/rse2.42
+   Asner GP, 2018, BIOL CONSERV, V217, P289, DOI 10.1016/j.biocon.2017.10.020
+   Asner GP, 2017, ENVIRON RES LETT, V12, P0, DOI 10.1088/1748-9326/aa7dab
+   Asner GP, 2014, P NATL ACAD SCI USA, V111, PE5016, DOI 10.1073/pnas.1419550111
+   Asner GP, 2013, P NATL ACAD SCI USA, V110, P18454, DOI 10.1073/pnas.1318271110
+   Asner GP, 2012, REMOTE SENS ENVIRON, V124, P454, DOI 10.1016/j.rse.2012.06.012
+   Asner GP, 2010, P NATL ACAD SCI USA, V107, P16738, DOI 10.1073/pnas.1004875107
+   Boyle SA, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0086908
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Brodrick PG, 2019, TRENDS ECOL EVOL, V34, P734, DOI 10.1016/j.tree.2019.03.006
+   Castello L, 2016, GLOBAL CHANGE BIOL, V22, P990, DOI 10.1111/gcb.13173
+   Chollet F, 2015, KERAS, V0, P0
+   Corbera E, 2011, ENVIRON SCI POLICY, V14, P89, DOI 10.1016/j.envsci.2010.11.002
+   De Klein C, 2006, N2O EMISSIONS MANAGE, V0, P0
+   DeDecker L, 2021, GUT MICROBES, V13, P0, DOI 10.1080/19490976.2020.1854641
+   Elmes A, 2014, REMOTE SENS LETT, V5, P882, DOI 10.1080/2150704X.2014.973080
+   Espejo JC, 2018, REMOTE SENS-BASEL, V10, P0, DOI 10.3390/rs10121903
+   Finer M, 2018, SCIENCE, V360, P1303, DOI 10.1126/science.aat1203
+   Gardner E, 2012, NATURE, V486, P306, DOI 10.1038/486306a
+   GENTRY AH, 1988, P NATL ACAD SCI USA, V85, P156, DOI 10.1073/pnas.85.1.156
+   Gitelson AA, 1996, REMOTE SENS ENVIRON, V58, P289, DOI 10.1016/S0034-4257(96)00072-7
+   Gorelick N, 2017, REMOTE SENS ENVIRON, V202, P18, DOI 10.1016/j.rse.2017.06.031
+   Hilson G, 2002, NAT RESOUR FORUM, V26, P3, DOI 10.1111/1477-8947.00002
+   Houborg R, 2018, REMOTE SENS ENVIRON, V209, P211, DOI 10.1016/j.rse.2018.02.067
+   HUETE A R, 1988, REMOTE SENSING OF ENVIRONMENT, V25, P295, DOI 10.1016/0034-4257(88)90106-X
+   Jiang ZY, 2008, REMOTE SENS ENVIRON, V112, P3833, DOI 10.1016/j.rse.2008.06.006
+   JORDAN CF, 1969, ECOLOGY, V50, P663, DOI 10.2307/1936256
+   Joshi N, 2017, SCI REP-UK, V7, P0, DOI 10.1038/s41598-017-03469-3
+   Kahhat R, 2019, SCI TOTAL ENVIRON, V662, P940, DOI 10.1016/j.scitotenv.2019.01.246
+   Kalamandeen M, 2018, SCI REP-UK, V8, P0, DOI 10.1038/s41598-018-19358-2
+   Kingma DP, 2014, ADV NEUR IN, V27, P0
+   Kirkby CA, 2010, PLOS ONE, V5, P0, DOI 10.1371/journal.pone.0013015
+   Martinez G, 2018, INT J ENV RES PUB HE, V15, P0, DOI 10.3390/ijerph15081584
+   Mascaro J, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0085993
+   Moreno-Brush M, 2016, ENVIRON POLLUT, V218, P150, DOI 10.1016/j.envpol.2016.08.038
+   Nomura K, 2019, ENVIRON RES LETT, V14, P0, DOI 10.1088/1748-9326/aafc6b
+   Ober JA, 2018, MINERAL COMMODITY SU, V0, P0
+   Román-Dañobeytia F, 2015, ECOL ENG, V85, P39, DOI 10.1016/j.ecoleng.2015.09.075
+   Rondeaux G, 1996, REMOTE SENS ENVIRON, V55, P95, DOI 10.1016/0034-4257(95)00186-7
+   Rouse JW, 1974, 3 EARTH RESOURCES TE, V0, P0
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Salo M, 2016, EXTRACT IND SOC, V3, P1058, DOI 10.1016/j.exis.2016.10.001
+   Snapir B, 2017, INT J APPL EARTH OBS, V58, P225, DOI 10.1016/j.jag.2017.02.009
+   Stewart PD, 1988, ORYX, V22, P95
+   Swenson JJ, 2011, PLOS ONE, V6, P0, DOI 10.1371/journal.pone.0018875
+   Tadono T, 2014, ISPRS ANN PHOTOGRAMM, VII-4, P71, DOI 10.5194/ISPRSANNALS-II-4-71-2014
+   Takaku J, 2014, ISPRS - INT. ARCH. PHOTOGRAMM. REMOTE SENS. SPAT. INF. SCI, V4, P243, DOI 10.5194/ISPRSARCHIVES-XL-4-243-2014
+   Torres R, 2012, REMOTE SENS ENVIRON, V120, P9, DOI 10.1016/j.rse.2011.05.028
+   TUCKER CJ, 1979, REMOTE SENS ENVIRON, V8, P127, DOI 10.1016/0034-4257(79)90013-0
+   Weisse MJ, 2016, ENVIRON MANAGE, V58, P297, DOI 10.1007/s00267-016-0709-z
+   Zhao PP, 2016, REMOTE SENS-BASEL, V8, P0, DOI 10.3390/rs8060469
+NR 61
+TC 36
+Z9 40
+U1 3
+U2 45
+PU IOP Publishing Ltd
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1748-9326
+EI 
+J9 ENVIRON RES LETT
+JI Environ. Res. Lett.
+PD JAN 15
+PY 2020
+VL 15
+IS 1
+BP 
+EP 
+DI 10.1088/1748-9326/ab639c
+PG 11
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA KV3ZY
+UT WOS:000520423400001
+DA 2025-11-07
+ER
+
+PT J
+AU Henderson, P
+   Hu, JR
+   Romoff, J
+   Brunskill, E
+   Jurafsky, D
+   Pineau, J
+AF Henderson, Peter
+   Hu, Jieru
+   Romoff, Joshua
+   Brunskill, Emma
+   Jurafsky, Dan
+   Pineau, Joelle
+TI Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning
+SO JOURNAL OF MACHINE LEARNING RESEARCH
+LA English
+DT Article
+DE energy efficiency; green computing; reinforcement learning; deep learning; climate change
+ID climate-change; social cost; information; behavior
+AB Accurate reporting of energy and carbon usage is essential for understanding the potential climate impacts of machine learning research. We introduce a framework that makes this easier by providing a simple interface for tracking realtime energy consumption and carbon emissions, as well as generating standardized online appendices. Utilizing this framework, we create a leaderboard for energy efficient reinforcement learning algorithms to incentivize responsible research in this area as an example for other areas of machine learning. Finally, based on case studies using our framework, we propose strategies for mitigation of carbon emissions and reduction of energy consumption. By making accounting easier, we hope to further the sustainable development of machine learning experiments and spur more research into energy efficient algorithms.
+C1 [Henderson, Peter; Brunskill, Emma; Jurafsky, Dan] Stanford Univ, Stanford, CA 94305 USA.
+   [Hu, Jieru] Facebook, Menlo Pk, CA USA.
+   [Romoff, Joshua] McGill Univ, Mila, Montreal, PQ, Canada.
+   [Pineau, Joelle] McGill Univ, Mila, Facebook AI Res, Montreal, PQ, Canada.
+C3 Stanford University; Facebook Inc; McGill University; Mila Quebec Artificial Intelligence Institute; Facebook Inc; Mila Quebec Artificial Intelligence Institute; McGill University
+RP Henderson, P (corresponding author), Stanford Univ, Stanford, CA 94305 USA.
+EM PHEND@CS.STANFORD.EDU; JIERU@FB.COM; JOSHUA.ROMOFF@MAIL.MCGILL.CA; EBRUN@CS.STANFORD.EDU; JURAFSKY@STANFORD.EDU; JPINEAU@CS.MCGILL.CA
+CR Ajani JI, 2013, ECOL ECON, V89, P61, DOI 10.1016/j.ecolecon.2013.01.010
+   Amodei Dario, 2018, OPENAI, V0, P0
+   Andrew GHoward, 2017, MOBILENETS: EFFICIENT CONVOLUTIONAL NEURAL NETWORKS FOR MOBILE VISION APPLICATIONS, V0, P0, DOI DOI 10.48550/ARXIV.1704.04861
+   Andrew J, 2011, ACCOUNT FORUM, V35, P130, DOI 10.1016/j.accfor.2011.06.006
+   Unknown -, 2015, CO2 EMISSIONS FROM FUEL COMBUSTION, V0, P0
+   Unknown -, 2018, SUMMARY POLICYMAKERS, V0, P0, DOI DOI 10.1017/9781009157940
+   Unknown -, 2008, GREENH GAS EQ CALC, V0, P0
+   Arafa Y, 2020, 17TH ACM INTERNATIONAL CONFERENCE ON COMPUTING FRONTIERS 2020 (CF 2020), V0, PP60, DOI 10.1145/3387902.3392613
+   Assran Mahmoud Mido, 2019, ADV NEURAL INFORM PR, V32, P13299
+   Astudillo MF, 2018, INT J LIFE CYCLE ASS, V23, P1512, DOI 10.1007/s11367-018-1479-z
+   Banerjee A, 2003, ENERG POLICY, V31, P109, DOI 10.1016/S0301-4215(02)00012-5
+   Barroso LA, 2018, SYNTH LECT COMPUT AR, V0, P0
+   Bellassen Valentin, 2015, ACCOUNTING CARBON, V0, P0
+   Bellemare MG, 2013, J ARTIF INTELL RES, V47, P253, DOI 10.1613/jair.3912
+   Berral JosepLl, 2010, E-ENERGY10. (PASSAU, V0, P215
+   Bo Chen, 2018, INTRO CVPR 2018 ON D, V0, P0
+   Boquet Thomas, 2019, ARXIV190909859, V0, P0
+   Bossdorf O, 2010, TRENDS ECOL EVOL, V25, P61, DOI 10.1016/j.tree.2009.09.006
+   Brockman Greg, 2016, ARXIV, V0, P0
+   Byerly H, 2018, FRONT ECOL ENVIRON, V16, P159, DOI 10.1002/fee.1777
+   Chao P, 2019, IEEE I CONF COMP VIS, V0, PP3551, DOI 10.1109/ICCV.2019.00365
+   Chen YH, 2018, SCAND CARDIOVASC J, V52, P335, DOI 10.1080/14017431.2018.1546896
+   Chevalier-Boisvert Maxime, 2018, MINIMALISTIC GRID-WORLD ENVIRONMENT FOR OPENAI GYM, V0, P0
+   Clark Kevin, 2020, INT C LEARN REPR, V0, P0
+   Colas C, 2018, CORR, V0, P0
+   Coleman Cody, 2019, ACM SIGOPS OPERATING SYSTEMS REVIEW, V53, P14, DOI 10.1145/3352020.3352024
+   Cotter J, 2011, SUSTAIN ACCOUNT MANA, V2, P294, DOI 10.1108/20408021111185420
+   Crowley TJ, 2000, SCIENCE, V289, P270, DOI 10.1126/science.289.5477.270
+   Culurciello E, 2016, ARXIV PREPRINT ARXIV, V0, P0
+   Dalton Steven, 2019, GPU ACCELERATED ATAR, V0, P0
+   Dávid L, 2010, ANTHROPOGENIC GEOMORPHOLOGY: A GUIDE TO MAN-MADE LANDFORMS, V0, PP189, DOI 10.1007/978-90-481-3058-0_13
+   Dayarathna M, 2016, IEEE COMMUN SURV TUT, V18, P732, DOI 10.1109/COMST.2015.2481183
+   Desrochers S, 2016, MEMSYS 2016: PROCEEDINGS OF THE INTERNATIONAL SYMPOSIUM ON MEMORY SYSTEMS, V0, PP455, DOI 10.1145/2989081.2989088
+   Espeholt L, 2018, PR MACH LEARN RES, V80, P0
+   Ethayarajh Kawin, 2020, ARXIV200913888, V0, P0
+   Gefen D, 2000, J ASSOC INF SYST, V1, P1, DOI 10.17705/1JAIS.00008
+   Gehring J, 2017, PR MACH LEARN RES, V70, P0
+   Gundersen OE, 2018, AAAI CONF ARTIF INTE, V0, P1644
+   Hackel Leor, 2018, AFFECTIVE SEMINAR, V0, P0
+   Henderson P, 2018, 32 AAAI C ART INT, V0, P0, DOI DOI 10.1609/AAAI.V33I01.33011126
+   Henderson Peter, 2018, CRIT CORR TRENDS MAC, V0, P0
+   Hill Ashley, 2018, STABLE BASELINES, V0, P0
+   Holden Matthew H, 2017, NATURE ECOLOGY EVOLU, V0, P0
+   Houy N, 2019, NAT CLIM CHANGE, V9, P655, DOI 10.1038/s41558-019-0533-6
+   Huang G, 2017, PROC CVPR IEEE, V0, PP2261, DOI 10.1109/CVPR.2017.243
+   Iandola FN, 2016, SQUEEZENET ALEXNET L, V0, P0
+   Jeon Yunho, 2018, ADV NEUR IN, V31, P0
+   Jiang Angela H, 2019, ARXIV E PRINTS, V0, P0
+   Jones AK, 2013, 2013 INTERNATIONAL GREEN COMPUTING CONFERENCE (IGCC), V0, P0
+   Kavanagh R, 2019, CONCURR COMP-PRACT E, V31, P0, DOI 10.1002/cpe.5124
+   Khan KN, 2018, ACM TRANS MODELING P, V3, P0, DOI 10.56557/ajopss/2018/v3i112
+   Krause MJ, 2018, NAT SUSTAIN, V1, P711, DOI 10.1038/s41893-018-0152-7
+   Krey V, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, V0, P1281
+   Krizhevsky Alex, 2012, COMMUN ACM, V25, P1097, DOI 10.1145/3065386
+   Lacoste A, 2019, ARXIV191009700, V0, P0
+   LaRiviere Jacob, 2016, POLICY BRIEF, V4, P0
+   Lu YH, 2018, AI MAG, V39, P87, DOI 10.1609/aimag.v39i2.2782
+   Malmodin Jens, 2013, INFORMATION AND COMMUNICATION TECHNOLOGIES, V12, P0, DOI 10.3929/ETHZ-A-007337628
+   Masanet E, 2019, NAT CLIM CHANGE, V9, P653, DOI 10.1038/s41558-019-0535-4
+   Merity S, 2019, ARXIV191111423, V0, P0
+   Mnih KKavukcuoglu, 2013, PLAYING ATARI WITH DEEP REINFORCEMENT LEARNING, V0, P0, DOI DOI 10.48550/ARXIV.1312.5602
+   Mnih V, 2016, PR MACH LEARN RES, V48, P0
+   Mora C, 2018, NAT CLIM CHANGE, V8, P932, DOI 10.1038/s41558-018-0321-8
+   Newell RG, 2014, J ASSOC ENVIRON RESO, V1, P555, DOI 10.1086/679281
+   Nguyen Kim Khoa, 2012, COMPUTER NETWORKS, V0, P0
+   Ott Myle, 2018, P 3 C MACH TRANSL RE, V0, P0
+   Pichert D, 2008, J ENVIRON PSYCHOL, V28, P63, DOI 10.1016/j.jenvp.2007.09.004
+   Povoa LV, 2019, LECT NOTES COMPUT SC, V11619, P225, DOI 10.1007/978-3-030-24289-3_18
+   Qin Z, 2018, IEEE IJCNN, V0, P721
+   Ramstein C, 2019, STATE TRENDS CARBON, V0, P0
+   Reddi VJ, 2020, ANN I S COM, V0, PP446, DOI 10.1109/ISCA45697.2020.00045
+   Reimers Nils, 2017, EMNLP, V0, P0
+   Ricke K, 2018, NAT CLIM CHANGE, V8, P895, DOI 10.1038/s41558-018-0282-y
+   Rodola Giampaolo, 2016, PSUTIL PACKAGE: A CROSS-PLATFORM LIBRARY FOR RETRIEVING INFORMATION ON RUNNING PROCESSES AND SYSTEM UTILIZATION, V0, P0
+   Rolnick David, 2019, ARXIV E PRINTS, V0, P0
+   Saha S, 2013, 2013 FIFTH INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE, V0, P3, DOI 10.1109/CICSYN.2013.11
+   Sandler M, 2018, PROC CVPR IEEE, V0, PP4510, DOI 10.1109/CVPR.2018.00474
+   Schulman J, 2017, PREPRINT, V0, P0
+   Schwartz R, 2020, COMMUN ACM, V63, P54, DOI 10.1145/3381831
+   Sen S, 2018, IEEE SYM PARA DISTR, V0, PP702, DOI 10.1109/IPDPSW.2018.00113
+   Shead Sam, 2018, FORBES, V0, P0
+   Shoham Yoav, 2019, AI INDEX 2019 ANN RE, V0, P0
+   Sidor Szymon, 2017, OPENAI BASELINES DQN, V0, P0
+   Simonyan K, 2015, ARXIV, V0, P0
+   Smith P, 2014, CLIMATE CHANGE 2014: MITIGATION OF CLIMATE CHANGE, V0, P811
+   Soboczenski Frank, 2018, ARXIV181103390, V0, P0
+   Solomon S, 2009, P NATL ACAD SCI USA, V106, P1704, DOI 10.1073/pnas.0812721106
+   Song SL, 2013, PROCEEDINGS OF THE 1ST INTERNATIONAL WORKSHOP ON ENERGY EFFICIENT SUPERCOMPUTING, V0, P4
+   Spinellis D, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0066508
+   Stanley KennethO, 2015, WHY GREATNESS CANNOT BE PLANNED: THE MYTH OF THE OBJECTIVE, V0, P0
+   Stechemesser K, 2012, J CLEAN PROD, V36, P17, DOI 10.1016/j.jclepro.2012.02.021
+   Stoll Christian, 2019, JOULE, V0, P0
+   Strubell E, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P3645
+   Sukhoy Vladimir, 2019, ELIMINATING VARIABIL, V0, P0
+   Sundar S, 2018, MODEL EARTH SYST ENV, V4, P349, DOI 10.1007/s40808-017-0401-1
+   Sutton E, 2019, VIS MATER CULT 1300, V0, PP13, DOI 10.5117/9789463721400_CH01
+   Szegedy Christian, 2015, PROC CVPR IEEE, V0, PP1, DOI 10.1109/cvpr.2015.7298594
+   Tang S, 2018, BUS STRATEG ENVIRON, V27, P437, DOI 10.1002/bse.1985
+   Tol RSJ, 2011, ANNU REV RESOUR ECON, V3, P419, DOI 10.1146/annurev-resource-083110-120028
+   Tranberg B, 2019, ENERGY STRATEG REV, V26, P0, DOI 10.1016/j.esr.2019.100367
+   Turovsky Barak, 2016, GOOGLE OFFICIAL BLOG, V0, P0
+   U.S. Environment Protection Agency, 2013, THE SOCIAL COST OF CARBON, V0, P0
+   Venkatesan Chandramouli, 2015, COMP CARBON FOOTPRIN, V0, P0
+   Weisbach D, 2008, YALE LAW POLICY REVIEW, V27, P433
+   Wu F, 2019, INT C LEARN REPR, V0, P0
+   Zade M, 2019, FRONT ENERGY RES, V7, P0, DOI 10.3389/fenrg.2019.00021
+   Zagoruyko S, 2016, BMVC, V0, P0
+   Zhang X, 2018, PROC CVPR IEEE, V0, PP6848, DOI 10.1109/CVPR.2018.00716
+   Zhou Xiyou, 2020, ARXIV200205829, V0, P0
+NR 109
+TC 276
+Z9 322
+U1 4
+U2 70
+PU MICROTOME PUBL
+PI BROOKLINE
+PA 31 GIBBS ST, BROOKLINE, MA 02446 USA
+SN 1532-4435
+EI 
+J9 J MACH LEARN RES
+JI J. Mach. Learn. Res.
+PD JUN 15
+PY 2020
+VL 21
+IS 
+BP 
+EP 
+DI 
+PG 43
+WC Automation & Control Systems; Computer Science, Artificial Intelligence
+SC Automation & Control Systems; Computer Science
+GA PT9GO
+UT WOS:000608918500001
+DA 2025-11-07
+ER
+
+PT J
+AU Fu, ZY
+   Hu, LS
+   Chen, ZD
+   Zhang, F
+   Shi, Z
+   Hu, BF
+   Du, ZH
+   Liu, RY
+AF Fu, Zhiyi
+   Hu, Linshu
+   Chen, Zhende
+   Zhang, Feng
+   Shi, Zhou
+   Hu, Bifeng
+   Du, Zhenhong
+   Liu, Renyi
+TI Estimating spatial and temporal variation in ocean surface pCO2 in the Gulf of Mexico using remote sensing and machine learning techniques
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Surface pCO(2); Remote sensing; Gulf of Mexico; Data mining
+ID mississippi river plume; interannual variability; inorganic carbon; atlantic-ocean; north-atlantic; wind stress; in-situ; co2; flux; salinity
+AB Research on the carbon cycle of coastal marine systems has been of wide concern recently. Accurate knowledge of the temporal and spatial distributions of sea-surface partial pressure (pCO(2)) can reflect the seasonal and spatial heterogeneity of CO2 flux and is. therefore, essential for quantifying the ocean's role in carbon cycling. However, it is difficult to use one model to estimate pCO(2) and determine its controlling variables for an entire region due to the prominent spatiotemporal heterogeneity of pCO(2) in coastal areas. Cubist is a commonly-used model for zoning; thus, it can be applied to the estimation and regional analysis of pCO(2) in the Gulf of Mexico (GOM). A cubist model integrated with satellite images was used here to estimate pCO(2) in the GOM, a river-dominated coastal area, using satellite products, including chlorophyll-a concentration (Chl-a), sea-surface temperature (SST) and salinity (SSS), and the diffuse attenuation coefficient at 490 nm (Kd-490). The model was based on a semi-mechanistic model and integrated the high-accuracy advantages of machine learning methods. The overall performance showed a root mean square error (RMSE) of 8.42 mu atm with a coefficient of determination (R-2) of 0.87. Based on the heterogeneity of environmental factors, the GOM area was divided into 6 sub-regions, consisting estuaries, near-shores, and open seas, reflecting a gradient distribution of pCO(2). Factor importance and correlation analyses showed that salinity, chlorophyll-a, and temperature are the main controlling environmental variables of pCO(2), corresponding to both biological and physical effects. Seasonal changes in the GOM region were also analyzed and explained by changes in the environmental variables. Therefore, considering both high accuracy and interpretability, the cubist-based model was an ideal method for pCO(2) estimation and spatiotemporal heterogeneity analysis. (C) 2020 The Authors. Published by Elsevier B.V.
+C1 [Fu, Zhiyi; Hu, Linshu; Chen, Zhende; Zhang, Feng; Du, Zhenhong; Liu, Renyi] Zhejiang Univ, Sch Earth Sci, Hangzhou 310027, Peoples R China.
+   [Zhang, Feng; Du, Zhenhong; Liu, Renyi] Zhejiang Prov Key Lab Geog Informat Sci, Hangzhou 310028, Peoples R China.
+   [Shi, Zhou] Zhejiang Univ, Coll Environm & Resource Sci, Inst Agr Remote Sensing & Informat Technol Applic, Hangzhou 310058, Peoples R China.
+   [Hu, Bifeng] INRAE, Unite Rech Sci Sol, F-45075 Orleans, France.
+   [Hu, Bifeng] Orleans Univ, Sci Terre & Univers, F-45067 Orleans, France.
+   [Liu, Renyi] Zhejiang Univ, Ocean Acad, Zhoushan 316021, Peoples R China.
+C3 Zhejiang University; Zhejiang University; INRAE; Zhejiang University
+RP Zhang, F (corresponding author), Zhejiang Univ, Sch Earth Sci, Hangzhou 310027, Peoples R China.
+EM zfcarnation@zju.edu.cn
+FU National Key R&D Program of China [2018YFB0505000, 2017YFB0503604]; National Natural Science Foundation of China [41671391, 41922043, 41871287]
+CR Adhikari K, 2014, PLOS ONE, V9, P0, DOI 10.1371/journal.pone.0105519
+   Bai Y, 2015, J GEOPHYS RES-OCEANS, V120, P2331, DOI 10.1002/2014JC010632
+   Bianchi TS, 2013, GEOPHYS RES LETT, V40, P116, DOI 10.1029/2012GL054145
+   Borges AV, 2011, TREATISE ON ESTUARINE AND COASTAL SCIENCE, VOL 5: BIOGEOCHEMISTRY, P119
+   Borges AV, 2005, GEOPHYS RES LETT, V32, P0, DOI 10.1029/2005GL023053
+   Breiman L, 1984, CLASSIFICATION REGRE, V0, P0
+   Brieman L, 1984, CLASSIFICATION AND REGRESSION TREES, V0, P0
+   Cai WJ, 2011, NAT GEOSCI, V4, P766, DOI 10.1038/NGEO1297
+   Cai WJ, 2003, GEOPHYS RES LETT, V30, P0, DOI 10.1029/2002GL016312
+   Chen SL, 2019, REMOTE SENS ENVIRON, V228, P203, DOI 10.1016/j.rse.2019.04.019
+   Chen SL, 2017, CONT SHELF RES, V151, P94, DOI 10.1016/j.csr.2017.10.013
+   Chen SL, 2017, REMOTE SENS ENVIRON, V201, P115, DOI 10.1016/j.rse.2017.09.004
+   Chen SL, 2016, CONT SHELF RES, V128, P10, DOI 10.1016/j.csr.2016.09.004
+   Dai MH, 2013, GEOPHYS RES LETT, V40, P2154, DOI 10.1002/grl.50390
+   Ellis JT, 2012, J COASTAL RES, V0, PP6, DOI 10.2112/SI_60_2
+   Engle VD, 2011, WETLANDS, V31, P179, DOI 10.1007/s13157-010-0132-9
+   Feng Y, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL051192
+   Fennel K, 2008, GEOPHYS RES LETT, V35, P0, DOI 10.1029/2008GL036147
+   Friedrich T, 2009, J GEOPHYS RES-OCEANS, V114, P0, DOI 10.1029/2007JC004646
+   Gray JM, 2016, SOIL RES, V54, P49, DOI 10.1071/SR14307
+   Guo XH, 2012, LIMNOL OCEANOGR, V57, P1, DOI 10.4319/lo.2012.57.1.0001
+   Hales B, 2012, PROG OCEANOGR, V103, P1, DOI 10.1016/j.pocean.2012.03.001
+   Henderson BL, 2005, GEODERMA, V124, P383, DOI 10.1016/j.geoderma.2004.06.007
+   Holmes G, 1999, LECT NOTES ARTIF INT, V1747, P1
+   Huang WJ, 2012, BIOGEOSCIENCES, V9, P2781, DOI 10.5194/bg-9-2781-2012
+   Huang WJ, 2015, J GEOPHYS RES-OCEANS, V120, P1429, DOI 10.1002/2014JC010498
+   Huang WJ, 2013, LIMNOL OCEANOGR, V58, P1727, DOI 10.4319/lo.2013.58.5.1727
+   Ikawa H, 2013, BIOGEOSCIENCES, V10, P4419, DOI 10.5194/bg-10-4419-2013
+   Jamet C, 2007, ANN GEOPHYS-GERMANY, V25, P2247, DOI 10.5194/angeo-25-2247-2007
+   Jamet C, 2012, J GEOPHYS RES-OCEANS, V117, P0, DOI 10.1029/2012JC008076
+   Lacoste M, 2014, GEODERMA, V213, P296, DOI 10.1016/j.geoderma.2013.07.002
+   Landschützer P, 2014, GLOBAL BIOGEOCHEM CY, V28, P927, DOI 10.1002/2014GB004853
+   Larsen J, 2004, US TODAY, V0, P29
+   Laruelle GG, 2010, GEOPHYS RES LETT, V37, P0, DOI 10.1029/2010GL043691
+   Le CF, 2019, REMOTE SENS ENVIRON, V225, P115, DOI 10.1016/j.rse.2019.02.023
+   Lee K, 1998, NATURE, V396, P155, DOI 10.1038/24139
+   Lee K, 2006, GEOPHYS RES LETT, V33, P0, DOI 10.1029/2006GL027207
+   Lee K, 2011, ENERG ENVIRON SCI, V4, P1133, DOI 10.1039/c0ee00663g
+   Lee ZP, 2005, J GEOPHYS RES-OCEANS, V110, P0, DOI 10.1029/2004JC002573
+   Lefèvre N, 2002, J GEOPHYS RES-OCEANS, V107, P0, DOI 10.1029/2000JC000395
+   Lei SH, 2020, ECOL INDIC, V108, P0, DOI 10.1016/j.ecolind.2019.105684
+   Liang ZZ, 2019, SCI TOTAL ENVIRON, V685, P480, DOI 10.1016/j.scitotenv.2019.05.332
+   Liu Y, 2007, J PHYS OCEANOGR, V37, P1697, DOI 10.1175/JPO3083.1
+   Lohrenz SE, 2018, REMOTE SENS ENVIRON, V207, P71, DOI 10.1016/j.rse.2017.12.039
+   Lohrenz SE, 2006, GEOPHYS RES LETT, V33, P0, DOI 10.1029/2005GL023942
+   Lohrenz SE, 1999, CONT SHELF RES, V19, P1113, DOI 10.1016/S0278-4343(99)00012-6
+   Lohrenz SE, 2008, CONT SHELF RES, V28, P1466, DOI 10.1016/j.csr.2007.06.019
+   Lohrenz SE, 2010, J GEOPHYS RES-OCEANS, V115, P0, DOI 10.1029/2009JC005608
+   Ma ZQ, 2017, INT J CLIMATOL, V37, P5107, DOI 10.1002/joc.5148
+   Ma ZQ, 2017, REMOTE SENS ENVIRON, V200, P378, DOI 10.1016/j.rse.2017.08.023
+   Mahadevan A, 2004, GLOBAL BIOGEOCHEM CY, V18, P0, DOI 10.1029/2003GB002102
+   Marrec P, 2015, BIOGEOSCIENCES, V12, P5371, DOI 10.5194/bg-12-5371-2015
+   Mendelssohn IA, 2017, HABITATS BIOTA GULF, V0, PP359, DOI 10.1007/978-1-4939-3447-8_6
+   Miller BA, 2015, GEODERMA, V239, P97, DOI 10.1016/j.geoderma.2014.09.018
+   Millero FJ, 2006, MAR CHEM, V100, P80, DOI 10.1016/j.marchem.2005.12.001
+   MILLIMAN JD, 1983, J GEOL, V91, P1, DOI 10.1086/628741
+   Moussa H, 2016, INT J REMOTE SENS, V37, P580, DOI 10.1080/01431161.2015.1131872
+   Nakaoka S, 2013, BIOGEOSCIENCES, V10, P6093, DOI 10.5194/bg-10-6093-2013
+   Oey LY, 2005, GEOPH MONOG SERIES, V161, P31
+   Olsen A, 2004, REMOTE SENS ENVIRON, V89, P309, DOI 10.1016/j.rse.2003.10.011
+   Ono T, 2004, INT J REMOTE SENS, V25, P3803, DOI 10.1080/01431160310001657515
+   Peng J, 2019, GEODERMA, V337, P1309, DOI 10.1016/j.geoderma.2018.08.006
+   Pierrot D, 2006, ORNLCDIAC105 US DEP, V0, P0
+   Pierrot D, 2009, DEEP-SEA RES PT II, V56, P512, DOI 10.1016/j.dsr2.2008.12.005
+   Pouladi N, 2019, GEODERMA, V342, P85, DOI 10.1016/j.geoderma.2019.02.019
+   Qin BY, 2014, IOP C SER EARTH ENV, V17, P0, DOI 10.1088/1755-1315/17/1/012025
+   Quinlan JR, 1992, PROCEEDINGS OF THE 5TH AUSTRALIAN JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE. AI 92, V0, P343
+   Quinlan JR, 1993, MACHINE LEARNING P 1, V0, P236
+   Rabalais NN, 2002, ANNU REV ECOL SYST, V33, P235, DOI 10.1146/annurev.ecolsys.33.010802.150513
+   Rudiyanto B, 2018, GEODERMA, V313, P25, DOI 10.1016/j.geoderma.2017.10.018
+   Salisbury JE, 2004, DEEP-SEA RES PT II, V51, P1187, DOI 10.1016/j.dsr2.2004.03.002
+   Sarma VVSS, 2006, GLOBAL BIOGEOCHEM CY, V20, P0, DOI 10.1029/2005GB002594
+   SARMIENTO JL, 1993, CHEM ENG NEWS, V71, P30, DOI 10.1021/cen-v071n022.p030
+   Shi W, 2007, GEOPHYS RES LETT, V34, P0, DOI 10.1029/2007GL029724
+   Shim J, 2007, CONT SHELF RES, V27, P2623, DOI 10.1016/j.csr.2007.07.005
+   Signorini SR, 2013, J GEOPHYS RES-OCEANS, V118, P5439, DOI 10.1002/jgrc.20369
+   Song XL, 2016, REMOTE SENS-BASEL, V8, P0, DOI 10.3390/rs8070558
+   STEPHENS MP, 1995, J GEOPHYS RES-OCEANS, V100, P13571, DOI 10.1029/95JC00901
+   Takahashi T, 2002, DEEP-SEA RES PT II, V49, P1601, DOI 10.1016/S0967-0645(02)00003-6
+   Takahashi T, 2014, MAR CHEM, V164, P95, DOI 10.1016/j.marchem.2014.06.004
+   Takahashi T, 2009, DEEP-SEA RES PT II, V56, P554, DOI 10.1016/j.dsr2.2008.12.009
+   Teague WJ, 2006, CONT SHELF RES, V26, P2559, DOI 10.1016/j.csr.2006.08.002
+   Telszewski M, 2009, BIOGEOSCIENCES, V6, P1405, DOI 10.5194/bg-6-1405-2009
+   Ternon JF, 2000, MAR CHEM, V68, P183, DOI 10.1016/S0304-4203(99)00077-8
+   Thomas H, 2004, SCIENCE, V304, P1005, DOI 10.1126/science.1095491
+   Walker ND, 2005, J COASTAL RES, V21, P1228, DOI 10.2112/04-0347.1
+   Walsh JJ, 2006, J GEOPHYS RES-OCEANS, V111, P0, DOI 10.1029/2004JC002813
+   Walton JT, 2008, PHOTOGRAMM ENG REM S, V74, P1213, DOI 10.14358/PERS.74.10.1213
+   Wawrik B, 2003, MAR ECOL PROG SER, V251, P87, DOI 10.3354/meps251087
+   Weiss RF, 1974, MAR. CHEM, V2, P203215, DOI 10.1016/0304-4203(74)90015-2
+   Wiseman WJ, 1997, J MARINE SYST, V12, P237, DOI 10.1016/S0924-7963(96)00100-5
+   Xue Z, 2016, BIOGEOSCIENCES, V13, P4359, DOI 10.5194/bg-13-4359-2016
+   Yan FP, 2020, SCI DATA, V7, P0, DOI 10.1038/s41597-019-0345-6
+   Yang B, 2015, J GEOPHYS RES-OCEANS, V120, P3805, DOI 10.1002/2015JC010780
+   Yuan JC, 2004, GEOPHYS RES LETT, V31, P0, DOI 10.1029/2003GL019335
+   Zhu Y, 2009, PROG NAT SCI-MATER, V19, P775, DOI 10.1016/j.pnsc.2008.09.004
+NR 96
+TC 27
+Z9 32
+U1 2
+U2 97
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD NOV 25
+PY 2020
+VL 745
+IS 
+BP 
+EP 
+DI 10.1016/j.scitotenv.2020.140965
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA OC7VL
+UT WOS:000579365600031
+PM 32758741
+DA 2025-11-07
+ER
+
+PT J
+AU Liu, JG
+   Zhou, YL
+   Valach, A
+   Shortt, R
+   Kasak, K
+   Rey-Sanchez, C
+   Hemes, KS
+   Baldocchi, D
+   Lai, DYF
+AF Liu, Jiangong
+   Zhou, Yulun
+   Valach, Alex
+   Shortt, Robert
+   Kasak, Kuno
+   Rey-Sanchez, Camilo
+   Hemes, Kyle S.
+   Baldocchi, Dennis
+   Lai, Derrick Y. F.
+TI Methane emissions reduce the radiative cooling effect of a subtropical estuarine mangrove wetland by half
+SO GLOBAL CHANGE BIOLOGY
+LA English
+DT Article
+DE carbon emissions; coastal wetland; eddy covariance; global warming potential; greenhouse gas; mangrove; methane; random forest
+ID net ecosystem exchange; global warming potentials; eddy covariance technique; mai-po marshes; nitrous-oxide; carbon-dioxide; environmental drivers; temporal variation; tropical mangrove; flux measurements
+AB The role of coastal mangrove wetlands in sequestering atmospheric carbon dioxide (CO2) and mitigating climate change has received increasing attention in recent years. While recent studies have shown that methane (CH4) emissions can potentially offset the carbon burial rates in low-salinity coastal wetlands, there is hitherto a paucity of direct and year-round measurements of ecosystem-scale CH(4)flux (F-CH4) from mangrove ecosystems. In this study, we examined the temporal variations and biophysical drivers of ecosystem-scale F(CH4)in a subtropical estuarine mangrove wetland based on 3 years of eddy covariance measurements. Our results showed that daily mangrove F(CH4)reached a peak of over 0.1 g CH4-C m(-2) day(-1)during the summertime owing to a combination of high temperature and low salinity, while the wintertime F(CH4)was negligible. In this mangrove, the mean annual CH(4)emission was 11.7 +/- 0.4 g CH4-C m(-2) year(-1)while the annual net ecosystem CO(2)exchange ranged between -891 and -690 g CO2-C m(-2) year(-1), indicating a net cooling effect on climate over decadal to centurial timescales. Meanwhile, we showed that mangrove F(CH4)could offset the negative radiative forcing caused by CO(2)uptake by 52% and 24% over a time horizon of 20 and 100 years, respectively, based on the corresponding sustained-flux global warming potentials. Moreover, we found that 87% and 69% of the total variance of daily F(CH4)could be explained by the random forest machine learning algorithm and traditional linear regression model, respectively, with soil temperature and salinity being the most dominant controls. This study was the first of its kind to characterize ecosystem-scale F(CH4)in a mangrove wetland with long-term eddy covariance measurements. Our findings implied that future environmental changes such as climate warming and increasing river discharge might increase CH(4)emissions and hence reduce the net radiative cooling effect of estuarine mangrove forests.
+C1 [Liu, Jiangong; Zhou, Yulun; Lai, Derrick Y. F.] Chinese Univ Hong Kong, Dept Geog & Resource Management, Shatin, Hong Kong, Peoples R China.
+   [Valach, Alex; Shortt, Robert; Kasak, Kuno; Rey-Sanchez, Camilo; Baldocchi, Dennis] Univ Calif Berkeley, Dept Environm Sci Policy & Management, Berkeley, CA 94720 USA.
+   [Kasak, Kuno] Univ Tartu, Inst Ecol & Earth Sci, Dept Geog, Tartu, Estonia.
+   [Hemes, Kyle S.] Stanford Univ, Stanford Woods Inst Environm, Stanford, CA 94305 USA.
+   [Lai, Derrick Y. F.] Chinese Univ Hong Kong, Ctr Environm Policy & Resource Management, Shatin, Hong Kong, Peoples R China.
+C3 Chinese University of Hong Kong; University of California System; University of California Berkeley; University of Tartu; Tartu University Institute of Ecology & Earth Sciences; Stanford University; Chinese University of Hong Kong
+RP Lai, DYF (corresponding author), Chinese Univ Hong Kong, Dept Geog & Resource Management, Shatin, Hong Kong, Peoples R China.
+EM dyflai@cuhk.edu.hk
+FU Eesti Teadusagentuur [PRG-352, PUTJD715]; Research Grants Council, University Grants Committee [CUHK458913]
+CR Aguilos M, 2018, AGR FOREST METEOROL, V253, P114, DOI 10.1016/j.agrformet.2018.02.009
+   Allen D, 2011, PLANT BIOLOGY, V13, P126, DOI 10.1111/j.1438-8677.2010.00331.x
+   Allen DE, 2007, SOIL BIOL BIOCHEM, V39, P622, DOI 10.1016/j.soilbio.2006.09.013
+   Allen MR, 2016, NAT CLIM CHANGE, V6, P773, DOI 10.1038/nclimate2998
+   Alongi DM, 2014, ANNU REV MAR SCI, V6, P195, DOI 10.1146/annurev-marine-010213-135020
+   Alongi DM, 2009, THE ENERGETICS OF MANGROVE FORESTS, V0, P0, DOI DOI 10.1007/978-1-4020-4271-3
+   Balcombe P, 2018, ENVIRON SCI-PROC IMP, V20, P1323, DOI 10.1039/c8em00414e
+   Baldocchi DD, 2003, GLOBAL CHANGE BIOL, V9, P479, DOI 10.1046/j.1365-2486.2003.00629.x
+   Baldocchi D, 2019, GLOBAL CHANGE BIOL, V25, P1191, DOI 10.1111/gcb.14559
+   Baldocchi D, 2014, GLOBAL CHANGE BIOL, V20, P3600, DOI 10.1111/gcb.12649
+   BALL MC, 1995, FUNCT ECOL, V9, P77, DOI 10.2307/2390093
+   Banerjee M, 2012, STAT MED, V31, P1601, DOI 10.1002/sim.4492
+   Barnes J, 2006, GEOPHYS RES LETT, V33, P0, DOI 10.1029/2006GL026829
+   Barr JG, 2013, BIOGEOSCIENCES, V10, P2145, DOI 10.5194/bg-10-2145-2013
+   Barr JG, 2012, AGR FOREST METEOROL, V153, P54, DOI 10.1016/j.agrformet.2011.07.022
+   Barr JG, 2010, J GEOPHYS RES-BIOGEO, V115, P0, DOI 10.1029/2009JG001186
+   BARTLETT KB, 1987, BIOGEOCHEMISTRY, V4, P183, DOI 10.1007/BF02187365
+   Beaulieu JJ, 2019, NAT COMMUN, V10, P0, DOI 10.1038/s41467-019-09100-5
+   Biswas H, 2007, J MARINE SYST, V68, P55, DOI 10.1016/j.jmarsys.2006.11.001
+   Bodesheim P, 2018, EARTH SYST SCI DATA, V10, P1327, DOI 10.5194/essd-10-1327-2018
+   Bogard MJ, 2014, NAT COMMUN, V5, P0, DOI 10.1038/ncomms6350
+   Bouillon S, 2008, GLOBAL BIOGEOCHEM CY, V22, P0, DOI 10.1029/2007GB003052
+   Brander LM, 2012, ECOSYST SERV, V1, P62, DOI 10.1016/j.ecoser.2012.06.003
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Breiman L, 1996, MACH LEARN, V24, P123, DOI 10.1007/bf00058655
+   Breithaupt JL, 2012, GLOBAL BIOGEOCHEM CY, V26, P0, DOI 10.1029/2012GB004375
+   Bridgham SD, 2006, WETLANDS, V26, P889, DOI 10.1672/0277-5212(2006)26[889:TCBONA]2.0.CO;2
+   Bridgham SD, 2013, GLOBAL CHANGE BIOL, V19, P1325, DOI 10.1111/gcb.12131
+   Butterbach-Bahl K, 2013, PHILOS T R SOC B, V368, P0, DOI 10.1098/rstb.2013.0122
+   Call M, 2015, GEOCHIM COSMOCHIM AC, V150, P211, DOI 10.1016/j.gca.2014.11.023
+   Chamberlain SD, 2018, GLOBAL CHANGE BIOL, V24, P4107, DOI 10.1111/gcb.14124
+   Chamberlain SD, 2020, ECOSYSTEMS, V23, P675, DOI 10.1007/s10021-019-00430-5
+   Chamberlain SD, 2017, BOUND-LAY METEOROL, V165, P197, DOI 10.1007/s10546-017-0275-9
+   Chauhan R, 2015, ATMOS ENVIRON, V107, P95, DOI 10.1016/j.atmosenv.2015.02.006
+   Chen GC, 2010, SCI TOTAL ENVIRON, V408, P2761, DOI 10.1016/j.scitotenv.2010.03.007
+   Chen GC, 2016, ENVIRON RES LETT, V11, P0, DOI 10.1088/1748-9326/11/12/124019
+   Chen H, 2014, BIOGEOSCIENCES, V11, P5323, DOI 10.5194/bg-11-5323-2014
+   Covey KR, 2019, NEW PHYTOL, V222, P35, DOI 10.1111/nph.15624
+   Cui XW, 2018, AGR FOREST METEOROL, V249, P71, DOI 10.1016/j.agrformet.2017.11.019
+   Curnick DJ, 2019, SCIENCE, V363, P239, DOI 10.1126/science.aaw0809
+   Cutler DR, 2007, ECOLOGY, V88, P2783, DOI 10.1890/07-0539.1
+   Dalmagro HJ, 2019, GLOBAL CHANGE BIOL, V25, P1967, DOI 10.1111/gcb.14615
+   Dengel S, 2013, BIOGEOSCIENCES, V10, P8185, DOI 10.5194/bg-10-8185-2013
+   Detto M, 2006, WATER RESOUR RES, V42, P0, DOI 10.1029/2005WR004693
+   Donato DC, 2011, NAT GEOSCI, V4, P293, DOI 10.1038/ngeo1123
+   Duarte CM, 2013, NAT CLIM CHANGE, V3, P961, DOI 10.1038/NCLIMATE1970
+   Duke NC, 2007, SCIENCE, V317, P41, DOI 10.1126/science.317.5834.41b
+   Dutta MK, 2015, AGR FOREST METEOROL, V213, P33, DOI 10.1016/j.agrformet.2015.06.010
+   Eaton AD, 1995, STANDARD METHODS EXA, V0, P0
+   FAN SM, 1990, J GEOPHYS RES-ATMOS, V95, P16851, DOI 10.1029/JD095iD10p16851
+   FROELICH PN, 1979, GEOCHIM COSMOCHIM AC, V43, P1075, DOI 10.1016/0016-7037(79)90095-4
+   Gallo ND, 2017, NAT CLIM CHANGE, V7, P833, DOI 10.1038/NCLIMATE3422
+   Goodrich JP, 2015, J GEOPHYS RES-BIOGEO, V120, P819, DOI 10.1002/2014JG002844
+   Grossart HP, 2011, P NATL ACAD SCI USA, V108, P19657, DOI 10.1073/pnas.1110716108
+   Hatala JA, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL051303
+   Hemes KS, 2019, AGR FOREST METEOROL, V268, P202, DOI 10.1016/j.agrformet.2019.01.017
+   Hemes KS, 2018, GEOPHYS RES LETT, V45, P6081, DOI 10.1029/2018GL077747
+   Herbst M, 2013, BIOGEOSCIENCES, V10, P39, DOI 10.5194/bg-10-39-2013
+   Herr D, 2016, COASTAL BLUE CARBON ECOSYSTEMS: OPPORTUNITIES FOR NATIONALLY DETERMINED CONTRIBUTIONS, V0, P0
+   Ho DT, 2017, BIOGEOSCIENCES, V14, P2543, DOI 10.5194/bg-14-2543-2017
+   Holm GO, 2016, WETLANDS, V36, P401, DOI 10.1007/s13157-016-0746-7
+   Hong Kong Environmental Protection Department, 2019, MAR WAT QUAL DAT, V0, P0
+   Hong Kong Observatory, 2019, EXTR ANN DAT LAU FAU, V0, P0
+   Howard J, 2017, FRONT ECOL ENVIRON, V15, P42, DOI 10.1002/fee.1451
+   Hsieh CI, 2000, ADV WATER RESOUR, V23, P765, DOI 10.1016/S0309-1708(99)00042-1
+   Jeffrey LC, 2019, NEW PHYTOL, V224, P146, DOI 10.1111/nph.15995
+   Jha CS, 2014, J EARTH SYST SCI, V123, P1089, DOI 10.1007/s12040-014-0451-y
+   Keenan TF, 2019, NAT ECOL EVOL, V3, P407, DOI 10.1038/s41559-019-0809-2
+   KELLEY CA, 1995, LIMNOL OCEANOGR, V40, P1112, DOI 10.4319/lo.1995.40.6.1112
+   Keppler F, 2006, NATURE, V439, P187, DOI 10.1038/nature04420
+   Kim Y, 2020, GLOBAL CHANGE BIOL, V26, P1499, DOI 10.1111/gcb.14845
+   Kirschke S, 2013, NAT GEOSCI, V6, P813, DOI 10.1038/NGEO1955
+   Knox SH, 2018, J GEOPHYS RES-BIOGEO, V123, P787, DOI 10.1002/2017JG004048
+   Knox SH, 2019, B AM METEOROL SOC, V100, P2607, DOI 10.1175/BAMS-D-18-0268.1
+   Knox SH, 2016, J GEOPHYS RES-BIOGEO, V121, P978, DOI 10.1002/2015JG003247
+   Knox SH, 2015, GLOBAL CHANGE BIOL, V21, P750, DOI 10.1111/gcb.12745
+   Kohavi R, 1995, PROCEEDINGS OF THE 14TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE - VOLUME 2, V0, P1137
+   Krauss KW, 2008, AQUAT BOT, V89, P105, DOI 10.1016/j.aquabot.2007.12.014
+   Krauss KW, 2016, J GEOPHYS RES-BIOGEO, V121, P1503, DOI 10.1002/2015JG003224
+   Kreuzwieser J, 2003, PLANT BIOLOGY, V5, P423, DOI 10.1055/s-2003-42712
+   Kristensen E, 2008, AQUAT BOT, V89, P201, DOI 10.1016/j.aquabot.2007.12.005
+   Lai DYF, 2009, PEDOSPHERE, V19, P409, DOI 10.1016/S1002-0160(09)00003-4
+   Lai DYF, 2008, MAR POLLUT BULL, V57, P349, DOI 10.1016/j.marpolbul.2008.01.038
+   Lau SSS, 1999, HYDROBIOLOGIA, V403, P195, DOI 10.1023/A:1003759215909
+   Lee SC, 2017, BIOGEOSCIENCES, V14, P2799, DOI 10.5194/bg-14-2799-2017
+   Leopold A, 2016, AGR FOREST METEOROL, V223, P217, DOI 10.1016/j.agrformet.2016.04.006
+   Li H, 2018, BIOGEOCHEMISTRY, V137, P163, DOI 10.1007/s10533-017-0413-y
+   Li MS, 1998, MAR ECOL PROG SER, V172, P73, DOI 10.3354/meps172073
+   Liu JG, 2019, AGR FOREST METEOROL, V278, P0, DOI 10.1016/j.agrformet.2019.107644
+   Livesley SJ, 2012, ESTUAR COAST SHELF S, V97, P19, DOI 10.1016/j.ecss.2011.11.002
+   Louppe G, 2013, ADV NEURAL INFORM PR, V0, P0
+   Lovelock CE, 2019, BIOL LETTERS, V15, P0, DOI 10.1098/rsbl.2018.0781
+   Lu WZ, 2017, GLOBAL CHANGE BIOL, V23, P1180, DOI 10.1111/gcb.13424
+   Macreadie PI, 2019, NAT COMMUN, V10, P0, DOI 10.1038/s41467-019-11693-w
+   Maher DT, 2013, LIMNOL OCEANOGR, V58, P475, DOI 10.4319/lo.2013.58.2.0475
+   Maher DT, 2018, BIOL LETTERS, V14, P0, DOI 10.1098/rsbl.2018.0200
+   Maher DT, 2016, SCI REP-UK, V6, P0, DOI 10.1038/srep25701
+   Mauder M, 2004, DOCUMENTATION AND INSTRUCTION MANUAL OF THE EDDY COVARIANCE SOFTWARE PACKAGE TK2, V0, P0
+   Max Planck Institute for Biogeochemistry, 2019, NEW REDDYPROCWEB ONL, V0, P0
+   Mcleod E, 2011, FRONT ECOL ENVIRON, V9, P552, DOI 10.1890/110004
+   Miyajima T, 2009, J GEOPHYS RES-BIOGEO, V114, P0, DOI 10.1029/2008JG000861
+   Moffat AM, 2007, AGR FOREST METEOROL, V147, P209, DOI 10.1016/j.agrformet.2007.08.011
+   Moncrieff JB, 1997, JOURNAL OF HYDROLOGY (AMSTERDAM), V188-189, P589, DOI 10.1016/S0022-1694(96)03194-0
+   Moncrieff JB, 2004, HANDBOOK OF MICROMETEOROLOGY: A GUIDE FOR SURFACE FLUX MEASUREMENTS, V0, PP7, DOI 10.1007/1-4020-2265-4_2
+   Morin TH, 2014, J GEOPHYS RES-BIOGEO, V119, P2188, DOI 10.1002/2014JG002750
+   Morin TH, 2019, J GEOPHYS RES-BIOGEO, V124, P453, DOI 10.1029/2018JG004796
+   Myhre G, 2014, CLIMATE CHANGE 2013: THE PHYSICAL SCIENCE BASIS, V0, P659
+   Nemitz E, 2018, INT AGROPHYS, V32, P517, DOI 10.1515/intag-2017-0042
+   Neubauer SC, 2015, ECOSYSTEMS, V18, P1000, DOI 10.1007/s10021-015-9879-4
+   Novick KA, 2015, GLOBAL CHANGE BIOL, V21, P827, DOI 10.1111/gcb.12723
+   Olefeldt D, 2013, GLOBAL CHANGE BIOL, V19, P589, DOI 10.1111/gcb.12071
+   Ouyang XG, 2020, NAT COMMUN, V11, P0, DOI 10.1038/s41467-019-14120-2
+   Papale D, 2006, BIOGEOSCIENCES, V3, P571, DOI 10.5194/bg-3-571-2006
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Peltola O, 2019, EARTH SYST SCI DATA, V11, P1263, DOI 10.5194/essd-11-1263-2019
+   Petrescu AMR, 2015, P NATL ACAD SCI USA, V112, P4594, DOI 10.1073/pnas.1416267112
+   Philipp K, 2017, WETLANDS, V37, P1145, DOI 10.1007/s13157-017-0947-8
+   Poffenbarger HJ, 2011, WETLANDS, V31, P831, DOI 10.1007/s13157-011-0197-0
+   Purvaja R, 2004, GLOBAL CHANGE BIOL, V10, P1825, DOI 10.1111/j.1365-2486.2004.00834.x
+   Purvaja R, 2000, REG ENVIRON CHANGE, V1, P86, DOI 10.1007/PL00011537
+   Qin HP, 2014, SUSTAINABILITY-BASEL, V6, P7433, DOI 10.3390/su6107433
+   Reichstein M, 2005, GLOBAL CHANGE BIOL, V11, P1424, DOI 10.1111/j.1365-2486.2005.001002.x
+   Rodda SR, 2016, FORESTS, V7, P0, DOI 10.3390/f7020035
+   Rogers K, 2019, NATURE, V567, P91, DOI 10.1038/s41586-019-0951-7
+   Rosentreter JA, 2018, SCI ADV, V4, P0, DOI 10.1126/sciadv.aao4985
+   Sakabe A, 2018, GLOBAL CHANGE BIOL, V24, P5123, DOI 10.1111/gcb.14410
+   Schrier-Uijl AP, 2011, BIOGEOCHEMISTRY, V102, P265, DOI 10.1007/s10533-010-9440-7
+   Sepulveda-Jauregui A, 2018, SCI TOTAL ENVIRON, V636, P411, DOI 10.1016/j.scitotenv.2018.04.283
+   Sippo JZ, 2016, GLOBAL BIOGEOCHEM CY, V30, P753, DOI 10.1002/2015GB005324
+   Stoy PC, 2005, TREE PHYSIOL, V25, P887, DOI 10.1093/treephys/25.7.887
+   Sturtevant C, 2016, J GEOPHYS RES-BIOGEO, V121, P188, DOI 10.1002/2015JG003054
+   Taillardat P, 2018, BIOL LETTERS, V14, P0, DOI 10.1098/rsbl.2018.0251
+   Tang ACI, 2018, GEOPHYS RES LETT, V45, P4390, DOI 10.1029/2017GL076457
+   Tang KW, 2014, LIMNOL OCEANOGR, V59, P275, DOI 10.4319/lo.2014.59.1.0275
+   Tramontana G, 2016, BIOGEOSCIENCES, V13, P4291, DOI 10.5194/bg-13-4291-2016
+   Tramontana G, 2015, REMOTE SENS ENVIRON, V168, P360, DOI 10.1016/j.rse.2015.07.015
+   Treat CC, 2018, GLOBAL CHANGE BIOL, V24, P3331, DOI 10.1111/gcb.14137
+   Turetsky MR, 2014, GLOBAL CHANGE BIOL, V20, P2183, DOI 10.1111/gcb.12580
+   UNFCCC, 2015, FCCCCP2015L9REV UN, V0, P0
+   Van der Nat FJWA, 1998, BIOGEOCHEMISTRY, V41, P1, DOI 10.1023/A:1005933100905
+   Vickers D, 1997, J ATMOS OCEAN TECH, V14, P512, DOI 10.1175/1520-0426(1997)014<0512:QCAFSP>2.0.CO;2
+   Wang M, 2018, AGR FOREST METEOROL, V262, P120, DOI 10.1016/j.agrformet.2018.07.002
+   Warner DL, 2017, ECOSYSTEMS, V20, P1205, DOI 10.1007/s10021-016-0106-8
+   WEBB EK, 1980, Q J ROY METEOR SOC, V106, P85, DOI 10.1002/qj.49710644707
+   WHITING GJ, 1993, NATURE, V364, P794, DOI 10.1038/364794a0
+   Wijesiri B, 2019, WATER RES, V164, P0, DOI 10.1016/j.watres.2019.114911
+   Wilczak JM, 2001, BOUND-LAY METEOROL, V99, P127, DOI 10.1023/A:1018966204465
+   Wutzler T, 2018, BIOGEOSCIENCES, V15, P5015, DOI 10.5194/bg-15-5015-2018
+   WWF-HK, 2013, MAI NAT RES HAB MAN, V0, P0
+   Xiao QT, 2017, J GEOPHYS RES-BIOGEO, V122, P1597, DOI 10.1002/2017JG003805
+   Yan D, 2015, J HYDROL-REG STUD, V4, P228, DOI 10.1016/j.ejrh.2015.06.006
+   Yang SC, 2013, ECOL ENG, V51, P59, DOI 10.1016/j.ecoleng.2012.12.049
+   Yvon-Durocher G, 2014, NATURE, V507, P488, DOI 10.1038/nature13164
+   Zheng XW, 2018, FORESTS, V9, P0, DOI 10.3390/f9120738
+NR 154
+TC 57
+Z9 73
+U1 16
+U2 287
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1354-1013
+EI 1365-2486
+J9 GLOBAL CHANGE BIOL
+JI Glob. Change Biol.
+PD SEP 15
+PY 2020
+VL 26
+IS 9
+BP 4998
+EP 5016
+DI 10.1111/gcb.15247
+EA JUL 2020
+PG 19
+WC Biodiversity Conservation; Ecology; Environmental Sciences
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA MX8JP
+UT WOS:000548280100001
+PM 32574398
+DA 2025-11-07
+ER
+

@@ -1,0 +1,117 @@
+PT J
+AU Melguizo, A
+   Katz, R
+   Jung, J
+AF Melguizo, Angel
+   Katz, Raul
+   Jung, Juan
+TI Can AI grow green? Evidence of a Kuznets curve among AI, renewable energies and emissions
+SO ENERGY POLICY
+LA English
+DT Article
+DE AI; Energy; Sustainability
+ID artificial-intelligence; decomposition; productivity; determinants; efficiency; intensity; europe
+AB The relationship between artificial intelligence (AI) and the green agenda is one of the key current economic and social topics, driven by conflicting assumptions and evidence. On the one hand, AI use cases can drive energy savings, support renewable transition, and reduce emissions. However, its initial adoption significantly increases energy consumption, thereby deepening the challenges countries face to reach their environmental sustainability goals. This paper presents novel empirical evidence on AI development and its environmental implications in 23 middle and high-income countries, confirming that, initially, in the majority of countries AI increases energy consumption and CO2 emissions. However, we also show that these relationships are not linear, since, for high spending levels, AI has a positive impact on the environment in terms of emission reduction and higher reliance on renewable energies, a kind of green AI Kuznets curve. This reversal in the trend is achieved from $220-$580 AI market per capita, and therefore, as of today, only AI leading countries, such as Singapore and the US, are benefitting from this technological dividend. These results have clear policy implications, calling for a less fragmented global AI and energy governance given environmental externalities, national AI strategies with a solid energy pillar, and innovations in financing towards greener AI adoption, while achieving more transparency and standards for measuring and reporting its energy use.
+C1 [Melguizo, Angel] ARGIA Green, Tech & Econ, Madrid, Spain.
+   [Melguizo, Angel] Univ Oxford, TIDE Ctr, Oxford, England.
+   [Katz, Raul] Columbia Univ, Columbia Inst Teleinformat, New York, NY USA.
+   [Jung, Juan] Univ Pontificia Comillas, Fac Ciencias Econ & Empresariales, Madrid, Spain.
+   [Jung, Juan] Univ Pontificia Comillas, Inst Invest Tecnol, Madrid, Spain.
+C3 University of Oxford; Columbia University; Comillas Pontifical University; Comillas Pontifical University
+RP Jung, J (corresponding author), Univ Pontificia Comillas, Fac Ciencias Econ & Empresariales, Madrid, Spain.; Jung, J (corresponding author), Univ Pontificia Comillas, Inst Invest Tecnol, Madrid, Spain.
+EM jfjung@icade.comillas.edu
+CR Acemoglu D, 2024, NBER WORKING PAPER NO. 32487, V0, P0
+   Aghion P, 2005, Q J ECON, V120, P701, DOI 10.18551/rjoas.2023-02.16
+   Amazon Team, 2023, HARNESSING THE POWER OF PLANTS TO DECARBONISE OUR DATA CENTRES, V0, P0
+   Unknown -, 2023, ARTIFICIAL INTELLIGENCE INDEX REPORT 2023, V0, P0
+   Atalla T, 2017, ENERG ECON, V62, P217, DOI 10.1016/j.eneco.2016.12.003
+   Baily MN, 2024, MACHINES OF MIND: THE CASE FOR AN AIPOWERED PRODUCTIVITY BOOM, V0, P0
+   Balmaseda M, 2025, PENSAMIENTO IBEROAMERICANO, V1, P1
+   Berthelot A, 2024, HAL- 04928998, V0, P0
+   Bonsu MOA, 2022, COGENT ECON FINANC, V10, P0, DOI 10.1080/23322039.2022.2140520
+   Budaragina M, 2024, POWERING AI IN THE GLOBAL SOUTH, V0, P0
+   Chang TP, 2010, APPL ENERG, V87, P3262, DOI 10.1016/j.apenergy.2010.04.026
+   Chun Y, 2024, J KNOWL ECON, V0, P0, DOI DOI 10.1007/s13132-024-02076-8
+   Crownhart C, 2024, MIT TECHNOL. REV., V0, P0
+   Soares RDE, 2024, PUBLIC AND MUNICIPAL FINANCE, V13, P110, DOI 10.21511/pmf.13(2).2024.10
+   Delanöe P, 2023, J ENVIRON MANAGE, V331, P0, DOI 10.1016/j.jenvman.2023.117261
+   Doran NM, 2024, SUSTAINABILITY-BASEL, V16, P0, DOI 10.3390/su16124930
+   Evans R, 2016, DEEPMIND AI REDUCES GOOGLE DATA CENTRE COOLING BILL BY 40%, V0, P0
+   Gamazaychikov B, 2024, UNVEILING SALESFORCES BLUEPRINT FOR SUSTAINABLE AI: WHERE RESPONSIBILITY MEETS INNOVATION, V0, P0
+   Hossin MA, 2023, ENERGY REP, V9, P4984, DOI 10.1016/j.egyr.2023.03.113
+   Intel, 2023, INTEL DIVES INTO THE FUTURE OF COOLING, V0, P0
+   International Energy Agency, 2025, WORLD ENERGY OUTLOOK, V0, P0
+   ITU, 2024, 2024 REPORT, V0, P0
+   ITU, 2025, MEASURING WHAT MATTERS: HOW TO ASSESS AIS ENVIRONMENTAL IMPACT, V0, P0
+   ITU and WBA, 2024, GREENING DIGITAL COMPANIES 2024, V0, P0
+   Jimenez R, 2014, ENERG ECON, V42, P161, DOI 10.1016/j.eneco.2013.12.015
+   Katz R, 2024, COMPARATIVE ASSESSMENT OF ENERGY PRODUCTIVITY OF CLOUD COMPUTING AND INFORMATION TECHNOLOGIES IN THE UNITED STATES, V0, P0
+   Laboratory of Information Technology and Modeling Faculty of Sciences Ben MSik, 2023, MATHEMATICAL MODELING AND COMPUTING, V10, P575, DOI 10.23939/mmc2023.02.575
+   Lebdioui A, 2025, TIDE CENTRE WORKING PAPER 90, V0, P0
+   Lee CC, 2024, APPL ENERG, V363, P0, DOI 10.1016/j.apenergy.2024.123081
+   Lewis D, 2024, ENERGY SECURITY AND AI, V0, P0
+   Li J, 2023, RESOUR POLICY, V82, P0, DOI 10.1016/j.resourpol.2023.103507
+   Liu FQ, 2025, ECONOMICS-KIEL, V19, P0, DOI 10.1515/econ-2025-0136
+   Liu J, 2022, SOCIO-ECON PLAN SCI, V83, P0, DOI 10.1016/j.seps.2020.101002
+   Lokwon K, 2025, WORLD ECON. FORUM CENTRE FOURTH IND. REVOL., V0, P0
+   Luccioni AS, 2024, PROCEEDINGS OF THE 2024 ACM CONFERENCE ON FAIRNESS, V0, P0
+   Mahmood H, 2020, MPRA WORK. PAPER, V0, P0
+   Mehta S, 2024, HOW MUCH ENERGY DO LLMS CONSUME? UNVEILING THE POWER BEHIND AI, V0, P0
+   OECD, 2024, OECD ARTIFICIAL INTELLIGENCE PAPERS, V0, P0
+   Ollion L, 2024, STUDY OF METAL REQUIREMENTS IN THE DIGITAL SECTOR-SUMMARY, V0, P0
+   Patterson David, 2022, ARXIV, V0, P0
+   Ramos G, 2022, AI IN THE COMMON INTEREST, V0, P0
+   Rasheed MQ, 2024, J CLEAN PROD, V447, P0, DOI 10.1016/j.jclepro.2024.141466
+   Renda A, 2021, SCI. POLICY EUROPE, V0, P0
+   Rojek I, 2023, AI-BASED COMPUTATIONAL MODEL IN SUSTAINABLE TRANSFORMATION OF ENERGY MARKETS, V0, P0
+   Rosalsky G, 2025, NPR, V0, P0
+   Rozite V, 2023, WHY AI AND ENERGY ARE THE NEW POWER COUPLE, V0, P0
+   Schneider I, 2025, 2025 INT S COMP ARCH, V0, P0
+   Sen Gupta P, 2024, PROCEEDINGS OF THE 15TH ACM INTERNATIONAL CONFERENCE ON FUTURE AND SUSTAINABLE ENERGY SYSTEMS, V0, P442, DOI 10.1145/3632775.3661962
+   Serban AC, 2020, IEEE ACCESS, V8, P77364, DOI 10.1109/ACCESS.2020.2990123
+   Serebryantseva V, 2023, AI IN THE ENERGY INDUSTRY: IMPACT, V0, P0
+   Shah SA, 2024, ENERGIES, V17, P0, DOI 10.3390/en17164011
+   Sineviciene L, 2017, ENERG ENVIRON-UK, V28, P870, DOI 10.1177/0958305X17734386
+   Sirimanne S, 2025, WILL AI CLOSE OR WIDEN THE DEVELOPMENT GAP?, V0, P0
+   Song F, 2012, ENERG POLICY, V51, P445, DOI 10.1016/j.enpol.2012.08.044
+   Stanford Institute for Human-Centered AI, 2024, ARTIFICIAL INTELLIGENCE INDEX REPORT 2024, V0, P0
+   Stanford Institute for Human-Centered AI, 2025, ARTIFICIAL INTELLIGENCE INDEX REPORT 2025, V0, P0
+   Sun HP, 2024, GEOSCI FRONT, V15, P0, DOI 10.1016/j.gsf.2023.101674
+   UNFCCC and UNIDO, 2025, ARTIFICIAL INTELLIGENCE FOR CLIMATE ACTION: ADVANCING MITIGATION AND ADAPTATION IN DEVELOPING COUNTRIES, V0, P0
+   Walsh N, 2024, SUSTAINABLE BY DESIGN: TRANSFORMING DATACENTER WATER EFFICIENCY, V0, P0
+   Wang Q, 2024, HUM SOC SCI COMMUN, V11, P0, DOI 10.1057/s41599-024-03520-5
+   Wang Q, 2024, J CLEAN PROD, V447, P0, DOI 10.1016/j.jclepro.2024.141298
+   Yang SM, 2024, ENERGY, V300, P0, DOI 10.1016/j.energy.2024.131539
+   Yin HT, 2023, OECON COPERNIC, V14, P1059, DOI 10.24136/oc.2023.032
+   Zhang N, 2025, ENGINEERING-PRC, V52, P256, DOI 10.1016/j.eng.2024.08.010
+   Zhang WK, 2024, ENERG ECON, V134, P0, DOI 10.1016/j.eneco.2024.107561
+   Zhao Q, 2024, ENERG ECON, V134, P0, DOI 10.1016/j.eneco.2024.107584
+   Zhong JH, 2024, APPL ECON, V56, P2975, DOI 10.1080/00036846.2023.2203461
+NR 68
+TC 0
+Z9 0
+U1 27
+U2 27
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0301-4215
+EI 1873-6777
+J9 ENERG POLICY
+JI Energy Policy
+PD JAN 15
+PY 2026
+VL 208
+IS 
+BP 
+EP 
+DI 10.1016/j.enpol.2025.114883
+EA SEP 2026
+PG 12
+WC Economics; Energy & Fuels; Environmental Sciences; Environmental Studies
+SC Business & Economics; Energy & Fuels; Environmental Sciences & Ecology
+GA 8DN0E
+UT WOS:001586084800001
+DA 2025-11-21
+ER
+

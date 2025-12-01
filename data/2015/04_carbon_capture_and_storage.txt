@@ -1,0 +1,110 @@
+PT J
+AU Thornton, AW
+   Winkler, DA
+   Liu, MS
+   Haranczyk, M
+   Kennedy, DF
+AF Thornton, A. W.
+   Winkler, D. A.
+   Liu, M. S.
+   Haranczyk, M.
+   Kennedy, D. F.
+TI Towards computational design of zeolite catalysts for CO2 reduction
+SO RSC ADVANCES
+LA English
+DT Article
+ID adsorption; separation; prediction; energy; ch4; combinatorial; conversion; enthalpy; capture; storage
+AB Carbon dioxide, an energy waste by-product with significant environmental consequences can be utilized and converted into useful chemical products such as formic acid, formaldehyde, methanol or methane, but more energy and cost efficient catalytic processes are required. Here we develop the methodology for the intelligent selection of porous zeolites for dual-adsorption of hydrogen and carbon dioxide as templates for preparing the optimal catalytic environment for carbon dioxide reduction. Useful zeolite catalysts were computationally screened from over 300 thousand zeolite structures using a combination of molecular simulation and machine-learning techniques. Several of the top candidates were very promising energy-efficient templates for catalysis with the potential to perform at 50% above conventional reactors. It is also found that an optimal cavity size of around 6 angstrom is required to maximize the change in entropy-enthalpy upon adsorption with a maximum void space >30% to boost product formation per volume of material.
+C1 [Thornton, A. W.; Winkler, D. A.; Kennedy, D. F.] CSIRO Mfg Flagship, Clayton, Vic 3169, Australia.
+   [Winkler, D. A.] Monash Inst Pharmaceut Sci, Parkville, Vic 3052, Australia.
+   [Liu, M. S.] CSIRO Digital Prod & Serv Flagship, Clayton, Vic 3169, Australia.
+   [Haranczyk, M.] Univ Calif Berkeley, Lawrence Berkeley Natl Lab, Computat Res Div, Berkeley, CA 94720 USA.
+   [Winkler, D. A.] La Trobe Univ, Latrobe Inst Mol Sci, Bundoora, Vic 3086, Australia.
+C3 Commonwealth Scientific & Industrial Research Organisation (CSIRO); Commonwealth Scientific & Industrial Research Organisation (CSIRO); United States Department of Energy (DOE); Lawrence Berkeley National Laboratory; University of California System; University of California Berkeley; La Trobe University
+RP Thornton, AW (corresponding author), CSIRO Mfg Flagship, Private Bag 10, Clayton, Vic 3169, Australia.
+EM Aaron.Thornton@csiro.au
+FU CSIRO Advanced Materials, Computational & Simulation Sciences, and Intelligent Processing Transformational Capability Platforms; Science and Industry Endowment Fund through the 'Solving the Energy-Waste Roadblock' project; U.S. Department of Energy, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences [DE-FG02-12ER16362]
+CR Abbott LJ, 2013, J MATER CHEM A, V1, P11950, DOI 10.1039/c3ta12442h
+   Babarao R, 2007, LANGMUIR, V23, P659, DOI 10.1021/la062289p
+   Burden FR, 2009, QSAR COMB SCI, V28, P1092, DOI 10.1002/qsar.200810202
+   Calvaresi M, 2014, J MATER CHEM A, V2, P12123, DOI 10.1039/c4ta00662c
+   Canepa P, 2013, J MATER CHEM A, V1, P13597, DOI 10.1039/c3ta12395b
+   Chen JH, 2011, J CHEM ENG DATA, V56, P1209, DOI 10.1021/je101099c
+   Colón YJ, 2014, CHEM SOC REV, V43, P5735, DOI 10.1039/c4cs00070f
+   Crabtree RH, 1999, CHEM COMMUN, V0, PP1611, DOI 10.1039/a901022j
+   Darkrim F, 2000, J CHEM PHYS, V112, P5991, DOI 10.1063/1.481201
+   Deeg KS, 2013, J PHYS CHEM C, V117, P14374, DOI 10.1021/jp4037233
+   Deem MW, 2009, J PHYS CHEM C, V113, P21353, DOI 10.1021/jp906984z
+   Dubbeldam D, 2015, MOLECULAR SIMULATION, V0, P0
+   Dubbeldam D, 2012, ANGEW CHEM INT EDIT, V51, P11867, DOI 10.1002/anie.201205040
+   Düren T, 2007, J PHYS CHEM C, V111, P15350, DOI 10.1021/jp074723h
+   Epa VC, 2014, ADV FUNCT MATER, V24, P2085, DOI 10.1002/adfm.201302877
+   Epa VC, 2012, NANO LETT, V12, P5808, DOI 10.1021/nl303144k
+   Epa VC, 2012, J MATER CHEM, V22, P20902, DOI 10.1039/c2jm34782b
+   Erto A, 2012, MICROPOR MESOPOR MAT, V154, P45, DOI 10.1016/j.micromeso.2011.10.041
+   Fernandez M, 2013, J PHYS CHEM C, V117, P7681, DOI 10.1021/jp4006422
+   Frenkel D, 2002, UNDERSTANDING MOL SI, VSecond, P291
+   Garcia-Perez E, 2007, ADSORPTION, V13, P469, DOI 10.1007/s10450-007-9039-z
+   García-Sánchez A, 2009, J PHYS CHEM C, V113, P8814, DOI 10.1021/jp810871f
+   Graciani J, 2014, SCIENCE, V345, P546, DOI 10.1126/science.1253057
+   Jacobson MZ, 2009, ENERG ENVIRON SCI, V2, P148, DOI 10.1039/b809990c
+   Kim J, 2012, J AM CHEM SOC, V134, P18940, DOI 10.1021/ja309818u
+   Lanzafame P, 2014, CHEM SOC REV, V43, P7562, DOI 10.1039/c3cs60396b
+   Le T, 2012, CHEM REV, V112, P2889, DOI 10.1021/cr200066h
+   Lin LC, 2012, NAT MATER, V11, P633, DOI 10.1038/NMAT3336
+   Maginn EJ, 2010, J PHYS CHEM LETT, V1, P3478, DOI 10.1021/jz101582c
+   Martin RL, 2012, J CHEM INF MODEL, V52, P308, DOI 10.1021/ci200386x
+   Meng XG, 2014, ANGEW CHEM INT EDIT, V53, P11478, DOI 10.1002/anie.201404953
+   Moret S, 2014, NAT COMMUN, V5, P0, DOI 10.1038/ncomms5017
+   MYERS AL, 1965, AICHE J, V11, P121, DOI 10.1002/aic.690110125
+   Myers AL, 2004, COLLOID SURFACE A, V241, P9, DOI 10.1016/j.colsurfa.2004.04.004
+   OBRIEN JA, 1988, IND ENG CHEM RES, V27, P2085, DOI 10.1021/ie00083a021
+   PARRILLO DJ, 1992, CATAL LETT, V16, P17, DOI 10.1007/BF00764350
+   Perez-Carbajo J, 2014, PHYS CHEM CHEM PHYS, V16, P5678, DOI 10.1039/c3cp55255a
+   Pophale R, 2011, PHYS CHEM CHEM PHYS, V13, P12407, DOI 10.1039/c0cp02255a
+   Salahinejad M, 2013, MOL PHARMACEUT, V10, P2757, DOI 10.1021/mp4001958
+   Salahinejad M, 2013, J CHEM INF MODEL, V53, P223, DOI 10.1021/ci300501211
+   Simon CM, 2014, PHYS CHEM CHEM PHYS, V16, P5499, DOI 10.1039/c3cp55039g
+   Sircar S, 1999, J PHYS CHEM B, V103, P6539, DOI 10.1021/jp9903817
+   Styring P, 2015, CARBON DIOXIDE UTILISATION: CLOSING THE CARBON CYCLE, V0, P1, DOI 10.1016/C2012-0-02814-1
+   Su J, 2009, J AM CHEM SOC, V131, P6080, DOI 10.1021/ja901330u
+   Sun NN, 2010, ENERG ENVIRON SCI, V3, P366, DOI 10.1039/b925503f
+   Swisher JA, 2013, AICHE J, V59, P3054, DOI 10.1002/aic.14058
+   Tang LQ, 2008, NAT MATER, V7, P381, DOI 10.1038/nmat2169
+   Thornton AW, 2012, ENERG ENVIRON SCI, V5, P7637, DOI 10.1039/c2ee21743k
+   von der Assen N, 2013, ENERG ENVIRON SCI, V6, P2721, DOI 10.1039/c3ee41151f
+   Wang W, 2011, CHEM SOC REV, V40, P3703, DOI 10.1039/c1cs15008a
+   Watanabe T, 2012, LANGMUIR, V28, P14114, DOI 10.1021/la301915s
+   Willems TF, 2012, MICROPOR MESOPOR MAT, V149, P134, DOI 10.1016/j.micromeso.2011.08.020
+   Wilmer CE, 2012, ENERG ENVIRON SCI, V5, P9849, DOI 10.1039/c2ee23201d
+   Wilmer CE, 2012, NAT CHEM, V4, P83, DOI 10.1038/NCHEM.1192
+   Xiang ZH, 2013, J MATER CHEM A, V1, P2691, DOI 10.1039/c2ta00063f
+   Xie Y, 2013, NAT COMMUN, V4, P0, DOI 10.1038/ncomms2960
+   Zhang YM, 2013, J CHEM INF MODEL, V53, P3163, DOI 10.1021/ci400429g
+NR 58
+TC 38
+Z9 41
+U1 1
+U2 136
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS, ENGLAND
+SN 
+EI 2046-2069
+J9 RSC ADV
+JI RSC Adv.
+PD JUN 15
+PY 2015
+VL 5
+IS 55
+BP 44361
+EP 44370
+DI 10.1039/c5ra06214d
+PG 10
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA CI7SM
+UT WOS:000354964900056
+DA 2025-11-05
+ER
+

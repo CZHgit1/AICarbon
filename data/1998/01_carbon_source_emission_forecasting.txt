@@ -1,0 +1,319 @@
+PT J
+AU Beswick, KM
+   Simpson, TW
+   Fowler, D
+   Choularton, TW
+   Gallagher, MW
+   Hargreaves, KJ
+   Sutton, MA
+   Kaye, A
+AF Beswick, KM
+   Simpson, TW
+   Fowler, D
+   Choularton, TW
+   Gallagher, MW
+   Hargreaves, KJ
+   Sutton, MA
+   Kaye, A
+TI Methane emissions on large scales
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+ID landscape
+AB Two separate studies have been undertaken to improve estimates of methane emissions on a landscape scale. The first study took place over a palsa mire in northern Finland in August 1995. A tethered balloon and a tunable diode laser were used to measure profiles of methane in the nocturnal boundary layer. Using a simple box method or the flux gradient technique fluxes ranging from 18.5 to 658 mu mol m(-2) h(-1) were calculated. The large fluxes may be caused by advection of methane pockets across the measurement site, reflecting the heterogeneous nature of methane source strengths in the surrounding area. Under suitable conditions, comparison with nearby ground-based eddy-correlation results suggested that the balloon techniques could successfully measure fluxes on field scales. The second study was carried out by the NERC Scientific Services Atmospheric Research Airborne Support Facility using the Hercules C130 operated by the United Kingdom Meteorological Research Flight. A flight path around the northern coastline of Britain under steady West-East wind conditions enabled the measurement of methane concentrations up- and down-wind of northern Britain. Using a simple one-dimensional, constant-source diffusion model, the difference between the upwind and downwind concentrations was accounted for by methane emission from the surface. The contribution to methane emissions from livestock was also modelled. Modelled non-agricultural methane emissions decreased with increasing latitude with fluxes in northern England being a factor of 4 greater than those in northern Scotland. Since the only major methane source in northern Scotland was peat bogs, these results indicated that emissions over northern England were dominated by anthropogenic sources. Emissions from livestock accounted for 12% of the total flux over northern England, decreasing to 4% in southern Scotland and becoming negligible in northern Scotland. The total methane flux over northern Scotland was consistent with previous results from the area, indicating that this method of data analysis provided good estimates of large scale methane emissions. (C) 1998 Elsevier Science Ltd. All rights reserved.
+C1 UMIST, Dept Phys, Manchester M60 1QD, Lancs, England.
+   Inst Terr Ecol, Penicuik EH26 0QB, Midlothian, Scotland.
+   DRA, NERC, Sci Serv ARASF, Farnborough, Hants, England.
+C3 University of Manchester; UK Centre for Ecology & Hydrology (UKCEH); UK Research & Innovation (UKRI); Natural Environment Research Council (NERC)
+RP Beswick, KM (corresponding author), UMIST, Dept Phys, Manchester M60 1QD, Lancs, England.
+CR BAMBER DJ, 1984, ATMOS ENVIRON, V18, P1777, DOI 10.1016/0004-6981(84)90353-6
+   BARTLETT KB, 1992, J GEOPHYS RES-ATMOS, V97, P16645, DOI 10.1029/91JD00610
+   CHOULARTON TW, 1995, PHILOS T R SOC A, V351, P357, DOI 10.1098/rsta.1995.0039
+   EDWARDS GC, 1994, J GEOPHYS RES-ATMOS, V99, P1511, DOI 10.1029/93JD02368
+   FOWLER D, 1995, PHILOS T R SOC A, V351, P339, DOI 10.1098/rsta.1995.0038
+   FOWLER D, 1996, T03065A6 I TERR EC, V0, P0
+   GALLAGHER MW, 1994, ATMOS ENVIRON, V28, P2431
+   HARRISS RC, 1994, J GEOPHYS RES-ATMOS, V99, P1635, DOI 10.1029/93JD01788
+   HARRISS RC, 1992, J GEOPHYS RES-ATMOS, V97, P16383, DOI 10.1029/91JD02109
+   Matthews E, 1987, GLOBAL BIOGEOCHEM CY, V1, P61, DOI 10.1029/GB001i001p00061
+   MONCRIEFF JB, 1995, CLIMATIC WARMING FLU, V0, P0
+   MORRISSEY LA, 1992, J GEOPHYS RES-ATMOS, V97, P16661, DOI 10.1029/92JD00063
+   ROULET NT, 1994, J GEOPHYS RES-ATMOS, V99, P1439, DOI 10.1029/93JD00261
+   ROULET NT, 1992, ECOLOGICAL, V42, P67
+   Schuepp PH, 1990, BOUNDARY-LAYER METEOROLOGY, V50, P355, DOI 10.1007/BF00120530
+   SCHUEPP PH, 1992, J GEOPHYS RES-ATMOS, V97, P18455, DOI 10.1029/92JD00884
+   STEELE LP, 1992, NATURE, V359, P251
+   SUTTON MA, 1996, PRELMINARY MAP DISTR, V0, P0
+NR 18
+TC 24
+Z9 26
+U1 0
+U2 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1352-2310
+EI 
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD OCT 15
+PY 1998
+VL 32
+IS 19
+BP 3283
+EP 3291
+DI 10.1016/S1352-2310(98)00080-6
+PG 9
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 109WA
+UT WOS:000075346100010
+DA 2025-11-03
+ER
+
+PT J
+AU Phelps, AR
+   Peterson, KM
+   Jeffries, MO
+AF Phelps, AR
+   Peterson, KM
+   Jeffries, MO
+TI Methane efflux from high-latitude lakes during spring ice melt
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+ID carbon-dioxide; alaska; water; emission; radar
+AB Ice cores removed from shallow ice-covered tundra lakes near Barrow, Alaska, and taiga lakes near Anchorage, Alaska, exhibit increasing concentrations of methane with depth. Methane concentrations in the ice cores increased from 0 mu M in the top 15 cm sections to a maximum of 23 mu M in the lowest 15 cm sections of tundra lake ice and to a maximum of 147 mu M in taiga lake ice. Methane concentrations in the water beneath the ice reflect a similar pattern, with values near 5 mu M early in the ice-covered season, increasing up to 42 mu M in the tundra lakes, and up to 730 mu M in the taiga lakes. Methane levels increase in the water beneath the ice during the course of the winter due to decreasing water volume, exclusion from growing ice, and continued methane production in thawed sediments. Since the ice layer prohibits gas exchange with the atmosphere, the methane is not oxidized, as it would be during the summer months, allowing the winter accumulation and storage of methane in the ice and lake waters. Efflux measurements, taken with floating chambers on the taiga lakes, indicated a large pulse of methane released during the period of ice melt and spring turnover. The efflux from one lake ranged from 2.07 g CH4 m(-2) in 1995 to 1.49 g CH4 m(-2) in 1996 for the 10 day period immediately after ice melt. Estimation of methane efflux using a boundary layer diffusion model and surface water concentrations during the entire ice-free period in 1996 predicted an efflux of 1.79 g CH4 m(-2) during the same 10 day period, compared with 2.28 g CH4 m(-2) for the remainder of the summer season. This observation suggests that almost as much methane efflux can occur during a brief period immediately after ice melt as occurs during the remainder of the ice-free season. Since measurements of methane efflux from high-latitude-lakes are generally made after this breakup period, the overall contribution to atmospheric methane from high-latitude lakes may be twice that of current estimates.
+C1 Univ Alaska Anchorage, Dept Biol Sci, Anchorage, AK 99508 USA.
+   Univ Alaska Fairbanks, Inst Geophys, Fairbanks, AK 99775 USA.
+C3 University of Alaska System; University of Alaska Anchorage; University of Alaska System; University of Alaska Fairbanks
+RP Phelps, AR (corresponding author), Univ Alaska Anchorage, Dept Biol Sci, 3211 Providence Dr, Anchorage, AK 99508 USA.
+EM atarp@uaa.alaska.edu; afkmp@uaa.alaska.edu; martin.jeffries@gi.alaska.edu
+CR BARTLETT KB, 1992, J GEOPHYS RES-ATMOS, V97, P16645, DOI 10.1029/91JD00610
+   BILLINGS WD, 1983, OECOLOGIA, V58, P28
+   Chanton JP, 1995, BIOGENIC TRACE GASES, V0, P98
+   Crill PM, 1988, GLOBAL BIOGEOCHEM CY, V2, P371, DOI 10.1029/GB002i004p00371
+   Crill PM, 1995, BIOGENIC TRACE GASES, V0, P164
+   FUNG I, 1991, J GEOPHYS RES-ATMOS, V96, P13033, DOI 10.1029/91JD01247
+   FUNK DW, 1994, GLOBAL BIOGEOCHEM CY, V8, P271, DOI 10.1029/94GB01229
+   Gorham E, 1988, TRANS. ROYAL SOC. CANADA SER., V3, P21, DOI 10.2307/1941811
+   Jeffries MO, 1996, ARCTIC, V49, P367
+   JEFFRIES MO, 1994, J GEOPHYS RES-OCEANS, V99, P22459, DOI 10.1029/94JC01479
+   KLING GW, 1992, HYDROBIOLOGIA, V240, P23, DOI 10.1007/BF00013449
+   MacIntyre S, 1995, BIOGENIC TRACE GASES, VFirst, P0
+   Michmerhuizen CM, 1996, LIMNOL OCEANOGR, V41, P985, DOI 10.4319/lo.1996.41.5.0985
+   OECHEL WC, 1993, NATURE, V361, P520, DOI 10.1038/361520a0
+   REEBURGH WS, 1994, ENVIR SCI R, V48, P165
+   ROULET NT, 1992, J GEOPHYS RES-ATMOS, V97, P3739, DOI 10.1029/91JD03109
+   Roulet NT, 1997, J GEOPHYS RES-ATMOS, V102, P29313, DOI 10.1029/97JD01237
+   RUDD JWM, 1976, LIMNOL OCEANOGR, V21, P357, DOI 10.4319/lo.1976.21.3.0357
+   SELLMANN PV, 1975, 230 US ARM COLD REG, V0, P0
+   Semiletov IP, 1996, ATMOS ENVIRON, V30, P1657, DOI 10.1016/1352-2310(95)00426-2
+   Smith LK, 1992, GLOBAL BIOGEOCHEM CY, V6, P323, DOI 10.1029/92GB02016
+   WHALEN S C, 1990, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V42, P237, DOI 10.1034/j.1600-0889.1990.t01-2-00002.x
+   YAMAMOTO S, 1976, J CHEM ENG DATA, V21, P78, DOI 10.1021/je60068a029
+   ZHOU W, 1996, THESIS U ALASKA FAIR, V0, P0
+NR 25
+TC 111
+Z9 125
+U1 1
+U2 40
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 2169-8996
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD NOV 27
+PY 1998
+VL 103
+IS D22
+BP 29029
+EP 29036
+DI 10.1029/98JD00044
+PG 8
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 142JB
+UT WOS:000077196200036
+DA 2025-11-03
+ER
+
+PT J
+AU Fahnestock, JT
+   Jones, MH
+   Brooks, PD
+   Walker, DA
+   Welker, JM
+AF Fahnestock, JT
+   Jones, MH
+   Brooks, PD
+   Walker, DA
+   Welker, JM
+TI Winter and early spring CO2 efflux from tundra communities of northern Alaska
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+ID carbon-dioxide; atmospheric co2; arctic tundra; microbial activity; soils; flux; ecosystems; climate; sink; snow
+AB Carbon dioxide concentrations through snow were measured in different arctic tundra communities on the North Slope of Alaska during winter and early spring of 1996. Subnivean CO2 concentrations were always higher than atmospheric CO2. A steady state diffusion model was used to generate conservative estimates of CO2 flow to the atmosphere. The magnitude of CO2 efflux differed with tundra community type, and rates of carbon release increased from March to May. Winter CO2 efflux was highest in riparian and snow bed communities and lowest in dry heath, upland tussock, and wet sedge communities. Snow generally accrues earlier in winter and is deeper in riparian and snow bed communities compared with other tundra communities, which are typically windswept and do not accumulate much snow during the winter. These results support the hypothesis that early and deep snow accumulation may insulate microbial populations from very cold temperatures, allowing sites with earlier snow cover to sustain higher levels of activity throughout winter compared to communities that have later developing snow cover. Extrapolating our estimates of CO2 efflux to the entire snow-covered season indicates that total carbon flux during winter in the Arctic is 13-109 kg CO2-C ha(-1), depending on the vegetation community type. Wintertime CO2 flux is a potentially important, yet largely overlooked, part of the annual carbon cycle of tundra, and carbon release during winter should be accounted for in estimates of annual carbon balance in arctic ecosystems.
+C1 Univ Wyoming, Dept Renewable Resources, Laramie, WY 82071 USA.
+   USGS, Div Water Resources, Boulder, CO 80303 USA.
+   Univ Colorado, Inst Arctic & Alpine Res, Boulder, CO 80309 USA.
+   Colorado State Univ, Nat Resource Ecol Lab, Ft Collins, CO 80523 USA.
+C3 University of Wyoming; United States Department of the Interior; United States Geological Survey; University of Colorado System; University of Colorado Boulder; Colorado State University System; Colorado State University Fort Collins
+RP Fahnestock, JT (corresponding author), Univ Wyoming, Dept Renewable Resources, Laramie, WY 82071 USA.
+EM jacef@uwyo.edu
+CR BILLINGS WD, 1987, QUATERNARY SCI REV, V6, P165, DOI 10.1016/S0277-3791(00)90007-6
+   BILLINGS WD, 1982, OECOLOGIA, V53, P7, DOI 10.1007/BF00377129
+   Brooks PD, 1996, BIOGEOCHEMISTRY, V32, P93, DOI 10.1007/BF00000354
+   Brooks PD, 1997, OECOLOGIA, V110, P403, DOI 10.1007/s004420050175
+   BROOKS PD, 1995, IAHS PUBL, V228, P293
+   Chapin FSIII, 1980, AN ARCTIC ECOSYSTEM. THE COASTAL TUNDRA AT BARROW, V0, P458
+   CIAIS P, 1995, SCIENCE, V269, P1098, DOI 10.1126/science.269.5227.1098
+   CLEIN JS, 1995, SOIL BIOL BIOCHEM, V27, P1231, DOI 10.1016/0038-0717(95)00044-F
+   COXSON DS, 1987, SOIL BIOL BIOCHEM, V19, P49, DOI 10.1016/0038-0717(87)90125-8
+   COYNE PI, 1974, J GEOPHYS RES, V79, P799, DOI 10.1029/JC079i006p00799
+   DUPLESSIS JP, 1991, TRANSPORT POROUS MED, V6, P207, DOI 10.1007/BF00208950
+   EVANS BM, 1989, HOLARCTIC ECOL, V12, P270
+   GIBLIN AE, 1991, ECOL MONOGR, V61, P415, DOI 10.2307/2937049
+   GORHAM E, 1991, ECOL APPL, V1, P182, DOI 10.2307/1941811
+   GRULKE NE, 1990, OECOLOGIA, V83, P485, DOI 10.1007/BF00317199
+   KELLEY JJ, 1968, ECOLOGY, V49, P358, DOI 10.2307/1934472
+   KLING GW, 1991, SCIENCE, V251, P298, DOI 10.1126/science.251.4991.298
+   Massman WJ, 1997, J GEOPHYS RES-ATMOS, V102, P18851, DOI 10.1029/97JD00844
+   Michaelson GJ, 1996, ARCTIC ALPINE RES, V28, P414, DOI 10.2307/1551852
+   MILLER PC, 1983, SIMULATION, V40, P119, DOI 10.1177/003754978304000402
+   MILLER PC, 1981, CARBON BALANCE NO EC, V0, P0
+   OECHEL WC, 1993, NATURE, V361, P520, DOI 10.1038/361520a0
+   Oechel WC, 1997, GLOBAL BIOGEOCHEM CY, V11, P163, DOI 10.1029/96GB03035
+   OECHEL WC, 1995, ECOL APPL, V5, P846, DOI 10.2307/1941992
+   OECHEL WC, 1994, NATURE, V371, P500, DOI 10.1038/371500a0
+   Oechel WC, 1992, PHYSIOLOGICAL ECOLOG, V0, PP139, DOI 10.1016/B978-0-12-168250-7.50013-4
+   RAICH JW, 1995, GLOBAL BIOGEOCHEM CY, V9, P23, DOI 10.1029/94GB02723
+   RAICH JW, 1992, TELLUS B, V44, P81, DOI 10.1034/j.1600-0889.1992.t01-1-00001.x
+   *SAS I, 1989, SAS STAT US GUID VER, V0, P0
+   SKOGLAND T, 1988, SOIL BIOL BIOCHEM, V20, P851, DOI 10.1016/0038-0717(88)90092-2
+   Sommerfeld RA, 1996, GLOBAL BIOGEOCHEM CY, V10, P473, DOI 10.1029/96GB01610
+   SOMMERFELD RA, 1993, NATURE, V361, P140, DOI 10.1038/361140a0
+   TAYLOR BR, 1990, CAN J BOT, V68, P112, DOI 10.1139/b90-016
+   Zhang T, 1996, ARCTIC ALPINE RES, V28, P509, DOI 10.2307/1551862
+   Zimov SA, 1996, CLIMATIC CHANGE, V33, P111, DOI 10.1007/BF00140516
+   ZIMOV SA, 1993, J GEOPHYS RES-ATMOS, V98, P5017, DOI 10.1029/92JD02473
+NR 36
+TC 139
+Z9 167
+U1 2
+U2 59
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 2169-8996
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD NOV 27
+PY 1998
+VL 103
+IS D22
+BP 29023
+EP 29027
+DI 10.1029/98JD00805
+PG 5
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 142JB
+UT WOS:000077196200035
+DA 2025-11-03
+ER
+
+PT J
+AU Parkinson, S
+   Young, P
+AF Parkinson, S
+   Young, P
+TI Uncertainty and sensitivity in global carbon cycle modelling
+SO CLIMATE RESEARCH
+LA English
+DT Article
+DE stochastic modelling; uncertainty analysis; Sensitivity Analysis; Monte Carlo Simulation; global carbon cycle model; future carbon dioxide concentrations
+ID dioxide; identification; eutrophication; systems
+AB This paper summarises the results obtained from a stochastic sensitivity study in the area of global carbon cycle modelling. In particular, it outlines how Monte Carlo Simulation (MCS) techniques and associated Generalised Sensitivity Analysis (GSA) have been applied to a modified box-diffusion model. Using parametric and input uncertainty measures derived from independent sources, the analysis shows that the model produces an ensemble response for atmospheric CO2 whose mean evolution is reasonably consistent with that observed over the industrial period (1765 to 1990). However, the situation is more ambiguous in relation to the amplitude distribution of the stochastic realisations: here, there is a larger than expected variance arising from the assumed uncertainty, although this may be due to unavoidable Limitations in the assumptions about parameteric uncertainty used in the MCS analysis. The analysis also shows that the a priori model response is less consistent with C-13 measurements and not at all consistent with the C-14 observations, while GSA suggests that, from over 20 model parameters, only a small number have a statistically significant effect on the model response in 1990. In addition, the results from MCS, using the IPCC (Intergovernmental Panel on Climate Change) Scenario IS92a inputs, demonstrate that the uncertainties in the projections of the CO2 concentrations using this model are significantly higher than those suggested so far using deterministic methods. Finally, the advantages and disadvantages of the stochastic methodology are discussed.
+C1 Univ Lancaster, Ctr Res Environm Syst & Stat, Lancaster, England.
+C3 Lancaster University
+RP Parkinson, S (corresponding author), Univ Surrey, Ctr Environm Strategy, Guildford GU2 5XH, Surrey, England.
+EM p.younge@lancaster.ac.uk
+CR Allen LH, 1987, GLOBAL BIOGEOCHEM CY, V1, P1, DOI 10.1029/GB001i001p00001
+   Unknown -, 1981, SCOPE, V0, P0
+   Unknown -, 1970, TIME SERIES ANAL FOR, V0, P0
+   BOLIN B, 1986, GREENHOUSE EFFECT CL, V0, PCH3
+   Broecker WS, 1974, CHEM OCEANOGR, V0, P0
+   DOLATABADI H, 1995, 6 GLOB WARM C SAN FR, V0, P0
+   Emanuel WR, 1981, CARBON CYCLE MODELLING, V0, P335
+   ENTING I G, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P459, DOI 10.1111/j.1600-0889.1987.tb00206.x
+   ENTING IG, 1993, 27 CSIRO DIV ATM RES, V0, P0
+   ENTING IG, 1983, 3 CSIRO DIV ATM RES, V0, P0
+   ENTING IG, 1994, 31 CSIRO DIV ATM RES, V0, P0
+   Enting IG, 1982, 44 CSIRO DIV ATM PHY, V0, P0
+   FRIEDLI H, 1986, NATURE, V324, P237, DOI 10.1038/324237a0
+   GARDNER RH, 1985, PUBLICATION US DEP E, V0, P0
+   HESSHAIMER V, 1994, NATURE, V370, P201, DOI 10.1038/370201a0
+   HOFFERT MI, 1980, J GEOPHYS RES-OCEANS, V85, P6667, DOI 10.1029/JC085iC11p06667
+   Houghton JT, 1990, CLIMATE CHANGE, V2nd ed., P0
+   Houghton JT, 1992, CLIMATE CHANGE 1992, V0, P0
+   [Houghton JTIPCC IPCC], 1996, INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE, V0, P0
+   Houghton JT, 1994, CLIMATE CHANGE 1994, V0, P0
+   HOUGHTON RA, 1993, PROJECTIONS FUTURE C, V0, P0
+   KEELING CD, 1973, TELLUS, V25, P174, DOI 10.1111/j.2153-3490.1973.tb01604.x
+   KEESMAN K, 1990, MATH COMPUT SIMULAT, V32, P535, DOI 10.1016/0378-4754(90)90009-8
+   KEESMAN K, 1990, WATER RESOUR RES, V26, P2643
+   Lassey KR, 1996, TELLUS B, V48, P487, DOI 10.1034/j.1600-0889.1996.t01-2-00007.x
+   MARLAND G, 1991, TRENDS 91 COMPENDIUM, V0, P386
+   MARTIN JH, 1987, DEEP-SEA RES, V34, P267, DOI 10.1016/0198-0149(87)90086-0
+   MERLIVAT L, 1991, ADV SPACE RES-SERIES, V11, P77, DOI 10.1016/0273-1177(91)90406-A
+   OESCHGER H, 1975, TELLUS, V27, P168, DOI 10.1111/j.2153-3490.1975.tb01671.x
+   PARKINSON SD, 1995, THESIS LANCASTER U, V0, P0
+   SCAVIA D, 1993, CONCISE ENCY ENV SYS, V0, P318
+   Schimel D, 1995, CLIMATE CHANGE 1994, V0, P35
+   SIEGENTHALER U, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P140
+   Siegenthaler U, 1981, CARBON CYCLE MODELLING, V16, P249
+   SPEAR RC, 1970, INT J CONTROL, V11, P771, DOI 10.1080/00207177008905958
+   SPEAR RC, 1980, WATER RES, V14, P43, DOI 10.1016/0043-1354(80)90040-8
+   SPEAR RC, 1993, CONCISE ENCY ENV SYS, V0, P476
+   WHITEHEAD P, 1979, WATER RESOUR RES, V15, P451, DOI 10.1029/WR015i002p00451
+   WIGLEY TML, 1992, NATURE, V357, P293, DOI 10.1038/357293a0
+   Young P, 1996, J APPL STAT, V23, P165, DOI 10.1080/02664769624206
+   Young PC, 1983, UNCERTAINTY FORECAST, V0, PP69, DOI 10.1007/978-3-642-82054-0_2
+   YOUNG PC, 1991, INT J BIOL MACROMOL, V13, P190, DOI 10.1016/0141-8130(91)90046-W
+   YOUNG PC, 1994, ENVIRONMETRICS, V5, P335, DOI 10.1002/env.3170050311
+   YOUNG PC, 1992, STAT ENV, V0, P3
+   YOUNG PC, 1973, IDENTIFICATION SYSTE, V0, P145
+   YOUNG PC, 1996, 146 LANC U CTR RES E, V0, P0
+   Young Peter, 1984, RECURSIVE ESTIMATION AND TIME-SERIES ANALYSIS, V0, P0
+NR 47
+TC 18
+Z9 20
+U1 0
+U2 4
+PU INTER-RESEARCH
+PI OLDENDORF LUHE
+PA NORDBUNTE 23, D-21385 OLDENDORF LUHE, GERMANY
+SN 0936-577X
+EI 1616-1572
+J9 CLIM RES
+JI Clim. Res.
+PD FEB 27
+PY 1998
+VL 9
+IS 3
+BP 157
+EP 174
+DI 10.3354/cr009157
+PG 18
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA ZM246
+UT WOS:000073519300001
+DA 2025-11-03
+ER
+

@@ -1,0 +1,1241 @@
+PT J
+AU Dai, XL
+   Liu, JJ
+   Zhang, X
+   Chen, WH
+AF Dai, Xilei
+   Liu, Junjie
+   Zhang, Xin
+   Chen, Wenhua
+TI An artificial neural network model using outdoor environmental parameters and residential building characteristics for predicting the nighttime natural ventilation effect
+SO BUILDING AND ENVIRONMENT
+LA English
+DT Article
+DE Artificial neural network model; Machine learning; Ventilation effect; Outdoor parameters; Human behaviour; Indoor carbon dioxide
+ID indoor air-quality; window opening behavior; computational analysis; cross ventilation; fluid-mechanics; change rates; performance; driven; buoyancy; impact
+AB The natural ventilation rate in bedrooms at night has been found to be insufficient at times. To create good indoor air quality with minimal energy consumption, we need to know when the ventilation rate will be insufficient. To achieve this goal, we monitored indoor CO2 concentrations in bedrooms in 24 apartments, together with related outdoor parameters. With this dataset, we built an artificial neural network (ANN) model to predict when the ventilation rate would be insufficient. The sample sizes for the training set and test set are 2760 sample days and 690 sample days, respectively. The overall accuracy levels of this ANN model are 80.2% and 79.3% for the training set and test set, respectively. According to the model, the indoor CO2 concentration level is significantly affected by the building floor on which the apartment is located and nighttime outdoor temperature. Apartments on an upper floor usually had lower probability of the indoor CO2 concentration reaching 1000 ppm than apartments on a lower floor. Furthermore, the probability dropped to its lowest point at 15-20 degrees C, and it rose significantly when the nighttime outdoor temperature increased or decreased. Increasing wind strength decreased the probability only when the outdoor temperature was greater than approximately 20 degrees C. In contrast, when the temperature was low, increasing wind strength may have caused the probability to increase because of the uncomfortable sensation created by increasing wind velocity. Throughout the year, the probability is estimated to be high in the middle of summer and winter.
+C1 [Dai, Xilei; Liu, Junjie; Zhang, Xin; Chen, Wenhua] Tianjin Univ, Tianjin Key Lab Indoor Air Environm Qual Control, Sch Environm Sci & Engn, Tianjin 300072, Peoples R China.
+C3 Tianjin University
+RP Liu, JJ (corresponding author), Tianjin Univ, Tianjin Key Lab Indoor Air Environm Qual Control, Sch Environm Sci & Engn, Tianjin 300072, Peoples R China.
+EM jjliu@tju.edu.cn
+FU National Key Project of the Ministry of Science and Technology, China on Green Buildings and Building Industrialization [2016YFC0700501]
+CR Andersen KT, 2003, BUILD ENVIRON, V38, P1281, DOI 10.1016/S0360-1323(03)00132-X
+   Andersen R, 2013, BUILD ENVIRON, V69, P101, DOI 10.1016/j.buildenv.2013.07.005
+   Unknown -, 2002, P IND AIR 2002 C MON, V0, P0
+   Unknown -, 2000, 188832002 IAQ GBT, V0, P0
+   Bakó-Biró Z, 2012, BUILD ENVIRON, V48, P215, DOI 10.1016/j.buildenv.2011.08.018
+   Bekö G, 2010, BUILD ENVIRON, V45, P2289, DOI 10.1016/j.buildenv.2010.04.014
+   Berglund B, 1992, INDOOR AIR, V2, P2, DOI 10.1111/J.1600-0668.1992.02-21.X
+   Blocken B, 2011, COMPUT FLUIDS, V48, P202, DOI 10.1016/j.compfluid.2011.04.012
+   Bornehag CG, 2005, INDOOR AIR, V15, P275, DOI 10.1111/j.1600-0668.2005.00372.x
+   Bruce J, 1975, COMPUTER PROGRAM CAL, V0, P0
+   Caciolo M, 2013, ENERG BUILDINGS, V60, P372, DOI 10.1016/j.enbuild.2013.01.024
+   Chen JL, 2019, APPL ENERG, V235, P673, DOI 10.1016/j.apenergy.2018.11.020
+   Chen QY, 2009, BUILD ENVIRON, V44, P848, DOI 10.1016/j.buildenv.2008.05.025
+   Cheng PL, 2018, ENERG BUILDINGS, V164, P219, DOI 10.1016/j.enbuild.2017.12.062
+   Cleveland WS, 1992, 1992LOCAL REGRESSION, V0, P309
+   DOca S, 2014, BUILD ENVIRON, V82, P726, DOI 10.1016/j.buildenv.2014.10.021
+   Evola G, 2006, ENERG BUILDINGS, V38, P491, DOI 10.1016/j.enbuild.2005.08.008
+   Feng ZB, 2018, POWDER TECHNOL, V340, P502, DOI 10.1016/j.powtec.2018.09.037
+   Feng ZB, 2018, BUILD ENVIRON, V133, P62, DOI 10.1016/j.buildenv.2018.02.011
+   Feng ZB, 2018, POWDER TECHNOL, V327, P201, DOI 10.1016/j.powtec.2017.12.054
+   Feng ZB, 2016, AEROSOL SCI TECH, V50, P626, DOI 10.1080/02786826.2016.1172058
+   Fisk WJ, 2009, QUANTITATIVE RELATIO, V0, P0
+   Hahnloser RHR, 2000, NATURE, V405, P947, DOI 10.1038/35016072
+   Hesaraki A, 2015, INDOOR BUILT ENVIRON, V24, P162, DOI 10.1177/1420326X13508565
+   Hou J, 2018, BUILD ENVIRON, V132, P273, DOI 10.1016/j.buildenv.2018.01.030
+   Hu CH, 2008, J WIND ENG IND AEROD, V96, P1692, DOI 10.1016/j.jweia.2008.02.031
+   Hunt GR, 1999, BUILD ENVIRON, V34, P707, DOI 10.1016/S0360-1323(98)00053-5
+   Hyun SH, 2008, BUILD SERV ENG RES T, V29, P311, DOI 10.1177/0143624408092424
+   Jiang Y, 2003, INT J HEAT MASS TRAN, V46, P973, DOI 10.1016/S0017-9310(02)00373-3
+   KATO S, 1992, J WIND ENG IND AEROD, V44, P2575, DOI 10.1016/0167-6105(92)90049-G
+   Kauneliene V, 2016, BUILD ENVIRON, V108, P63, DOI 10.1016/j.buildenv.2016.08.018
+   Kingma DP, 2014, ARXIV14126890, V0, P0
+   Lai DY, 2018, BUILD ENVIRON, V143, P679, DOI 10.1016/j.buildenv.2018.08.006
+   Larsen TS, 2008, ENERG BUILDINGS, V40, P1031, DOI 10.1016/j.enbuild.2006.07.012
+   Li YG, 2001, BUILD ENVIRON, V36, P59, DOI 10.1016/S0360-1323(99)00070-0
+   Linden PF, 1999, ANNU REV FLUID MECH, V31, P201, DOI 10.1146/annurev.fluid.31.1.201
+   Liu J, 2018, BUILDING ENV, V0, P0
+   Mahdavi A, 2008, BUILD ENVIRON, V43, P620, DOI 10.1016/j.buildenv.2006.06.023
+   Martins NR, 2017, APPL ENERG, V189, P711, DOI 10.1016/j.apenergy.2016.12.103
+   Noh KC, 2010, INDOOR BUILT ENVIRON, V19, P444, DOI 10.1177/1420326X10373213
+   Pan S, 2019, BUILD ENVIRON, V149, P210, DOI 10.1016/j.buildenv.2018.12.008
+   Park J, 2019, INDOOR AIR, V29, P242, DOI 10.1111/ina.12522
+   R. American Society of Heating Engineers A. C, 2010, ASHRAE STAND THERM E, V0, P0
+   Rackes A, 2013, BUILD ENVIRON, V60, P243, DOI 10.1016/j.buildenv.2012.10.013
+   Seppänen OA, 1999, INDOOR AIR, V9, P226, DOI 10.1111/j.1600-0668.1999.00003.x
+   Seppänen O, 2008, INT J VENT, V6, P297
+   Shi SS, 2016, BUILD SIMUL-CHINA, V9, P221, DOI 10.1007/s12273-015-0266-z
+   Tham KW, 2016, ENERG BUILDINGS, V130, P637, DOI 10.1016/j.enbuild.2016.08.071
+   Turanjanin V, 2014, ENERGY, V77, P290, DOI 10.1016/j.energy.2014.10.028
+   Wallace LA, 2002, J EXPO ANAL ENV EPID, V12, P296, DOI 10.1038/sj.jea.7500229
+   Wang LZ, 2008, HVAC&R RES, V14, P925, DOI 10.1080/10789669.2008.10391047
+   Wargocki P, 2002, INDOOR AIR, V12, P113, DOI 10.1034/j.1600-0668.2002.01145.x
+   Wyon DP, 2004, INDOOR AIR, V14, P92, DOI 10.1111/j.1600-0668.2004.00278.x
+   Yao MY, 2017, BUILD ENVIRON, V124, P441, DOI 10.1016/j.buildenv.2017.08.035
+   Zhai ZQ, 2015, ENRGY PROCED, V78, P2700, DOI 10.1016/j.egypro.2015.11.355
+   Zhao L, 2018, BUILD ENVIRON, V143, P99, DOI 10.1016/j.buildenv.2018.06.057
+   Zhou ZH, 2016, RENEW SUST ENERG REV, V64, P372, DOI 10.1016/j.rser.2016.06.018
+NR 57
+TC 26
+Z9 30
+U1 4
+U2 92
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-1323
+EI 1873-684X
+J9 BUILD ENVIRON
+JI Build. Environ.
+PD JUL 15
+PY 2019
+VL 159
+IS 
+BP 
+EP 
+DI 10.1016/j.buildenv.2019.05.017
+PG 10
+WC Construction & Building Technology; Engineering, Environmental; Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA IC8KX
+UT WOS:000471230600004
+DA 2025-11-06
+ER
+
+PT J
+AU Qi, XW
+   Luo, YD
+   Wu, GY
+   Boriboonsomsin, K
+   Barth, M
+AF Qi, Xuewei
+   Luo, Yadan
+   Wu, Guoyuan
+   Boriboonsomsin, Kanok
+   Barth, Matthew
+TI Deep reinforcement learning enabled self-learning control for energy efficient driving
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Deep reinforcement learning; PHEV; Energy efficiency; Self-learning
+ID management; algorithm
+AB To address the air pollution problems and reduce greenhouse gas emissions (GHG), plug-in hybrid electric vehicles (PHEV) have been developed to achieve higher fuel efficiency. The Energy Management System (EMS) is a very important component of a PHEV in achieving better fuel economy and it is a very active research area. So far, most of the existing EMS strategies are either just simply following predefined rules that are not adaptive to changing driving conditions; or heavily relying on accurate prediction of future traffic conditions. Deep learning algorithms have been successfully applied to many complex problems and proved to even outperform human beings in some tasks (e.g., play chess) in recent years, which shows the great potential of such methods in practical engineering problems. In this study, a deep reinforcement learning (Deep Q-network or DQN) based PHEV energy management system is designed to autonomously learn the optimal fuel/electricity splits from interactions between the vehicle and the traffic environment. It is a fully data-driven and self-learning model that does not rely on any prediction, predefined rules or even prior human knowledge. The experiment results show that the proposed model is capable of achieving 16.3% energy savings (with the designed PHEV simulation model) on a typical commute trip, compared to conventional binary control strategies. In addition, a dueling Deep Q-network with dueling structure (DDQN) is also implemented and compared with single DQN in particular with respect to the convergence rate in the training process.
+C1 [Qi, Xuewei; Wu, Guoyuan; Boriboonsomsin, Kanok; Barth, Matthew] Univ Calif Riverside, Dept Elect & Comp Engn, Riverside, CA 92521 USA.
+   [Luo, Yadan] Univ Elect Sci & Technol China, Sch Comp Sci & Engn, Chengdu, Sichuan, Peoples R China.
+C3 University of California System; University of California Riverside; University of Electronic Science & Technology of China
+RP Qi, XW (corresponding author), Univ Calif Riverside, Dept Elect & Comp Engn, Riverside, CA 92521 USA.
+EM xqi001@ucr.edu
+CR Chen Z, 2014, J POWER SOURCES, V248, P416, DOI 10.1016/j.jpowsour.2013.09.085
+   Denis N, 2015, IET INTELL TRANSP SY, V9, P30, DOI 10.1049/iet-its.2014.0075
+   Faraj Mahmoud, 2016, 2016 IEEE TRANSPORTA, V0, P0
+   Gong QM, 2008, P AMER CONTR CONF, V0, PP3225, DOI 10.1109/ACC.2008.4586989
+   Kong ZH, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0180491
+   Larsson V, 2014, IEEE T INTELL TRANSP, V15, P1145, DOI 10.1109/TITS.2013.2294723
+   Liu T, 2017, IEEE-ASME T MECH, V22, P1497, DOI 10.1109/TMECH.2017.2707338
+   Liu T, 2015, ENERGIES, V8, P7243, DOI 10.3390/en8077243
+   Mao C, 2018, TRANSPORT RES C-EMER, V93, P179, DOI 10.1016/j.trc.2018.06.001
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Ozan C, 2015, TRANSPORT RES C-EMER, V54, P40, DOI 10.1016/j.trc.2015.03.010
+   Qi X, 2017, 2017 IEEE 20TH INTERNATIONAL CONFERENCE ON INTELLIGENT TRANSPORTATION SYSTEMS (ITSC), V0, PP1, DOI 10.1109/ITSC.2017.8317744
+   Qi XW, 2017, IEEE T INTELL TRANSP, V18, P2181, DOI 10.1109/TITS.2016.2633542
+   Qi XW, 2016, TRANSPORT RES REC, V0, PP1, DOI 10.3141/2572-01
+   Shao J, 2015, IEEE INT CONF COMMUN, V0, P0
+   Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961
+   Sutton AG Barto RS, 1998, REINFORCEMENT LEARNING, V0, P0
+   Tribioli L, 2013, P AMER CONTR CONF, V0, P5966
+   Wang XM, 2013, ENERGIES, V6, P5656, DOI 10.3390/en6115656
+   Wang Ziyu, 2015, ARXIV151106581, V0, P0
+   Zhu F, 2015, TRANSPORT RES C-EMER, V58, P487, DOI 10.1016/j.trc.2014.12.009
+   Zhu F, 2014, TRANSPORT RES C-EMER, V41, P30, DOI 10.1016/j.trc.2014.01.014
+   Zhu MX, 2018, TRANSPORT RES C-EMER, V97, P348, DOI 10.1016/j.trc.2018.10.024
+NR 26
+TC 178
+Z9 199
+U1 7
+U2 173
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+EI 1879-2359
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD FEB 15
+PY 2019
+VL 99
+IS 
+BP 67
+EP 81
+DI 10.1016/j.trc.2018.12.018
+PG 15
+WC Transportation Science & Technology
+SC Transportation
+GA HM3IV
+UT WOS:000459367900005
+DA 2025-11-06
+ER
+
+PT J
+AU Sharif, SA
+   Hammad, A
+AF Sharif, Seyed Amirhosain
+   Hammad, Amin
+TI Developing surrogate ANN for selecting near-optimal building energy renovation methods considering energy consumption, LCC and LCA
+SO JOURNAL OF BUILDING ENGINEERING
+LA English
+DT Article
+DE Building energy; Energy consumption prediction; Simulation-based multi-objective optimization; Life cycle assessment; Life cycle cost; Artificial neural network; Renovation; Machine learning model
+ID artificial neural-network; simulation-based optimization; life-cycle analysis; multiobjective optimization; predictive control; genetic algorithm; thermal comfort; model; design; performance
+AB Buildings are responsible for more than 30% of the total energy consumption and an equally large amount of related greenhouse gas emissions. Improving the energy performance of buildings is a critical element of building energy conservation. Furthermore, renovating existing buildings' envelopes and systems offers significant opportunities for reducing Life Cycle Cost (LCC) and minimizing negative environmental impacts. This approach can be considered as one of the key strategies for achieving sustainable development goals at a relatively low cost, especially when compared with the demolition and reconstruction of new buildings. One of the main methodological and technical issues of this approach is selecting a desirable renovation strategy among a wide range of available options. The main idea and motivation behind this study relies on trying to bridge the gap between Simulation-Based Multi-Objective Optimization (SBMO) and Artificial Neural Network (ANN). For a whole building simulation and optimization, current SBMOs often need thousands of simulation evaluations. Therefore, the optimization becomes unfeasible because of the computation time and complexity of the dependent parameters. To this end, one feasible technique to solve this problem is to implement surrogate models to computationally imitate expensive real building simulation models. The objective of the research focuses on developing a robust ANN to explore vast and complex data generated from the SBMO model. More specifically, this research aims to propose an accurate ANN to predict energy consumption using data from the SBMO model. The proposed model will potentially offer new venues to predict Total Energy Consumption (TEC), LCC, and Life Cycle Assessment (LCA) for different renovation scenarios, and select the optimum scenario. To illustrate the applicability of the model, a case study was developed and the accuracy of the proposed model was evaluated. Results show that models constructed using ANNs are considerably less time-consuming than the conventional Building Energy Model (BEM) while achieving acceptable accuracy.
+C1 [Sharif, Seyed Amirhosain] Concordia Univ, Dept Bldg Civil & Environm Engn, 1455 De Maisonneuve Blvd W, Montreal, PQ H3G 1M8, Canada.
+   [Hammad, Amin] Concordia Univ, Concordia Inst Informat Syst Engn, 1455 De Maisonneuve Blvd W, Montreal, PQ H3G 1M8, Canada.
+C3 Concordia University - Canada; Concordia University - Canada
+RP Hammad, A (corresponding author), Concordia Univ, Concordia Inst Informat Syst Engn, 1455 De Maisonneuve Blvd W, Montreal, PQ H3G 1M8, Canada.
+EM se_sh@encs.concordia.ca; hammad@ciise.concordia.ca
+FU Quebec Government; Pierre Arbour Foundation
+CR Abdallah M, 2014, OPTIMIZING THE SELECTION OF SUSTAINABILITY MEASURES FOR EXISTING BUILDINGS, V0, P0
+   Afram A, 2017, ENERG BUILDINGS, V141, P96, DOI 10.1016/j.enbuild.2017.02.012
+   Ahmad AS, 2014, RENEW SUST ENERG REV, V33, P102, DOI 10.1016/j.rser.2014.01.069
+   Ahmad MW, 2017, ENERG BUILDINGS, V147, P77, DOI 10.1016/j.enbuild.2017.04.038
+   Amasyali K, 2018, DEEP LEARNING BUILDI, V0, P0
+   Amasyali K, 2018, RENEW SUST ENERG REV, V81, P1192, DOI 10.1016/j.rser.2017.04.095
+   Anand CK, 2017, RENEW SUST ENERG REV, V67, P408, DOI 10.1016/j.rser.2016.09.058
+   Nguyen AT, 2014, APPL ENERG, V113, P1043, DOI 10.1016/j.apenergy.2013.08.061
+   Unknown -, 2005, INTRO NEURAL NETWORK, V0, P0
+   Unknown -, 2014, ASHRAE DES GUID ADV, V0, P0
+   Asadi E, 2013, NEARLY ZERO ENERGY BUILDING REFURBISHMENT, V0, PP279, DOI 10.1007/978-1-4471-5523-2_11
+   Asadi E, 2014, ENERG BUILDINGS, V81, P444, DOI 10.1016/j.enbuild.2014.06.009
+   Ascione F, 2017, ENERG BUILDINGS, V146, P200, DOI 10.1016/j.enbuild.2017.04.069
+   Asdrubali F, 2013, ENERG BUILDINGS, V64, P73, DOI 10.1016/j.enbuild.2013.04.018
+   Ayata T, 2007, APPL THERM ENG, V27, P12, DOI 10.1016/j.applthermaleng.2006.05.021
+   Azadeh A, 2008, ENERG CONVERS MANAGE, V49, P2272, DOI 10.1016/j.enconman.2008.01.035
+   Azari R, 2016, ENERG BUILDINGS, V126, P524, DOI 10.1016/j.enbuild.2016.05.054
+   Badea N, 2015, ENERG BUILDINGS, V86, P74, DOI 10.1016/j.enbuild.2014.10.021
+   Bocheng Z, 2015, SHORT TERM PREDICTIO, V0, P867
+   Cabeza LF, 2014, RENEW SUST ENERG REV, V29, P394, DOI 10.1016/j.rser.2013.08.037
+   CBC News, 2016, CBC NEWS, V10, P5
+   Chantrelle FP, 2011, APPL ENERG, V88, P1386, DOI 10.1016/j.apenergy.2010.10.002
+   Chen L, 2010, 2010 6 INT C COMP SC, V0, P286
+   Chen LZ, 2017, ENERGIES, V10, P0, DOI 10.3390/en10091301
+   Choliet F, 2013, DEEP LEARNING PYTHON, V0, P0
+   Delgarm N, 2016, APPL ENERG, V170, P293, DOI 10.1016/j.apenergy.2016.02.141
+   Diwekar U, 2013, SPRINGER SCI BUSINES, V0, P0
+   Eisenhower B, 2012, ENERG BUILDINGS, V47, P292, DOI 10.1016/j.enbuild.2011.12.001
+   Evins R, 2013, RENEW SUST ENERG REV, V22, P230, DOI 10.1016/j.rser.2013.02.004
+   Ferreira PM, 2012, ENERG BUILDINGS, V55, P238, DOI 10.1016/j.enbuild.2012.08.002
+   Freeman JA, 1991, NEURAL NETWORKS ALGO, V0, P0
+   Gallagher CV, 2018, ENERG BUILDINGS, V158, P647, DOI 10.1016/j.enbuild.2017.10.041
+   Garnier A, 2015, APPL SOFT COMPUT, V37, P847, DOI 10.1016/j.asoc.2015.09.022
+   Gosavi A, 2014, SIMULATION-BASED OPTIMIZATION, V0, P0
+   Graves A, 2009, IEEE T PATTERN ANAL, V31, P855, DOI 10.1109/TPAMI.2008.137
+   Neto AH, 2008, ENERG BUILDINGS, V40, P2169, DOI 10.1016/j.enbuild.2008.06.013
+   Huang H, 2015, BUILD ENVIRON, V89, P203, DOI 10.1016/j.buildenv.2015.01.037
+   Institute for Building Environment and Energy Conservation, 2013, TOT EN US BUILD AN E, V0, P132
+   Jin Q, 2012, P 1 BUILD SIM OPT C, V0, P417
+   Kalogirou SA, 2000, ENERGY, V25, P479, DOI 10.1016/S0360-5442(99)00086-9
+   Kim W, 2016, APPL ENERG, V162, P666, DOI 10.1016/j.apenergy.2015.10.153
+   Kleijnen JPC, 1987, STAT TOOLS SIMULATIO, V0, P0
+   Lee JH, 2007, BUILD ENVIRON, V42, P3333, DOI 10.1016/j.buildenv.2006.08.029
+   Li XG, 2015, INT CONF ACOUST SPEE, V0, PP4520, DOI 10.1109/ICASSP.2015.7178826
+   Ma ZJ, 2012, ENERG BUILDINGS, V55, P889, DOI 10.1016/j.enbuild.2012.08.018
+   Machairas V, 2014, RENEW SUST ENERG REV, V31, P101, DOI 10.1016/j.rser.2013.11.036
+   Magnier L, 2008, MULTIOBJECTIVE OPTIM, V0, P0
+   Magnier L, 2010, BUILD ENVIRON, V45, P739, DOI 10.1016/j.buildenv.2009.08.016
+   Marasco DE, 2016, ENERG BUILDINGS, V128, P431, DOI 10.1016/j.enbuild.2016.06.092
+   Melo AP, 2014, ENERG POLICY, V69, P457, DOI 10.1016/j.enpol.2014.02.001
+   Naganathan H, 2016, AUTOMAT CONSTR, V72, P187, DOI 10.1016/j.autcon.2016.08.002
+   Natural Resources Canada, 2015, SURV COMM I EN US SC, V0, P0
+   Ning M, 2010, APPL THERM ENG, V30, P385, DOI 10.1016/j.applthermaleng.2009.10.009
+   PachecoTorgal F, 2017, WOOD PUBL SER CIVIL, V0, P1
+   Purdy J, 2001, CANM CTR TECHN 7 INT, V0, P0
+   Schwartz Y, 2016, ENERGY, V97, P58, DOI 10.1016/j.energy.2015.11.056
+   Sharif SA, 2017, INT WORKSH COMP CIV, V0, P0
+   Sharif SA, 2019, J BUILD ENG, V21, P429, DOI 10.1016/j.jobe.2018.11.006
+   USDepartment of Energy, 2012, ANN ENERGY OUTLOOK 2, V0, P0
+   Wang WM, 2005, BUILD ENVIRON, V40, P1512, DOI 10.1016/j.buildenv.2004.11.017
+   Wang WM, 2005, ADV ENG INFORM, V19, P5, DOI 10.1016/j.aei.2005.03.002
+   Wei XP, 2015, ENERGY, V83, P294, DOI 10.1016/j.energy.2015.02.024
+   Wei YX, 2018, RENEW SUST ENERG REV, V82, P1027, DOI 10.1016/j.rser.2017.09.108
+   Xu XH, 2008, BUILD SERV ENG RES T, V29, P73, DOI 10.1177/0143624407087788
+   Yang J, 2005, ENERG BUILDINGS, V37, P1250, DOI 10.1016/j.enbuild.2005.02.005
+   Yang JJ, 2005, BMAS 2005: PROCEEDINGS OF THE 2005 IEEE INTERNATIONAL BEHAVIORAL MODELING AND SIMULATION WORKSHOP, V0, P140
+   Yu W, 2015, ENERG BUILDINGS, V88, P135, DOI 10.1016/j.enbuild.2014.11.063
+   Yu Z, 2012, MINING HIDDEN KNOWLEDGE FROM MEASURED DATA FOR IMPROVING BUILDING ENERGY PERFORMANCE, V0, P0
+NR 70
+TC 131
+Z9 136
+U1 7
+U2 134
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-7102
+EI 
+J9 J BUILD ENG
+JI J. Build. Eng.
+PD SEP 15
+PY 2019
+VL 25
+IS 
+BP 
+EP 
+DI 10.1016/j.jobe.2019.100790
+PG 15
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA IM0TK
+UT WOS:000477702200026
+DA 2025-11-06
+ER
+
+PT J
+AU Li, Y
+AF Li, Yan
+TI Prediction of energy consumption: Variable regression or time series? A case in China
+SO ENERGY SCIENCE & ENGINEERING
+LA English
+DT Article
+DE China; deep learning; energy consumption; long short-term memory; ridge regression; time series
+ID economic-growth; co2 emissions; neural-networks; selection; demand; model
+AB Energy consumption is closely related to industrial structure, economic prosperity, and population. Because of the Granger causal relationship between GDP and energy consumption, many researchers consider the regression method to predict energy consumption using economic variables. However, some other researchers regard the time series method (forecast) to estimate for energy consumption. To address the advantages and disadvantages of two methods in energy consumption prediction, we performed the deep learning (DL) based on the case of China. The experiment results show that the accuracy of time series forecast is much higher than regression methods. In addition, we also explored the relationship between industry, economy, population, and energy consumption. We found that GDP, population, secondary sector, and tertiary sector were significant to energy consumption. A tertiary sector can help to reduce energy consumption to some extent. This could give suggestions about changing industry structure. More and more attention has been paid to energy intensity. The strategic approach to sustainable development requires reducing energy intensity while developing the economy. Since China is committed to achieving carbon emission peak by 2030, this paper predicts the energy intensity of China in the next decade based on a DL algorithm. The prediction results show that energy intensity would slightly decrease in the next decade. Different types of energy represent the industrial structure behind economic growth. Therefore, this paper was conducted using ridge regression (RR) to explore the relationship between different types of energy and energy intensity. In addition, the effect (positive or negative) of different energy sources in reducing energy intensity has also been explored. We found that the best way of developing the economy and reducing energy consumption is to use natural gas and hydroelectric instead of coal. This can guide policy development about changing energy source structure.
+C1 [Li, Yan] Taiyuan Univ Technol, Coll Econ & Management, Taiyuan 030024, Shanxi, Peoples R China.
+C3 Taiyuan University of Technology
+RP Li, Y (corresponding author), Taiyuan Univ Technol, Coll Econ & Management, Taiyuan 030024, Shanxi, Peoples R China.
+EM liyan@tyut.edu.cn
+FU national social science foundation of China [16CJY074]
+CR AMEYAW B, 2018, SUSTAINABILITY BASEL, V10, P0
+   Camarero M, 2015, ENERG ECON, V52, P207, DOI 10.1016/j.eneco.2015.10.012
+   Chen K, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, V0, PP2823, DOI 10.1109/BigData.2015.7364089
+   Chiou-Wei SZ, 2008, ENERG ECON, V30, P3063, DOI 10.1016/j.eneco.2008.02.002
+   Deng SH, 2014, ENERG SOURCE PART B, V9, P325, DOI 10.1080/15567249.2010.533330
+   Dreyfus Gerard, 2005, NEURAL NETWORKS: METHODOLOGY AND APPLICATIONS, V0, P0
+   Graves A, 2005, NEURAL NETWORKS, V18, P602, DOI 10.1016/j.neunet.2005.06.042
+   Günay ME, 2016, ENERG POLICY, V90, P92, DOI 10.1016/j.enpol.2015.12.019
+   Jebaraj S, 2011, ENERG SOURCE PART A, V33, P1305, DOI 10.1080/15567030903397859
+   Kubokawa T, 2012, COMMUN STAT-THEOR M, V41, P2465, DOI 10.1080/03610926.2011.624242
+   Mi ZF, 2017, J CLEAN PROD, V142, P2227, DOI 10.1016/j.jclepro.2016.11.055
+   Nejat P, 2015, RENEW SUST ENERG REV, V43, P843, DOI 10.1016/j.rser.2014.11.066
+   Pao HT, 2011, ENERGY, V36, P685, DOI 10.1016/j.energy.2010.09.041
+   Paul S, 2004, ENERG ECON, V26, P977, DOI 10.1016/j.eneco.2004.07.002
+   Qu Y, 2016, INT C MANAGE SCI ENG, V0, PP855, DOI 10.1109/ICMSE.2016.8365527
+   Raza MQ, 2015, RENEW SUST ENERG REV, V50, P1352, DOI 10.1016/j.rser.2015.04.065
+   Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003
+   Sheng Y, 2013, APPL ENERG, V104, P319, DOI 10.1016/j.apenergy.2012.10.043
+   Szoplik J, 2015, ENERGY, V85, P208, DOI 10.1016/j.energy.2015.03.084
+   Wang JJ, 2012, APPL ENERG, V94, P65, DOI 10.1016/j.apenergy.2012.01.010
+   Wang P, 2013, APPL ENERG, V106, P65, DOI 10.1016/j.apenergy.2013.01.036
+   Wang SJ, 2016, SCI TOTAL ENVIRON, V542, P360, DOI 10.1016/j.scitotenv.2015.10.027
+   Wang SJ, 2015, ECOL INDIC, V49, P121, DOI 10.1016/j.ecolind.2014.10.004
+   YENSLER J, 2016, SYST MAN CYB SMC 201, V0, P0
+   Zhang XP, 2009, ECOL ECON, V68, P2706, DOI 10.1016/j.ecolecon.2009.05.011
+   Zhu BZ, 2018, ENERG POLICY, V121, P441, DOI 10.1016/j.enpol.2018.07.002
+NR 26
+TC 13
+Z9 15
+U1 1
+U2 48
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 
+EI 2050-0505
+J9 ENERGY SCI ENG
+JI Energy Sci. Eng.
+PD DEC 15
+PY 2019
+VL 7
+IS 6
+BP 2510
+EP 2518
+DI 10.1002/ese3.439
+EA AUG 2019
+PG 9
+WC Energy & Fuels
+SC Energy & Fuels
+GA KD0BY
+UT WOS:000481819600001
+DA 2025-11-06
+ER
+
+PT J
+AU Kang, DK
+   Yang, EJ
+   Youn, CH
+AF Kang, Dong-Ki
+   Yang, Eun-Ju
+   Youn, Chan-Hyun
+TI Deep Learning-Based Sustainable Data Center Energy Cost Minimization With Temporal MACRO/MICRO Scale Management
+SO IEEE ACCESS
+LA English
+DT Article
+DE Energy efficiency; renewable energy sources; mathematical programming; unsupervised learning; economic forecasting
+ID power; networks; strategy
+AB Recently, distributed sustainable data centers based on renewable power generators have been deployed in order to efficiently reduce both the energy cost and carbon emission. Dynamic right-sizing (DRS) and frequency scaling (FS) have been considered as promising solutions to tune the computing capacity corresponding to the dynamic renewable power capacity. However, in existing works, the inaccurate power prediction and the uncoordinated decision making of DRS/FS still lead to low service quality and high energy cost. In this paper, we propose a novel joint optimization method for energy efficiently distributed sustainable data centers. The proposed method adopts long short-term memory approach to improve the prediction accuracy of renewable power capacity for a long period, and unsupervised deep learning (DL) solver to resolve the coordinated DRS/FS optimization. Furthermore, we present the MACRO/MICRO (MAMI) time scale-based data center management technique to achieve both high energy efficiency and low wake-up transition overhead of DRS. To evaluate the proposed DL-based MAMI optimizer, we use the real trace data of renewable power capacity from the U.S. Measurement and Instrumentation Data Center. The experimental results demonstrate that our method reduces the energy cost by 25% compared with conventional metaheuristics while guaranteeing the service response delay requirement.
+C1 [Kang, Dong-Ki; Yang, Eun-Ju; Youn, Chan-Hyun] Korea Adv Inst Sci & Technol, Sch Elect Engn, Daejeon 34141, South Korea.
+C3 Korea Advanced Institute of Science & Technology (KAIST)
+RP Youn, CH (corresponding author), Korea Adv Inst Sci & Technol, Sch Elect Engn, Daejeon 34141, South Korea.
+EM chyoun@kaist.ac.kr
+FU Cross-Ministry Giga KOREA Project grant through the Korean Government(MSIT) (Development of Mobile Edge Computing Platform Technology for URLLC Services) [GK18P0400]; Institute for Information and Communications Technology Promotion (IITP) grant through the Korean Government(MSIT) (Service Mobility Support Distributed Cloud Technology) [2017-0-00294]
+CR Aho J, 2012, P AMER CONTR CONF, V0, P3120
+   Aksanli B, 2011, PROCEEDINGS OF THE 4TH WORKSHOP ON POWER-AWARE COMPUTING AND SYSTEMS, V0, PP5:1, DOI 10.1109/MC.2012.249
+   Unknown -, 2015, UNFR CONV CLIM CHANG, V0, P0
+   Unknown -, 2015, P INT C MACH LEARN, V0, P0
+   Chen NC, 2017, IEEE INT CONGR BIG, V0, PP1, DOI 10.1109/BigDataCongress.2017.10
+   Chen SX, 2012, IEEE T SMART GRID, V3, P142, DOI 10.1109/TSG.2011.2160745
+   Cheng DZ, 2019, IEEE T PARALL DISTR, V30, P375, DOI 10.1109/TPDS.2018.2865927
+   Cheng DZ, 2018, IEEE T PARALL DISTR, V29, P70, DOI 10.1109/TPDS.2017.2745571
+   Cheng DZ, 2015, ACM T AUTON ADAP SYS, V10, P0, DOI 10.1145/2720023
+   Deb K, 2002, IEEE T EVOLUT COMPUT, V6, P182, DOI 10.1109/4235.996017
+   Nguyen DT, 2014, IEEE T SMART GRID, V5, P1608, DOI 10.1109/TSG.2014.2313612
+   Fang Q, 2017, IEEE T IND INFORM, V13, P2260, DOI 10.1109/TII.2017.2698603
+   Garcia RD, 2017, COMPUT STRUCT, V187, P77, DOI 10.1016/j.compstruc.2017.03.023
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P1
+   Greff K, 2017, IEEE T NEUR NET LEAR, V28, P2222, DOI 10.1109/TNNLS.2016.2582924
+   Horvath T, 2008, PACT08: PROCEEDINGS OF THE SEVENTEENTH INTERNATIONAL CONFERENCE ON PARALLEL ARCHITECTURES AND COMPILATION TECHNIQUES, V0, PP270, DOI 10.1145/1454115.1454153
+   Kingma DiederikP, 2014, ACS SYM SER, V1050, P1, DOI 10.48550/ARXIV.1312.6114
+   Kumar MRV, 2016, J COMPUT SYST SCI, V82, P191, DOI 10.1016/j.jcss.2015.07.005
+   Lin MH, 2013, IEEE ACM T NETWORK, V21, P1378, DOI 10.1109/TNET.2012.2226216
+   Liu Q, 2016, COMPUT NETW, V101, P104, DOI 10.1016/j.comnet.2015.11.024
+   Liu ZH, 2015, IEEE ACM T NETWORK, V23, P657, DOI 10.1109/TNET.2014.2308295
+   Mei XX, 2017, IEEE INFOCOM SER, V0, P0
+   Nair V, 2010, P 27 INT C MACHINE L, V0, P807
+   Nazaripouya H, 2016, 2016 IEEE/PES TRANSMISSION AND DISTRIBUTION CONFERENCE AND EXPOSITION (T&D), V0, P0
+   Peng LM, 2018, FUTURE GENER COMP SY, V88, P606, DOI 10.1016/j.future.2018.05.015
+   Peng LM, 2016, OPT SWITCH NETW, V19, P58, DOI 10.1016/j.osn.2015.06.001
+   Peng YY, 2017, OPT SWITCH NETW, V23, P225, DOI 10.1016/j.osn.2016.02.001
+   Qiu J, 2018, IEEE T POWER SYST, V33, P1970, DOI 10.1109/TPWRS.2017.2715983
+   Wan SH, 2018, IEEE ACCESS, V6, P36825, DOI 10.1109/ACCESS.2018.2851382
+   Xiao SY, 2018, IEEE INTERNET THINGS, V5, P2518, DOI 10.1109/JIOT.2017.2764957
+   Xiao YP, 2018, IEEE T POWER SYST, V33, P3898, DOI 10.1109/TPWRS.2017.2779540
+   Yona A, 2008, IEEE POW ENER SOC GE, V0, P3705
+   Zhang JH, 2014, IEEE T SUSTAIN ENERG, V5, P629, DOI 10.1109/TSTE.2013.2280246
+   Zhang YW, 2011, LECT NOTES COMPUT SC, V7049, P143
+   Zhang Y, 2017, IEEE COMMUN MAG, V55, P94, DOI 10.1109/MCOM.2017.1601185
+   Zhenhua Liu, 2012, PERFORMANCE EVALUATION REVIEW, V40, P175, DOI 10.1145/2318857.2254779
+   Zhu W, 2016, P AAAI, V2, P6
+NR 38
+TC 8
+Z9 10
+U1 2
+U2 16
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2019
+VL 7
+IS 
+BP 5477
+EP 5491
+DI 10.1109/ACCESS.2018.2888839
+PG 15
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA HI3QH
+UT WOS:000456365700001
+DA 2025-11-06
+ER
+
+PT J
+AU Wu, XJ
+   Xiang, SC
+   Su, JQ
+   Cai, WQ
+AF Wu, Xuanjun
+   Xiang, Sichen
+   Su, Jiaqi
+   Cai, Weiquan
+TI Understanding Quantitative Relationship between Methane Storage Capacities and Characteristic Properties of Metal-Organic Frameworks Based on Machine Learning
+SO JOURNAL OF PHYSICAL CHEMISTRY C
+LA English
+DT Article
+ID molecular simulation; hydrogen adsorption; separation; co2; c2h2/ch4; design; mofs; chemistry
+AB Metalorganic frameworks (MOFs) are one category of emerging porous materials, which are promising competitors applied in gas storage and separation due to their high porosity and high surface area. It is still time consuming to search for optimal materials for methane storage from a large number of candidates by traditional methods such as molecular simulations and quantum mechanics. Recently, machine learning (ML) algorithms were gradually used to accelerate the discovery of high-performance MOFs. In this work, Henrys coefficient besides other characteristic parameters was computed and appended into the previously reported data set of hypothetical metalorganic frameworks (hMOFs) for methane storage. The new data set with 37 features and 130 397 samples was then randomly split into a training set and a test set in the ratio of 7:3, which were applied for ML training and testing with three different algorithms, including support vector machine, random forest regression (RFR), and gradient boosting regression tree (GBRT). The results indicate that the GBRT model demonstrates the best generalization ability to predict nontrained data set, whereas the RFR model results in the best predictive power in the training set. The analysis of feature importance from machine learning algorithms confirms that the high generalization ability of the GBRT model is attributed to the model extracting more information from a wider range of features. The RFR model results in the highest prediction accuracy with Pearson correlation coefficient (r(2)) of 0.9984 and root mean square error (RMSE) of 3.93 in the training set of absolute gravimetric uptakes. The GBRT model results in the highest prediction accuracy with r(2) of 0.9908 and RMSE of 9.40 in the test set of absolute gravimetric uptakes, which is the highest prediction accuracy among the up-to-date reports. According to volumetric capacities for methane storage, the optimal hMOFs exhibit phi of 0.65-0.88, liquid-crystal display of similar to 7.5 angstrom, VSA of similar to 2250 m(2) cm(-3), etc.
+C1 [Wu, Xuanjun; Xiang, Sichen; Su, Jiaqi; Cai, Weiquan] Wuhan Univ Technol, Sch Chem Chem Engn & Life Sci, Wuhan 430070, Hubei, Peoples R China.
+   [Cai, Weiquan] Guangzhou Univ, Sch Chem & Chem Engn, Guangzhou 510006, Guangdong, Peoples R China.
+C3 Wuhan University of Technology; Guangzhou University
+RP Wu, XJ; Cai, WQ (corresponding author), Wuhan Univ Technol, Sch Chem Chem Engn & Life Sci, Wuhan 430070, Hubei, Peoples R China.
+EM wuxuanjun@whut.edu.cn; cccaiwq@gzhu.edu.cn
+FU Fundamental Research Funds for the Central Universities, China [20181049715014]; National Natural Science Foundation of China [51272201, 21476179]; one hundred talents project of Guangzhou University [69-18ZX10016]
+CR Aghaji MZ, 2016, EUR J INORG CHEM, V0, PP4505, DOI 10.1002/ejic.201600365
+   Anderson G, 2019, J PHYS CHEM C, V123, P120, DOI 10.1021/acs.jpcc.8b09420
+   Anderson R, 2018, CHEM MATER, V30, P6325, DOI 10.1021/acs.chemmater.8b02257
+   Artrith N, 2018, J CHEM PHYS, V148, P0, DOI 10.1063/1.5017661
+   Borboudakis G, 2017, NPJ COMPUT MATER, V0, P3
+   Bourrelly S, 2005, J AM CHEM SOC, V127, P13519, DOI 10.1021/ja054668v
+   Boyd PG, 2017, NAT REV MATER, V2, P0, DOI 10.1038/natrevmats.2017.37
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Chang CC, 2011, ACM T INTEL SYST TEC, V2, P0, DOI 10.1145/1961189.1961199
+   Chen CX, 2017, J AM CHEM SOC, V139, P6034, DOI 10.1021/jacs.7b01320
+   Chen ZX, 2011, INORG CHEM, V50, P3442, DOI 10.1021/ic102347b
+   Chui SSY, 1999, SCIENCE, V283, P1148, DOI 10.1126/science.283.5405.1148
+   Deringer VL, 2017, PHYS REV B, V0, P95
+   Diercks CS, 2018, NAT MATER, V17, P301, DOI 10.1038/s41563-018-0033-5
+   Dubbeldam D, 2016, MOL SIMULAT, V42, P81, DOI 10.1080/08927022.2015.1010082
+   Fernandez M, 2013, J PHYS CHEM C, V117, P7681, DOI 10.1021/jp4006422
+   Friedman JH, 2001, ANN STAT, V29, P1189, DOI 10.1214/aos/1013203451
+   Gómez-Gualdrón DA, 2017, CHEM ENG SCI, V159, P18, DOI 10.1016/j.ces.2016.02.030
+   Gómez-Gualdrón DA, 2014, J PHYS CHEM C, V118, P6941, DOI 10.1021/jp502359q
+   He YP, 2018, J PHYS CHEM LETT, V9, P4562, DOI 10.1021/acs.jpclett.8b01707
+   Jiang JC, 2016, J AM CHEM SOC, V138, P10244, DOI 10.1021/jacs.6b05261
+   Kaye SS, 2007, J AM CHEM SOC, V129, P14176, DOI 10.1021/ja076877g
+   Lee Y, 2017, NAT COMMUN, V0, P8
+   Lee YJ, 2018, J CHEM THEORY COMPUT, V14, P4427, DOI 10.1021/acs.jctc.8b00253
+   Li B, 2016, ADV MATER, V28, P8819, DOI 10.1002/adma.201601133
+   Li B, 2016, CHEM-US, V1, P557, DOI 10.1016/j.chempr.2016.09.009
+   Li LB, 2017, J MATER CHEM A, V5, P18984, DOI 10.1039/c7ta05598f
+   Liao PL, 2017, ACS APPL MATER INTER, V9, P33484, DOI 10.1021/acsami.7b02195
+   Lin JM, 2016, ANGEW CHEM INT EDIT, V55, P4674, DOI 10.1002/anie.201511006
+   Lin LC, 2012, NAT MATER, V11, P633, DOI 10.1038/NMAT3336
+   Lin X, 2009, J AM CHEM SOC, V131, P2159, DOI 10.1021/ja806624j
+   Lustig WP, 2017, CHEM SOC REV, V46, P3242, DOI 10.1039/c6cs00930a
+   Ma JX, 2017, INORG CHEM, V56, P7145, DOI 10.1021/acs.inorgchem.7b00762
+   Martin RL, 2014, J AM CHEM SOC, V136, P5006, DOI 10.1021/ja4123939
+   Mason JA, 2015, NATURE, V527, P357, DOI 10.1038/nature15732
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Qiao ZW, 2018, J MATER CHEM A, V6, P18898, DOI 10.1039/c8ta04939d
+   Qiao ZW, 2016, CHEM COMMUN, V52, P974, DOI 10.1039/c5cc07171b
+   Raccuglia P, 2016, NATURE, V533, P73, DOI 10.1038/nature17439
+   Ryan K, 2018, J AM CHEM SOC, V140, P10158, DOI 10.1021/jacs.8b03913
+   Schoedel A, 2016, NAT ENERGY, V1, P0, DOI 10.1038/NENERGY.2016.34
+   Simon CM, 2015, CHEM MATER, V27, P4459, DOI 10.1021/acs.chemmater.5b01475
+   Simon CM, 2015, ENERG ENVIRON SCI, V8, P1190, DOI 10.1039/c4ee03515a
+   Spanopoulos I, 2016, J AM CHEM SOC, V138, P1568, DOI 10.1021/jacs.5b11079
+   Thornton AW, 2017, CHEM MATER, V29, P2844, DOI 10.1021/acs.chemmater.6b04933
+   Tian T, 2018, NAT MATER, V17, P174, DOI 10.1038/NMAT5050
+   Wang JW, 2016, CHEM-EUR J, V22, P15290, DOI 10.1002/chem.201602599
+   Wen HM, 2018, ADV MATER, V30, P0, DOI 10.1002/adma.201704792
+   Wilmer CE, 2012, NAT CHEM, V4, P83, DOI 10.1038/NCHEM.1192
+   Wu MX, 2017, ADV MATER, V29, P0, DOI 10.1002/adma.201606134
+   Wu XJ, 2018, PHYS CHEM CHEM PHYS, V20, P30150, DOI 10.1039/c8cp05724a
+   Wu XJ, 2017, PHYS CHEM CHEM PHYS, V19, P9261, DOI 10.1039/c7cp01230f
+   Zhang L, 2017, CRYST GROWTH DES, V17, P2319, DOI 10.1021/acs.cgd.7b00277
+NR 54
+TC 67
+Z9 73
+U1 2
+U2 131
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1932-7447
+EI 1932-7455
+J9 J PHYS CHEM C
+JI J. Phys. Chem. C
+PD APR 11
+PY 2019
+VL 123
+IS 14
+BP 8550
+EP 8559
+DI 10.1021/acs.jpcc.8b11793
+PG 10
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science, Multidisciplinary
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA HT7TZ
+UT WOS:000464768600008
+DA 2025-11-06
+ER
+
+PT J
+AU Papadopoulos, S
+   Kontokosta, CE
+AF Papadopoulos, Sokratis
+   Kontokosta, Constantine E.
+TI Grading buildings on energy performance using city benchmarking data
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Building energy performance; City-specific energy benchmarking; Energy efficiency labeling; Machine learning; Energy disclosure data; XGBoost
+ID artificial neural-network; consumption; prediction; efficiency; behavior; prices; models; disclosure; ratings; gap
+AB As the effects of anthropogenic climate change become more pronounced, local and federal governments are turning towards more aggressive policies to reduce energy use in existing buildings, a major global contributor of carbon emissions. Recently, several cities have enacted laws mandating owners of large buildings to publicly display an energy efficiency rating for their properties. While such transparency is necessary for market-driven energy reduction policies, the reliance on public-facing energy efficiency grades raises non-trivial questions about the robustness and reliability of methods used to measure and benchmark the energy performance of existing buildings. In this paper, we develop a building energy performance grading methodology using machine learning and city-specific energy use and building data. Leveraging the growing availability of data from city energy disclosure ordinances, we develop the GREEN grading system: a framework to facilitate more accurate, fair, and contextualized building energy benchmarks that account for variations in the expected and actual performance of individual buildings. When applied to approximately 7500 residential properties in New York City, our approach accounts for the differential impact of design, occupancy, use, and systems on energy performance, out-performing existing state-of-the-art methods. Our model and findings reinforce the need for more robust, localized approaches to building energy performance grading that can serve as the basis for data-driven urban energy efficiency and carbon reeduction policies.
+C1 [Papadopoulos, Sokratis; Kontokosta, Constantine E.] NYU, Dept Civil & Urban Engn, 370 Jay St,12th Floor, Brooklyn, NY 11201 USA.
+   [Papadopoulos, Sokratis; Kontokosta, Constantine E.] NYU, Ctr Urban Sci & Progress, 370 Jay St,12th Floor, Brooklyn, NY 11201 USA.
+C3 New York University; New York University
+RP Kontokosta, CE (corresponding author), NYU, Dept Civil & Urban Engn, 370 Jay St,12th Floor, Brooklyn, NY 11201 USA.
+EM ckontokosta@nyu.edu
+FU National Science Foundation [1653772]; Div Of Chem, Bioeng, Env, & Transp Sys; Directorate For Engineering [1653772] Funding Source: National Science Foundation
+CR Allcott H, 2011, J PUBLIC ECON, V95, P1082, DOI 10.1016/j.jpubeco.2011.03.003
+   Allcott H, 2010, SCIENCE, V327, P1204, DOI 10.1126/science.1180775
+   Unknown -, 2018, CRAINS NEW YORK BUSI, V0, P0
+   Unknown -, 2009, SUSTAINABLE PRODUCTI, V0, P1
+   Unknown -, 2011, EN STAR PERF RAT TEC, V0, P0
+   Unknown -, 2018, NEW YORK POST, V0, P0
+   Borgstein EH, 2016, ENERG BUILDINGS, V128, P734, DOI 10.1016/j.enbuild.2016.07.018
+   Brounen D, 2012, EUR ECON REV, V56, P931, DOI 10.1016/j.euroecorev.2012.02.007
+   Chen LZ, 2017, ENERGIES, V10, P0, DOI 10.3390/en10091301
+   Chung W, 2012, APPL ENERG, V95, P45, DOI 10.1016/j.apenergy.2012.01.061
+   de Wilde P, 2014, AUTOMAT CONSTR, V41, P40, DOI 10.1016/j.autcon.2014.02.009
+   DeDecker L, 2021, GUT MICROBES, V13, P0, DOI 10.1080/19490976.2020.1854641
+   Delmas MA, 2014, J ENVIRON ECON MANAG, V67, P353, DOI 10.1016/j.jeem.2013.12.009
+   Fan C, 2017, APPL ENERG, V195, P222, DOI 10.1016/j.apenergy.2017.03.064
+   Field CB, 2014, CLIMATE CHANGE 2014: IMPACTS, V0, P0
+   Friedman JH, 2001, ANN STAT, V29, P1189, DOI 10.1214/aos/1013203451
+   Fuerst F, 2016, ENERG POLICY, V92, P20, DOI 10.1016/j.enpol.2016.01.024
+   Fuerst F, 2015, ENERG ECON, V48, P145, DOI 10.1016/j.eneco.2014.12.012
+   Gao XF, 2014, ENERG BUILDINGS, V84, P607, DOI 10.1016/j.enbuild.2014.08.030
+   Harbaugh R, 2018, AM ECON J-MICROECON, V10, P210, DOI 10.1257/mic.20130078
+   Hsu D, 2015, APPL ENERG, V160, P153, DOI 10.1016/j.apenergy.2015.08.126
+   Hsu D, 2015, ENERGY, V83, P144, DOI 10.1016/j.energy.2015.02.008
+   Hsu D, 2014, BUILD RES INF, V42, P641, DOI 10.1080/09613218.2014.887612
+   Institute for Market Transformation, 2018, COM NYC BUILD EN GRA, V0, P0
+   Jain AK, 2010, PATTERN RECOGN LETT, V31, P651, DOI 10.1016/j.patrec.2009.09.011
+   Kavousian A, 2013, ENERGY, V55, P184, DOI 10.1016/j.energy.2013.03.086
+   Khayatian F, 2017, APPL ENERG, V206, P1062, DOI 10.1016/j.apenergy.2017.08.237
+   Kontokosta CE, 2017, APPL ENERG, V197, P303, DOI 10.1016/j.apenergy.2017.04.005
+   Kontokosta CE, 2015, J REAL ESTATE FINANC, V51, P288, DOI 10.1007/s11146-014-9481-0
+   Kontokosta CE, 2013, ANN NY ACAD SCI, V1295, P34, DOI 10.1111/nyas.12163
+   Lundberg SM, 2018, CONSISTENT INDIVIDUA, V0, P0
+   Lundberg SM, 1900, P4768, V0, P0
+   Ma Y, 2012, ENSEMBLE MACHINE LEARNING: METHODS AND APPLICATIONS, V0, PP1, DOI 10.1007/978-1-4419-9326-7
+   Melo AP, 2014, ENERG POLICY, V69, P457, DOI 10.1016/j.enpol.2014.02.001
+   Meng T, 2017, ENERGY, V133, P415, DOI 10.1016/j.energy.2017.05.148
+   Mocanu E, 2016, SUSTAIN ENERGY GRIDS, V6, P91, DOI 10.1016/j.segan.2016.02.005
+   Olofsson Thomas, 2004, INT. J. LOW ENERGY SUSTAIN. BUILD., V3, P0
+   Palmer Karen, 2017, ENERGY EFFICIENCY, V10, P673, DOI 10.1007/s12053-016-9480-5
+   Papadopoulos S, 2018, APPL ENERG, V221, P576, DOI 10.1016/j.apenergy.2018.03.079
+   Papadopoulos S, 2017, INTERNATIONAL CONFERENCE ON SUSTAINABLE INFRASTRUCTURE 2017: TECHNOLOGY, V0, P336
+   Papadopoulos S, 2018, J BUILD PERFORM SIMU, V11, P322, DOI 10.1080/19401493.2017.1354919
+   Pérez-Lombard L, 2008, ENERG BUILDINGS, V40, P394, DOI 10.1016/j.enbuild.2007.03.007
+   Ribeiro David, 2018, CURRENT SUSTAINABLE/RENEWABLE ENERGY REPORTS, V5, P109, DOI 10.1007/s40518-018-0105-9
+   Ribeiro MT, 2016, KDD16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1135, DOI 10.1016/j.eswa.2022.117366
+   Robinson C, 2017, APPL ENERG, V208, P889, DOI 10.1016/j.apenergy.2017.09.060
+   Santamouris M, 2007, ENERG BUILDINGS, V39, P45, DOI 10.1016/j.enbuild.2006.04.018
+   Scikit-learn, 2018, UND VS OV, V0, P0
+   Scofield JH, 2014, ENERGY STAR BUILDING BENCHMARKING SCORES: GOOD IDEA, V0, P0
+   Strumbelj E, 2014, KNOWL INF SYST, V41, P647, DOI 10.1007/s10115-013-0679-x
+   Trevor H, 2001, ELEMENTS STAT LEARNI, V0, P0, DOI DOI 10.1007/978-0-387-84858-7
+   van Dronkelaar C, 2016, FRONT MECH ENG-PRC, V1, P17, DOI 10.3389/fmech.2015.00017
+   Walls M, 2017, J ENVIRON ECON MANAG, V82, P104, DOI 10.1016/j.jeem.2016.11.006
+   Wei YX, 2018, RENEW SUST ENERG REV, V82, P1027, DOI 10.1016/j.rser.2017.09.108
+   Wong MR, 2015, AM J PUBLIC HEALTH, V105, PE81, DOI 10.2105/AJPH.2014.302404
+   Wu XC, 2010, ENERG POLICY, V38, P4520, DOI 10.1016/j.enpol.2010.04.006
+   Wyatt P, 2013, ENERG POLICY, V60, P540, DOI 10.1016/j.enpol.2013.05.037
+   Yalcintas M, 2006, INT J ENERG RES, V30, P1158, DOI 10.1002/er.1212
+   Yang Z, 2017, ENERGY BUILD, V0, P0
+   Zhao HX, 2012, RENEW SUST ENERG REV, V16, P3586, DOI 10.1016/j.rser.2012.02.049
+NR 60
+TC 122
+Z9 143
+U1 1
+U2 62
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD JAN 1
+PY 2019
+VL 233
+IS 
+BP 244
+EP 253
+DI 10.1016/j.apenergy.2018.10.053
+PG 10
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA HF6VR
+UT WOS:000454376900021
+DA 2025-11-06
+ER
+
+PT J
+AU Ahmad, T
+   Chen, HX
+AF Ahmad, Tanveer
+   Chen, Huanxin
+TI Nonlinear autoregressive and random forest approaches to forecasting electricity load for utility energy management systems
+SO SUSTAINABLE CITIES AND SOCIETY
+LA English
+DT Article
+DE NARM; LMSR; LSBoost; Energy forecasting; Machine learning models
+ID machine-learning-models; of-the-art; neural-networks; medium-term; demand; buildings; temperature; consumption; identification; technology
+AB The capability to forecast how differences in patterns of utilization in various kinds of loads can influence energy usage is an essential effort to decrease carbon emissions and demand-side energy management. The difference in weather change starts as the first step to change the energy consumption pattern in the domestic, commercial and industrial sector. To find the change in climate and their impact on energy usage, this study examines the medium-term (MT) and long-term (LT) energy prediction for utilities, independent power producers and industrial customers to estimate the energy usage requirement of large-scale city-wide by means of using the nonlinear autoregressive model (NARM), linear model using stepwise regression (LMSR) and random forest (least square boosting) (LSBoost) approaches, based on actual environmental as well as energy consumption data. The irregular load pattern recognition to remove the abnormal trend in actual energy usage is performed by applying the outlier detection and clustering analysis. The coefficient of variation (CV) of LSBoost model is 5.019%, 3.159%, 3.292% and 3.184% in summer, autumn, winter and spring season respectively. The machine learning (ML) techniques are validated and compared based on performance and accuracy with the previously existing Gaussian process regression (GPR) model. The optimal modeling of city-wide energy demand prediction using ML-based models are guaranteed the accurate operation and design of distributed energy systems.
+C1 [Ahmad, Tanveer; Chen, Huanxin] Huazhong Univ Sci & Technol, Sch Energy & Power Engn, Wuhan, Hubei, Peoples R China.
+C3 Huazhong University of Science & Technology
+RP Chen, HX (corresponding author), Huazhong Univ Sci & Technol, Sch Energy & Power Engn, Wuhan, Hubei, Peoples R China.
+EM ahmad_tanveer@hust.edu.cn; chenhuanxin@tsinghua.org.cn
+FU National Natural Science Foundation of China [51876070, 51576074]
+CR Ahmad T, 2018, ENERGY, V158, P17, DOI 10.1016/j.energy.2018.05.169
+   Ahmad T, 2018, ENERGY, V160, P1008, DOI 10.1016/j.energy.2018.07.084
+   Ahmad T, 2018, SUSTAIN CITIES SOC, V39, P401, DOI 10.1016/j.scs.2018.03.002
+   Ahmad T, 2018, ENERG BUILDINGS, V166, P460, DOI 10.1016/j.enbuild.2018.01.066
+   Ahmad T, 2018, ENERG BUILDINGS, V165, P301, DOI 10.1016/j.enbuild.2018.01.017
+   Unknown -, 2012, COMMERCIAL BUILDINGS, V0, P0
+   Ruiz LGB, 2016, ENERGIES, V9, P0, DOI 10.3390/en9090684
+   Belayneh A, 2016, ATMOS RES, V172, P37, DOI 10.1016/j.atmosres.2015.12.017
+   Cao XD, 2016, ENERG BUILDINGS, V128, P198, DOI 10.1016/j.enbuild.2016.06.089
+   Chae YT, 2014, APPL ENERG, V129, P217, DOI 10.1016/j.apenergy.2014.04.106
+   Chakraborty D, 2016, SUSTAIN CITIES SOC, V24, P33, DOI 10.1016/j.scs.2016.04.009
+   Chan HY, 2010, RENEW SUST ENERG REV, V14, P781, DOI 10.1016/j.rser.2009.10.030
+   China Association of Building Energy Efficiency, 2020, CHINA BUILDING ENERGY CONSUMPTION RESEARCH REPORT (2020), V0, P0
+   Christenson M, 2006, ENERG CONVERS MANAGE, V47, P671, DOI 10.1016/j.enconman.2005.06.009
+   Dong B, 2005, ENERG BUILDINGS, V37, P545, DOI 10.1016/j.enbuild.2004.09.009
+   Edwards RE, 2012, ENERG BUILDINGS, V49, P591, DOI 10.1016/j.enbuild.2012.03.010
+   Efron B, 2004, ANN STAT, V32, P407, DOI 10.1214/009053604000000067
+   Fan C, 2018, ENERG BUILDINGS, V159, P296, DOI 10.1016/j.enbuild.2017.11.008
+   Fan C, 2014, APPL ENERG, V127, P1, DOI 10.1016/j.apenergy.2014.04.016
+   Frausto HU, 2004, NEUROCOMPUTING, V56, P423, DOI 10.1016/j.neucom.2003.08.001
+   Friedman J, 2000, ANN STAT, V28, P337, DOI 10.1214/aos/1016218223
+   Friedman JH, 2001, ANN STAT, V29, P1189, DOI 10.1214/aos/1013203451
+   Gallagher CV, 2018, ENERG BUILDINGS, V158, P647, DOI 10.1016/j.enbuild.2017.10.041
+   Geysen D, 2018, ENERG BUILDINGS, V162, P144, DOI 10.1016/j.enbuild.2017.12.042
+   Hossa T, 2014, IEEE INTERNATIONAL C, V0, P0
+   Jiménez MJ, 2008, BUILD ENVIRON, V43, P170, DOI 10.1016/j.buildenv.2006.10.030
+   Kelso JD, 2012, BUILDINGS ENERGY DAT, V0, P0
+   Kolasa-Wiecek A, 2015, J ENVIRON SCI, V30, P47, DOI 10.1016/j.jes.2014.09.037
+   Kuravi S, 2013, PROG ENERG COMBUST, V39, P285, DOI 10.1016/j.pecs.2013.02.001
+   Kuster C, 2017, SUSTAIN CITIES SOC, V35, P257, DOI 10.1016/j.scs.2017.08.009
+   Li Q, 2009, APPL ENERG, V86, P2249, DOI 10.1016/j.apenergy.2008.11.035
+   Liu G, 2014, RENEW SUST ENERG REV, V31, P611, DOI 10.1016/j.rser.2013.12.038
+   López M, 2012, ELECTR POW SYST RES, V91, P18, DOI 10.1016/j.epsr.2012.04.009
+   Ma WW, 2017, APPL ENERG, V204, P181, DOI 10.1016/j.apenergy.2017.07.009
+   Molina-Solana M, 2014, P SUST PLAC, V2014, P1
+   Mustafaraj G, 2011, ENERG BUILDINGS, V43, P1452, DOI 10.1016/j.enbuild.2011.02.007
+   Mustafaraj G, 2010, ENERG BUILDINGS, V42, P348, DOI 10.1016/j.enbuild.2009.10.001
+   NE I, 2009, ISO NEW ENGLAND FORE, V0, P0
+   Nolan S, 2017, APPL ENERG, V192, P71, DOI 10.1016/j.apenergy.2017.01.016
+   Nyanteh YD, 2013, ELECTR POW SYST RES, V103, P201, DOI 10.1016/j.epsr.2013.05.018
+   Oh SJ, 2016, ENERG BUILDINGS, V127, P183, DOI 10.1016/j.enbuild.2016.05.073
+   Reddy VS, 2013, RENEW SUST ENERG REV, V27, P258, DOI 10.1016/j.rser.2013.06.037
+   Robert MF, 2015, A NEW PERSPECTIVE ON, V0, P0
+   Ruano AE, 2006, ENERG BUILDINGS, V38, P682, DOI 10.1016/j.enbuild.2005.09.007
+   Sheikhi A, 2016, SUSTAIN CITIES SOC, V22, P63, DOI 10.1016/j.scs.2016.01.010
+   Silva M, 2018, SUSTAIN CITIES SOC, V40, P372, DOI 10.1016/j.scs.2018.01.028
+   Soleimani-Mohseni M, 2006, ENERG BUILDINGS, V38, P635, DOI 10.1016/j.enbuild.2005.10.004
+   Wang MC, 2016, ENERG BUILDINGS, V127, P313, DOI 10.1016/j.enbuild.2016.05.065
+   Wang ZY, 2018, ENERG BUILDINGS, V159, P109, DOI 10.1016/j.enbuild.2017.10.085
+NR 49
+TC 117
+Z9 130
+U1 4
+U2 82
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2210-6707
+EI 2210-6715
+J9 SUSTAIN CITIES SOC
+JI Sust. Cities Soc.
+PD FEB 15
+PY 2019
+VL 45
+IS 
+BP 460
+EP 473
+DI 10.1016/j.scs.2018.12.013
+PG 14
+WC Construction & Building Technology; Green & Sustainable Science & Technology; Energy & Fuels
+SC Construction & Building Technology; Science & Technology - Other Topics; Energy & Fuels
+GA HG8SR
+UT WOS:000455274500041
+DA 2025-11-06
+ER
+
+PT J
+AU Nakabi, TA
+   Toivanen, P
+AF Nakabi, Taha Abdelhalim
+   Toivanen, Pekka
+TI An ANN-based model for learning individual customer behavior in response to electricity prices
+SO SUSTAINABLE ENERGY GRIDS & NETWORKS
+LA English
+DT Article
+DE Artificial intelligence; Artificial neural networks; Customer behavior learning; Demand response programs; LSTM; Price elasticity of demand; Smart grid
+ID smart grids; optimization; consumers
+AB In this paper, we consider the problem of learning the electricity consumption patterns of an individual residential electricity customer, in response to electricity price signals in a demand response program. Two new methods are presented for predicting the hourly loads using the outdoor temperatures, electricity prices and previous loads. The proposed models are based respectively on a fully connected neural network and a Long-Short-term memory network. Both models deal with the uncertainty of household devices and its indoor temperature. Numerical results show the high performance of the proposed methods in terms of accuracy of the predictions. Both models can learn the consumption patterns and are able to give a good approximation of the load profile given a set of prices and temperatures. The proposed architecture can be used to investigate the price elasticity of demand, which can be used in several applications such as optimal pricing, demand flexibility or carbon emission reduction. (C) 2019 The Authors. Published by Elsevier Ltd.
+C1 [Nakabi, Taha Abdelhalim; Toivanen, Pekka] Univ Eastern Finland, Sch Comp, Kuopio Campus,POB 1627, Kuopio 70211, Finland.
+C3 University of Eastern Finland
+RP Nakabi, TA (corresponding author), Univ Eastern Finland, Sch Comp, Kuopio Campus,POB 1627, Kuopio 70211, Finland.
+EM tahanak@uef.fi; Pekka.Toivanen@uef.fi
+FU Jenny and Antti Wihuri Foundation, FINLAND
+CR CASTRO JL, 1995, IEEE T SYST MAN CYB, V25, P629, DOI 10.1109/21.370193
+   Correa-Florez CA, 2018, APPL ENERG, V229, P433, DOI 10.1016/j.apenergy.2018.07.120
+   Deb K, 2005, LECT NOTES COMPUT SC, V3410, P150
+   Dehghanpour K, 2018, IEEE T SMART GRID, V9, P3465, DOI 10.1109/TSG.2016.2631453
+   Gers FA, 2000, NEURAL COMPUT, V12, P2451, DOI 10.1162/089976600300015015
+   Gómez V, 2012, INT CONF SMART GRID, V0, PP647, DOI 10.1109/SmartGridComm.2012.6486059
+   Hammerstrom DJ, 2007, TECH. REP., V0, P0
+   Hansen M, 2018, TECHNOL ANAL STRATEG, V30, P255, DOI 10.1080/09537325.2017.1307955
+   Hosking JRM, 2013, APPL STOCH MODEL BUS, V29, P604, DOI 10.1002/asmb.1987
+   Iria J, 2018, APPL ENERG, V213, P658, DOI 10.1016/j.apenergy.2017.09.002
+   Khotanzad A, 2002, IEEE T POWER SYST, V17, P1273, DOI 10.1109/TPWRS.2002.804999
+   Kim SJ, 2017, IEEE T SMART GRID, V8, P2784, DOI 10.1109/TSG.2016.2539948
+   Meng FL, 2016, IEEE T SMART GRID, V7, P1516, DOI 10.1109/TSG.2015.2462083
+   Motamedi A, 2012, IEEE T SMART GRID, V3, P664, DOI 10.1109/TSG.2011.2171046
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Saez-Gallego J, 2018, IEEE T SMART GRID, V9, P4805, DOI 10.1109/TSG.2017.2671743
+   Saez-Gallego J, 2016, IEEE T POWER SYST, V31, P5001, DOI 10.1109/TPWRS.2016.2530843
+   Thimmapuram PR, 2013, IEEE T SMART GRID, V4, P390, DOI 10.1109/TSG.2012.2234487
+   Verbong GPJ, 2013, ENERG POLICY, V52, P117, DOI 10.1016/j.enpol.2012.05.003
+   Yan X, 2018, RENEW SUST ENERG REV, V96, P411, DOI 10.1016/j.rser.2018.08.003
+   Yun Z, 2008, IEEE T POWER SYST, V23, P853, DOI 10.1109/TPWRS.2008.922249
+NR 27
+TC 51
+Z9 57
+U1 0
+U2 20
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-4677
+EI 
+J9 SUSTAIN ENERGY GRIDS
+JI Sustain. Energy Grids Netw.
+PD JUN 15
+PY 2019
+VL 18
+IS 
+BP 
+EP 
+DI 10.1016/j.segan.2019.100212
+PG 10
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA IH6YH
+UT WOS:000474650200002
+DA 2025-11-06
+ER
+
+PT J
+AU Jang, J
+   Lee, J
+   Son, E
+   Park, K
+   Kim, G
+   Lee, JH
+   Leigh, SB
+AF Jang, Jihoon
+   Lee, Joosang
+   Son, Eunjo
+   Park, Kyungyong
+   Kim, Gahee
+   Lee, Jee Hang
+   Leigh, Seung-Bok
+TI Development of an Improved Model to Predict Building Thermal Energy Consumption by Utilizing Feature Selection
+SO ENERGIES
+LA English
+DT Article
+DE thermal energy; artificial neural network; feature selection; building operation; building energy conservation; building energy consumption
+ID artificial neural-network; random forest; load; forecast; heat; classification; framework; ensemble; systems; demand
+AB Humans spend approximately 90% of the daytime in buildings, and greenhouse gases (GHGs) emitted by buildings account for approximately 20% of total GHG emissions. As the energy consumed during building operation from a building life-cycle perspective amounts to approximately 70-90% of the total energy, it is essential to accurately predict the energy consumption of buildings for their efficient operation. This study aims to optimize a model for predicting the thermal energy consumption of buildings by (i) first extracting major variables through feature selection and deriving significant variables in addition to the collected data and (ii) predicting the thermal energy consumption using a machine learning model. Feature selection using random forest was performed, and 11 out of 17 available data were selected. The accuracy of the prediction model was significantly improved when the hour of day variable was added. The prediction model was constructed using an artificial neural network (ANN), and the improvement in the prediction accuracy was analyzed by comparing different cases of variable combinations. The ANN prediction accuracy was improved by 15% using the feature selection process compared to when all data were used as input data, and 25% coefficient of variation of the root mean square error (CVRMSE) accuracy was achieved.
+C1 [Jang, Jihoon; Lee, Joosang; Son, Eunjo; Park, Kyungyong; Kim, Gahee; Leigh, Seung-Bok] Yonsei Univ, Dept Architectural Engn, 50 Yonsei Ro, Seoul 03722, South Korea.
+   [Lee, Jee Hang] Korea Adv Inst Sci & Technol, Dept Bio & Brain Engn, Daejeon 34141, South Korea.
+C3 Yonsei University; Korea Advanced Institute of Science & Technology (KAIST)
+RP Leigh, SB (corresponding author), Yonsei Univ, Dept Architectural Engn, 50 Yonsei Ro, Seoul 03722, South Korea.
+EM eands777@yonsei.ac.kr; batthoman@naver.com; archicho88@gmail.com; kypark193@yonsei.ac.kr; kazzang@yonsei.ac.kr; jeehang@kaist.ac.kr; sbleigh@yonsei.ac.kr
+FU Korean Institute of Energy Technology Evaluation and Planning (KETEP) of the Republic of Korea [2018201060010A]
+CR Abedinia O, 2017, IEEE T POWER SYST, V32, P62, DOI 10.1109/TPWRS.2016.2556620
+   Ahmad MW, 2017, ENERG BUILDINGS, V147, P77, DOI 10.1016/j.enbuild.2017.04.038
+   Alfares HK, 2002, INT J SYST SCI, V33, P23, DOI 10.1080/00207720110067421
+   Almonacid F, 2011, ENERGY, V36, P375, DOI 10.1016/j.energy.2010.10.028
+   American Society of Heating Refrigerating and Air-Conditioning Engineers (ASHRAE), 2005, P 5 INT C ENH BUILD, V0, P0
+   Unknown -, 2014, 5 ASS REP, V0, P0
+   Barak S, 2016, INT J ELEC POWER, V82, P92, DOI 10.1016/j.ijepes.2016.03.012
+   Bedi J, 2019, APPL ENERG, V238, P1312, DOI 10.1016/j.apenergy.2019.01.113
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Brophy V, 2011, GREEN VITRUVIUS: PRINCIPLES AND PRACTICE OF SUSTAINABLE ARCHITECTURAL DESIGN, V0, P3
+   Cho S, 2019, ENERGIES, V12, P0, DOI 10.3390/en12214046
+   Daut MAM, 2017, RENEW SUST ENERG REV, V70, P1108, DOI 10.1016/j.rser.2016.12.015
+   Deb C, 2017, RENEW SUST ENERG REV, V74, P902, DOI 10.1016/j.rser.2017.02.085
+   Dincer I, 1997, INT J ENERG RES, V21, P1157, DOI 10.1002/(SICI)1099-114X(19971010)21:12<1157::AID-ER317>3.0.CO;2-N
+   Ekonomou L, 2010, ENERGY, V35, P512, DOI 10.1016/j.energy.2009.10.018
+   González-Vidal A, 2019, ENERG BUILDINGS, V196, P71, DOI 10.1016/j.enbuild.2019.05.021
+   Hai-xiang Zhao, 2011, 2011 IEEE 9TH INTERNATIONAL SYMPOSIUM ON APPLIED MACHINE INTELLIGENCE AND INFORMATICS (SAMI), V0, PP219, DOI 10.1109/SAMI.2011.5738878
+   Han H, 2017, P IEEE INT C SOFTW E, V0, P0
+   Neto AH, 2008, ENERG BUILDINGS, V40, P2169, DOI 10.1016/j.enbuild.2008.06.013
+   Hor CL, 2005, IEEE T POWER SYST, V20, P2078, DOI 10.1109/TPWRS.2005.857397
+   Idowu S, 2016, ENERG BUILDINGS, V133, P478, DOI 10.1016/j.enbuild.2016.09.068
+   Jang J, 2019, J BUILD ENG, V22, P66, DOI 10.1016/j.jobe.2018.11.012
+   Jiang P, 2017, ENERGY, V119, P694, DOI 10.1016/j.energy.2016.11.034
+   Jovanovic RZ, 2015, ENERG BUILDINGS, V94, P189, DOI 10.1016/j.enbuild.2015.02.052
+   Kafle S, 2017, RENEW SUST ENERG REV, V73, P1123, DOI 10.1016/j.rser.2017.01.180
+   Kialashaki A, 2014, ENERGY, V76, P749, DOI 10.1016/j.energy.2014.08.072
+   Kim MH, 2020, RENEW ENERG, V147, P1784, DOI 10.1016/j.renene.2019.09.113
+   Kim MH, 2019, ENERGY, V187, P0, DOI 10.1016/j.energy.2019.115916
+   Liu Y, 2017, ENERGY, V139, P18, DOI 10.1016/j.energy.2017.07.150
+   Ma Y, 2009, P JOINT 48 IEEE C DE, V0, P0
+   MCCULLOCH WS, 1990, B MATH BIOL, V52, P99, DOI 10.1016/S0092-8240(05)80006-0
+   Nguyen Cuong, 2013, JOURNAL OF BIOMEDICAL SCIENCE AND ENGINNERRING, V6, P551, DOI 10.4236/JBISE.2013.65070
+   Pedersen L, 2008, ENERG BUILDINGS, V40, P1124, DOI 10.1016/j.enbuild.2007.10.014
+   Powell KM, 2014, ENERGY, V74, P877, DOI 10.1016/j.energy.2014.07.064
+   Svetnik V, 2003, J CHEM INF COMP SCI, V43, P1947, DOI 10.1021/ci034160g
+   Tso GKF, 2007, ENERGY, V32, P1761, DOI 10.1016/j.energy.2006.11.010
+   Wu HJ, 2012, INT J LIFE CYCLE ASS, V17, P264, DOI 10.1007/s11367-011-0360-0
+   Yi XM, 2014, IEEE NETWORK, V28, P5, DOI 10.1109/MNET.2014.6863125
+   Zhang QY, 2007, J CHEM INF MODEL, V47, P1, DOI 10.1021/ci050520j
+NR 40
+TC 18
+Z9 18
+U1 1
+U2 29
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD NOV 15
+PY 2019
+VL 12
+IS 21
+BP 
+EP 
+DI 10.3390/en12214187
+PG 20
+WC Energy & Fuels
+SC Energy & Fuels
+GA KJ8XS
+UT WOS:000512340000166
+DA 2025-11-07
+ER
+
+PT J
+AU Hu, ZH
+   Jing, YX
+   Hu, QY
+   Sen, S
+   Zhou, TR
+   Osman, MT
+AF Hu, Zhihui
+   Jing, Yongxin
+   Hu, Qinyou
+   Sen, Sukanta
+   Zhou, Tianrui
+   Osman, Mohd Tarmizi
+TI Prediction of Fuel Consumption for Enroute Ship Based on Machine Learning
+SO IEEE ACCESS
+LA English
+DT Article
+DE Machine learning; Gaussian process regression; back-propagation neural network; enroute ship; fuel consumption prediction
+ID energy-consumption; trim optimization; speed
+AB Due to the hike in fuel price and environmental awareness by the International Maritime Organization, more attention has been given in order to optimize the fuel consumption of ships. The capability to predict the fuel consumption of ships plays a significant role in the optimization process. To date, most research on predicting ship fuel consumption did not consider marine environmental factors such as wind, wave, current, and etc. Furthermore, traditional statistical methods on predicting ship fuel consumption have low accuracy. In this paper, two different sets of data showing the fuel consumption of a voyage ship with and without the influence of marine environmental factors were obtained. The Back-Propagation Neural Network (BPNN) and Gaussian Process Regression (GPR) techniques in machine learning were used to train and predict the two datasets. Thereafter, the predictive performance of these two techniques was compared and analyzed. Results showed that both techniques were able to accurately predict the ship fuel consumption, especially on the dataset with the influence of marine environmental factors. Quantitatively, the mean prediction accuracy for GPR (mean R-2 = 0.9887) is slightly higher than BPNN (mean R-2 = 0.9817). However, GPR requires longer runtime (mean T = 2236.4 s) compared to BPNN (mean T = 14.7 s). Due to the longer runtime, GPR is less preferable for online and real-time prediction of enroute ship fuel consumption. The ship real-time fuel consumption data can be accurately predicted by machine learning, which will be beneficial to achieve the goal of ship fuel consumption optimization and greenhouse gas emission reduction in the future.
+C1 [Hu, Zhihui; Jing, Yongxin; Hu, Qinyou; Sen, Sukanta; Zhou, Tianrui; Osman, Mohd Tarmizi] Shanghai Maritime Univ, Merchant Marine Coll, Shanghai 200120, Peoples R China.
+C3 Shanghai Maritime University
+RP Jing, YX (corresponding author), Shanghai Maritime Univ, Merchant Marine Coll, Shanghai 200120, Peoples R China.
+EM 2276366212@qq.com
+FU Major Projects of Shanghai Science and Technology Commission [18DZ1206300]
+CR Ahmed HA, 2016, J SHIPPING OCEAN ENG, V6, P179, DOI 10.17265/2159-5879/2016.03.006
+   Besikçi EB, 2016, COMPUT OPER RES, V66, P393, DOI 10.1016/j.cor.2015.04.004
+   Bocchetti D, 2013, P INT C DES CONSTR O, V0, P20
+   Coraddu A, 2017, OCEAN ENG, V130, P351, DOI 10.1016/j.oceaneng.2016.11.058
+   Demirel YK, 2014, OCEAN ENG, V89, P21, DOI 10.1016/j.oceaneng.2014.07.017
+   Du YQ, 2019, TRANSPORT RES B-METH, V122, P88, DOI 10.1016/j.trb.2019.02.004
+   Faber J, 2010, T SNAME, V118, P200
+   Jeon M, 2018, J MECH SCI TECHNOL, V32, P5785, DOI 10.1007/s12206-018-1126-4
+   Li BY, 2018, MEASUREMENT, V129, P625, DOI 10.1016/j.measurement.2018.07.080
+   Lu KY, 2017, IEEE ACCESS, V5, P21660, DOI 10.1109/ACCESS.2017.2761802
+   Mavromatidis LE, 2013, APPL ENERG, V104, P379, DOI 10.1016/j.apenergy.2012.10.045
+   Meng Q, 2016, TRANSPORT RES B-METH, V83, P207, DOI 10.1016/j.trb.2015.11.007
+   Pallotta G, 2013, ENTROPY-SWITZ, V15, P2218, DOI 10.3390/e15062218
+   Petersen JP, 2012, SHIP TECHNOL RES, V59, P64, DOI 10.1179/str.2012.59.1.007
+   Petersen JP, 2012, J MAR SCI TECH-JAPAN, V17, P30, DOI 10.1007/s00773-011-0151-0
+   Rasmussen CE, 2003, GAUSSIAN PROCESSES M, V0, P67
+   Reichel M, 2014, TRANSNAV, V8, P387, DOI 10.12716/1001.08.03.09
+   Rumelhart D, 1986, EXPLORATIONS IN THE MICRO-STRUCTURE OF COGNITION VOL. 1: FOUNDATIONS, V0, P0, DOI DOI 10.7551/MITPRESS/5236.003.0012
+   Sherbaz S, 2014, SCI WORLD J, V0, P0, DOI DOI 10.1155/2014/603695
+   Wang Jianmin, 2018, GEOMATICS AND INFORMATION SCIENCE OF WUHAN UNIVERSITY, V43, P248, DOI 10.13203/j.whugis20160075
+   Wang K, 2015, 3RD INTERNATIONAL CONFERENCE ON TRANSPORTATION INFORMATION AND SAFETY (ICTIS 2015), V0, PP451, DOI 10.1109/ICTIS.2015.7232085
+   Wortley S, 2013, THESIS, V0, P0
+   Xu SB, 2018, IEEE ACCESS, V6, P9070, DOI 10.1109/ACCESS.2018.2805883
+   Yuan J, 2018, ENRGY PROCED, V152, P655, DOI 10.1016/j.egypro.2018.09.226
+   [庄育锋 Zhuang Yufeng], 2014, 仪器仪表学报 CHINESE JOURNAL OF SCIENTIFIC INSTRUMENT, V35, P1914
+NR 25
+TC 66
+Z9 73
+U1 18
+U2 125
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2019
+VL 7
+IS 
+BP 119497
+EP 119505
+DI 10.1109/ACCESS.2019.2933630
+PG 9
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA JP9CZ
+UT WOS:000498556300002
+DA 2025-11-06
+ER
+
+PT J
+AU D'Amico, B
+   Myers, RJ
+   Sykes, J
+   Voss, E
+   Cousins-Jenvey, B
+   Fawcett, W
+   Richardson, S
+   Kermani, A
+   Pomponi, F
+AF D'Amico, B.
+   Myers, R. J.
+   Sykes, J.
+   Voss, E.
+   Cousins-Jenvey, B.
+   Fawcett, W.
+   Richardson, S.
+   Kermani, A.
+   Pomponi, F.
+TI Machine Learning for Sustainable Structures: A Call for Data
+SO STRUCTURES
+LA English
+DT Article
+DE Sustainable; Structural; Materials; Embodied carbon; Life cycle assessment LCA; Machine learning; Neural networks
+ID embodied carbon; neural-networks; built environment; buckling load; prediction; buildings; strength; model
+AB Buildings are the world's largest contributors to energy demand, greenhouse gases (GHG) emissions, resource consumption and waste generation. An unmissable opportunity exists to tackle climate change, global warming, and resource scarcity by rethinking how we approach building design. Structural materials often dominate the total mass of a building; therefore, a significant potential for material efficiency and GHG emissions mitigation is to be found in efficient structural design and use of structural materials. To this end, environmental impact assessment methods, such as life cycle assessment (LCA), are increasingly used. However, they risk failing to deliver the expected benefits due to the high number of parameters and uncertainty factors that characterise impacts of buildings along their lifespans. Additionally, effort and cost required for a reliable assessment seem to be major barriers to a more widespread adoption of LCA. More rapid progress towards reducing building impacts seems therefore possible by combining established environmental impact assessment methods with artificial intelligence approaches such as machine learning and neural networks. This short communication will briefly present previous attempts to employ such techniques in civil and structural engineering. It will present likely outcomes of machine learning and neural network applications in the field of structural engineering and - most importantly - it calls for data from professionals across the globe to form a fundamental basis which will enable quicker transition to a more sustainable built environment.
+C1 [D'Amico, B.; Myers, R. J.; Pomponi, F.] REBEL, Edinburgh, Midlothian, Scotland.
+   [D'Amico, B.; Pomponi, F.] Edinburgh Napier Univ, Sch Engn & Built Environm, Edinburgh, Midlothian, Scotland.
+   [D'Amico, B.; Kermani, A.] Edinburgh Napier Univ, Ctr Timber Engn, Edinburgh, Midlothian, Scotland.
+   [Myers, R. J.] Univ Edinburgh, Sch Engn, Edinburgh, Midlothian, Scotland.
+   [Sykes, J.; Voss, E.; Cousins-Jenvey, B.] Useful Projects Ltd, Expedit Engn, London, England.
+   [Fawcett, W.] CAR, Cambridge, England.
+   [Richardson, S.] World Green Bldg Council, London, England.
+C3 Edinburgh Napier University; Edinburgh Napier University; University of Edinburgh
+RP Pomponi, F (corresponding author), REBEL, Edinburgh, Midlothian, Scotland.
+EM f.pomponi@napier.ac.uk
+FU UK's Engineering and Physical Sciences Research Council (EPSRC) [EP/R01468X/1]; EPSRC [EP/R01468X/1, EP/S006079/2, EP/S006079/1] Funding Source: UKRI
+CR Adams R, 2015, MACHINE LEARNING PRE, V0, P0
+   Unknown -, 2017, EPR01468X1 EPSRC, V0, P0
+   Unknown -, 2012, THE ENGINEERING AND PHYSICAL SCIENCES RESEARCH COUNCIL, V0, P0
+   Unknown -, 2017, RICS PROFESSIONAL STATEMENT WHOLE LIFE CARBON ASSESSMENT FOR THE BUILT ENVIRONMENT, V0, P0
+   Balokas G, 2018, COMPOS STRUCT, V183, P550, DOI 10.1016/j.compstruct.2017.06.037
+   Biernacki JJ, 2017, J AM CERAM SOC, V100, P2746, DOI 10.1111/jace.14948
+   Cascardi A, 2017, ENG STRUCT, V140, P199, DOI 10.1016/j.engstruct.2017.02.047
+   Collinge WO, 2013, INT J LIFE CYCLE ASS, V18, P538, DOI 10.1007/s11367-012-0528-2
+   De Wolf CCEL, 2014, MAT QUANTITIES BUILD, V0, P0
+   De Wolf C, 2017, ENERG BUILDINGS, V140, P68, DOI 10.1016/j.enbuild.2017.01.075
+   De Wolf C, 2016, P I CIVIL ENG-ENG SU, V169, P150, DOI 10.1680/ensu.15.00033
+   Erlandsson M, 2003, BUILD ENVIRON, V38, P919, DOI 10.1016/S0360-1323(03)00031-3
+   Gebru T, 2017, P NATL ACAD SCI USA, V114, P13108, DOI 10.1073/pnas.1700035114
+   Hammond GP, 2008, P I CIVIL ENG-ENERGY, V161, P87, DOI 10.1680/ener.2008.161.2.87
+   Kaethner S, 2012, STRUCT. ENG. EARTHQ. ENG., V90, P33
+   Mallela UK, 2016, THIN WALL STRUCT, V102, P158, DOI 10.1016/j.tws.2016.01.025
+   Nielsen MA, 2015, NEURAL NETWORKS AND DEEP LEARNING, V0, P0
+   Park YS, 2017, ENG STRUCT, V150, P511, DOI 10.1016/j.engstruct.2017.07.032
+   Pesto C, 2017, HOUSES ARCHITECTURAL, V0, P0
+   Pomponi F, 2018, RENEW SUST ENERG REV, V81, P2431, DOI 10.1016/j.rser.2017.06.049
+   Pomponi F, 2017, J CLEAN PROD, V143, P710, DOI 10.1016/j.jclepro.2016.12.055
+   Pomponi F, 2016, J ENVIRON MANAGE, V181, P687, DOI 10.1016/j.jenvman.2016.08.036
+   Reich Y, 1997, MICROCOMPUTERS IN CIVIL ENGINEERING, V12, P295
+   Resource Efficient Built Environment Lab (REBEL), 2017, CALL DAT MACH LEARN, V0, P0
+   Säynäjoki A, 2017, ENVIRON RES LETT, V12, P0, DOI 10.1088/1748-9326/aa54ee
+   Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003
+   Simonen K, 2017, TECHNOL ARCHIT DES, V1, P208, DOI 10.1080/24751448.2017.1354623
+   Tahir ZU, 2017, ENG STRUCT, V152, P843, DOI 10.1016/j.engstruct.2017.09.016
+   Tohidi S, 2015, THIN WALL STRUCT, V94, P359, DOI 10.1016/j.tws.2015.04.023
+   Webster MD, 2012, STRUCTURE AND CARBON: HOW MATERIALS AFFECT THE CLIMATE, V0, P0
+   Yan F, 2017, COMPOS STRUCT, V161, P441, DOI 10.1016/j.compstruct.2016.11.068
+   Zopf C, 2017, COMPUT STRUCT, V182, P504, DOI 10.1016/j.compstruc.2016.12.012
+NR 32
+TC 46
+Z9 53
+U1 1
+U2 119
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 2352-0124
+EI 
+J9 STRUCTURES
+JI Structures
+PD JUN 15
+PY 2019
+VL 19
+IS 
+BP 1
+EP 4
+DI 10.1016/j.istruc.2018.11.013
+PG 4
+WC Engineering, Civil
+SC Engineering
+GA HU5KX
+UT WOS:000465318000001
+DA 2025-11-06
+ER
+
+PT J
+AU Zhang, XY
+   Cui, J
+   Zhang, KX
+   Wu, JS
+   Lee, YJ
+AF Zhang, Xiangyu
+   Cui, Jing
+   Zhang, Kexin
+   Wu, Jiasheng
+   Lee, Yongjin
+TI Machine Learning Prediction on Properties of Nanoporous Materials Utilizing Pore Geometry Barcodes
+SO JOURNAL OF CHEMICAL INFORMATION AND MODELING
+LA English
+DT Article
+ID metal-organic frameworks; capture; storage; tool; van
+AB In this work, we propose a computational framework for machine learning prediction on structural and performance properties of nanoporous materials for methane storage application. For our machine learning prediction, two descriptors based on pore geometry barcodes were developed; one descriptor is a set of distances from a structure to the most diverse set in barcode space, and the second descriptor extracts and uses the most important features from the barcodes. First, to identify the optimal condition for machine learning prediction, the effects of training set preparation method, training set size, and machine learning models were investigated. Our analysis showed that kernel ridge regression provides the highest prediction accuracy, and randomly selected 5% structures of the entire set would work well as a training set. Our results showed that both descriptors accurately predicted performance and even structural properties of zeolites. Furthermore, we demonstrated that our approach predicts accurately properties of metal-organic frameworks, which might indicate the possibility of this approach to be easily applied to predict the properties of other types of nanoporous materials.
+C1 [Zhang, Xiangyu; Cui, Jing; Zhang, Kexin; Wu, Jiasheng; Lee, Yongjin] ShanghaiTech Univ, Sch Phys Sci & Technol, Shanghai 201210, Peoples R China.
+C3 ShanghaiTech University
+RP Lee, YJ (corresponding author), ShanghaiTech Univ, Sch Phys Sci & Technol, Shanghai 201210, Peoples R China.
+EM leeyj@shanghaitech.edu.cn
+FU ShanghaiTech University
+CR Ahmed A, 2019, NAT COMMUN, V10, P0, DOI 10.1038/s41467-019-09365-w
+   Baerlocher Ch, 2001, ATLAS ZEOLITE FRAMEW, V5th, P0
+   Behler J, 2016, J CHEM PHYS, V145, P0, DOI 10.1063/1.4966192
+   BONDI A, 1964, J PHYS CHEM-US, V68, P441, DOI 10.1021/j100785a001
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Bubenik P, 2017, J SYMB COMPUT, V78, P91, DOI 10.1016/j.jsc.2016.03.009
+   Burges CJC, 1998, DATA MIN KNOWL DISC, V2, P121, DOI 10.1023/A:1009715923555
+   Carlsson G, 2014, ACTA NUMER, V23, P289, DOI 10.1017/S0962492914000051
+   Carlsson G, 2009, B AM MATH SOC, V46, P255, DOI 10.1090/S0273-0979-09-01249-X
+   Chen XR, 2018, ACS APPL MATER INTER, V10, P2328, DOI 10.1021/acsami.7b16522
+   Chung YG, 2014, CHEM MATER, V26, P6185, DOI 10.1021/cm502594j
+   DeLisle RK, 2004, J CHEM INF COMP SCI, V44, P862, DOI 10.1021/ci034188s
+   Edelsbrunner H, 2010, AMER. MATH. SOC, V0, P0, DOI DOI 10.1090/MBK/069
+   Fernandez M, 2013, J PHYS CHEM C, V117, P7681, DOI 10.1021/jp4006422
+   Groom CR, 2016, ACTA CRYSTALLOGR B, V72, P171, DOI 10.1107/S2052520616003954
+   KENNARD RW, 1969, TECHNOMETRICS, V11, P137, DOI 10.2307/1266770
+   Kramar M, 2013, PHYS REV E, V87, P0, DOI 10.1103/PhysRevE.87.042207
+   Lee YJ, 2018, J CHEM THEORY COMPUT, V14, P4427, DOI 10.1021/acs.jctc.8b00253
+   Lee Y, 2017, NAT COMMUN, V8, P0, DOI 10.1038/ncomms15396
+   Li H, 2018, MATER TODAY, V21, P108, DOI 10.1016/j.mattod.2017.07.006
+   Liao PQ, 2017, SCIENCE, V356, P1193, DOI 10.1126/science.aam7232
+   Lin LC, 2012, NAT MATER, V11, P633, DOI 10.1038/NMAT3336
+   Maalouf M, 2014, KNOWL-BASED SYST, V71, P339, DOI 10.1016/j.knosys.2014.08.012
+   Martin RL, 2012, J CHEM INF MODEL, V52, P308, DOI 10.1021/ci200386x
+   Mason JA, 2011, ENERG ENVIRON SCI, V4, P3030, DOI 10.1039/c1ee01720a
+   Munkres JamesR, 1984, ELEMENTS ALGEBRAIC T, V0, P0
+   Nakamura T, 2015, NANOTECHNOLOGY, V26, P0, DOI 10.1088/0957-4484/26/30/304001
+   Nembrini S, 2018, BIOINFORMATICS, V34, P3711, DOI 10.1093/bioinformatics/bty373
+   Pophale R, 2011, PHYS CHEM CHEM PHYS, V13, P12407, DOI 10.1039/c0cp02255a
+   Rowland RS, 1996, J PHYS CHEM-US, V100, P7384, DOI 10.1021/jp953141+
+   Simon CM, 2015, ENERG ENVIRON SCI, V8, P1190, DOI 10.1039/c4ee03515a
+   Simon CM, 2014, PHYS CHEM CHEM PHYS, V16, P5499, DOI 10.1039/c3cp55039g
+   Svetnik V, 2003, J CHEM INF COMP SCI, V43, P1947, DOI 10.1021/ci034160g
+   Thornton AW, 2017, CHEM MATER, V29, P2844, DOI 10.1021/acs.chemmater.6b04933
+   Ushizima DM, 2012, IEEE T VIS COMPUT GR, V18, P2041, DOI 10.1109/TVCG.2012.200
+   Willems TF, 2012, MICROPOR MESOPOR MAT, V149, P134, DOI 10.1016/j.micromeso.2011.08.020
+   Wilmer CE, 2012, NAT CHEM, V4, P83, DOI 10.1038/NCHEM.1192
+   Zhang QS, 2018, ACS APPL MATER INTER, V10, P23976, DOI 10.1021/acsami.8b06103
+NR 38
+TC 40
+Z9 44
+U1 2
+U2 79
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1549-9596
+EI 1549-960X
+J9 J CHEM INF MODEL
+JI J. Chem Inf. Model.
+PD NOV 15
+PY 2019
+VL 59
+IS 11
+BP 4636
+EP 4644
+DI 10.1021/acs.jcim.9b00623
+PG 9
+WC Chemistry, Medicinal; Chemistry, Multidisciplinary; Computer Science, Information Systems; Computer Science, Interdisciplinary Applications
+SC Pharmacology & Pharmacy; Chemistry; Computer Science
+GA JS0XV
+UT WOS:000500038700014
+PM 31661958
+DA 2025-11-07
+ER
+
+PT J
+AU Vázquez-Canteli, JR
+   Ulyanin, S
+   Kämpf, J
+   Nagy, Z
+AF Vazquez-Canteli, Jose R.
+   Ulyanin, Stepan
+   Kampf, Jerome
+   Nagy, Zoltan
+TI Fusing TensorFlow with building energy simulation for intelligent energy management in smart cities
+SO SUSTAINABLE CITIES AND SOCIETY
+LA English
+DT Article
+DE Artificial intelligence; Q-learning; Deep learning; Smart cities; Smart grid; HVAC control; Machine learning; Building simulation; Reinforcement learning
+ID demand response; reinforcement; support
+AB Buildings account for 35% of the global final energy demand. Efficiency improvements and advanced control strategies have a significant impact in the reduction of energy costs and CO2 emissions. Building energy simulation is widely used to help planners, contractors, and building owners analyse diverse options regarding the planning and management of energy consumption in buildings. Furthermore, recent advances in data processing and computing have led to the development of sophisticated machine learning algorithms that can learn from large datasets, e.g., sensor data from buildings, and use them to develop building-specific adaptive and automatic energy controllers. Control algorithms, such as deep reinforcement learning can tune themselves, are model-free, and economical to implement. In this paper, we introduce an integrated simulation environment that combines CitySim, a fast building energy simulator, and TensorFlow, a platform for efficient implementation of advanced machine learning algorithms. The integration is achieved via Keras-an API for TensorFlow-and a set of text and csv files for data transfer between the applications. This new environment will allow researchers to investigate novel learning control algorithms, and demonstrate their robustness and potential for diverse applications in the built environment. We present two case studies for energy savings and demand response, respectively.
+C1 [Vazquez-Canteli, Jose R.; Nagy, Zoltan] Univ Texas Austin, Intelligent Environm Lab, Dept Civil Architectural & Environm Engn, 301 E Dean Keeton St Stop C1700, Austin, TX 78712 USA.
+   [Vazquez-Canteli, Jose R.] Natl Renewable Energy Lab, 1617 Cole Blvd, Golden, CO USA.
+   [Ulyanin, Stepan] Georgia Inst Technol, Sch Comp Sci, North Ave, Atlanta, GA 30332 USA.
+   [Kampf, Jerome] Idiap Res Inst, Ctr Parc, Rue Marconi 19,POB 592, CH-1920 Martigny, Switzerland.
+C3 University of Texas System; University of Texas Austin; United States Department of Energy (DOE); National Renewable Energy Laboratory - USA; University System of Georgia; Georgia Institute of Technology; Idiap Research Institute, Switzerland
+RP Nagy, Z (corresponding author), Univ Texas Austin, Intelligent Environm Lab, Dept Civil Architectural & Environm Engn, 301 E Dean Keeton St Stop C1700, Austin, TX 78712 USA.
+EM nagy@utexas.edu
+CR Unknown -, 2015, ARXIV160304467V2, V0, P0
+   Unknown -, 2014, 901 ASHRAE, V0, P0
+   Unknown -, 2013, TRANSITION TO SUSTAINABLE BUILDINGS, V0, P0, DOI DOI 10.1787/9789264202955-EN
+   Busoniu L, 2010, AUTOM CONTROL ENG SE, V0, PP1, DOI 10.1201/9781439821091-f
+   Capozzoli A, 2017, ENRGY PROCED, V134, P865, DOI 10.1016/j.egypro.2017.09.545
+   Chollet F, 2015, KERAS, V0, P0
+   Dupont B, 2014, ENERG POLICY, V67, P344, DOI 10.1016/j.enpol.2013.12.058
+   Ernst D, 2003, LECT NOTES ARTIF INT, V2837, P96
+   GULLAPALLI V, 1990, NEURAL NETWORKS, V3, P671, DOI 10.1016/0893-6080(90)90056-Q
+   Haldi F, 2011, J BUILD PERFORM SIMU, V4, P323, DOI 10.1080/19401493.2011.558213
+   Javed A, 2017, IEEE INTERNET THINGS, V4, P393, DOI 10.1109/JIOT.2016.2627403
+   Kalyanakrishnan S, 2008, LECT NOTES COMPUT SC, V5001, P171
+   Leibowicz BD, 2018, APPL ENERG, V230, P1311, DOI 10.1016/j.apenergy.2018.09.046
+   Liu SM, 2007, J SOL ENERG-T ASME, V129, P215, DOI 10.1115/1.2710491
+   Marinakis V, 2013, APPL ENERG, V101, P6, DOI 10.1016/j.apenergy.2012.05.032
+   Mnih V, 2013, COMPUTER SCI, V0, P0
+   Mozer MC, 1998, INTELLIGENT ENVIRONMENTS. PAPERS FROM THE 1998 AAAI SYMPOSIUM, V0, P110
+   Nagy Z, 2019, ROUT INT HANDB, V0, P733
+   Park JY, 2018, RENEW SUST ENERG REV, V82, P2664, DOI 10.1016/j.rser.2017.09.102
+   Prívara S, 2013, ENERG BUILDINGS, V56, P8, DOI 10.1016/j.enbuild.2012.10.024
+   Robinson D, 2011, COMPUTER MODELLING FOR SUSTAINABLE URBAN DESIGN, V0, P0
+   Ruelens F, 2015, ENERGIES, V8, P8300, DOI 10.3390/en8088300
+   Stone P, 2013, P INT C AUTONOMOUS A, V0, P1093
+   Sutton AG Barto RS, 1998, REINFORCEMENT LEARNING, V0, P0
+   Vázquez-Canteli JR, 2016, WIT TRANS ECOL ENVIR, V204, P35, DOI 10.2495/SC160041
+   Vázquez-Canteli JR, 2019, APPL ENERG, V235, P1072, DOI 10.1016/j.apenergy.2018.11.002
+   Walter E, 2015, P 2 BUILD SIM APPL C, V0, P215
+   WATKINS CJCH, 1992, MACH LEARN, V8, P279, DOI 10.1007/BF00992698
+   Yang L, 2015, APPL ENERG, V156, P577, DOI 10.1016/j.apenergy.2015.07.050
+   Yu Z, 2016, SUSTAIN CITIES SOC, V25, P33, DOI 10.1016/j.scs.2015.12.001
+NR 33
+TC 134
+Z9 155
+U1 1
+U2 111
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2210-6707
+EI 2210-6715
+J9 SUSTAIN CITIES SOC
+JI Sust. Cities Soc.
+PD FEB 15
+PY 2019
+VL 45
+IS 
+BP 243
+EP 257
+DI 10.1016/j.scs.2018.11.021
+PG 15
+WC Construction & Building Technology; Green & Sustainable Science & Technology; Energy & Fuels
+SC Construction & Building Technology; Science & Technology - Other Topics; Energy & Fuels
+GA HG8SR
+UT WOS:000455274500022
+DA 2025-11-06
+ER
+

@@ -1,0 +1,87 @@
+PT J
+AU Exbrayat, JF
+   Williams, M
+AF Exbrayat, Jean-Francois
+   Williams, Mathew
+TI Quantifying the net contribution of the historical Amazonian deforestation to climate change
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+DE deforestation; remote sensing; Amazon basin; aboveground biomass; random forest
+ID aboveground live biomass; global land-cover; carbon emissions; forest biomass; uncertainty; responses; dioxide; density; model; cycle
+AB Recent large-scale carbon (C) emissions from deforestation have been estimated by combining remotely-sensed land use change information with satellite-based aboveground biomass (AGB) data. However, these estimates are constrained to the satellite era while regions such as the Amazon basin have been heavily impacted by deforestation before this period. Assessing the net contribution of past tropical deforestation to the growth in atmospheric CO2 is therefore challenging. We address this lack of data by constructing two maps of potential AGB with a machine learning algorithm trained on the relationship between AGB and climate and topography in intact forest landscapes of the Amazon basin. Reconstructions converge to a current deficit of 11.5-12% in AGB or a net loss of similar to 7-8PgC of AGB in the Amazon basin compared to current estimates. This represents a net contribution of similar to 1.8 ppm of atmospheric CO2 or 1.5% of the historical growth.
+C1 [Exbrayat, Jean-Francois; Williams, Mathew] Univ Edinburgh, Sch Geosci, Edinburgh, Midlothian, Scotland.
+   [Exbrayat, Jean-Francois; Williams, Mathew] Univ Edinburgh, Natl Ctr Earth Observat, Edinburgh, Midlothian, Scotland.
+C3 University of Edinburgh; University of Edinburgh
+RP Exbrayat, JF (corresponding author), Univ Edinburgh, Sch Geosci, Edinburgh, Midlothian, Scotland.
+EM j.exbrayat@ed.ac.uk
+FU Natural Environment Research Council (NERC); UK National Centre for Earth Observation (NCEO); NERC [nceo020005, nceo020004] Funding Source: UKRI; Natural Environment Research Council [nceo020004, nceo020005] Funding Source: researchfish
+CR Baccini A, 2012, NAT CLIM CHANGE, V2, P182, DOI 10.1038/NCLIMATE1354
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   BROWN S, 1992, INTERCIENCIA, V17, P8
+   Dlugokencky E, 2014, TRENDS IN ATMOSPHERIC CARBON DIOXIDE. NOAA/ESRL, V0, P0
+   Aguiar APD, 2012, GLOBAL CHANGE BIOL, V18, P3346, DOI 10.1111/j.1365-2486.2012.02782.x
+   Espírito-Santo FDB, 2014, NAT COMMUN, V5, P0, DOI 10.1038/ncomms4434
+   Fearnside PM, 1997, CLIMATIC CHANGE, V35, P321, DOI 10.1023/A:1005336724350
+   Friend AD, 2014, P NATL ACAD SCI USA, V111, P3280, DOI 10.1073/pnas.1222477110
+   Galbraith D, 2010, NEW PHYTOL, V187, P647, DOI 10.1111/j.1469-8137.2010.03350.x
+   Hansen MC, 2008, P NATL ACAD SCI USA, V105, P9439, DOI 10.1073/pnas.0804042105
+   Hanson MA, 2012, SCIENCE, V335, P851, DOI 10.1126/science.1244693
+   Harris NL, 2012, SCIENCE, V336, P1573, DOI 10.1126/science.1217962
+   Hempel S, 2013, EARTH SYST DYNAM, V4, P219, DOI 10.5194/esd-4-219-2013
+   Houghton RA, 2001, GLOBAL CHANGE BIOL, V7, P731, DOI 10.1046/j.1365-2486.2001.00426.x
+   Houghton RA, 2003, GLOBAL CHANGE BIOL, V9, P500, DOI 10.1046/j.1365-2486.2003.00620.x
+   Joos F, 2013, ATMOS CHEM PHYS, V13, P2793, DOI 10.5194/acp-13-2793-2013
+   Joos F, 2008, P NATL ACAD SCI USA, V105, P1425, DOI 10.1073/pnas.0707386105
+   Jung M, 2006, REMOTE SENS ENVIRON, V101, P534, DOI 10.1016/j.rse.2006.01.020
+   Le Quere C, 2014, EARTH SYST SCI DATA, V7, P521, DOI 10.5194/ESSDD-7-521-2014
+   Loarie SR, 2009, GEOPHYS RES LETT, V36, P0, DOI 10.1029/2009GL037526
+   Malhi Y, 2008, SCIENCE, V319, P169, DOI 10.1126/science.1146961
+   Malhi Y, 2006, GLOBAL CHANGE BIOL, V12, P1107, DOI 10.1111/j.1365-2486.2006.01120.x
+   Marland G, 2003, TRENDS COMPEND. DATA GLOB. CHANGE, V0, PP34, DOI 10.3334/CDIAC/00001_V2010
+   Mitchard ETA, 2014, GLOBAL ECOL BIOGEOGR, V23, P935, DOI 10.1111/geb.12168
+   Mokany K, 2006, GLOBAL CHANGE BIOL, V12, P84, DOI 10.1111/j.1365-2486.2005.001043.x
+   Nepstad D, 2006, CONSERV BIOL, V20, P65, DOI 10.1111/j.1523-1739.2006.00351.x
+   New M, 2002, CLIMATE RES, V21, P1, DOI 10.3354/cr021001
+   Nishina K, 2014, EARTH SYST DYNAM, V5, P197, DOI 10.5194/esd-5-197-2014
+   OESCHGER H, 1983, J GEOPHYS RES-OCEANS, V88, P1258, DOI 10.1029/JC088iC02p01258
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Phillips SJ, 2006, ECOL MODEL, V190, P231, DOI 10.1016/j.ecolmodel.2005.03.026
+   Potapov P, 2008, ECOL SOC, V13, P0, DOI 10.5751/es-02670-130251
+   Potter CS, 1999, BIOSCIENCE, V49, P769, DOI 10.2307/1313568
+   Prentice IC, 2001, CLIMATE CHANGE 2001: THE SCIENTIFIC BASIS, V0, P183
+   Ramankutty N, 1999, GLOBAL BIOGEOCHEM CY, V13, P997, DOI 10.1029/1999GB900046
+   Ramankutty N, 2007, GLOBAL CHANGE BIOL, V13, P51, DOI 10.1111/j.1365-2486.2006.01272.x
+   Saatchi SS, 2007, GLOBAL CHANGE BIOL, V13, P816, DOI 10.1111/j.1365-2486.2007.01323.x
+   Saatchi SS, 2011, P NATL ACAD SCI USA, V108, P9899, DOI 10.1073/pnas.1019576108
+   Taylor KE, 2012, B AM METEOROL SOC, V93, P485, DOI 10.1175/BAMS-D-11-00094.1
+   van der Werf GR, 2009, NAT GEOSCI, V2, P737, DOI 10.1038/ngeo671
+   Warszawski L, 2014, P NATL ACAD SCI USA, V111, P3228, DOI 10.1073/pnas.1312330110
+   Zwally HJ, 2002, J GEODYN, V34, P405, DOI 10.1016/S0264-3707(02)00042-X
+NR 42
+TC 15
+Z9 18
+U1 0
+U2 50
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD APR 28
+PY 2015
+VL 42
+IS 8
+BP 2968
+EP 2976
+DI 10.1002/2015GL063497
+PG 9
+WC Geosciences, Multidisciplinary
+SC Geology
+GA CI2FN
+UT WOS:000354560800051
+DA 2025-11-05
+ER
+

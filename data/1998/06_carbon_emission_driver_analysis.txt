@@ -1,0 +1,105 @@
+PT J
+AU Rowntree, PR
+AF Rowntree, PR
+TI Global average climate forcing and temperature response since 1750
+SO INTERNATIONAL JOURNAL OF CLIMATOLOGY
+LA English
+DT Article
+DE radiative forcing; aerosols; global temperatures since 1750; box-diffusion model; climate change
+ID solar irradiance; sulfate aerosols; ice core; explosive volcanism; greenhouse gases; sulfur-oxides; nitrous-oxide; model; emissions; impact
+AB Estimates are made for the period since 1750 of the major radiative forcing factors thought to be important in climate change. Analysis of these emphasizes the role of biospheric CO2 release and increasing methane up to the early twentieth century. Fossil fuel burning had a minor role until the mid-twentieth century, with the relatively small effects of fossil fuel CO2 being cancelled by sulphate aerosols from the same source. It is shown that, by using reasonable estimates of the contributions by greenhouse gases and anthropogenic and volcanic aerosols, a simple box-diffusion climate model simulates many features of the observed record of global climate change as estimated from both instrumental and glacier data. This is achieved without including either variations in solar intensity over this period or internal variability-which recent discussions of the topic have suggested are needed-but including forcing by volcanic aerosols, which these studies neglected. Three different estimates of forcing by volcanic aerosols are considered; although the volcanic aerosols substantially improve the model's fit to the observations, the validation does not show any one estimate to be clearly superior. The temperature record is shown to be consistent with the climate sensitivity obtained with three-dimensional models. (C) 1998 Royal Meteorological Society.
+C1 Hadley Ctr, Meteorol Off, Bracknell RG12 2SY, Berks, England.
+C3 Met Office - UK; Hadley Centre
+RP Rowntree, PR (corresponding author), 25 Bramblegate, Crowthorne RG45 6JA, Berks, England.
+CR ANGELL JK, 1993, GEOPHYS RES LETT, V20, P715, DOI 10.1029/93GL00366
+   Unknown -, 2021, ICE AGE-OUTS, V0, P0, DOI DOI 10.4324/9780203505205
+   Unknown -, 1986, CLIM DYNAM, V0, P0
+   BODEN TA, 1991, TRENDS 91 COMPENDIUM, V0, P0
+   Bretherton FP, 1990, CLIMATE CHANGE: THE IPCC SCIENTIFIC ASSESSMENT, V0, P173
+   CHARLSON RJ, 1992, SCIENCE, V255, P423, DOI 10.1126/science.255.5043.423
+   CHARLSON RJ, 1991, TELLUS A, V43, P152, DOI 10.1034/j.1600-0889.1991.t01-1-00013.x
+   DELMAS RJ, 1992, TELLUS B, V44, P335, DOI 10.1034/j.1600-0889.1992.00011.x
+   DENTON G H, 1973, QUATERNARY RESEARCH (ORLANDO), V3, P155, DOI 10.1016/0033-5894(73)90040-9
+   DIGNON J, 1989, JAPCA J AIR WASTE MA, V39, P180, DOI 10.1080/08940630.1989.10466519
+   ETHERIDGE DM, 1992, TELLUS B, V44, P282, DOI 10.1034/j.1600-0889.1992.t01-3-00006.x
+   Folland CK, 1992, CLIMATE CHANGE 1992, V0, P135
+   FOLLAND CK, 1995, Q J ROY METEOR SOC, V121, P319, DOI 10.1002/qj.49712152206
+   FOUKAL P, 1990, SCIENCE, V247, P556, DOI 10.1126/science.247.4942.556
+   FRIISCHRISTENSEN E, 1991, SCIENCE, V254, P698, DOI 10.1126/science.254.5032.698
+   HAMEED S, 1992, J AIR WASTE MANAGE, V42, P159, DOI 10.1080/10473289.1992.10466978
+   HAMMER CU, 1980, NATURE, V288, P230, DOI 10.1038/288230a0
+   HANSEN J, 1987, J GEOPHYS RES-ATMOS, V92, P13345, DOI 10.1029/JD092iD11p13345
+   HANSEN JE, 1984, CLIMAGE PROCESSES SE, V5, P1
+   HOFFERT MI, 1980, J GEOPHYS RES-OCEANS, V85, P6667, DOI 10.1029/JC085iC11p06667
+   HUGHTON JT, 1990, CLIMATE CHANGE IPCC, V0, P0
+   ISAKSEN ISA, 1900, P47, V0, P0
+   JONES A, 1994, NATURE, V370, P450, DOI 10.1038/370450a0
+   JONES P, 1991, TREND 91 COMPENDIUM, V0, P512
+   KATTENBERG A, 1996, CLIMATE CHANGE 1995, V0, P285
+   KAUFMAN YJ, 1993, J CLIMATE, V6, P1241, DOI 10.1175/1520-0442(1993)006<1241:MSOTCC>2.0.CO;2
+   KELLY PM, 1992, NATURE, V360, P328, DOI 10.1038/360328a0
+   KHALIL MAK, 1992, J GEOPHYS RES-ATMOS, V97, P14651, DOI 10.1029/92JD01222
+   KIEHL JT, 1993, SCIENCE, V260, P311, DOI 10.1126/science.260.5106.311
+   KIMBALL HH, 1924, MON WEATHER REV, V52, P527
+   LACIS A, 1992, GEOPHYS RES LETT, V19, P1607, DOI 10.1029/92GL01620
+   LAMB HH, 1970, PHILOS T R SOC S-A, V266, P425, DOI 10.1098/rsta.1970.0010
+   LAMB HH, 1984, CLIMATE MONITOR, V0, P88
+   LANGNER J, 1991, J ATMOS CHEM, V13, P225, DOI 10.1007/BF00058134
+   LEAN J, 1992, GEOPHYS RES LETT, V19, P1591, DOI 10.1029/92GL01578
+   LEGRAND M, 1987, NATURE, V327, P671, DOI 10.1038/327671a0
+   LEUENBERGER M, 1992, NATURE, V360, P449, DOI 10.1038/360449a0
+   Maier-Reimer E, 1987, CLIM DYNAM, V2, P63, DOI 10.1007/BF01054491
+   MANABE S, 1991, J CLIMATE, V4, P785, DOI 10.1175/1520-0442(1991)004<0785:TROACO>2.0.CO;2
+   MARTIN GM, 1994, J ATMOS SCI, V51, P1823, DOI 10.1175/1520-0469(1994)051<1823:TMAPOE>2.0.CO;2
+   MITCHELL JFB, 1995, NATURE, V376, P501, DOI 10.1038/376501a0
+   MOLLER D, 1984, ATMOS ENVIRON, V18, P19, DOI 10.1016/0004-6981(84)90225-7
+   MOORE JC, 1991, J GEOPHYS RES-ATMOS, V96, P17353, DOI 10.1029/91JD01283
+   NESMERIBES E, 1993, J GEOPHYS RES-SPACE, V98, P18923, DOI 10.1029/93JA00305
+   OBRIEN SR, 1995, SCIENCE, V270, P1962, DOI 10.1126/science.270.5244.1962
+   PARKER DE, 1991, GREENHOUSE GAS INDUC, V0, P173
+   ROBOCK A, 1995, J GEOPHYS RES-ATMOS, V100, P11549, DOI 10.1029/95JD00825
+   ROBOCK A, 1979, SCIENCE, V206, P1402, DOI 10.1126/science.206.4425.1402
+   ROTTY R, 1982, CARBON DIOXIDE REV 1, V0, P456
+   RUSSELL PB, 1993, J GEOPHYS RES-ATMOS, V98, P22969, DOI 10.1029/93JD02308
+   SATO M, 1993, J GEOPHYS RES-ATMOS, V98, P22987, DOI 10.1029/93JD02553
+   Schimel D, 1995, CLIMATE CHANGE 1994, V0, P35
+   SCHLESINGER ME, 1992, NATURE, V360, P330, DOI 10.1038/360330a0
+   SCHLESINGER ME, 1994, NATURE, V367, P723, DOI 10.1038/367723a0
+   SCHWARTZ SE, 1993, COMPARING GLOBAL HEA, V0, P0
+   SENIOR CA, 1993, J CLIMATE, V6, P393, DOI 10.1175/1520-0442(1993)006<0393:CDACTI>2.0.CO;2
+   Shine KP, 1990, CLIMATE CHANGE: THE IPCC SCIENTIFIC ASSESSMENT, V0, P41
+   Shine KP, 1995, CLIMATE CHANGE 1994. RADIATIVE FORCING OF CLIMATE CHANGE AND AN EVALUATION OF THE IPCC IS92 EMISSION SCENARIOS, V0, P163
+   SIEGENTHALER U, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P140
+   Stothers RB, 1996, CLIMATIC CHANGE, V32, P79, DOI 10.1007/BF00141279
+   TOUMI R, 1994, NATURE, V372, P348, DOI 10.1038/372348a0
+   WIGLEY TML, 1991, NATURE, V349, P503, DOI 10.1038/349503a0
+   WIGLEY TML, 1985, CLIMATE MONITOR, V13, P133
+   Wilson H, 1994, TRENDS93: A COMPENDIUM OF DATA ON GLOBAL CHANGE, V0, P609
+   ZIELINSKI GA, 1995, J GEOPHYS RES-ATMOS, V100, P20937, DOI 10.1029/95JD01751
+NR 65
+TC 14
+Z9 14
+U1 0
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0899-8418
+EI 1097-0088
+J9 INT J CLIMATOL
+JI Int. J. Climatol.
+PD MAR 30
+PY 1998
+VL 18
+IS 4
+BP 355
+EP 377
+DI 10.1002/(SICI)1097-0088(19980330)18:4<355::AID-JOC241>3.0.CO;2-B
+PG 23
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA ZJ656
+UT WOS:000073238900001
+DA 2025-11-03
+ER
+

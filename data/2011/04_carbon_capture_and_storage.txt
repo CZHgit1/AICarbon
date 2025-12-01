@@ -1,0 +1,134 @@
+PT J
+AU Zhou, Q
+   Chan, CW
+   Tontiwachwuthikul, P
+AF Zhou, Qing
+   Chan, Christine W.
+   Tontiwachwuthikul, Paitoon
+TI An intelligent system for monitoring and diagnosis of the CO2 capture process
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE CO2 capture; DeltaV Simulate; Intelligent system
+ID university; corrosion; regina
+AB Amine-based carbon dioxide capture has been widely considered as a feasible ideal technology for reducing large-scale CO2 emissions and mitigating global warming. The operation of amine-based CO2 capture is a complicated task, which involves monitoring over 100 process parameters and careful manipulation of numerous valves and pumps. The current research in the field of CO2 capture has emphasized the need for improving CO2 capture efficiency and enhancing plant performance. In the present study, artificial intelligence techniques were applied for developing a knowledge-based expert system that aims at effectively monitoring and controlling the CO2 capture process and thereby enhancing CO2 capture efficiency. In developing the system, the inferential modeling technique (IMT) was applied to analyze the domain knowledge and problem-solving techniques, and a knowledge base was developed on DeltaV Simulate. The expert system helps to enhance CO2 capture system performance and efficiency by reducing the time required for diagnosis and problem solving if abnormal conditions occur. The expert system can be used as a decision-support tool that helps inexperienced operators control the plant: it can be used also for training novice operators. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 [Zhou, Qing; Chan, Christine W.] Univ Regina, Fac Engn, Energy Informat Lab, Regina, SK S4S 0A2, Canada.
+   [Tontiwachwuthikul, Paitoon] Univ Regina, Proc Syst Engn Lab, Int Test Ctr Capture CO2, Regina, SK S4S 0A2, Canada.
+C3 University of Regina; University of Regina
+RP Chan, CW (corresponding author), Univ Regina, Fac Engn, Energy Informat Lab, Regina, SK S4S 0A2, Canada.
+EM christine.chan@uregina.ca
+CR Chakma A, 1997, ENERG CONVERS MANAGE, V38, PS51, DOI 10.1016/S0196-8904(96)00245-2
+   Chan CW, 2002, INT J SYST SCI, V33, P485, DOI 10.1080/00207720210133679
+   CHAN CW, 1995, INT J EXPERT SYST, V8, P47
+   Idem R, 2006, IND ENG CHEM RES, V45, P2414, DOI 10.1021/ie050569e
+   Mamun S, 2007, ENERG CONVERS MANAGE, V48, P251, DOI 10.1016/j.enconman.2006.04.007
+   MUSSI S, 1993, IEEE T KNOWL DATA EN, V5, P369, DOI 10.1109/69.224191
+   Tontiwachwuthikul P, 1996, ENERG CONVERS MANAGE, V37, P935, DOI 10.1016/0196-8904(95)00280-4
+   Veawab A, 1999, IND ENG CHEM RES, V38, P3917, DOI 10.1021/ie9901630
+   Veawab A, 1997, IND ENG CHEM RES, V36, P264, DOI 10.1021/ie9504563
+   Veawab A, 2001, P 1 NAT C CARB SEQ W, V0, P0
+   White CM, 2003, J AIR WASTE MANAGE, V53, P645, DOI 10.1080/10473289.2003.10466206
+   Zhou Q, 2009, EXPERT SYST APPL, V36, P1621, DOI 10.1016/j.eswa.2007.11.063
+NR 12
+TC 3
+Z9 4
+U1 2
+U2 25
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD JUL 15
+PY 2011
+VL 38
+IS 7
+BP 7935
+EP 7946
+DI 10.1016/j.eswa.2010.12.010
+PG 12
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA 743VV
+UT WOS:000289047700005
+DA 2025-11-05
+ER
+
+PT J
+AU Zhou, Q
+   Chan, CW
+   Tontiwachiwuthikul, P
+AF Zhou, Q.
+   Chan, C. W.
+   Tontiwachiwuthikul, P.
+TI Development of an Intelligent System for Monitoring and Diagnosis of the Carbon Dioxide Capture Process
+SO JOURNAL OF ENVIRONMENTAL INFORMATICS
+LA English
+DT Article
+DE knowledge-based system; monitoring; control; diagnosis; carbon dioxide capture process system
+ID co2 capture; oxidative-degradation; aqueous-solutions; pilot-plant; absorption; 2-amino-2-methyl-1-propanol; monoethanolamine; performance; technology; separation
+AB The technology of amine-based carbon dioxide (CO2) capture has been widely adopted for reducing CO2 emissions and mitigating global warming. The primary research objective in the field of post-combustion CO2 capture process system is to improve effectiveness and efficiency of the process. Extensive literature review of the research showed that the dominant approach was to investigate the behaviors of the aqueous amine solvents for enchancing CO2 capture efficiency. As the operation of an amine-based CO2 capture system is complicated and involves monitoring over one hundred process parameters and careful manipulation of numerous valves and pumps, automated monitoring and process control can be a fruitful approach to enhance efficiency of the CO2 capture process system. In this study, artificial intelligence techniques were applied for development of a knowledge-based expert system that effectively monitors and controls the CO2 capture process system so as to enhance CO2 capture efficiency. The Knowledge-Based System for Carbon Dioxide Capture (KBSCDC) was implemented with DeltaV Simulate (trademark of Emerson Corp., USA). DeltaV Simulate provides control utilities and algorithms which support the configuration of control strategies in modular components. The KBSCDC can conduct real-time monitoring and diagnosis, as well as suggest remedies for any abnormality detected. Also, the control strategies applied to the control devices of the process are simulated in KBSCDC. The expert system enhances performance and efficiency of the CO2 capture process system because it supports automated diagnosis of the system should any abnormal conditions occur. In this way, costly downtime and maintenance are avoided.
+C1 [Zhou, Q.; Chan, C. W.; Tontiwachiwuthikul, P.] Univ Regina, Fac Engn & Appl Sci, Regina, SK S4S 0A2, Canada.
+C3 University of Regina
+RP Chan, CW (corresponding author), Univ Regina, Fac Engn & Appl Sci, Regina, SK S4S 0A2, Canada.
+EM christine.chan@uregina.ca
+CR ALPER E, 1990, IND ENG CHEM RES, V29, P1725, DOI 10.1021/ie00104a023
+   Aroonwilas A, 1997, SEP PURIF TECHNOL, V12, P67, DOI 10.1016/S1383-5866(97)00037-3
+   Aroonwilas A, 2004, IND ENG CHEM RES, V43, P2228, DOI 10.1021/ie0306067
+   Chakma A, 1999, ENERG SOURCE, V21, P51, DOI 10.1080/00908319950014957
+   Chakma A, 1997, ENERG CONVERS MANAGE, V38, PS51, DOI 10.1016/S0196-8904(96)00245-2
+   Chan CW, 2000, KNOWLEDGE-BASED SYSTEMS TECHNIQUES AND APPLICATIONS, V4, P1109
+   Chan CW, 2002, INT J SYST SCI, V33, P485, DOI 10.1080/00207720210133679
+   deMontigny D, 2006, IND ENG CHEM RES, V45, P2594, DOI 10.1021/ie050567u
+   Gabrielsen J, 2007, CHEM ENG SCI, V62, P2397, DOI 10.1016/j.ces.2007.01.034
+   Henni A, 2006, J CHEM ENG DATA, V51, P64, DOI 10.1021/je050172h
+   Henni A, 2008, IND ENG CHEM RES, V47, P2213, DOI 10.1021/ie070587r
+   Huang B, 2010, APPL ENERG, V87, P3347, DOI 10.1016/j.apenergy.2010.03.007
+   Idem R, 2006, IND ENG CHEM RES, V45, P2414, DOI 10.1021/ie050569e
+   Kim SB, 2011, KOREAN J CHEM ENG, V28, P710, DOI 10.1007/s11814-010-0417-y
+   Kim YH, 2008, SEP SCI TECHNOL, V43, P2386, DOI 10.1080/01496390802148555
+   Lawal O, 2005, IND ENG CHEM RES, V44, P1874, DOI 10.1021/ie049261y
+   Leci CL, 1997, ENERG CONVERS MANAGE, V38, PS45, DOI 10.1016/S0196-8904(96)00244-0
+   Mamun S, 2007, ENERG CONVERS MANAGE, V48, P251, DOI 10.1016/j.enconman.2006.04.007
+   Nguyen HH, 2006, ENG APPL ARTIF INTEL, V19, P113, DOI 10.1016/j.engappai.2005.06.008
+   Ramachandran N, 2006, IND ENG CHEM RES, V45, P2608, DOI 10.1021/ie0505716
+   Rao AB, 2002, ENVIRON SCI TECHNOL, V36, P4467, DOI 10.1021/es0158861
+   Reza J, 2006, CHEM ENG COMMUN, V193, P129, DOI 10.1080/009864490923592
+   Sakwattanapong R, 2005, IND ENG CHEM RES, V44, P4465, DOI 10.1021/ie050063w
+   Sakwattanapong R, 2006, P EIC CLIM CHANG TEC, V0, P1
+   Supap T, 2006, IND ENG CHEM RES, V45, P2437, DOI 10.1021/ie050559d
+   Supap T, 2011, CARBON MANAG, V2, P551, DOI 10.4155/CMT.11.55
+   Tontiwachwuthikul P, 1996, ENERG CONVERS MANAGE, V37, P935, DOI 10.1016/0196-8904(95)00280-4
+   Vitse F, 2011, ENRGY PROCED, V4, P5527, DOI 10.1016/j.egypro.2011.02.539
+   Yoshida Y, 2009, J ENVIRON INFORM, V14, P41, DOI 10.3808/jei.200900152
+   Zeng Q, 2011, IND ENG CHEM RES, V50, P10168, DOI 10.1021/ie101821b
+   Zhang P, 2008, J ENVIRON SCI, V20, P39, DOI 10.1016/S1001-0742(08)60005-4
+NR 31
+TC 10
+Z9 10
+U1 1
+U2 18
+PU INT SOC ENVIRON INFORM SCI
+PI REGINA
+PA 4246 ALBERT ST, REGINA, SASKATCHEWAN S4S 3R9, CANADA
+SN 1726-2135
+EI 1684-8799
+J9 J ENVIRON INFORM
+JI J. Environ. Inform.
+PD DEC 15
+PY 2011
+VL 18
+IS 2
+BP 75
+EP 83
+DI 10.3808/jei.201100201
+PG 9
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 874GD
+UT WOS:000298942500004
+DA 2025-11-05
+ER
+

@@ -1,0 +1,350 @@
+PT J
+AU Mainzer, K
+   Killinger, S
+   McKenn, R
+   Fichtner, W
+AF Mainzer, Kai
+   Killinger, Sven
+   McKenn, Russell
+   Fichtner, Wolf
+TI Assessment of rooftop photovoltaic potentials at the urban level using publicly available geodata and image recognition techniques
+SO SOLAR ENERGY
+LA English
+DT Article
+DE PV potential; Module orientation; Image recognition; Machine learning
+ID systems; irradiance; lidar; methodology; prediction
+AB The local generation of renewable electricity through roof-mounted photovoltaic (PV) systems on buildings in urban areas provides huge potentials for the mitigation of greenhouse gas emissions. This contribution presents a new method to provide local decision makers with tools to assess the remaining PV potential within their respective communities. It allows highly detailed analyses without having to rely on 3D city models, which are often not available. This is achieved by a combination of publicly available geographical building data and aerial images that are analyzed using image recognition and machine learning approaches. The method also employs sophisticated algorithms for irradiance simulation and power generation that exhibit a higher accuracy than most existing PV potential studies. The method is demonstrated with an application to the city of Freiburg, for which a technical PV electricity generation potential of about 524 GWhia is identified. A validation with a 3D city model shows that the correct roof azimuth can be determined with an accuracy of about 70% and existing solar installations can be detected with an accuracy of about 90%. This demonstrates that the method can be employed for spatially and temporally detailed PV potential assessments in arbitrary urban areas when only public geographical building data is available instead of exact 3D city model data. Future work will focus on methodological improvements as well as on the integration of the method within an urban energy system modeling framework. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Mainzer, Kai; Killinger, Sven; McKenn, Russell; Fichtner, Wolf] KIT, Chair Energy Econ, D-76187 Karlsruhe, Germany.
+   [Killinger, Sven] Fraunhofer Inst Solar Energy Syst ISE, D-79110 Freiburg, Germany.
+C3 Helmholtz Association; Karlsruhe Institute of Technology; Fraunhofer Gesellschaft; Fraunhofer Germany; Fraunhofer Institute of Solar Energy Systems
+RP Mainzer, K (corresponding author), KIT, Chair Energy Econ, D-76187 Karlsruhe, Germany.
+EM kai.mainzer@kit.edu
+FU Federal Ministry of Education and Research (BMBF - Germany) [03SF0415B]; Nagelschneider Foundation
+CR Unknown -, 1900, SYNTHESIS REPORT, V0, P0
+   Unknown -, 2016, ENERGY TECHNOLOGY PERSPECTIVES 2016, V0, P0
+   Unknown -, 2008, GLOBAL HORIZONTAL GL, V0, P0
+   Assouline D, 2017, SOL ENERGY, V141, P278, DOI 10.1016/j.solener.2016.11.045
+   Bergamasco L, 2011, SOL ENERGY, V85, P2741, DOI 10.1016/j.solener.2011.08.010
+   Bradski G, 2000, DR DOBBS J, V25, P120
+   Branker K, 2011, RENEW SUST ENERG REV, V15, P4470, DOI 10.1016/j.rser.2011.07.104
+   Brito MC, 2012, SOL ENERGY, V86, P283, DOI 10.1016/j.solener.2011.09.031
+   Buhrke T, 2011, EMEUERBARE ENERGIE K, V0, P0
+   Burger W, 2016, TEXTS IN COMPUTER SCIENCE, V0, P0
+   CANNY J, 1986, IEEE T PATTERN ANAL, V8, P679, DOI 10.1109/TPAMI.1986.4767851
+   Defaix PR, 2012, SOL ENERGY, V86, P2644, DOI 10.1016/j.solener.2012.06.007
+   DGS, 2014, ENERGYMAP DEM WEG 10, V0, P0
+   Diefenbach N, 2010, DATENBASIS GEBAUDEBE, V0, P0
+   Drews A, 2007, SOL ENERGY, V81, P548, DOI 10.1016/j.solener.2006.06.019
+   DUDA RO, 1972, COMMUN ACM, V15, P11, DOI 10.1145/361237.361242
+   European Commission, 2017, COP ATM MON SERV CAM, V0, P0
+   Fath K, 2015, SOL ENERGY, V116, P357, DOI 10.1016/j.solener.2015.03.023
+   Freitas S, 2015, RENEW SUST ENERG REV, V41, P915, DOI 10.1016/j.rser.2014.08.060
+   Grena R, 2012, SOL ENERGY, V86, P1323, DOI 10.1016/j.solener.2012.01.024
+   Gueymard CA, 2009, SOL ENERGY, V83, P432, DOI 10.1016/j.solener.2008.11.004
+   Hansen C, 2013, TECHNICAL REPORT, V0, P0
+   Hazelhoff L, 2011, VISUAL INFORM PROCES, V0, P0
+   He K, 2015, CONF. COMPUT. VIS. (ICCV), V0, P0
+   Huld T, 2010, SOL ENERGY, V84, P324, DOI 10.1016/j.solener.2009.12.002
+   Jakubiec JA, 2013, SOL ENERGY, V93, P127, DOI 10.1016/j.solener.2013.03.022
+   Jo JH, 2011, RENEW ENERG, V36, P2992, DOI 10.1016/j.renene.2011.03.038
+   Killinger S, 2015, VDI WISSENSFORUM OPT, V0, P131
+   Killinger S, 2017, IEEE J PHOTOVOLT, V7, P941, DOI 10.1109/JPHOTOV.2017.2684908
+   Killinger S, 2016, SOL ENERGY, V136, P153, DOI 10.1016/j.solener.2016.06.075
+   Krauter S, 2008, 23 EUR PHOT SOL EN C, V0, P1
+   Kreifels N, 2016, INT CONF EUR ENERG, V0, P0
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Lorenz E, 2011, PROG PHOTOVOLTAICS, V19, P757, DOI 10.1002/pip.1033
+   LUBW, 2012, POT ERN EN, V0, P0
+   Macêdo WN, 2007, PROG PHOTOVOLTAICS, V15, P337, DOI 10.1002/pip.740
+   Mainzer K, 2016, P EU PVSEC, V0, P0
+   Mainzer K, 2014, SOL ENERGY, V105, P715, DOI 10.1016/j.solener.2014.04.015
+   Martín-Chivelet N, 2016, ENERGY, V94, P233, DOI 10.1016/j.energy.2015.10.108
+   Mavromatidis G, 2015, SOL ENERGY, V121, P152, DOI 10.1016/j.solener.2015.03.044
+   McKenna R, 2016, WORKING PAPER SERIES, V16, P0
+   Miyazaki H, 2016, INT WORKS EARTH OB, V0, P0
+   Nguyen HT, 2012, SOL ENERGY, V86, P1245, DOI 10.1016/j.solener.2012.01.017
+   NOWAK S, 2002, T74 IEAPVPS, V0, P0
+   Perez R, 1990, SOLAR ENERGY, V44, P271, DOI 10.1016/0038-092X(90)90055-H
+   Peucker TK, 1973, CANADIAN CARTOGRAPHE, V10, P112, DOI 10.3138/FM57-6770-U75U-7727
+   Pickering KA, 2002, DIO THE INTERNATIONAL JOURNAL OF SCIENTIFIC HISTORY, V12, P3
+   Quaschning V, 2013, REGENERATIVE ENERGIESYSTEME, V0, P0
+   Rodríguez LR, 2017, SOL ENERGY, V146, P264, DOI 10.1016/j.solener.2017.02.043
+   Schallenberg-Rodríguez J, 2013, RENEW SUST ENERG REV, V20, P219, DOI 10.1016/j.rser.2012.11.078
+   Schubert G, 2012, 12 S EN GRAZ AUSTR, V0, P0
+   Singh R, 2015, SOL ENERGY, V115, P589, DOI 10.1016/j.solener.2015.03.016
+   SoDa, 2017, MERRA 2 REAN WEB SER, V0, P0
+   Sreckovic N, 2016, ENERGY, V96, P404, DOI 10.1016/j.energy.2015.12.078
+   Stabsstelle Geodatenmanagement, 2016, LOD2 DAT FREIB, V0, P0
+   SUZUKI S, 1985, COMPUT VISION GRAPH, V30, P32, DOI 10.1016/0734-189X(85)90016-7
+   Takebayashi H, 2015, SOL ENERGY, V119, P362, DOI 10.1016/j.solener.2015.05.039
+   Taubenbock H, 2007, THESIS, V0, P0
+   Theodoridou I, 2012, RENEW SUST ENERG REV, V16, P6239, DOI 10.1016/j.rser.2012.03.075
+   Wegertseder P, 2016, SOL ENERGY, V135, P325, DOI 10.1016/j.solener.2016.05.061
+   Wirth H, 2016, FRAUNHOFER ISE, V0, P0
+   Wittmann H, 1997, RENEW ENERG, V11, P25, DOI 10.1016/S0960-1481(96)00116-4
+   Yang DZ, 2014, SOL ENERGY, V110, P768, DOI 10.1016/j.solener.2014.10.006
+NR 63
+TC 119
+Z9 125
+U1 4
+U2 55
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0038-092X
+EI 1471-1257
+J9 SOL ENERGY
+JI Sol. Energy
+PD OCT 15
+PY 2017
+VL 155
+IS 
+BP 561
+EP 573
+DI 10.1016/j.solener.2017.06.065
+PG 13
+WC Energy & Fuels
+SC Energy & Fuels
+GA FS1LY
+UT WOS:000419538500053
+DA 2025-11-05
+ER
+
+PT J
+AU Anan, T
+   Higuchi, H
+   Hamada, N
+AF Anan, Taizo
+   Higuchi, Hiroyuki
+   Hamada, Naoki
+TI New Artificial Intelligence Technology Improving Fuel Efficiency and Reducing CO2 Emissions of Ships through Use of Operational Big Data
+SO FUJITSU SCIENTIFIC & TECHNICAL JOURNAL
+LA English
+DT Article
+AB Fuel cost and CO2 emissions in operating ships are major challenges for the maritime industry. A large marine transport company spends more than 2.6 billion U.S. dollars on fuel every year. In order to reduce fuel consumption as well as CO2 emissions from ships, it is crucial to be able to accurately calculate the impact of winds and waves on ship speed and fuel efficiency. Normally, existing ship performance estimation technologies rely on experiments with model ships in tanks of water, or on physics model simulations. However, they do not take into account the complicated interactions of winds, waves, and sea currents that influence the state of ships at real sea waters, resulting in large margins of error. Against this background, Fujitsu Laboratories has developed a technology to visualize ship performance. In addition to weather and sea conditions including winds, waves, and sea currents during actual ship operation, it collects engine log data and ship operation data such as location and ship speed, and posts it to the cloud, and then analyzes these data using high-dimensional statistical analysis that we developed. Applying this technology to a university-owned test ship and some merchant ships resulted in highly accurate estimation of ship speed and fuel consumption for each of the ships, with error of 5% or less. We also evaluated this technology through simulation and verified that it can improve fuel efficiency significantly. This paper describes this technology to predict ship performance in real sea waters, which is key to reducing ship fuel consumption, with some examples of system configurations.
+C1 [Anan, Taizo; Higuchi, Hiroyuki; Hamada, Naoki] Fujitsu Labs Ltd, Kawasaki, Kanagawa, Japan.
+C3 Fujitsu Ltd; Fujitsu Laboratories Ltd
+RP Anan, T (corresponding author), Fujitsu Labs Ltd, Kawasaki, Kanagawa, Japan.
+CR Shoji R, 2013, OPERATIONS RES MANAG, V58, P599
+NR 1
+TC 13
+Z9 17
+U1 0
+U2 28
+PU FUJITSU LTD
+PI KAWASAKI
+PA 1015 KAMIKODANAKU NAKAHARA-KU, KAWASAKI, 211, JAPAN
+SN 0016-2523
+EI 
+J9 FUJITSU SCI TECH J
+JI Fujitsu Sci. Tech. J.
+PD OCT 15
+PY 2017
+VL 53
+IS 6
+BP 23
+EP 28
+DI 
+PG 6
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA FL0FA
+UT WOS:000413885800005
+DA 2025-11-05
+ER
+
+PT J
+AU Jin, X
+   Baker, K
+   Christensen, D
+   Isley, S
+AF Jin, Xin
+   Baker, Kyri
+   Christensen, Dane
+   Isley, Steven
+TI Foresee: A user-centric home energy management system for energy efficiency and demand response
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Home energy management system; Model predictive control; User preference; Smart grid; Energy efficiency; Demand response
+ID optimization; appliances
+AB This paper presents foresee'', a user-centric home energy management system that can help optimize how a home operates to concurrently meet users' needs, achieve energy efficiency and commensurate utility cost savings, and reliably deliver grid services based on utility signals. Foresee is built on a multiobjective model predictive control framework, wherein the objectives consist of energy cost, thermal comfort, user convenience, and carbon emission. Foresee learns user preferences on different objectives and acts on their behalf to operate building equipment, such as home appliances, photovoltaic systems, and battery storage. In this work, machine learning algorithms were used to derive data-driven appliance models and usage patterns to predict the home's future energy consumption. This approach enables highly accurate predictions of comfort needs, energy costs, environmental impacts, and grid service availability. Simulation studies were performed on field data from a residential building stock data set collected in the Pacific Northwest. Results indicated that foresee generated up to 7.6% whole-home energy savings without requiring substantial behavioral changes. When responding to demand response events, foresee was able to provide load forecasts upon receipt of event notifications and delivered the committed demand response services with 10% or fewer errors. Foresee fully utilized the potential of the battery storage and controllable building loads and delivered up to 7.0-kW load reduction and 13.5-kW load increase. These benefits are provided while maintaining the occupants' thermal comfort or convenience in using their appliances.
+C1 [Jin, Xin; Baker, Kyri; Christensen, Dane; Isley, Steven] Natl Renewable Energy Lab, 15013 Denver West Pkwy, Golden, CO 80401 USA.
+   [Baker, Kyri] Univ Colorado, Dept Civil Environm & Architectural Engn, Boulder, CO 80309 USA.
+C3 United States Department of Energy (DOE); National Renewable Energy Laboratory - USA; University of Colorado System; University of Colorado Boulder
+RP Jin, X (corresponding author), Natl Renewable Energy Lab, 15013 Denver West Pkwy, Golden, CO 80401 USA.
+EM xin.jin@nrel.gov
+FU U.S. Department of Energy [DE-AC36-08GO28308]; National Renewable Energy Laboratory; Bonneville Power Administration [TIP-337]
+CR AlSkaif T, 2017, ENERG BUILDINGS, V138, P228, DOI 10.1016/j.enbuild.2016.12.050
+   Unknown -, 2007, EM GEN RES INT DAT E, V0, P0
+   Unknown -, 2012, BUILDINGS ENERGY DATA BOOK, V0, P0
+   Baker K, 2016, P 3 ACM INT C SYST E, V0, P0
+   Batchu R, 2015, RESIDENTIAL DEMAND R, V0, P18
+   Bishop ChristopherM, 2006, PATTERN RECOGN, V1, P0, DOI 10.1117/1.2819119
+   Bloem JJ, 1994, SYSTEM IDENTIFICATIO, V0, P0
+   Bradac Z, 2015, ENERGIES, V8, P217, DOI 10.3390/en8010217
+   Camacho EF, 2013, MODEL PREDICTIVE, V0, P0, DOI 10.1007/978-0-85729-398-5
+   Chen C, 2013, IEEE T SMART GRID, V4, P1401, DOI 10.1109/TSG.2013.2265239
+   Chen Z, 2012, IEEE T SMART GRID, V3, P1822, DOI 10.1109/TSG.2012.2212729
+   Christensen D, 2016, ACM BUILDSYS 2016, V0, P0
+   DAprile P, 2016, THE NEW ECONOMICS OF ENERGY STORAGE, V0, P0
+   Ecotope Inc, 2014, E14283 NW EN EFF ALL, V0, P0
+   EDWARDS W, 1994, ORGAN BEHAV HUM DEC, V60, P306, DOI 10.1006/obhd.1994.1087
+   Ghazvini MAF, 2017, ENERG BUILDINGS, V143, P129, DOI 10.1016/j.enbuild.2017.03.020
+   Grant M, 2012, CVX: MATLAB SOFTWARE FOR DISCIPLINED CONVEX PROGRAMMING, V0, P0
+   Hittinger E, 2017, NATURE ENERGY, V0, P2
+   Hussain I, 2015, PROCEDIA COMPUT SCI, V52, P843, DOI 10.1016/j.procs.2015.05.141
+   Jin X, 2014, 2014 ACEEE SUMMER ST, V0, P0
+   Jin X, 2016, 3 INT WORKSH NON LOA, V0, P0
+   Jovanovic R, 1900, V6, V0, P0
+   Kamyar R, 2016, INT HIGH PERF BUILD, V0, P0
+   Kawakami T, 2014, SCI WORLD J, V0, P0, DOI DOI 10.1155/2014/591478
+   Pratt Annabelle, 2016, IEEE ELECTRIFICATION MAGAZINE, V4, P8, DOI 10.1109/mele.2016.2614188
+   Rasheed MB, 1900, V9, V0, P0
+   Rastegar M, 2012, APPL ENERG, V96, P45, DOI 10.1016/j.apenergy.2012.01.056
+   Shakeri M, 2017, ENERG BUILDINGS, V138, P154, DOI 10.1016/j.enbuild.2016.12.026
+   Tischer H, 2011, 2011 IEEE PES INNOVATIVE SMART GRID TECHNOLOGIES, V0, P0
+   Wagner J, 2014, TOP 10 WEATHER APIS, V0, P0
+   Wu H, 2015, 2015 IEEE POW EN SOC, V0, P1
+   Zhao Z, 2013, IEEE T SMART GRID, V4, P1391, DOI 10.1109/TSG.2013.2251018
+   Zheng M, 2014, 14978 NIST GCR, V0, P0
+   Zhou B, 2016, RENEW SUST ENERG REV, V61, P30, DOI 10.1016/j.rser.2016.03.047
+NR 34
+TC 152
+Z9 173
+U1 4
+U2 75
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD NOV 1
+PY 2017
+VL 205
+IS 
+BP 1583
+EP 1595
+DI 10.1016/j.apenergy.2017.08.166
+PG 13
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA FM2LU
+UT WOS:000414817100125
+DA 2025-11-05
+ER
+
+PT J
+AU Assouline, D
+   Mohajeri, N
+   Scartezzini, JL
+AF Assouline, Dan
+   Mohajeri, Nahid
+   Scartezzini, Jean-Louis
+TI Quantifying rooftop photovoltaic solar energy potential: A machine learning approach
+SO SOLAR ENERGY
+LA English
+DT Article
+DE Machine learning; Support vector regression; Solar photovoltaics; Large-scale solar potential; Geographic information systems
+ID monthly average insolation; support vector regression; radiation prediction; integration; buildings; system; suitability; performance; surfaces; evaluate
+AB The need for reduction in CO2 emissions to mitigate global warming has resulted in increasing use of renewable energy sources. In urban areas, solar photovoltaic (PV) deployment on existing rooftops is one of the most viable sustainable energy resources. The present study uses a combination of support vector machines (SVMs) and geographic information systems (GIS) to estimate the rooftop solar PV potential for the urban areas at the commune level (the smallest administrative division) in Switzerland. The rooftop solar PV potential for a total 1901 out of 2477 communes in Switzerland is estimated. Following a 6-fold cross validation, the root-mean-square error (also normalized) is used to estimate the accuracy of the different SVM models. The results show that, on average, 81% of the total ground floor area of each building corresponds to the available roof area for the PV installation. Also considering the total available roof area for PV installation, that is, 328 km(2) and roof orientations within 900 of due south, the annual potential PV electricity production for the urban areas in Switzerland is estimated at 17.86 TW h (assumed 17% efficiency and 80% performance ratio). This amount corresponds to 28% of Switzerland's electricity consumption in 2015. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Assouline, Dan; Mohajeri, Nahid; Scartezzini, Jean-Louis] Ecole Polytech Fed Lausanne, Solar Energy & Bldg Phys Lab LESO PB, CH-1015 Lausanne, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; Ecole Polytechnique Federale de Lausanne
+RP Assouline, D (corresponding author), Ecole Polytech Fed Lausanne, Solar Energy & Bldg Phys Lab LESO PB, CH-1015 Lausanne, Switzerland.
+EM dan.assouline@epfl.ch
+FU CTI (Commission for Technology and Innovation) within the SCCER Future Energy Efficient Buildings and Districts, FEEBD [CTI.2014.0119]
+CR Akbari H, 2009, CLIMATIC CHANGE, V94, P275, DOI 10.1007/s10584-008-9515-9
+   ANDERSEN P, 1980, SOL ENERGY, V25, P287, DOI 10.1016/0038-092X(80)90339-4
+   Angelis-Dimakis A, 2011, RENEW SUST ENERG REV, V15, P1182, DOI 10.1016/j.rser.2010.09.049
+   Unknown -, 2014, TECHNOLOGY ROADMAP: SOLAR PHOTOVOLTAIC ENERGY - 2014 EDITION, V0, P0
+   Unknown -, 2014, ENERGY TECHNOLOGY PERSPECTIVES: HARNESSING ELECTRICITYS POTENTIAL, V0, P0
+   Unknown -, 2013, CORINE LAND COVER 20, V0, P0
+   Unknown -, 2008, SUPPLY CURVES FOR ROOFTOP SOLAR PV-GENERATED ELECTRICITY FOR THE UNITED STATES, V0, P0
+   Unknown -, 2002, IEA PVPS TASK, V0, P0
+   Unknown -, 2004, GLOBAL REGIONAL POTE, V0, P0
+   Bazilian M, 2013, RENEW ENERG, V53, P329, DOI 10.1016/j.renene.2012.11.029
+   Bergamasco L, 2011, SOL ENERGY, V85, P1041, DOI 10.1016/j.solener.2011.02.022
+   Bouzerdoum M, 2013, SOL ENERGY, V98, P226, DOI 10.1016/j.solener.2013.10.002
+   Branker K, 2011, RENEW SUST ENERG REV, V15, P4470, DOI 10.1016/j.rser.2011.07.104
+   Brito MC, 2012, SOL ENERGY, V86, P283, DOI 10.1016/j.solener.2011.09.031
+   Byrne J, 2015, RENEW SUST ENERG REV, V41, P830, DOI 10.1016/j.rser.2014.08.023
+   Carneiro C, 2010, T GIS, V14, P497, DOI 10.1111/j.1467-9671.2010.01218.x
+   Carneiro C, 2009, LECT NOTES GEOINF CA, V0, PP83, DOI 10.1007/978-3-642-00318-9_5
+   Defaix PR, 2012, SOL ENERGY, V86, P2644, DOI 10.1016/j.solener.2012.06.007
+   Geiger M, 2002, SOL ENERGY, V73, P475, DOI 10.1016/S0038-092X(02)00121-4
+   Gooding J, 2015, APPL ENERG, V148, P93, DOI 10.1016/j.apenergy.2015.03.013
+   Hernandez RR, 2015, NAT CLIM CHANGE, V5, P353, DOI 10.1038/nclimate2556
+   Hofierka J, 2009, RENEW ENERG, V34, P2206, DOI 10.1016/j.renene.2009.02.021
+   Ineichen P, 2011, FIVE SATELLITE PRODUCTS DERIVING BEAM AND GLOBAL IRRADIANCE VALIDATION ON DATA FROM 23 GROUND STATIONS, V0, P0
+   Izquierdo S, 2008, SOL ENERGY, V82, P929, DOI 10.1016/j.solener.2008.03.007
+   Jolliffe IT, 2002, PRINCIPAL COMPONENTS, VSecond, P0
+   Kanevski M, 2004, ANAL MODELLING SPATI, V0, P0
+   Kanevski M, 2009, MACHINE LEARNING FOR SPATIAL ENVIRONMENTAL DATA: THEORY, V0, P0
+   Klauser D, 2016, SOLARPOTENTIALANALYSE FUR SONNENDACH.CH, V0, P0
+   KLEIN SA, 1977, SOL ENERGY, V19, P325, DOI 10.1016/0038-092X(77)90001-9
+   Lang T, 2015, RENEW SUST ENERG REV, V42, P932, DOI 10.1016/j.rser.2014.10.077
+   Lauret P, 2015, SOL ENERGY, V112, P446, DOI 10.1016/j.solener.2014.12.014
+   Levinson R, 2009, SOL ENERGY, V83, P2120, DOI 10.1016/j.solener.2009.07.016
+   Lukac N, 2016, ENERGY, V107, P854, DOI 10.1016/j.energy.2016.04.089
+   Lukac N, 2014, ENERGY, V66, P598, DOI 10.1016/j.energy.2013.12.066
+   Lukac N, 2013, APPL ENERG, V102, P803, DOI 10.1016/j.apenergy.2012.08.042
+   Mavromatidis G, 2015, SOL ENERGY, V121, P152, DOI 10.1016/j.solener.2015.03.044
+   Mohammadi K, 2015, ENERG CONVERS MANAGE, V91, P433, DOI 10.1016/j.enconman.2014.12.015
+   Montavon M, 2010, OPTIMISATION OF THE URBAN FORM BY THE EVALUATION OF THE SOLAR POTENTIAL. LABORATOIRE DENERGIE SOLAIRE ET PHYSIQUE DU BATIMENT, V0, P0
+   Muneer T, 1990, BUILDING SERVICES ENGINEERING RESEARCH TECHNOLOGY, V11, P153, DOI 10.1177/014362449001100405
+   Nguyen HT, 2012, SOL ENERGY, V86, P1245, DOI 10.1016/j.solener.2012.01.017
+   Olatomiwa L, 2015, SOL ENERGY, V115, P632, DOI 10.1016/j.solener.2015.03.015
+   Ordóñez J, 2010, RENEW SUST ENERG REV, V14, P2122, DOI 10.1016/j.rser.2010.01.001
+   Paidipati J, 2008, ROOFTOP PHOTOVOLTAICS MARKET PENETRATION SCENARIOS, V0, P0, DOI DOI 10.2172/924645
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825, DOI 10.1145/2786984.2786995
+   Peng JQ, 2013, RENEW SUST ENERG REV, V27, P149, DOI 10.1016/j.rser.2013.06.030
+   Ramedani Z, 2014, SOL ENERGY, V109, P135, DOI 10.1016/j.solener.2014.08.023
+   Ramli MAM, 2015, ENERG CONVERS MANAGE, V105, P442, DOI 10.1016/j.enconman.2015.07.083
+   REINDL DT, 1990, SOL ENERGY, V45, P9, DOI 10.1016/0038-092X(90)90061-G
+   Roberts B, 2012, US RENEWABLE ENERGY, V0, P0
+   Schallenberg-Rodríguez J, 2013, RENEW SUST ENERG REV, V20, P219, DOI 10.1016/j.rser.2012.11.078
+   Schlkopf B, 2002, LEARNING KERNELS SUP, V0, P0
+   Seiz G, 2011, ADV SCI RES, V6, P95, DOI 10.5194/asr-6-95-2011
+   Smola AJ, 2004, STAT COMPUT, V14, P199, DOI 10.1023/B:STCO.0000035301.49549.88
+   Strzalka A, 2012, APPL ENERG, V93, P413, DOI 10.1016/j.apenergy.2011.12.033
+   Suri M, 2007, SOL ENERGY, V81, P1295, DOI 10.1016/j.solener.2006.12.007
+   Tarsha-Kurdi F, 2007, INT. ARCH. PHOTOGRAMM. REMOTE SENS. SPAT. INF. SCI, V36, P87
+   Tibshirani R, 1996, J ROY STAT SOC B, V58, P267, DOI 10.1111/j.2517-6161.1996.tb02080.x
+   Vapnik V, 1998, NATURE STAT LEARNING, V1st, P0, DOI 10.1007/978-1-4757-2440-0
+   Vapnik V, 1995, STAT LEARNING THEORY, V0, P0
+   Vardimon R, 2011, RENEW ENERG, V36, P591, DOI 10.1016/j.renene.2010.07.030
+   Verso A, 2015, SOL ENERGY, V117, P236, DOI 10.1016/j.solener.2015.04.018
+   Wegertseder P, 2016, SOL ENERGY, V135, P325, DOI 10.1016/j.solener.2016.05.061
+   Wiginton LK, 2010, COMPUT ENVIRON URBAN, V34, P345, DOI 10.1016/j.compenvurbsys.2010.01.001
+   Wittmann H, 1997, RENEW ENERG, V11, P25, DOI 10.1016/S0960-1481(96)00116-4
+   Yadav AK, 2014, RENEW SUST ENERG REV, V33, P772, DOI 10.1016/j.rser.2013.08.055
+   Yuan JH, 2016, URBAN CLIM, V17, P1, DOI 10.1016/j.uclim.2016.03.001
+NR 78
+TC 195
+Z9 215
+U1 7
+U2 136
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0038-092X
+EI 1471-1257
+J9 SOL ENERGY
+JI Sol. Energy
+PD JAN 1
+PY 2017
+VL 141
+IS 
+BP 278
+EP 296
+DI 10.1016/j.solener.2016.11.045
+PG 19
+WC Energy & Fuels
+SC Energy & Fuels
+GA EJ0IV
+UT WOS:000392892700027
+DA 2025-11-05
+ER
+

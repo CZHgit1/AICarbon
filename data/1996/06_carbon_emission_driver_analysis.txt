@@ -1,0 +1,71 @@
+PT J
+AU Noever, DA
+   Brittain, A
+   Matsos, HC
+   Baskaran, S
+   Obenhuber, D
+AF Noever, DA
+   Brittain, A
+   Matsos, HC
+   Baskaran, S
+   Obenhuber, D
+TI The effects of variable biome distribution on global climate
+SO BIOSYSTEMS
+LA English
+DT Article
+DE variable biome; genetic algorithm; albedo and radiation effects; greenhouse effect; temperature balance
+ID terrestrial carbon storage; last glacial maximum; vegetation; sensitivity; model
+AB In projecting climatic adjustments to anthropogenically elevated atmospheric carbon dioxide, most global climate models fur biome distribution to current geographic conditions. Previous biome maps either remain unchanging or shift without taking into account climatic feedbacks such as radiation and temperature. We develop a model that examines the albedo-related effects of biome distribution on global temperature. The model was tested on historical biome changes since 1860 and the results fit both the observed temperature trend and order of magnitude change. The model is then used to generate an optimized future biome distribution that minimizes projected greenhouse effects on global temperature. Because of the complexity of this combinatorial search, an artificial intelligence method, the genetic algorithm, was employed. The method is to adjust biome areas subject to a constant global temperature and total surface area constraint. For regulating global temperature, oceans are found to dominate continental biomes. Algal beds are significant radiative levers as are other carbon intensive biomes including estuaries and tropical deciduous forests. To hold global temperature constant over the next 70 years this simulation requires that deserts decrease and forested areas increase. The effect of biome change on global temperature is revealed as a significant forecasting factor.
+RP Noever, DA (corresponding author), NASA,GEORGE C MARSHALL SPACE FLIGHT CTR,HUNTSVILLE,AL 35812, USA.
+CR ADAMS JM, 1990, NATURE, V348, P711, DOI 10.1038/348711a0
+   Unknown -, 1990, CLIMATE CHANGE, V0, P0
+   BAZZAZ FA, 1990, ANNU REV ECOL SYST, V21, P167, DOI 10.1146/annurev.es.21.110190.001123
+   BUDYKO MI, 1969, TELLUS, V21, P611, DOI 10.3402/tellusa.v21i5.10109
+   CHISHOLM SW, 1992, OCEANUS, V37, P36
+   EMANUEL WR, 1985, CLIMATIC CHANGE, V7, P29, DOI 10.1007/BF00139439
+   FORREST S, 1993, SCIENCE, V261, P872, DOI 10.1126/science.8346439
+   FRANCHITO SH, 1992, CLIMATIC CHANGE, V22, P1, DOI 10.1007/BF00143341
+   Goldberg D, 1989, GENETIC ALGORITHMS O, V0, P0
+   HENDERSON-SELLERS A, 1993, CLIMATIC CHANGE, V23, P337, DOI 10.1007/BF01091622
+   HOLLAND J, 1975, ADAPTATION NATURAL A, V0, P0
+   HOUGHTON RA, 1983, ECOL MONOGR, V53, P235, DOI 10.2307/1942531
+   HUMMEL JA, 1979, J APPL METEOROL, V36, P239
+   MATHEWS E, 1983, J CLIM APPL METEOROL, V22, P474
+   MONSERUD RA, 1993, CLIMATIC CHANGE, V25, P59, DOI 10.1007/BF01094084
+   MONSERUD RA, 1992, ECOL MODEL, V62, P275, DOI 10.1016/0304-3800(92)90003-W
+   *NAT AC SCI, 1992, COMM SCI ENG PUBL PO, V0, P0
+   *NAT RES COUNC, 1991, CHANG CLIM, V0, P0
+   PRENTICE KC, 1990, NATURE, V346, P48, DOI 10.1038/346048a0
+   SEIFRITZ W, 1989, NATURE, V340, P603, DOI 10.1038/340603a0
+   SMITH TM, 1992, CLIMATIC CHANGE, V21, P367, DOI 10.1007/BF00141377
+   VANCAMPO E, 1993, GLOBAL PLANET CHANGE, V8, P189, DOI 10.1016/0921-8181(93)90008-C
+   Walter H, 1979, VEGETATION EARTH ECO, V0, P276
+   WATSON AJ, 1983, TELLUS B, V35, P284, DOI 10.1111/j.1600-0889.1983.tb00031.x
+NR 25
+TC 2
+Z9 2
+U1 0
+U2 24
+PU ELSEVIER SCI IRELAND LTD
+PI CLARE
+PA CUSTOMER RELATIONS MANAGER, BAY 15, SHANNON INDUSTRIAL ESTATE CO, CLARE, IRELAND
+SN 0303-2647
+EI 
+J9 BIOSYSTEMS
+JI Biosystems
+PD JUN 15
+PY 1996
+VL 39
+IS 2
+BP 135
+EP 141
+DI 10.1016/0303-2647(96)01611-5
+PG 7
+WC Biology; Mathematical & Computational Biology
+SC Life Sciences & Biomedicine - Other Topics; Mathematical & Computational Biology
+GA VD938
+UT WOS:A1996VD93800006
+PM 8866050
+DA 2025-11-03
+ER
+

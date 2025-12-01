@@ -1,0 +1,89 @@
+PT J
+AU Elberling, B
+AF Elberling, B
+TI Seasonal trends of Soil CO2 dynamics in a soil subject to freezing
+SO JOURNAL OF HYDROLOGY
+LA English
+DT Article
+DE soil CO2 efflux; gas diffusion; soil respiration; soil CO2; dynamics; high arctic
+ID environmental controls; organic-matter; winter fluxes; gas-diffusion; carbon; respiration; dependence; efflux; tundra; temperature
+AB Seasonal trends and controls of soil CO2 concentrations are important for understanding soil carbon cycling, soil acidification and CO2 emissions to the atmosphere. This is particularly the case for cold region soils, since these hold extensive soil carbon reserves and are often subject to fluctuating environmental conditions. This paper evaluates and simulates seasonal trends and controls of subsurface CO2 dynamics at a tundra-heath site in NE-Greenland. The study consisted of field measurements of soil CO2 efflux. temperature, water content, pore gas composition in soil profiles as well as temperature- and moisture-con trolled laboratory experiments. Diurnal and seasonal variations in observed CO2 effluxes correlated fairly well with near-surface temperatures (r(2) > 0.8) except during periods where soil CO2 efflux was dominated by CO2 being released in burst due to rapid near-surface thawing or major precipitation events. Lack of correlation in these situations is considered a result of non-steady state conditions. Laboratory experiments on soil samples collected from four horizons revealed that the effect of temperature and water content on soil microbial respiration can be modelled by simple fit equations which explained 95% of the variation in observed soil CO2 effluxes during the 2001 growing season. Using observations of the water content and subsurface CO2 concentration with depth and time it was possible to predict the depth-dependent CO2 production using a steady state diffusion model (PROFILE). The resulting simulated CO2 production profile and soil CO2 effluxes agreed with observations and revealed the importance of CO2 diffusion for understanding subsurface soil CO2 dynamics. In addition, seasonal rates of soil CO2 production were predicted using the verified fit equations and observed soil temperatures and water contents. This final model leads to a discussion on shifts in factors controlling of subsurface CO2 dynamics over the year as well as the importance of such shifts in relation to future field and modelling studies of soil respiration dynamics in soils subject to freezing. (C) 2003 Elsevier Science B.V. All fights reserved.
+C1 Univ Copenhagen, Inst Geog, DK-1350 Copenhagen K, Denmark.
+C3 University of Copenhagen
+RP Elberling, B (corresponding author), Univ Copenhagen, Inst Geog, Oster Voldgade 10, DK-1350 Copenhagen K, Denmark.
+EM be@geogr.ku.dk
+CR ANDERSON JPE, 1978, SOIL BIOL BIOCHEM, V10, P215, DOI 10.1016/0038-0717(78)90099-8
+   Berg P, 1998, LIMNOL OCEANOGR, V43, P1500, DOI 10.4319/lo.1998.43.7.1500
+   Brooks PD, 1997, OECOLOGIA, V110, P403, DOI 10.1007/s004420050175
+   Buchmann N, 2000, SOIL BIOL BIOCHEM, V32, P1625, DOI 10.1016/S0038-0717(00)00077-8
+   Burkins MB, 2001, GLOB CHANGE BIOL, V7, P113, DOI 10.1046/j.1365-2486.2001.00393.x
+   BURTON DL, 1994, SOIL SCI SOC AM J, V58, P115, DOI 10.2136/sssaj1994.03615995005800010016x
+   BUYANOVSKY GA, 1986, SOIL SCI SOC AM J, V50, P338, DOI 10.2136/sssaj1986.03615995005000020017x
+   CERLING TE, 1984, EARTH PLANET SC LETT, V71, P229, DOI 10.1016/0012-821X(84)90089-X
+   Christensen TR, 1998, J GEOPHYS RES-ATMOS, V103, P29015, DOI 10.1029/98JD00084
+   Christiansen HH, 2002, J QUATERNARY SCI, V17, P145, DOI 10.1002/jqs.665
+   COLLIN M, 1988, SOIL SCI SOC AM J, V52, P1559, DOI 10.2136/sssaj1988.03615995005200060007x
+   COYNE PI, 1971, NATURE, V234, P407, DOI 10.1038/234407a0
+   Elberling B, 2000, CAN J SOIL SCI, V80, P283, DOI 10.4141/S99-061
+   Elberling B, 2003, SOIL BIOL BIOCHEM, V35, P263, DOI 10.1016/S0038-0717(02)00258-4
+   Elberling B, 2001, GEOCHIM COSMOCHIM AC, V65, P1897, DOI 10.1016/S0016-7037(01)00574-9
+   Fahnestock JT, 1998, J GEOPHYS RES-ATMOS, V103, P29023, DOI 10.1029/98JD00805
+   Fang C, 2001, SOIL BIOL BIOCHEM, V33, P155, DOI 10.1016/S0038-0717(00)00125-5
+   Gaskin GJ, 1996, J AGR ENG RES, V63, P153, DOI 10.1006/jaer.1996.0017
+   Goulden ML, 1998, SCIENCE, V279, P214, DOI 10.1126/science.279.5348.214
+   Gower ST, 1997, J GEOPHYS RES-ATMOS, V102, P29029, DOI 10.1029/97JD01440
+   Healy RW, 1996, SOIL SCI SOC AM J, V60, P740, DOI 10.2136/sssaj1996.03615995006000030009x
+   Hobbie SE, 2000, GLOBAL CHANGE BIOL, V6, P196, DOI 10.1046/j.1365-2486.2000.06021.x
+   HOWARD DM, 1993, SOIL BIOL BIOCHEM, V25, P1537, DOI 10.1016/0038-0717(93)90008-Y
+   ISAKSEN MF, 1994, FEMS MICROBIOL ECOL, V14, P1
+   Jin Y, 1996, SOIL SCI SOC AM J, V60, P66, DOI 10.2136/sssaj1996.03615995006000010012x
+   Jong EDe, 1972, SOIL SCIENCE, V113, P328, DOI 10.1097/00010694-197205000-00006
+   KIRSCHBAUM MUF, 1995, SOIL BIOL BIOCHEM, V27, P753, DOI 10.1016/0038-0717(94)00242-S
+   Leirós MC, 1999, SOIL BIOL BIOCHEM, V31, P327, DOI 10.1016/S0038-0717(98)00129-1
+   Lomander A, 1998, SOIL BIOL BIOCHEM, V30, P2017, DOI 10.1016/S0038-0717(98)00076-5
+   Lundegardh H, 1927, SOIL SCI, V23, P417, DOI 10.1097/00010694-192706000-00001
+   Mast MA, 1998, GLOBAL BIOGEOCHEM CY, V12, P607, DOI 10.1029/98GB02313
+   Maxwell B, 1997, GLOBAL CHANGE AND ARCTIC TERRESTRIAL SYSTEMS, V0, P21
+   MILLINGTON RJ, 1959, SCIENCE, V130, P100, DOI 10.1126/science.130.3367.100-a
+   NEAL C, 1988, HYDROLOG SCI J, V33, P103, DOI 10.1080/02626668809491225
+   Nordstroem C, 2001, THEOR APPL CLIMATOL, V70, P149, DOI 10.1007/s007040170012
+   Oberbauer SF, 1996, ARCTIC ALPINE RES, V28, P328, DOI 10.2307/1552112
+   Oechel WC, 1998, J GEOPHYS RES-ATMOS, V103, P28993, DOI 10.1029/1998JD200015
+   OECHEL WC, 1993, NATURE, V361, P520, DOI 10.1038/361520a0
+   Ouyang Y, 2000, J HYDROL, V234, P54, DOI 10.1016/S0022-1694(00)00240-7
+   Panikov NS, 2000, GLOBAL BIOGEOCHEM CY, V14, P1071, DOI 10.1029/1999GB900097
+   PINOL J, 1995, BIOGEOCHEMISTRY, V30, P191, DOI 10.1007/BF02186413
+   POST WM, 1982, NATURE, V298, P156, DOI 10.1038/298156a0
+   REARDON EJ, 1979, J HYDROL, V43, P355, DOI 10.1016/0022-1694(79)90181-1
+   SKOGLAND T, 1988, SOIL BIOL BIOCHEM, V20, P851, DOI 10.1016/0038-0717(88)90092-2
+   Welles JM, 2001, CHEM GEOL, V177, P3, DOI 10.1016/S0009-2541(00)00388-0
+   Wickland KP, 2001, GLOBAL BIOGEOCHEM CY, V15, P321, DOI 10.1029/2000GB001325
+   Zimov SA, 1999, SCIENCE, V284, P1973, DOI 10.1126/science.284.5422.1973
+   ZIMOV SA, 1993, J GEOPHYS RES-ATMOS, V98, P5017, DOI 10.1029/92JD02473
+NR 48
+TC 68
+Z9 94
+U1 2
+U2 86
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0022-1694
+EI 1879-2707
+J9 J HYDROL
+JI J. Hydrol.
+PD MAY 15
+PY 2003
+VL 276
+IS 1-4
+BP 159
+EP 175
+DI 10.1016/S0022-1694(03)00067-2
+PG 17
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA 689BF
+UT WOS:000183471200011
+DA 2025-11-03
+ER
+

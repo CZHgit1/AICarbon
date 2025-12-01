@@ -1,0 +1,624 @@
+PT J
+AU Andrée, BPJ
+   Chamorro, A
+   Spencer, P
+   Koomen, E
+   Dogo, H
+AF Andree, Bo Pieter Johannes
+   Chamorro, Andres
+   Spencer, Phoebe
+   Koomen, Eric
+   Dogo, Harun
+TI Revisiting the relation between economic growth and the environment; a global assessment of deforestation, pollution and carbon emission
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+LA English
+DT Article
+DE Economic development; Carbon emission; Air pollution; Deforestation; Environmental Kuznets curves; Machine learning
+ID kuznets curve hypothesis; multiple imputation; level; panel; bias
+AB The UN's Sustainable Development Goals for 2030 aim on one hand at inclusive growth and eradicating poverty, and on the other at preserving environments. The relation between development and the environment has been studied extensively since the 1990s, documenting inverted U-shaped relations between per capita income and indicators of environmental degradation. This paper revisits the issue with machine learning techniques and novel disaggregate data to model these relationships heterogeneously across economic indicators. Results suggest that development gradually improves the efficiency of consuming the earth's nonrenewable resources, but increased efficiency alone is not sufficient to offset growth in scale. Development shifts reliance on one nonrenewable source to another, and on average we find successive inverted U-shapes in deforestation, air pollution and carbon intensities, followed by a J-shape in per capita carbon output. Local economic circumstances further determine the shape, amplitude, and location of tipping points in environmental output. The general implications of the estimated dynamics are explored by extrapolating environmental output to 2030 under simplistic scenario's. The results are a reminder that immediate, and sustained global efforts are required to preserve our environment.
+C1 [Andree, Bo Pieter Johannes; Chamorro, Andres; Spencer, Phoebe; Dogo, Harun] World Bank Grp, Washington, DC USA.
+   [Andree, Bo Pieter Johannes; Koomen, Eric] Vrije Univ Amsterdam, Dept Spatial Econ SPINlab, Amsterdam, Netherlands.
+   [Andree, Bo Pieter Johannes] Tinbergen Inst, Amsterdam, Netherlands.
+C3 The World Bank; Vrije Universiteit Amsterdam; Tinbergen Institute
+RP Koomen, E (corresponding author), Vrije Univ Amsterdam, Dept Spatial Econ SPINlab, Amsterdam, Netherlands.
+EM e.koomen@vu.nl
+CR Alig R, 2010, ADVANCES IN THREAT ASSESSMENT AND THEIR APPLICATION TO FOREST AND RANGELAND MANAGEMENT/ EDITED BY, V0, P0
+   Alig RJ, 2004, J FOREST, V102, P19
+   Andree BPJ, 1900, VWPS8757, V0, P1
+   Andree BPJ, 2018, WORLD BANK POLICY RESEARCH WORKING PAPERS, V0, P0
+   Andrée BPJ, 2017, RENEW SUST ENERG REV, V67, P848, DOI 10.1016/j.rser.2016.09.048
+   Andree BPJ, 2019, WORLD BANK POLICY RE, V0, P0
+   Unknown -, 2004, NONPARAMETRIC AND SEMIPARAMETRIC MODELS, V0, P0
+   Unknown -, 2016, ARSENIC, V0, P1
+   Unknown -, 2016, WORLD ENERGY OUTLOOK - SPEC. REP, V0, P266
+   Apergis N, 2016, ENERG ECON, V54, P263, DOI 10.1016/j.eneco.2015.12.007
+   Apergis N, 2015, ECOL INDIC, V52, P16, DOI 10.1016/j.ecolind.2014.11.026
+   Audigier V, 2018, STAT SCI, V33, P160, DOI 10.1214/18-STS646
+   Azur MJ, 2011, INT J METH PSYCH RES, V20, P40, DOI 10.1002/mpr.329
+   Bo Sun, 2011, ENERGY PROCEDIA, V5, P1322, DOI 10.1016/j.egypro.2011.03.229
+   Brock WA, 2010, J ECON GROWTH, V15, P127, DOI 10.1007/s10887-010-9051-0
+   Brown LD, 2007, ANN STAT, V35, P2219, DOI 10.1214/009053607000000145
+   Churchill SA, 2018, ENERG ECON, V75, P389, DOI 10.1016/j.eneco.2018.09.004
+   COSTANZA R, 1993, BIOSCIENCE, V43, P545, DOI 10.2307/1311949
+   Coyle Diane, 2014, GDP: A BRIEF BUT AFFECTIONATE HISTORY, V0, P0
+   Cuaresma JC, 2017, SCI REP-UK, V7, P0, DOI 10.1038/srep40678
+   Cunha VS, 2016, IEEE INT FUZZY SYST, V0, PP148, DOI 10.1109/FUZZ-IEEE.2016.7737681
+   Dasgupta S, 2002, J ECON PERSPECT, V16, P147, DOI 10.1257/0895330027157
+   Davies JB, 2011, ECON J, V121, P223, DOI 10.1111/j.1468-0297.2010.02391.x
+   Dinda S, 2004, ECOL ECON, V49, P431, DOI 10.1016/j.ecolecon.2004.02.011
+   Gasser T, 2015, NAT COMMUN, V6, P0, DOI 10.1038/ncomms8958
+   Graham JW, 2012, MISSING DATA, V0, P0
+   Grieg-Gran M, 2005, WORLD DEV, V33, P1511, DOI 10.1016/j.worlddev.2005.05.002
+   Grossman GM, 1991, NBER WORKING PAPERS, V0, P0
+   Hainmueller J, 2014, POLIT ANAL, V22, P143, DOI 10.1093/pan/mpt019
+   Hanson MA, 2012, SCIENCE, V335, P851, DOI 10.1126/science.1244693
+   Horowitz JL, 2011, ECONOMETRICA, V79, P347, DOI 10.3982/ECTA8662
+   Hyde WF, 1996, WORLD BANK RES OBSER, V11, P223, DOI 10.1093/wbro/11.2.223
+   Keene A, 2015, INT REGIONAL SCI REV, V38, P358, DOI 10.1177/0160017613496633
+   Kowarik A, 2016, J STAT SOFTW, V74, P0, DOI 10.18637/jss.v074.i07
+   Kuhn M, 2013, APPL PREDICTIVE MODE, V810, P0, DOI 10.1007/978-1-4614-6849-3
+   Kuhn M, 2008, J STAT SOFTW, V28, P1, DOI 10.18637/jss.v028.i05
+   Landell-Mills N, 2002, DEVELOPMENT, V100, P249
+   Lelieveld J, 2015, NATURE, V525, P367, DOI 10.1038/nature15371
+   Levinson A, 2001, GEORGETOWN U WORKING, V0, P0
+   List JA, 1999, ECOL ECON, V31, P409, DOI 10.1016/S0921-8009(99)00064-6
+   Little RoderickJA, 2012, STATISTICAL ANALYSIS WITH MISSING DATA, V2nd, P0
+   Lorenz HW, 1993, NONLINEAR DYNAMICAL ECONOMICS AND CHAOTIC MOTION, V0, P26
+   Managi S, 2008, ECOL ECON, V65, P432, DOI 10.1016/j.ecolecon.2007.07.011
+   Murray JS, 2018, STAT SCI, V33, P142, DOI 10.1214/18-STS644
+   OECD, 2016, EC CONS OUTD AIR POL, V0, P0, DOI DOI 10.1787/9789264257474-en
+   Özokcu S, 2017, RENEW SUST ENERG REV, V72, P639, DOI 10.1016/j.rser.2017.01.059
+   Panayotou T, 1993, EMPIRICAL TESTS POLI, V0, P0
+   Perman R, 2003, AUST J AGR RESOUR EC, V47, P325, DOI 10.1111/1467-8489.00216
+   Peters GP, 2013, NAT CLIM CHANGE, V3, P4, DOI 10.1038/nclimate1783
+   Peters GP, 2012, NAT CLIM CHANGE, V2, P2, DOI 10.1038/nclimate1332
+   Pozzer A, 2012, ATMOS CHEM PHYS, V12, P6915, DOI 10.5194/acp-12-6915-2012
+   Puu T, 1991, NONLINEAR ECONOMIC DYNAMICS, V0, P1
+   Rubin DB, 1996, J AM STAT ASSOC, V91, P473, DOI 10.1080/01621459.1996.10476908
+   RUBIN DB, 1976, BIOMETRIKA, V63, P581, DOI 10.2307/2335739
+   Shafik N, 1992, WOLRD BANK POLICY RE, V0, P0
+   Shahbaz M, 2017, ENERG ECON, V65, P183, DOI 10.1016/j.eneco.2017.05.007
+   Sleeter BM, 2012, BASELINE PROJECTED F, V0, P0
+   Statistical Office of the European Communities and Organisation for Economic Co-operation and Development, 2012, EUR OECD METH MAN PU, V0, P0
+   Stern D, 1998, ENVIRONMENT AND DEVELOPMENT ECONOMICS, V3, P173, DOI 10.1017/S1355770X98000102
+   Stern DI, 2004, WORLD DEV, V32, P1419, DOI 10.1016/j.worlddev.2004.03.004
+   Stern DI, 1996, WORLD DEV, V24, P1151, DOI 10.1016/0305-750X(96)00032-0
+   Stern DI, 2001, J ENVIRON ECON MANAG, V41, P162, DOI 10.1006/jeem.2000.1132
+   Tallis HM, 2018, FRONT ECOL ENVIRON, V16, P563, DOI 10.1002/fee.1965
+   The World Bank, 2011, PURCH POW PAR REAL S, V0, P0
+   van Donkelaar A, 2016, ENVIRON SCI TECHNOL, V50, P3762, DOI 10.1021/acs.est.5b05833
+   Vollebergh HRJ, 2005, ENV KUZNETS CURVES C, V0, P39
+   Wagner M, 2015, J APPL ECONOMET, V30, P948, DOI 10.1002/jae.2421
+   Westreich D, 2012, EPIDEMIOLOGY, V23, P159, DOI 10.1097/EDE.0b013e31823b6296
+   White IR, 2011, STAT MED, V30, P377, DOI 10.1002/sim.4067
+   World Bank, 2013, MEASURING THE REAL SIZE OF THE WORLD ECONOMY: THE FRAMEWORK, V0, P0
+NR 71
+TC 94
+Z9 117
+U1 1
+U2 59
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1364-0321
+EI 1879-0690
+J9 RENEW SUST ENERG REV
+JI Renew. Sust. Energ. Rev.
+PD OCT 15
+PY 2019
+VL 114
+IS 
+BP 
+EP 
+DI 10.1016/j.rser.2019.06.028
+PG 16
+WC Green & Sustainable Science & Technology; Energy & Fuels
+SC Science & Technology - Other Topics; Energy & Fuels
+GA JB8ZX
+UT WOS:000488871200041
+DA 2025-11-06
+ER
+
+PT J
+AU Jia, JM
+AF Jia, Jianmin
+TI Analysis of Alternative Fuel Vehicle (AFV) Adoption Utilizing Different Machine Learning Methods: A Case Study of 2017 NHTS
+SO IEEE ACCESS
+LA English
+DT Article
+DE AFV adoption; socio-economic factors; 2017 NHTS; imbalanced dataset; machine learning
+ID electric vehicles; landslide susceptibility; choice analysis; intention; hybrid; incentives; market; preferences; purchase; driven
+AB Alternative fuel vehicles (AFVs) are considered as the one of policies towards the sustainable transportation with low fossil fuel consumption and greenhouse gas emission. However, the demand for AFV is still not clear, due to the complex interaction between influencing factors. This paper aimed to investigate the AFV adoption behavior in order to estimate the AFV penetration in specific regions. 2017 National Household Travel Survey (NHTS), providing the detailed information of AFV users, was utilized to conduct the factor analysis and establish the prediction model. Three groups of variables, including vehicle-related, household-related and individual-related variables, were considered. Additionally, the AFV users are only 4.2% of all the respondents, which is a typical imbalanced distribution. Thus, this paper also introduced the methods to deal with the imbalanced dataset for AFV users and conventional vehicle (CV) users, which was rarely investigated in existing studies. To construct the prediction model, five machine learning methods, Logistic Regression (LR), Naive Bayes (NB), Random Forest (RF), Support Vector Machine (SVM) and Decision Tree (DT), were employed and compared. The performance analysis indicates that the RF model has the best prediction capability among the models. For validation, the RF prediction model was used to develop a AFV penetration map for U.S. by state. This study is believed to have a wide application in government policy making and vehicle manufacturing.
+C1 [Jia, Jianmin] Shandong Jianzhu Univ, Sch Transportat Engn, Jinan 250101, Shandong, Peoples R China.
+   [Jia, Jianmin] Florida Int Univ, Dept Civil & Environm Engn, Miami, FL 33174 USA.
+C3 Shandong Jianzhu University; State University System of Florida; Florida International University
+RP Jia, JM (corresponding author), Shandong Jianzhu Univ, Sch Transportat Engn, Jinan 250101, Shandong, Peoples R China.; Jia, JM (corresponding author), Florida Int Univ, Dept Civil & Environm Engn, Miami, FL 33174 USA.
+EM jjia004@fiu.edu
+FU Doctoral Funding Program from the Shandong Jianzhu University [X18052Z]
+CR AJZEN I, 1991, ORGAN BEHAV HUM DEC, V50, P179, DOI 10.1016/0749-5978(91)90020-T
+   Al-Alawi BM, 2013, RENEW SUST ENERG REV, V21, P190, DOI 10.1016/j.rser.2012.12.048
+   Unknown -, 2018, THESIS, V0, P0
+   Unknown -, 2009, DISCR CHOIC METH, V0, P0
+   Pham BT, 2016, ENVIRON MODELL SOFTW, V84, P240, DOI 10.1016/j.envsoft.2016.07.005
+   Bjerkan KY, 2016, TRANSPORT RES D-TR E, V43, P169, DOI 10.1016/j.trd.2015.12.002
+   Broadbent GH, 2018, GEOGR COMPASS, V12, P0, DOI 10.1111/gec3.12358
+   Brown M, 2013, JASSS-J ARTIF SOC S, V16, P0, DOI 10.18564/jasss.2127
+   Carley S, 2013, TRANSPORT RES D-TR E, V18, P39, DOI 10.1016/j.trd.2012.09.007
+   Cecere G, 2018, ENERG POLICY, V118, P19, DOI 10.1016/j.enpol.2018.03.034
+   Chawla NV, 2002, J ARTIF INTELL RES, V16, P321, DOI 10.1613/jair.953
+   Coffman M, 2017, TRANSPORT REV, V37, P79, DOI 10.1080/01441647.2016.1217282
+   Bui DT, 2012, MATH PROBL ENG, V2012, P0, DOI 10.1155/2012/974638
+   Dou J, 2019, SCI TOTAL ENVIRON, V662, P332, DOI 10.1016/j.scitotenv.2019.01.221
+   Dumortier J, 2015, TRANSPORT RES A-POL, V72, P71, DOI 10.1016/j.tra.2014.12.005
+   Egbue O, 2012, ENERG POLICY, V48, P717, DOI 10.1016/j.enpol.2012.06.009
+   Gallagher KS, 2011, J ENVIRON ECON MANAG, V61, P1, DOI 10.1016/j.jeem.2010.05.004
+   Han L, 2017, TRANSPORT RES A-POL, V103, P185, DOI 10.1016/j.tra.2017.05.033
+   Javid RJ, 2017, TRANSPORT POLICY, V54, P30, DOI 10.1016/j.tranpol.2016.11.003
+   Jensen AF, 2017, TRANSPORT SCI, V51, P427, DOI 10.1287/trsc.2015.0659
+   Kapoor A, 2014, J SOC SCI, V10, P114, DOI 10.3844/JSSP.2014.114.122
+   Lai IKW, 2015, SUSTAINABILITY-BASEL, V7, P12564, DOI 10.3390/su70912564
+   Lavasani M, 2016, TRANSPORT RES REC, V0, PP67, DOI 10.3141/2597-09
+   Li WB, 2017, RENEW SUST ENERG REV, V78, P318, DOI 10.1016/j.rser.2017.04.076
+   Massiani J, 2015, RES TRANSP ECON, V50, P17, DOI 10.1016/j.retrec.2015.06.003
+   McCoy D, 2014, ENERGY RES SOC SCI, V3, P89, DOI 10.1016/j.erss.2014.07.008
+   Moons I, 2012, J MARKET MANAG-UK, V28, P195, DOI 10.1080/0267257X.2012.659007
+   Musti S, 2011, TRANSPORT RES A-POL, V45, P707, DOI 10.1016/j.tra.2011.04.011
+   Nefeslioglu HA, 2010, MATH PROBL ENG, V2010, P0, DOI 10.1155/2010/901095
+   Noori M, 2016, ENERGY, V96, P215, DOI 10.1016/j.energy.2015.12.018
+   Noppers EH, 2014, GLOBAL ENVIRON CHANG, V25, P52, DOI 10.1016/j.gloenvcha.2014.01.012
+   Rezvani Z, 2015, TRANSPORT RES D-TR E, V34, P122, DOI 10.1016/j.trd.2014.10.010
+   Sang YN, 2015, J CLEAN PROD, V92, P75, DOI 10.1016/j.jclepro.2014.12.045
+   Sierzchula W, 2014, ENERG POLICY, V68, P183, DOI 10.1016/j.enpol.2014.01.043
+   Tal G, 2013, P 2013 WORLD EL VEH 2013 WORLD EL VEH S, V0, PP1, DOI 10.1109/EVS.2013.6914965
+   Tamor MA, 2013, TRANSPORT RES C-EMER, V26, P125, DOI 10.1016/j.trc.2012.07.007
+   Vapnik Vladimir, 2013, THE NATURE OF STATISTICAL LEARNING THEORY, V0, P0
+   Wang SY, 2016, TRANSPORTATION, V43, P123, DOI 10.1007/s11116-014-9567-9
+   Zheng ZY, 2015, COMPUT INFORM, V34, P1017
+   Ziegler A, 2012, TRANSPORT RES A-POL, V46, P1372, DOI 10.1016/j.tra.2012.05.016
+NR 47
+TC 8
+Z9 11
+U1 0
+U2 21
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2019
+VL 7
+IS 
+BP 112726
+EP 112735
+DI 10.1109/ACCESS.2019.2934780
+PG 10
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA IV5JK
+UT WOS:000484306800005
+DA 2025-11-06
+ER
+
+PT J
+AU Woo, TH
+AF Woo, Tae Ho
+TI Global warming analysis for greenhouse gases impacts comparable to carbon-free nuclear energy using neuro-fuzzy algorithm
+SO INTERNATIONAL JOURNAL OF GLOBAL WARMING
+LA English
+DT Article
+DE global warming; neuro-fuzzy; nuclear energy; artificial intelligence
+ID climate-change
+AB As one of energy characteristics, the importance of climate effects has been increasing due to the side-effect such as the drought, flood, heavy snow and so on. The nonlinear artificial intelligence can be reasonably applied in the analysis of the simulations, because the human-brain mimicking algorithm can show the practicable results. Basically, the quantifications in the study results are based on the randomly generated numbers where the Monte Carlo methods are applied. The Boolean numbers are generated in the variable constructions. Furthermore, there are multiplications in population which are decided by the expert judgments. The causes loops for CO2 and temperature are obtained. In addition, there is the result of variable albedo vs. normalised temperature with dimensionless values. Global collaboration can prepare and control the global warming as the geological scale aspect as well as the collaborated idea utilisation that can develop the carbon minimising technology and green energy development.
+C1 [Woo, Tae Ho] Cyber Univ Korea, Dept Mech & Control Engn, 106 Bukchon Ro, Seoul 03051, South Korea.
+RP Woo, TH (corresponding author), Cyber Univ Korea, Dept Mech & Control Engn, 106 Bukchon Ro, Seoul 03051, South Korea.
+EM thwoo@cuk.edu
+CR Abdullahi J, 2017, PROCEDIA COMPUT SCI, V120, P276, DOI 10.1016/j.procs.2017.11.239
+   CLL, 2018, LAB 5 GLOB SURF, V0, P0
+   Geggel L, 2016, B GATES DISCOVERS 14, V0, P0
+   Jaoua N, 2018, INT J GLOBAL WARM, V15, P212, DOI 10.1504/IJGW.2018.10014130
+   Khoshnevisan B, 2014, J CLEAN PROD, V73, P183, DOI 10.1016/j.jclepro.2013.09.057
+   Loftis RL, 2015, HALF WEATHER DISASTE, V0, P0
+   Lott MC, 2011, ENERGY MIRACLES INNO, V0, P0
+   Maren A, 1990, HDB NEURAL COMPUTING, V0, P0
+   Marr B, 2018, HOW MUCH DATA DO WE CREATE EVERY DAY? THE MIND-BLOWING STATS EVERYONE SHOULD READ, V0, P0
+   MCCULLOCH WS, 1943, BULL. MATHEMATICAL BIOPHYSICS, V5, P115, DOI 10.1007/BF02478259
+   Patt A, 2016, IS REDUCING ENERGY C, V0, P0
+   SDS, 2020, WHAT IS SD SYST DYN, V0, P0
+   Sweeney JA, 2014, FUTURES, V57, P1, DOI 10.1016/j.futures.2013.12.005
+   Tian W, 2016, INT J GLOBAL WARM, V10, P514, DOI 10.1504/IJGW.2016.10000511
+   UCAR, 2018, CALC PLAN EN BAL TEM, V0, P0
+   Ventana Systems Inc, 2015, VENS, V0, P0
+   Woo TH, 2018, INT J GLOBAL WARMING, V0, P0
+   Woo TH, 2018, INT J GLOBAL WARM, V15, P98
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   Zhang ZM, 2012, INT J GLOBAL WARM, V4, P134, DOI 10.1504/IJGW.2012.048458
+NR 20
+TC 3
+Z9 4
+U1 0
+U2 14
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA
+PA WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215 GENEVA, SWITZERLAND
+SN 1758-2083
+EI 1758-2091
+J9 INT J GLOBAL WARM
+JI Int. J. Glob. Warm.
+PD JUN 15
+PY 2019
+VL 17
+IS 2
+BP 219
+EP 233
+DI 10.1504/IJGW.2019.097862
+PG 15
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA HM3AQ
+UT WOS:000459344600005
+DA 2025-11-06
+ER
+
+PT J
+AU Ganzenmüller, R
+   Pradhan, P
+   Kropp, JP
+AF Ganzenmueller, Raphael
+   Pradhan, Prajal
+   Kropp, Juergen P.
+TI Sectoral performance analysis of national greenhouse gas emission inventories by means of neural networks
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Emissions; Mitigation; Human development; Self-organizing map; Machine learning; Climate change
+ID dea window analysis; co2 emissions; eu country; climate; drivers
+AB Annual greenhouse gas emissions have increased more than threefold between 1950 and 2014, posing a major threat to the integrity of the entire earth system and subsequently to humankind. Consequently, roadmaps towards low-carbon pathways are urgently needed. Our study contributes to a more detailed understanding of the dynamics of country based emission patterns and uses them to discuss prospective low-carbon pathways for countries. As availability of databases on sectoral emissions substantially increased, we employ machine learning techniques to classify emission features and pathways. By doing so, 18 representative emission patterns are derived. Overall emissions from seven sectors and for 167 countries covering the time span from 1950 to 2014 have been used in the analyses. The following significant trends can be observed: a) increasing per capita emissions due to growing fossil fuel use in many parts of the world, b) a decline in per capita emissions in some countries, and c) a shift in the emission shares, i.e., a reduction of agricultural and land use contributions in certain regions. Using the emission patterns, their dynamics, and best performing countries as role models, we show the possibility for gaining a decent human development without significantly increasing per capita emissions. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Ganzenmueller, Raphael; Pradhan, Prajal; Kropp, Juergen P.] Leibniz Assoc, Potsdam Inst Climate Impact Res PIK, POB 601203, D-14412 Potsdam, Germany.
+   [Kropp, Juergen P.] Univ Potsdam, Dept Geo & Environm Sci, Potsdam, Germany.
+C3 Potsdam Institut fur Klimafolgenforschung; University of Potsdam
+RP Pradhan, P (corresponding author), Leibniz Assoc, Potsdam Inst Climate Impact Res PIK, POB 601203, D-14412 Potsdam, Germany.
+EM pradhan@pik-potsdam.de
+FU German Federal Ministry for the Environment, Nature Conservation, and Nuclear Safety (BMU) under the German International Climate Protection Initiative (project: Sustainable Amazonian Landscapes) [42206-6157]
+CR Unknown -, 1992, UN FRAMEWORK CONVENT, V0, P0
+   Unknown -, 2015, ADOPTION PARIS AGREE, V0, P0
+   Unknown -, 2015, WORLD POP AG 2015, V0, P0
+   Unknown -, 1990, HUMAN DEVELOPMENT DATA, V0, P0
+   Unknown -, 2017, EMISSIONS GAP REPORT, V0, P0
+   Astudillo CA, 2014, PATTERN ANAL APPL, V17, P223, DOI 10.1007/s10044-014-0367-9
+   BAUER HU, 1992, IEEE T NEURAL NETWOR, V3, P570, DOI 10.1109/72.143371
+   Brizga J, 2013, ENERGY, V59, P743, DOI 10.1016/j.energy.2013.07.045
+   Burck J, 2017, TECHNICAL REPORT, V0, P0
+   Carboni OA, 2015, SOC INDIC RES, V122, P677, DOI 10.1007/s11205-014-0722-7
+   Costantini LM, 2011, PLOS ONE, V6, P0, DOI 10.1371/journal.pone.0014647
+   Gütschow J, 2016, EARTH SYST SCI DATA, V8, P571, DOI 10.5194/essd-8-571-2016
+   Organization WH, 2016, CLEAN AIR JOURNAL, V26, P6, DOI 10.17159/2410-972x/2016/v26n2a4
+   Henriques ST, 2017, ENERG POLICY, V101, P537, DOI 10.1016/j.enpol.2016.11.005
+   Hiç C, 2016, ENVIRON SCI TECHNOL, V50, P4269, DOI 10.1021/acs.est.5b05088
+   Hoes OAC, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0171844
+   Hsieh WW, 2009, MACHINE LEARNING METHODS IN THE ENVIRONMENTAL SCIENCES: NEURAL NETWORKS AND KERNELS, V0, P349
+   IEA Statistics, 2018, STAT GLOB EN DAT YOU, V0, P0
+   Jayasooriya SP, 2017, TECHNICAL REPORT, V0, P0
+   Kainuma M, 2017, J RENEW SUSTAIN ENER, V9, P0, DOI 10.1063/1.4978469
+   Kanevski M, 2009, MACHINE LEARNING FOR SPATIAL ENVIRONMENTAL DATA: THEORY, V0, P0, DOI 10.1201/9781439808085
+   Kohonen T, 2001, SELF-ORGANIZING MAPS, V3rd, P0
+   Kropp J, 1998, APPL GEOGR, V18, P83, DOI 10.1016/S0143-6228(97)00048-9
+   Kropp JP, 2008, SELF-ORGANISING MAPS: APPLICATIONS IN GEOGRAPHIC INFORMATION SCIENCE, V0, P155
+   Lamb WF, 2016, J CLEAN PROD, V131, P523, DOI 10.1016/j.jclepro.2016.04.148
+   Lutz R, 2013, PHYS REV E, V88, P0, DOI 10.1103/PhysRevE.88.012804
+   Masson-Delmotte V, 2018, IPCC SPECIAL REPORT, V1, P1, DOI 10.1017/9781009157940.008
+   Mayaux P, 2013, PHILOS T R SOC B, V368, P0, DOI 10.1098/rstb.2012.0300
+   MINAE, 2015, TECHNICAL REPORT, V0, P0
+   Olivier JGJ, 2017, TECHNICAL REPORT, V0, P0
+   Pearson TRH, 2017, CARBON BAL MANAGE, V12, P0, DOI 10.1186/s13021-017-0072-2
+   Pradhan P, 2017, EARTHS FUTURE, V5, P1169, DOI 10.1002/2017EF000632
+   Pradhan P, 2013, PLOS ONE, V8, P0, DOI 10.1371/journal.pone.0062228
+   Qvist SA, 2015, ENERG POLICY, V84, P1, DOI 10.1016/j.enpol.2015.04.023
+   Reusser D, 2013, ENRGY PROCED, V40, P192, DOI 10.1016/j.egypro.2013.08.023
+   Rockström J, 2017, SCIENCE, V355, P1269, DOI 10.1126/science.aah3443
+   Roelfsema M, 2018, GLOBAL ENVIRON CHANG, V48, P67, DOI 10.1016/j.gloenvcha.2017.11.001
+   Rogelj J, 2016, NATURE, V534, P631, DOI 10.1038/nature18307
+   Schellnhuber HJ, 2016, NAT CLIM CHANGE, V6, P649, DOI 10.1038/nclimate3013
+   Skupin A, 2008, SELF ORG MAPS APPL G, V0, PP1, DOI 10.1002/9780470021699.ch1
+   Song XP, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0126754
+   Timilsina GR, 2016, CARBON MANAG, V7, P125, DOI 10.1080/17583004.2016.1181837
+   To WM, 2017, ENERGIES, V10, P0, DOI 10.3390/en10111883
+   UNDP, 2016, TECHNICAL REPORT, V0, P0
+   Vanegas M, 2015, TOURISM ECON, V21, P159, DOI 10.5367/te.2014.0442
+   Vlontzos G, 2017, RENEW SUST ENERG REV, V76, P155, DOI 10.1016/j.rser.2017.03.054
+   Vlontzos G, 2017, ADV BUS STRATEGY COM, V0, PP1, DOI 10.4018/978-1-5225-2107-5.ch001
+   Zarin DJ, 2016, GLOBAL CHANGE BIOL, V22, P1336, DOI 10.1111/gcb.13153
+NR 48
+TC 16
+Z9 18
+U1 0
+U2 47
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD MAR 15
+PY 2019
+VL 656
+IS 
+BP 80
+EP 89
+DI 10.1016/j.scitotenv.2018.11.311
+PG 10
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA HG5SP
+UT WOS:000455039600009
+PM 30504031
+DA 2025-11-06
+ER
+
+PT J
+AU Schneising, O
+   Buchwitz, M
+   Reuter, M
+   Bovensmann, H
+   Burrows, JP
+   Borsdorff, T
+   Deutscher, NM
+   Feist, DG
+   Griffith, DWT
+   Hase, F
+   Hermans, C
+   Iraci, LT
+   Kivi, R
+   Landgraf, J
+   Morino, I
+   Notholt, J
+   Petri, C
+   Pollard, DF
+   Roche, S
+   Shiomi, K
+   Strong, K
+   Sussmann, R
+   Velazco, VA
+   Warneke, T
+   Wunch, D
+AF Schneising, Oliver
+   Buchwitz, Michael
+   Reuter, Maximilian
+   Bovensmann, Heinrich
+   Burrows, John P.
+   Borsdorff, Tobias
+   Deutscher, Nicholas M.
+   Feist, Dietrich G.
+   Griffith, David W. T.
+   Hase, Frank
+   Hermans, Christian
+   Iraci, Laura T.
+   Kivi, Rigel
+   Landgraf, Jochen
+   Morino, Isamu
+   Notholt, Justus
+   Petri, Christof
+   Pollard, David F.
+   Roche, Sebastien
+   Shiomi, Kei
+   Strong, Kimberly
+   Sussmann, Ralf
+   Velazco, Voltaire A.
+   Warneke, Thorsten
+   Wunch, Debra
+TI A scientific algorithm to simultaneously retrieve carbon monoxide and methane from TROPOMI onboard Sentinel-5 Precursor
+SO ATMOSPHERIC MEASUREMENT TECHNIQUES
+LA English
+DT Article
+ID fourier-transform spectrometer; natural-gas; greenhouse gases; atmospheric composition; site description; climate-change; city scales; column co2; wfm-doas; sciamachy
+AB Carbon monoxide (CO) is an important atmospheric constituent affecting air quality, and methane (CH4) is the second most important greenhouse gas contributing to human-induced climate change. Detailed and continuous observations of these gases are necessary to better assess their impact on climate and atmospheric pollution. While surface and airborne measurements are able to accurately determine atmospheric abundances on local scales, global coverage can only be achieved using satellite instruments. The TROPOspheric Monitoring Instrument (TROPOMI) onboard the Sentinel-5 Precursor satellite, which was successfully launched in October 2017, is a spaceborne nadir-viewing imaging spectrometer measuring solar radiation reflected by the Earth in a push-broom configuration. It has a wide swath on the terrestrial surface and covers wavelength bands between the ultraviolet (UV) and the shortwave infrared (SWIR), combining a high spatial resolution with daily global coverage. These characteristics enable the determination of both gases with an unprecedented level of detail on a global scale, introducing new areas of application. Abundances of the atmospheric column-averaged dry air mole fractions XCO and XCH4 are simultaneously retrieved from TROPOMI's radiance measurements in the 2.3 mu m spectral range of the SWIR part of the solar spectrum using the scientific retrieval algorithm Weighting Function Modified Differential Optical Absorption Spectroscopy (WFM-DOAS). This algorithm is intended to be used with the operational algorithms for mutual verification and to provide new geophysical insights. We introduce the algorithm in detail, including expected error characteristics based on synthetic data, a machine-learning-based quality filter, and a shallow learning calibration procedure applied in the post-processing of the XCH4 data. The quality of the results based on real TROPOMI data is assessed by validation with ground-based Fourier transform spectrometer (FTS) measurements providing realistic error estimates of the satellite data: the XCO data set is characterised by a random error of 5.1 ppb (5.8 %) and a systematic error of 1.9 ppb (2.1 %); the XCH4 data set exhibits a random error of 14.0 ppb (0.8 %) and a systematic error of 4.3 ppb (0.2 %). The natural XCO and XCH4 variations are well-captured by the satellite retrievals, which is demonstrated by a high correlation with the validation data (R = 0.97 for XCO and R = 0.91 for XCH4 based on daily averages). We also present selected results from the mission start until the end of 2018, including a first comparison to the operational products and examples of the detection of emission sources in a single satellite overpass, such as CO emissions from the steel industry and CH4 emissions from the energy sector, which potentially allows for the advance of emission monitoring and air quality assessments to an entirely new level.
+C1 [Schneising, Oliver; Buchwitz, Michael; Reuter, Maximilian; Bovensmann, Heinrich; Burrows, John P.; Notholt, Justus; Petri, Christof; Warneke, Thorsten] Univ Bremen FB1, Inst Environm Phys IUP, Bremen, Germany.
+   [Borsdorff, Tobias; Landgraf, Jochen] SRON Netherlands Inst Space Res, Earth Sci Grp ESG, Utrecht, Netherlands.
+   [Deutscher, Nicholas M.; Griffith, David W. T.; Velazco, Voltaire A.] Univ Wollongong, Sch Earth Atmosphere & Life Sci, Ctr Atmospher Chem, Wollongong, NSW, Australia.
+   [Feist, Dietrich G.] Ludwig Maximilians Univ Munchen, Lehrstuhl Phys Atmosphare, Munich, Germany.
+   [Feist, Dietrich G.] Deutsch Zentrum Luft & Raumfahrt, Inst Phys Atmosphare, Oberpfaffenhofen, Germany.
+   [Feist, Dietrich G.] Max Planck Inst Biogeochem, Jena, Germany.
+   [Hase, Frank] Karlsruhe Inst Technol KIT, Inst Meteorol & Climate Res IMK ASF, Karlsruhe, Germany.
+   [Hermans, Christian] Royal Belgian Inst Space Aeron, Brussels, Belgium.
+   [Iraci, Laura T.] NASA, Ames Res Ctr, Atmospher Sci Branch, Moffett Field, CA 94035 USA.
+   [Kivi, Rigel] Finnish Meteorol Inst, Space & Earth Observat Ctr, Sodankyla, Finland.
+   [Morino, Isamu] Natl Inst Environm Studies NIES, Satellite Remote Sensing Sect, Tsukuba, Ibaraki, Japan.
+   [Morino, Isamu] Natl Inst Environm Studies NIES, Ctr Global Environm Res, Satellite Observat Ctr, Tsukuba, Ibaraki, Japan.
+   [Pollard, David F.] Natl Inst Water & Atmospher Res NIWA, Lauder, New Zealand.
+   [Roche, Sebastien; Strong, Kimberly; Wunch, Debra] Univ Toronto, Dept Phys, Toronto, ON, Canada.
+   [Shiomi, Kei] Japan Aerosp Explorat Agcy JAXA, Tsukuba, Ibaraki, Japan.
+   [Sussmann, Ralf] Karlsruhe Inst Technol KIT, Inst Meteorol & Climate Res IMK IFU, Garmisch Partenkirchen, Germany.
+C3 University of Bremen; University of Wollongong; University of Munich; Helmholtz Association; German Aerospace Centre (DLR); Max Planck Society; Helmholtz Association; Karlsruhe Institute of Technology; National Aeronautics & Space Administration (NASA); NASA Ames Research Center; Finnish Meteorological Institute; National Institute for Environmental Studies - Japan; National Institute for Environmental Studies - Japan; National Institute of Water & Atmospheric Research (NIWA) - New Zealand; University of Toronto; Japan Aerospace Exploration Agency (JAXA); Helmholtz Association; Karlsruhe Institute of Technology
+RP Schneising, O (corresponding author), Univ Bremen FB1, Inst Environm Phys IUP, Bremen, Germany.
+EM oliver.schneising@iup.physik.uni-bremen.de
+FU ESA project GHG-CCI; ESA project GHG-CCI+; ESA project S5L2PP; Federal Ministry of Education and Research project AIRSPACE; University of Bremen
+CR Alvarez RA, 2018, SCIENCE, V361, P186, DOI 10.1126/science.aar7204
+   Alvarez RA, 2012, P NATL ACAD SCI USA, V109, P6435, DOI 10.1073/pnas.1202407109
+   Unknown -, 2016, MACHINE LEARNING MOD, V0, P0
+   Unknown -, 2018, TCCON DATA GARMISCH, V0, P0, DOI DOI 10.14291/TCCON.GGG2014.GARMISCH01.R2
+   Unknown -, 1990, PNWGTR251 USDA FOR S, V0, P0
+   Unknown -, 2018, TCCON DATA TSUKUBA I, V0, P0, DOI DOI 10.14291/TCCON.GGG2014.TSUKUBA02.R2
+   Unknown -, 2014, TCCON DATA FROM CALTECH (U.S.), V0, P0, DOI 10.14291/tccon.ggg2014.parkfalls01.R1
+   Unknown -, 2014, TCCON DATA NY ALESUN, V0, P0, DOI DOI 10.14291/TCCON.GGG2014.NYALESUND01.R0/1149278
+   Unknown -, 2011, TECH. REP., V0, P0
+   Unknown -, 2018, TCCON DATA BURGOS IL, V0, P0, DOI DOI 10.14291/TCCON.GGG2014.BURGOS01.R0
+   Unknown -, 1900, DOI 10.14291/TCCON.GGG2014.EASTTROUTLAKE01, V0, P0
+   Unknown -, 2017, ESAEOPGCSCOPPL0073, V0, P0
+   Unknown -, 2018, STATISTICAL REVIEW OF WORLD ENERGY R/OL, V0, P0
+   Unknown -, 2018, TCCON DATA ZUGSPITZE, V0, P0, DOI DOI 10.14291/TCCON.GGG2014.ZUGSPITZE01.R1
+   Bergamaschi P, 2013, J GEOPHYS RES-ATMOS, V118, P7350, DOI 10.1002/jgrd.50480
+   Bergamaschi P, 2009, J GEOPHYS RES-ATMOS, V114, P0, DOI 10.1029/2009JD012287
+   Borsdorff T, 2019, ATMOS CHEM PHYS, V19, P3579, DOI 10.5194/acp-19-3579-2019
+   Borsdorff T, 2018, ATMOS MEAS TECH, V11, P5507, DOI 10.5194/amt-11-5507-2018
+   Bovensmann H, 1999, J ATMOS SCI, V56, P127, DOI 10.1175/1520-0469(1999)056<0127:SMOAMM>2.0.CO;2
+   Brandt AR, 2014, SCIENCE, V343, P733, DOI 10.1126/science.1247045
+   Breiman L, 1996, MACH LEARN, V24, P41, DOI 10.1023/A:1018094028462
+   Breiman L, 1996, MACH LEARN, V24, P123, DOI 10.1007/bf00058655
+   Buchwitz M, 2007, ATMOS CHEM PHYS, V7, P2399, DOI 10.5194/acp-7-2399-2007
+   Buchwitz M, 2006, ATMOS CHEM PHYS, V6, P2727, DOI 10.5194/acp-6-2727-2006
+   Buchwitz M, 2005, ATMOS CHEM PHYS, V5, P941, DOI 10.5194/acp-5-941-2005
+   Buchwitz M, 2004, ATMOS CHEM PHYS, V4, P1945, DOI 10.5194/acp-4-1945-2004
+   Buchwitz M, 2017, ATMOS CHEM PHYS, V17, P5751, DOI 10.5194/acp-17-5751-2017
+   BURROWS JP, 1995, ACTA ASTRONAUT, V35, P445, DOI 10.1016/0094-5765(94)00278-T
+   Clerbaux C, 2009, ATMOS CHEM PHYS, V9, P6041, DOI 10.5194/acp-9-6041-2009
+   Criminisi Antonio, 2013, DECISION FORESTCOM, V0, P0
+   de Laat ATJ, 2010, J GEOPHYS RES-ATMOS, V115, P0, DOI 10.1029/2009JD012698
+   Deutscher NM, 2010, ATMOS MEAS TECH, V3, P947, DOI 10.5194/amt-3-947-2010
+   Dils B, 2014, ATMOS MEAS TECH, V7, P1723, DOI 10.5194/amt-7-1723-2014
+   Drummond JR, 2010, ADV SPACE RES, V45, P760, DOI 10.1016/j.asr.2009.11.019
+   Farquharson D, 2017, J IND ECOL, V21, P857, DOI 10.1111/jiec.12475
+   Frankenberg C, 2006, J GEOPHYS RES-ATMOS, V111, P0, DOI 10.1029/2005JD006235
+   Gordon IE, 2017, J QUANT SPECTROSC RA, V203, P3, DOI 10.1016/j.jqsrt.2017.06.038
+   Hess M, 1998, B AM METEOROL SOC, V79, P831, DOI 10.1175/1520-0477(1998)079<0831:OPOAAC>2.0.CO;2
+   Heymann J, 2012, ATMOS MEAS TECH, V5, P2375, DOI 10.5194/amt-5-2375-2012
+   Hino M, 2018, NAT SUSTAIN, V1, P583, DOI 10.1038/s41893-018-0142-9
+   Holmes CD, 2013, ATMOS CHEM PHYS, V13, P285, DOI 10.5194/acp-13-285-2013
+   Hu H, 2018, GEOPHYS RES LETT, V45, P3682, DOI 10.1002/2018GL077259
+   Hu HL, 2016, ATMOS MEAS TECH, V9, P5423, DOI 10.5194/amt-9-5423-2016
+   Huber PJ, 2009, WILEY SERIES IN PROBABILITY AND STATISTICS, VSecond, P0, DOI 10.1002/9780470434697.CH7
+   Huber PeterJ, 2004, ROBUST STAT, V0, P0
+   Hutchison KD, 2005, VISIBLE INFRARED IMAGER RADIOMETER SUITE: A NEW OPERATIONAL CLOUD IMAGER, V0, P0
+   ISHIOKA M, 1992, CARBON, V30, P975, DOI 10.1016/0008-6223(92)90124-F
+   Kivi R, 2016, GEOSCI INSTRUM METH, V5, P271, DOI 10.5194/gi-5-271-2016
+   Kleipool Q, 2018, ATMOS MEAS TECH, V11, P6439, DOI 10.5194/amt-11-6439-2018
+   Kohlenberg AJ, 2018, ENVIRON RES LETT, V13, P0, DOI 10.1088/1748-9326/aa9ea8
+   Kuze A, 2009, APPL OPTICS, V48, P6716, DOI 10.1364/AO.48.006716
+   Landgraf J, 2016, ATMOS MEAS TECH, V9, P4955, DOI 10.5194/amt-9-4955-2016
+   Luo M, 2015, ATMOS ENVIRON, V106, P262, DOI 10.1016/j.atmosenv.2015.02.007
+   Mauger G, 2015, PROF GEOGR, V67, P121, DOI 10.1080/00330124.2014.921017
+   McMillan WW, 2005, GEOPHYS RES LETT, V32, P0, DOI 10.1029/2004GL021821
+   Meirink JF, 2006, ATMOS CHEM PHYS, V6, P1275, DOI 10.5194/acp-6-1275-2006
+   Messerschmidt J, 2012, ATMOS CHEM PHYS, V12, P6741, DOI 10.5194/acp-12-6741-2012
+   Omaye ST, 2002, TOXICOLOGY, V180, P139, DOI 10.1016/S0300-483X(02)00387-6
+   Pollard DF, 2017, EARTH SYST SCI DATA, V9, P977, DOI 10.5194/essd-9-977-2017
+   Prather MJ, 2012, GEOPHYS RES LETT, V39, P0, DOI 10.1029/2012GL051440
+   Reuter M, 2013, ATMOS CHEM PHYS, V13, P1771, DOI 10.5194/acp-13-1771-2013
+   Rodgers CD, 2004, INVERSE METHODS FOR ATMOSPHERIC SOUNDING: THEORY AND PRACTICE, V0, P0
+   Rodgers CD, 2003, J GEOPHYS RES-ATMOS, V108, P0, DOI 10.1029/2002JD002299
+   Rozanov VV, 2014, J QUANT SPECTROSC RA, V133, P13, DOI 10.1016/j.jqsrt.2013.07.004
+   Rozanov VV, 2002, ADV SPACE RES-SERIES, V29, P1831, DOI 10.1016/S0273-1177(02)00095-9
+   Schneising O, 2008, ATMOS CHEM PHYS, V8, P3827, DOI 10.5194/acp-8-3827-2008
+   Schneising O, 2012, ATMOS CHEM PHYS, V12, P1527, DOI 10.5194/acp-12-1527-2012
+   Schneising O, 2011, ATMOS CHEM PHYS, V11, P2863, DOI 10.5194/acp-11-2863-2011
+   Schneising O, 2009, ATMOS CHEM PHYS, V9, P443, DOI 10.5194/acp-9-443-2009
+   Schneising O, 2014, EARTHS FUTURE, V2, P548, DOI 10.1002/2014EF000265
+   STITH JL, 1981, ATMOS ENVIRON, V15, P73, DOI 10.1016/0004-6981(81)90127-X
+   Tukiainen S, 2016, J GEOPHYS RES-ATMOS, V121, P10312, DOI 10.1002/2015JD024657
+   Veefkind JP, 2012, REMOTE SENS ENVIRON, V120, P70, DOI 10.1016/j.rse.2011.09.027
+   Velazco VA, 2017, REMOTE SENS-BASEL, V9, P0, DOI 10.3390/rs9121228
+   Washenfelder RA, 2006, J GEOPHYS RES-ATMOS, V111, P0, DOI 10.1029/2006JD007154
+   Worden HM, 2010, J GEOPHYS RES-ATMOS, V115, P0, DOI 10.1029/2010JD014242
+   Worden J, 2012, ATMOS MEAS TECH, V5, P397, DOI 10.5194/amt-5-397-2012
+   Wunch D, 2011, ATMOS CHEM PHYS, V11, P12317, DOI 10.5194/acp-11-12317-2011
+   Wunch D, 2010, ATMOS MEAS TECH, V3, P1351, DOI 10.5194/amt-3-1351-2010
+   Wunch D, 2016, ATMOS CHEM PHYS, V16, P14091, DOI 10.5194/acp-16-14091-2016
+   Wunch D, 2011, PHILOS T R SOC A, V369, P2087, DOI 10.1098/rsta.2010.0240
+   Xiong XZ, 2008, J GEOPHYS RES-BIOGEO, V113, P0, DOI 10.1029/2007JG000500
+NR 94
+TC 90
+Z9 102
+U1 5
+U2 64
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1867-1381
+EI 1867-8548
+J9 ATMOS MEAS TECH
+JI Atmos. Meas. Tech.
+PD DEC 19
+PY 2019
+VL 12
+IS 12
+BP 6771
+EP 6802
+DI 10.5194/amt-12-6771-2019
+PG 32
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA JX0UR
+UT WOS:000503459900005
+DA 2025-11-07
+ER
+
+PT J
+AU Hou, QH
+   Zhang, X
+   Li, B
+   Zhang, XQ
+   Wang, WH
+AF Hou, Quanhua
+   Zhang, Xuan
+   Li, Bo
+   Zhang, Xiaoqing
+   Wang, Wenhui
+TI Identification of low-carbon travel block based on GIS hotspot analysis using spatial distribution learning algorithm
+SO NEURAL COMPUTING & APPLICATIONS
+LA English
+DT Article
+DE Low-carbon travel; Built environment; GIS hotspot analysis; Block
+ID built environment; behavior; choice
+AB In the future, big data will become an efficient and useful means for improving urban planning, and machine learning can take city as a simplified and efficient system. We take full advantage of the benefits of new technology, but also clarify that city is not a machine, also cannot fully mechanically control the urban development. This study presents a methodology for identifying low-carbon travel block, which can be used to identify the built environment conducive to residents' low-carbon travel. We chose the four elements of traffic survey-travel mode, travel time, travel purpose and travel frequency-as the framework to evaluate travel carbon emissions. Using the index data collected from "WeChat," a popular social-media platform in China and questionnaire surveys, we conducted hotspot analysis of the spatial distribution of travel carbon emissions in GIS. We obtained a comprehensive carbon emissions and its spatial distribution through the superposition of hotspot density surface of different indexes. The results show that E block within the research area has the lowest travel carbon emissions. These results suggest some planning implications from three aspects-land use mode, road network and public service facilities: In the old urban district of Pucheng, the ratio of residential building area and other types' building area should be "4:1-3:1"; and we should develop the travel model of bicycle, and the interval of bicycle lanes should be 350-450 m; The ratio of walking road to total road area should be 15-20%, and the width of road should be restricted. Coverage of transit site buffered for the radius of 150 m is 40-50%, coverage of shopping services buffered for the radius of 50 m is 45-60%, and coverage of recreational facilities buffered for the radius of 100 m is 50-70%. The results confirm that "functional mixing" and "dense road network" are beneficial to residents' low-carbon travel proposed by the predecessors. At the same time, we found that not the higher volume rate is, the more favorable for low-carbon travel. Small cities have limited number of population and scattered distribution of professional posts, which are not suitable for the traditional mode of improving the volume ratio and the bus system. It is not that the higher the bus station coverage is, the better for residents to travel as low-carbon, and the high popularity of public transportation in small cities will increase the carbon emission of residents. The study provides a new way to evaluate the carbon emission assessment of blocks and provides a basis for block planning with low-carbon concept.
+C1 [Hou, Quanhua; Zhang, Xuan; Li, Bo; Zhang, Xiaoqing] Changan Univ, Sch Architecture, Changan Middle Rd 75, Xian 710061, Shaanxi, Peoples R China.
+   [Wang, Wenhui] North China Univ Sci & Technol, Coll Civil & Architectural Engn, Tangshan 063000, Peoples R China.
+C3 Chang'an University; North China University of Science & Technology
+RP Hou, QH (corresponding author), Changan Univ, Sch Architecture, Changan Middle Rd 75, Xian 710061, Shaanxi, Peoples R China.
+EM houquanhua@chd.edu.cn
+FU National Science & Technology Pillar Program during the 12th Fiveyear Plan Period [2015BAL01B02]; Social Development and Scientific Research Projects in Shaanxi Province [2015SF294]; Special Project of Education Teaching Reform in Central University [jgy16085]
+CR Badland HM, 2008, HEALTH PLACE, V14, P85, DOI 10.1016/j.healthplace.2007.05.002
+   Brown M, 2005, CLIMATE FRIENDLY BUI, V0, P0
+   Cao Jason, 2015, URBAN PLANN INT, V37, P46
+   Cao XY, 2009, TRANSPORT REV, V29, P359, DOI 10.1080/01441640802539195
+   Cao XY, 2006, TRANSPORTATION, V33, P1, DOI 10.1007/s11116-005-7027-2
+   [柴彦威 CHAI YanWei], 2011, 地理科学 SCIENTIA GEOGRAPHICA SINICA, V31, P843
+   Ding C, 2014, TRANSPORT RES D-TR E, V32, P230, DOI 10.1016/j.trd.2014.08.001
+   Ding C, 2014, SUSTAINABILITY-BASEL, V6, P589, DOI 10.3390/su6020589
+   Guo L, 2014, HUAZHONG ARCHIT, V32, P134
+   Huang B, 2013, CHINA MARKET, V32, P51
+   Jiang Y, 2011, URBAN COMMUN COMMUN, V9, P21, DOI 10.13813/J.CN11-5141/U.2011.04.004
+   Karathodorou N, 2009, TRANSP RES BOARD 88, V0, P0
+   Liao C, 2010, TRIP CHARACTERISTICS, V0, P0
+   Lin-cheng XIAO, 2012, INFLUENCE MECH RES C, V0, P0
+   Liu C, 2011, COMPUT ENVIRON URBAN, V35, P347, DOI 10.1016/j.compenvurbsys.2011.05.006
+   Moilanen M, 2010, PAP REG SCI, V89, P607, DOI 10.1111/j.1435-5957.2009.00264.x
+   Pan H, 2010, URBAN DEV. STUD, V17, P40
+   Qin B, 2013, IEEE INT C INTELL TR, V0, PP619, DOI 10.1109/ITSC.2013.6728300
+   Qin B, 2013, HABITAT INT, V37, P52, DOI 10.1016/j.habitatint.2011.12.017
+   Schwanen T, 2007, HOUS POLICY DEBATE, V18, P171, DOI 10.1080/10511482.2007.9521598
+   Sun BD, 2017, TRANSPORT RES D-TR E, V52, P441, DOI 10.1016/j.trd.2016.06.001
+   Vivier J, 2002, PUBLIC TRANSPORT SUS, V0, P5
+   Wang DG, 2014, J TRANSP LAND USE, V7, P5, DOI 10.5198/jtlu.v7i3.486
+   Wang ZG, 2015, MITIG ADAPT STRAT GL, V20, P683, DOI 10.1007/s11027-014-9614-z
+   Xinhua News Agency, 2016, CHIN WILL NO LONG BU, V0, P0
+   Yang JW, 2012, URBAN STUD, V49, P1315, DOI 10.1177/0042098011410336
+   Zhu PY, 2017, TRANSPORT RES D-TR E, V52, P586, DOI 10.1016/j.trd.2016.11.010
+NR 27
+TC 38
+Z9 39
+U1 5
+U2 123
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0941-0643
+EI 1433-3058
+J9 NEURAL COMPUT APPL
+JI Neural Comput. Appl.
+PD SEP 15
+PY 2019
+VL 31
+IS 9
+BP 4703
+EP 4713
+DI 10.1007/s00521-018-3447-8
+PG 11
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA JB5ZZ
+UT WOS:000488645700021
+DA 2025-11-06
+ER
+

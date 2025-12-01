@@ -1,0 +1,234 @@
+PT J
+AU Joos, F
+   Orr, JC
+   Siegenthaler, U
+AF Joos, F
+   Orr, JC
+   Siegenthaler, U
+TI Ocean carbon transport in a box-diffusion versus a general circulation model
+SO JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS
+LA English
+DT Article
+ID past 2 century; atmospheric co2; world ocean; iron fertilization; bomb radiocarbon; c-13/c-12 ratio; deep-ocean; distributions; simulations; resolution
+AB We have compared vertical transport of temperature, anthropogenic CO2, natural radiocarbon (C-14), and bomb C-14 in a global box-diffusion model (B-D) and a three-dimensional (3-D) ocean general circulation model from the Geophysical Fluid Dynamics Laboratory. Our main objectives were (1) to test the eddy diffusion parameterization of large-scale vertical transport in ocean box models and (2) to assess the utility of bomb-produced and natural C-14 observations to validate ocean models used to estimate anthropogenic CO2 uptake. From the 3-D model's distributions and fluxes of natural C-14, bomb C-14, and anthropogenic CO2, we have calculated apparent diffusivities (K-ap) vertically over the global ocean that range mostly between 4000 and 8000 m(2) yr(-1). These K-ap agree quantitatively with diffusivities found by fitting B-D models to observed distributions of natural and bomb C-14. We then used these sets of K-ap in different runs of a global B-D model. Results from all B-D models runs matched to within 13% those from the 3-D model for global uptake of anthropogenic CO2 and bomb-C-14 penetration depth. Although K-ap from 3-D simulations for bomb C-14 vary with time, those from 3-D runs for anthropogenic CO2 are essentially constant. Still, we found nearly the same results with the B-D model when K-ap from 3-D bomb C-14 simulations are approximated as time invariant. The best agreement (within 3%) between 3-D CO2 simulations and B-E) model runs was found when applying K-ap derived from bomb C-14 in the surface and from natural C-14 in the deep. Agreement was worse when using K-ap from 3-D simulations for anthropogenic CO2 itself, mostly because in this case deeper K-ap could only be extrapolated from higher surface values. We have found it appropriate to study global oceanic uptake of anthropogenic CO2 with B-D model and to validate anthropogenic carbon uptake models using natural and bomb C-14 observations. For bomb C-14 in the 3-D model, convective transport was most important during 1955-1964 while atmospheric levels were rising; afterward, atmospheric levels drop, and advective overturning dominates as for natural C-14. Thus C-14 seems less than ideal to validate the convective scheme of general circulation models.
+C1 CEA, DSM, LAB MODELISAT CLIMAT & ENVIRONM, F-91191 GIF SUR YVETTE, FRANCE.
+C3 Universite Paris Saclay; CEA
+RP Joos, F (corresponding author), UNIV BERN, INST PHYS, SIDLERSTR 5, CH-3012 BERN, SWITZERLAND.
+CR BERGER WH, 1987, 8730 SIO SCRIPP I OC, V0, P0
+   Bolin B, 1981, CARBON CYCLE MODELLING, V0, P0
+   Broecker WS, 1987, GLOBAL BIOGEOCHEM CY, V1, P15, DOI 10.1029/GB001i001p00015
+   BROECKER WS, 1985, J GEOPHYS RES-OCEANS, V90, P6953, DOI 10.1029/JC090iC04p06953
+   BROECKER WS, 1995, GLOBAL BIOGEOCHEM CY, V9, P263, DOI 10.1029/95GB00208
+   BRYAN K, 1979, DYNAM ATMOS OCEANS, V3, P327, DOI 10.1016/0377-0265(79)90016-2
+   BRYAN K, 1979, J GEOPHYS RES-OC ATM, V84, P2503, DOI 10.1029/JC084iC05p02503
+   Bryan K, 1969, JOURNAL OF COMPUTATIONAL PHYSICS, V4, P347, DOI 10.1006/jcph.1997.5699
+   BRYAN K, 1984, GEOPHYS MONOGR SER, V29, P29
+   CIAIS P, 1995, SCIENCE, V269, P1098, DOI 10.1126/science.269.5227.1098
+   ENTING IG, 1904, 31 IND RES ORG DIV A, V0, P0
+   EPPLEY RW, 1979, NATURE, V282, P677, DOI 10.1038/282677a0
+   Esbensen SK, 1981, 29 OR STAT U CLIM RE, V0, P0
+   FIADEIRO ME, 1982, J MAR RES, V40, P537
+   FRIEDLI H, 1986, NATURE, V324, P237, DOI 10.1038/324237a0
+   GARRETT C, 1979, DYNAM ATMOS OCEANS, V3, P239, DOI 10.1016/0377-0265(79)90011-3
+   GASPAR P, 1990, J GEOPHYS RES-OCEANS, V95, P16179, DOI 10.1029/JC095iC09p16179
+   HARVEY LDD, 1986, J GEOPHYS RES-ATMOS, V91, P2709, DOI 10.1029/JD091iD02p02709
+   HESSHAIMER V, 1994, NATURE, V370, P201, DOI 10.1038/370201a0
+   JOOS F, 1994, NATURE, V370, P181, DOI 10.1038/370181a0
+   JOOS F, 1991, NATURE, V349, P772, DOI 10.1038/349772a0
+   Keeling CharlesD, 1989, ASPECTS OF CLIMATE VARIABILITY IN THE PACIFIC AND WESTERN AMERICAS, V0, PP165, DOI 10.1111/j.1365-2486.2010.02222.x
+   KEELING RF, 1992, NATURE, V358, P723, DOI 10.1038/358723a0
+   KURZ KD, 1993, GLOBAL BIOGEOCHEM CY, V7, P229, DOI 10.1029/92GB02910
+   LEDWELL JR, 1993, NATURE, V364, P701, DOI 10.1038/364701a0
+   MAHLMAN JD, 1975, P 4 C CLIM IMP ASS P, V0, P132
+   Maier-Reimer E, 1987, CLIM DYNAM, V2, P63, DOI 10.1007/BF01054491
+   Munk W, 1966, DEEP-SEA RES PT I, V13, P207, DOI 10.1016/0011-7471(66)90602-4
+   Najjar RG, 1992, GLOBAL BIOGEOCHEM CY, V6, P45, DOI 10.1029/91GB02718
+   NAJJAR RG, 1990, THESIS PRINCETON U P, V0, P0
+   NEFTEL A, 1985, NATURE, V315, P45, DOI 10.1038/315045a0
+   NEWELL RE, 1963, J GEOPHYS RES, V68, P3949, DOI 10.1029/JZ068i013p03949
+   OESCHGER H, 1975, TELLUS, V27, P168, DOI 10.1111/j.2153-3490.1975.tb01671.x
+   PACKARD TT, 1988, DEEP-SEA RES, V35, P371, DOI 10.1016/0198-0149(88)90016-7
+   Peixoto JP, 1992, PHYSICS OF CLIMATE, V0, P61
+   PLUMB RA, 1987, J ATMOS SCI, V44, P298, DOI 10.1175/1520-0469(1987)044<0298:TZATCO>2.0.CO;2
+   REDI MH, 1982, J PHYS OCEANOGR, V12, P1154, DOI 10.1175/1520-0485(1982)012<1154:OIMBCR>2.0.CO;2
+   REVELLE R, 1957, TELLUS, V9, P18, DOI 10.1111/j.2153-3490.1957.tb01849.x
+   SARMIENTO JL, 1976, EARTH PLANET SC LETT, V32, P357, DOI 10.1016/0012-821X(76)90076-5
+   SARMIENTO JL, 1983, J PHYS OCEANOGR, V13, P1924, DOI 10.1175/1520-0485(1983)013<1924:ASOBTE>2.0.CO;2
+   SARMIENTO JL, 1992, J GEOPHYS RES-OCEANS, V97, P3621, DOI 10.1029/91JC02849
+   Schimel D, 1995, CLIMATE CHANGE 1994, V0, P35
+   SCHLESINGER ME, 1990, J CLIMATE, V3, P1297, DOI 10.1175/1520-0442(1990)003<1297:SMROAO>2.0.CO;2
+   SHAFFER G, 1995, J GEOPHYS RES-OCEANS, V100, P2659, DOI 10.1029/94JC01167
+   SIEGENTHALER U, 1984, ANN GLACIOL-SER, V5, P153, DOI 10.3189/1984AoG5-1-153-159
+   SIEGENTHALER U, 1993, NATURE, V365, P119, DOI 10.1038/365119a0
+   SIEGENTHALER U, 1992, TELLUS B, V44, P186, DOI 10.1034/j.1600-0889.1992.t01-2-00003.x
+   SIEGENTHALER U, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P140
+   SIEGENTHALER U, 1984, NATURE, V308, P624, DOI 10.1038/308624a0
+   TOGGWEILER JR, 1989, J GEOPHYS RES-OCEANS, V94, P8217, DOI 10.1029/JC094iC06p08217
+   TOGGWEILER JR, 1989, J GEOPHYS RES-OCEANS, V94, P8243, DOI 10.1029/JC094iC06p08243
+   WALSH J, 1978, SD2 WORLD DAT CENT, V0, P49
+   WELANDER P, 1968, ACTA R SOC SCI LITT, V1, P0
+   YIN FL, 1991, J GEOPHYS RES-OCEANS, V96, P10773, DOI 10.1029/91JC00883
+   ZWALLY HJ, 1983, NASA PUBL, V0, P0
+NR 55
+TC 24
+Z9 26
+U1 0
+U2 7
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9275
+EI 2169-9291
+J9 J GEOPHYS RES-OCEANS
+JI J. Geophys. Res.-Oceans
+PD JUN 15
+PY 1997
+VL 102
+IS C6
+BP 12367
+EP 12388
+DI 10.1029/97JC00470
+PG 22
+WC Oceanography
+SC Oceanography
+GA XF422
+UT WOS:A1997XF42200003
+DA 2025-11-03
+ER
+
+PT J
+AU Craig, S
+   Holmen, K
+   Bjorkstrom, A
+AF Craig, S
+   Holmen, K
+   Bjorkstrom, A
+TI Net terrestrial carbon exchange from mass balance calculations: An uncertainty estimate
+SO TELLUS SERIES B-CHEMICAL AND PHYSICAL METEOROLOGY
+LA English
+DT Article
+ID past 2 century; greenland ice; polar ice; atmospheric co2; diffusion-model; fossil-fuels; dioxide; ocean; projections; bubbles
+AB One classical method of determining the net exchange of carbon between the atmosphere and the terrestrial biosphere is to perform a mass balance on atmospheric CO2 through time. In this calculation, the residual flux needed to balance the carbon budget when fossil fuel emissions, ocean uptake, and the documented increase of atmospheric CO2 concentrations are taken into account, is interpreted as being net terrestrial carbon exchange. In this study, the uncertainties in such a calculation are investigated and related to the magnitude of the ''missing carbon sink'' as a function of time. The uncertainty in the CO2 growth rate is found to be of the order of +/-1 GtC/yr (similar to 0.5 ppmv/yr) prior to the start of direct atmospheric measurements in 1959. The difficulties in assigning a precise uncertainty estimate for the CO2 growth rate from the ice core record are illustrated. It is then shown that the missing sink is significantly different from zero from the 1950s to the present day, even when all the uncertainties are taken into consideration. Finally, it is pointed out that the uncertainties in the cumulative carbon budget imbalance may be larger than previously thought, This has implications for model studies where conclusions are based on the ability to tune a given model to reproduce the cumulative missing sink curve.
+C1 UNIV STOCKHOLM, DEPT MATH, S-10691 STOCKHOLM, SWEDEN.
+C3 Stockholm University
+RP Craig, S (corresponding author), UNIV STOCKHOLM, DEPT METEOROL, S-10691 STOCKHOLM, SWEDEN.
+CR ANKLIN M, 1995, TELLUS B, V47, P461, DOI 10.1034/j.1600-0889.47.issue4.6.x
+   BARNOLA JM, 1995, TELLUS B, V47, P264, DOI 10.1034/j.1600-0889.47.issue1.22.x
+   CRAIG H, 1988, SCIENCE, V242, P1675, DOI 10.1126/science.242.4886.1675
+   CRAIG SG, 1995, GLOBAL BIOGEOCHEM CY, V9, P139, DOI 10.1029/94GB02819
+   DELMAS RJ, 1993, TELLUS B, V45, P391, DOI 10.1034/j.1600-0889.1993.t01-3-00006.x
+   ENTING IG, 1992, TELLUS B, V44, P23, DOI 10.1034/j.1600-0889.1992.00002.x
+   ENTING IG, 1985, NATURE, V315, P654, DOI 10.1038/315654a0
+   ENTING IG, 1994, 31 DIV ATM RES COMM, V0, P0
+   Etheridge DM, 1996, J GEOPHYS RES-ATMOS, V101, P4115, DOI 10.1029/95JD03410
+   FRIEDLI H, 1986, NATURE, V324, P237, DOI 10.1038/324237a0
+   FRIEDLINGSTEIN P, 1995, GLOBAL BIOGEOCHEM CY, V9, P541, DOI 10.1029/95GB02381
+   HOUGHTON RA, 1983, ECOL MONOGR, V53, P235, DOI 10.2307/1942531
+   KEELING CD, 1973, TELLUS, V25, P174, DOI 10.1111/j.2153-3490.1973.tb01604.x
+   KEELING CD, 1991, TRENDS 91 COMPENDIUM, V0, P382
+   Keeling CharlesD, 1989, ASPECTS OF CLIMATE VARIABILITY IN THE PACIFIC AND WESTERN AMERICAS, V0, PP165, DOI 10.1111/j.1365-2486.2010.02222.x
+   MARLAND G, 1984, TELLUS B, V36, P232, DOI 10.1111/j.1600-0889.1984.tb00245.x
+   MARLAND G, 1991, TRENDS 91 COMPENDIUM, V0, P386
+   *NAG, 1991, NAG FORTR LIB MAN, V0, P0
+   NEFTEL A, 1985, NATURE, V315, P45, DOI 10.1038/315045a0
+   Neftel A, 1994, TRENDS: A COMPENDIUM OF DATA ON GLOBAL CHANGE, V0, P0, DOI DOI 10.3334
+   OESCHGER H, 1975, TELLUS, V27, P168, DOI 10.1111/j.2153-3490.1975.tb01671.x
+   SARMIENTO JL, 1992, J GEOPHYS RES-OCEANS, V97, P3621, DOI 10.1029/91JC02849
+   Schimel D, 1995, CLIMATE CHANGE 1994, V0, P35
+   SCHWANDER J, 1993, J GEOPHYS RES-ATMOS, V98, P2831, DOI 10.1029/92JD02383
+   SCHWANDER J, 1984, NATURE, V311, P45, DOI 10.1038/311045a0
+   SIEGENTHALER U, 1993, NATURE, V365, P119, DOI 10.1038/365119a0
+   SIEGENTHALER U, 1992, TELLUS B, V44, P186, DOI 10.1034/j.1600-0889.1992.t01-2-00003.x
+   SIEGENTHALER U, 1983, J GEOPHYS RES-OCEANS, V88, P3599, DOI 10.1029/JC088iC06p03599
+   SIEGENTHALER U, 1987, TELLUS SERIES B CHEMICAL AND PHYSICAL METEOROLOGY, V39, P140
+   Watson RT, 1990, CLIMATE CHANGE: THE IPCC SCIENTIFIC ASSESSMENT, V0, P1
+   Wigley TML, 1991, GLOBAL BIOGEOCHEM CY, V5, P373, DOI 10.1029/91GB02279
+   WIGLEY TML, 1993, TELLUS B, V45, P409, DOI 10.1034/j.1600-0889.1993.t01-4-00002.x
+   WIGLEY TML, 1994, CLIMATE CHANGE AGEND, V0, P169
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 6
+PU CO-ACTION PUBLISHING
+PI JARFALLA
+PA RIPVAGEN 7, JARFALLA, SE-175 64, SWEDEN
+SN 0280-6509
+EI 1600-0889
+J9 TELLUS B
+JI Tellus Ser. B-Chem. Phys. Meteorol.
+PD APR 15
+PY 1997
+VL 49
+IS 2
+BP 136
+EP 148
+DI 10.1034/j.1600-0889.49.issue2.2.x
+PG 13
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA WZ858
+UT WOS:A1997WZ85800002
+DA 2025-11-03
+ER
+
+PT J
+AU Bacastow, RB
+   Dewey, RK
+   Stegen, GR
+AF Bacastow, RB
+   Dewey, RK
+   Stegen, GR
+TI Effectiveness of CO2 sequestration in the pre- and post-industrial oceans
+SO WASTE MANAGEMENT
+LA English
+DT Article
+ID carbon-dioxide; diffusion-model
+AB Ocean carbon cycle modeling is expected to play a key role in decisions concerning the purposeful sequestration of CO2 in the oceans. Modeling is probably the only practical way to know how much good sequestration is doing, or would do if implemented, since even with sequestration, atmospheric CO2 would be expected to continue to increase because of the release of non-sequestered CO2 and the return to the atmosphere of sequestered CO2, We have employed a carbon cycle model based on an ocean general circulation model to estimate the return of sequestered CO2 to the atmosphere for sequestration in the pre-industrial ocean at sites near Tokyo, San Francisco, New York and Miami. Significant differences in the effectiveness of sequestration are found. Off the East Coast of the USA, the atmospheric concentration due to the return of sequestered CO2 quickly rises to near the final equilibrium value, for all depths below about 800 m. Off the West Coast of the USA, the CO2 is effectively hidden from the atmosphere for several hundred years, for depths below 800 m. Then the atmospheric concentration rises to larger values than for sequestration off the East Coast. Sequestration off the coast of Japan at 800 m is similar to sequestration off the West Coast of the USA, but without the time delay. These predicted differences are understandable in terms of ocean circulation. Sequestration in the post-industrial ocean beginning in the year 2000 has been modeled also and sites near Tokyo acid New York. This calculation includes additional CO2 from a representation of anthropogenic CO2 for the entire fossil fuel era. No-sequestered CO2 tends to flush the sequestered CO2 out of the ocean by reducing the concentration of the carbonate ion, with which CO2 reacts. Results are less favorable in the post-industrial ocean. The pre-industrial ocean model can help in the selection of location and depth, but the post-industrial ocean model is more realistic. "Thus human beings are now carrying out a large scale geophysical experiment of a kind that could not have happened in the past nor be reproduced in the future. Within a few centuries we are returning to the atmosphere and oceans the concentrated organic carbon stored in sedimentary rocks over hundreds of millions of years" Roger Revelle and Hans Suess.(1) (C) 1998 Elsevier Science Ltd. All rights reserved.
+C1 Scripps Inst Oceanog, La Jolla, CA 92093 USA.
+   Univ Victoria, Ctr Earth & Ocean Res, Victoria, BC V8W 2Y2, Canada.
+   Sci Applicat Int Corp, Bellevue, WA 98005 USA.
+C3 University of California System; University of California San Diego; Scripps Institution of Oceanography; University of Victoria; Science Applications International Corporation (SAIC)
+RP Bacastow, RB (corresponding author), Scripps Inst Oceanog, La Jolla, CA 92093 USA.
+CR Bacastow R, 1991, GLOBAL BIOGEOCHEM CY, V5, P71, DOI 10.1029/91GB00015
+   Bacastow R, 1990, CLIM. DYNAM, V4, P95, DOI 10.1007/BF00208905
+   BACASTOW RB, 1995, ENERG CONVERS MANAGE, V36, P555, DOI 10.1016/0196-8904(95)00066-M
+   Bacastow RB, 1996, ENERG CONVERS MANAGE, V37, P1079, DOI 10.1016/0196-8904(95)00302-9
+   BACASTOW RB, 1981, SCOPE, V16, P29
+   Broecker WS, 1982, TRACERS SEA, V0, P0
+   BROECKER WS, 1977, FATE FOSSIL FUEL CO2, V0, P213
+   COLE KH, 1993, ENERG CONVERS MANAGE, V34, P991, DOI 10.1016/0196-8904(93)90046-D
+   HIDY GM, 1994, ENERG POLICY, V22, P1005, DOI 10.1016/0301-4215(94)90016-7
+   Keeling CD, 1973, CHEM LOWER ATMOSPHER, V0, PP251, DOI 10.1007/978-1-4684-1986-3
+   Keeling CD, 1996, NATURE, V382, P146, DOI 10.1038/382146a0
+   NIHOUS GC, 1994, CLIMATIC CHANGE, V27, P225, DOI 10.1007/BF01093592
+   OESCHGER H, 1975, TELLUS, V27, P168, DOI 10.1111/j.2153-3490.1975.tb01671.x
+   REVELLE R, 1957, TELLUS, V9, P18, DOI 10.1111/j.2153-3490.1957.tb01849.x
+   SIEGENTHALER U, 1983, J GEOPHYS RES-OCEANS, V88, P3599, DOI 10.1029/JC088iC06p03599
+NR 15
+TC 5
+Z9 5
+U1 0
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0956-053X
+EI 
+J9 WASTE MANAGE
+JI Waste Manage.
+PD JUN 15
+PY 1997
+VL 17
+IS 5-6
+BP 315
+EP 322
+DI 
+PG 8
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA ZP186
+UT WOS:000073726100010
+DA 2025-11-03
+ER
+

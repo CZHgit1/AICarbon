@@ -1,0 +1,83 @@
+PT J
+AU Liu, G
+   Si, BC
+AF Liu, Gang
+   Si, Bing C.
+TI Multi-layer diffusion model and error analysis applied to chamber-based gas fluxes measurements
+SO AGRICULTURAL AND FOREST METEOROLOGY
+LA English
+DT Article
+DE Diffusion; Chamber; Soil CO2 efflux; Porosity
+ID solute transport; co2 production; soil; exchange; simulation
+AB Chambers are widely-used for measuring greenhouse gas emission from soil surfaces. Current chamber methods are generally based on constant production within the soil, both before and after the placement of the enclosed chamber, and well-mixed chamber systems. The objective of this study is to present an analytical solution for either perfectly mixed or non-mixed non-steady-state (NSS) chamber systems with a depth-dependent gas production term. Parameters such as the decreasing production rate (k), the distance from soil-atmosphere interface to the water table (l(1)), the height of chamber (l(2) - l(1)), the diffusion coefficient in the chamber (D-2), and the air-filled porosity (epsilon) were included in our model. This was accomplished by using a one-dimensional multi-layer transient diffusion model with a production term. If we know k, l(1), l(2) - l(1), D-2, and epsilon, the pre-deployment flux density f(0) can be obtained by fitting the new solution to experimental concentration curve. The analytical solution can be applied to various case scenarios from pure diffusion to perfectly mixed systems, by adjusting D-2. The widely-used linear and nonlinear regression models are subsets of the solution. The proposed solution indicates the importance of the initial concentration distribution f(x) and production term g(x) in emission rates. Without measuring g(x), a large error in estimated pre-deployment flux density f(0) could result. Without knowing the parameters k, l(1), l(2) - l(1) and D-2, a large error in estimated f(0) could result. If the well-mixed model is used for modeling diffusion in not perfectly mixed chamber headspace, the magnitude of the error in f(0) increases monotonically with the increase in heights of sampling ports above l(1) and can be larger than 60% at x = l(2). The error caused by using the well-stirred approximation increase with decreases in D-2 and can be significant for chambers when there are no external mixing devices. The well-mixed solution could not be fitted well to the pure diffusion concentration curve, and vice versa. The solution may be helpful for better evaluating f(0) of trace gases from soil, carrying out the errors analysis and reducing the uncertainty in measured greenhouse gas emissions from soil. (c) 2008 Elsevier B.V. All rights reserved.
+C1 [Liu, Gang; Si, Bing C.] Univ Saskatchewan, Dept Soil Sci, Saskatoon, SK S7N 0W0, Canada.
+   [Liu, Gang] China Agr Univ, Coll Resources & Environm, Minist Educ, Lab Plant Soil Interact Proc, Beijing 100094, Peoples R China.
+C3 University of Saskatchewan; China Agricultural University
+RP Si, BC (corresponding author), Univ Saskatchewan, Dept Soil Sci, Saskatoon, SK S7N 0W0, Canada.
+EM Bing.Si@usask.ca
+CR Unknown -, 2002, METHODS SOIL ANAL 4, V0, P0, DOI DOI 10.2136/SSSABOOKSER5.4.C14
+   ANTHONY WH, 1995, SOIL SCI SOC AM J, V59, P1308, DOI 10.2136/sssaj1995.03615995005900050015x
+   ARFKEN GB, 1995, MATH METHODS PHYSICI, V0, P537
+   BOSMA WJP, 1992, J CONTAM HYDROL, V10, P99, DOI 10.1016/0169-7722(92)90025-A
+   Campbell GS, 1998, INTRO ENV BIOPHYSICS, V0, P37
+   Chapman TG, 2006, WATER RESOUR RES, V42, P0, DOI 10.1029/2005WR004437
+   Davidson EA, 2002, AGR FOREST METEOROL, V113, P21, DOI 10.1016/S0168-1923(02)00100-4
+   Davidson EA, 2006, GLOBAL CHANGE BIOL, V12, P944, DOI 10.1111/j.1365-2486.2005.01142.x
+   Elberling B, 2003, J HYDROL, V276, P159, DOI 10.1016/S0022-1694(03)00067-2
+   Hashimoto S, 2002, SOIL SCI SOC AM J, V66, P1151, DOI 10.2136/sssaj2002.1151
+   Hutchinson GL, 2000, J GEOPHYS RES-ATMOS, V105, P8865, DOI 10.1029/1999JD901204
+   HUTCHINSON GL, 1981, SOIL SCI SOC AM J, V45, P311, DOI 10.2136/sssaj1981.03615995004500020017x
+   Knorr W, 2005, NATURE, V433, P298, DOI 10.1038/nature03226
+   Kutzbach L, 2007, BIOGEOSCIENCES, V4, P1005, DOI 10.5194/bg-4-1005-2007
+   Liu CX, 1998, TRANSPORT POROUS MED, V30, P25, DOI 10.1023/A:1006596904771
+   Liu CX, 2000, ADV WATER RESOUR, V23, P483, DOI 10.1016/S0309-1708(99)00048-2
+   Liu CX, 1998, ADV WATER RESOUR, V21, P297, DOI 10.1016/S0309-1708(96)00062-0
+   Liu G, 2008, ADV WATER RESOUR, V31, P251, DOI 10.1016/j.advwatres.2007.08.008
+   Liu G, 2006, SOIL SCI SOC AM J, V70, P1252, DOI 10.2136/sssaj2005.0199
+   Livingston GP, 1995, BIOGENIC TRACE GASES: MEASUREING EMISSIONS FROM SOIL AND WATER, V0, P14
+   Livingston GP, 2006, SOIL SCI SOC AM J, V70, P1459, DOI 10.2136/sssaj2005.0322
+   Livingston GP, 2005, GEOPHYS RES LETT, V32, P0, DOI 10.1029/2005GL024744
+   Mikhailov M, 1984, UNIFIED ANALYSIS AND SOLUTIONS OF HEAT AND MASS DIFFUSION, V0, P0
+   MILLINGTON R, 1961, T FARADAY SOC, V57, P1200, DOI 10.1039/tf9615701200
+   Nagy G, 1997, J ELECTROANAL CHEM, V433, P175, DOI 10.1016/S0022-0728(97)00286-6
+   Nakashima Y, 2004, J CONTAM HYDROL, V74, P253, DOI 10.1016/j.jconhyd.2004.03.002
+   Polyanin A, 2003, HDB EXACT SOLUTIONS, V0, P0
+   Pumpanen J, 2004, AGR FOREST METEOROL, V123, P159, DOI 10.1016/j.agrformet.2003.12.001
+   RUBIN Y, 1993, WATER RESOUR RES, V29, P619, DOI 10.1029/92WR02292
+   Schlesinger WH, 2000, BIOGEOCHEMISTRY, V48, P7, DOI 10.1023/A:1006247623877
+   Suzuki S, 2006, J GEOPHYS RES-ATMOS, V111, P0, DOI 10.1029/2005JD006595
+   Takahashi A, 2004, AGR FOREST METEOROL, V126, P223, DOI 10.1016/j.agrformet.2004.06.009
+   Tang JW, 2003, AGR FOREST METEOROL, V118, P207, DOI 10.1016/S0168-1923(03)00112-6
+   Wagner SW, 1997, AGRON J, V89, P279, DOI 10.2134/agronj1997.00021962008900020021x
+   Wolfram S, 1996, MATH BOOK, V3rd, P0
+   Wu YS, 1997, WATER RESOUR RES, V33, P21, DOI 10.1029/96WR02716
+   Xu LK, 2006, J GEOPHYS RES-ATMOS, V111, P0, DOI 10.1029/2005JD006435
+   Yates SR, 2000, WATER RESOUR RES, V36, P1993, DOI 10.1029/2000WR900077
+   Zisik A-, 1993, HEAT CONDUCTION, V0, P0
+NR 40
+TC 26
+Z9 26
+U1 0
+U2 30
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0168-1923
+EI 1873-2240
+J9 AGR FOREST METEOROL
+JI Agric. For. Meteorol.
+PD JAN 4
+PY 2009
+VL 149
+IS 1
+BP 169
+EP 178
+DI 10.1016/j.agrformet.2008.07.012
+PG 10
+WC Agronomy; Forestry; Meteorology & Atmospheric Sciences
+SC Agriculture; Forestry; Meteorology & Atmospheric Sciences
+GA 388XK
+UT WOS:000262053400014
+DA 2025-11-05
+ER
+

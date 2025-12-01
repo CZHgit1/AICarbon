@@ -1,0 +1,271 @@
+PT J
+AU Zhao, QY
+   Cui, YP
+   Liu, CL
+   Wen, HY
+   Chen, YX
+   Li, PC
+   Zhou, YS
+   Wang, YF
+   Jiang, H
+   Wu, QM
+   Shen, BX
+   Sun, H
+AF Zhao, Qiyue
+   Cui, Yupeng
+   Liu, Chuanlei
+   Wen, Haiyang
+   Chen, Yuxiang
+   Li, Peicheng
+   Zhou, Yousheng
+   Wang, Yifan
+   Jiang, Hao
+   Wu, Qiumin
+   Shen, Benxian
+   Sun, Hui
+TI Machine learning model based on parallel reaction mechanisms for predicting CO2 capacity of amine solvents
+SO CHEMICAL ENGINEERING SCIENCE
+LA English
+DT Article
+DE Absorption capacity; Cycling capacity; Machine learning; CO2 capture
+ID aqueous monoethanolamine; regeneration; absorbents; absorption; separation; selection; kinetics; capture; heat
+AB Absorption capacity (Ca) and cycling capacity (Cc) are key indicators for evaluating CO2 capture ability and regeneration energy consumption of solvents in industrial absorption processes. However, their determinations still largely rely on experimental methods, requiring high cost and time consumption. In this study, we propose a machine learning (ML) model that integrates both the zwitterion mechanism and the base-catalysis mechanism to predict Ca and Cc. The model effectively predicts the conversion of structurally diverse amines through different reaction pathways, thereby enabling accurate assessment of absorption and regeneration performance of chemical solvents. The models have an R2 of 0.950, Q2 of 0.856, RMSE of 0.105, and MAE of 0.084 for Ca prediction and R2 = 0.956, Q2 = 0.863, RMSE = 0.059, and MAE = 0.044 for Ccprediction. Dynamic absorption-desorption experiments employing three industrial solvents and two promising candidates screened through the ML model indicate that the coupled model reliably predicts Ca and Cc. Moreover, 30 molecular descriptors were defined to describe local electronic effects of amine groups, steric hindrance effects near amine groups, and the stability of reaction products, largely enhancing the model interpretability. Present study highlights the ML approach for predicting the capacity of gas absorption systems involving complex chemical reactions, offering a strategy for exploring potential solvents for carbon capture and other absorption processes.
+C1 [Zhao, Qiyue; Cui, Yupeng; Liu, Chuanlei; Wen, Haiyang; Chen, Yuxiang; Li, Peicheng; Zhou, Yousheng; Wang, Yifan; Jiang, Hao; Wu, Qiumin; Shen, Benxian; Sun, Hui] East China Univ Sci & Technol, Sch Chem Engn, Shanghai 200237, Peoples R China.
+   [Sun, Hui] Xinjiang Univ, Sch Chem Engn & Technol, Key Lab Oil & Gas Fine Chem, Minist Educ, Urumqi 830046, Peoples R China.
+C3 East China University of Science & Technology; Xinjiang University
+RP Liu, CL; Sun, H (corresponding author), East China Univ Sci & Technol, Sch Chem Engn, Shanghai 200237, Peoples R China.
+EM wllwliuchuanlei@163.com; sunhui@ecust.edu.cn
+FU National Natural Science Foundation of China [21878097, 22178109]
+CR Aghel B, 2020, SEP PURIF TECHNOL, V237, P0, DOI 10.1016/j.seppur.2019.116390
+   Aronu UE, 2009, ENRGY PROCED, V1, P1051, DOI 10.1016/j.egypro.2009.01.139
+   Barone V, 1998, J COMPUT CHEM, V19, P404, DOI 10.1002/(SICI)1096-987X(199803)19:4<404::AID-JCC3>3.0.CO;2-W
+   Bernhardsen IM, 2017, INT J GREENH GAS CON, V61, P27, DOI 10.1016/j.ijggc.2017.03.021
+   Bhatti UH, 2019, ACS SUSTAIN CHEM ENG, V7, P10234, DOI 10.1021/acssuschemeng.9b01709
+   Burden FR, 1997, QUANT STRUCT-ACT REL, V16, P309, DOI 10.1002/qsar.19970160406
+   Cabral H, 2011, ACCOUNTS CHEM RES, V44, P999, DOI 10.1021/ar200094a
+   CAPLOW M, 1968, J AM CHEM SOC, V90, P6795, DOI 10.1021/ja01026a041
+   Chakraborty D, 2021, CHEM SCI, V12, P6264, DOI 10.1039/d0sc07017c
+   Chen YX, 2023, CHEM ENG SCI, V280, P0, DOI 10.1016/j.ces.2023.118984
+   Chen YX, 2022, CHEM ENG J, V444, P0, DOI 10.1016/j.cej.2022.136662
+   Chen ZY, 2022, 2022 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICINE, V0, P315, DOI 10.1109/BIBM55620.2022.9995561
+   Chowdhury FA, 2014, ENRGY PROCED, V63, P572, DOI 10.1016/j.egypro.2014.11.062
+   DONALDSON TL, 1980, IND ENG CHEM FUND, V19, P260, DOI 10.1021/i160075a005
+   Elmobarak WF, 2023, FUEL, V344, P0, DOI 10.1016/j.fuel.2023.128102
+   Falivene L, 2016, ORGANOMETALLICS, V35, P2286, DOI 10.1021/acs.organomet.6b00371
+   Goto K, 2011, INT J GREENH GAS CON, V5, P1214, DOI 10.1016/j.ijggc.2011.06.006
+   Grimme S, 2012, CHEM-EUR J, V18, P9955, DOI 10.1002/chem.201200497
+   Guo M, 2020, J MEMBRANE SCI, V611, P0, DOI 10.1016/j.memsci.2020.118328
+   Kim YE, 2015, ENERG FUEL, V29, P2582, DOI 10.1021/ef500561a
+   Klein J, 2024, J CHEM THEORY COMPUT, V20, P2010, DOI 10.1021/acs.jctc.3c01248
+   Kuroki N, 2020, IND ENG CHEM RES, V59, P8848, DOI 10.1021/acs.iecr.0c00488
+   Liu B, 2025, SEP PURIF TECHNOL, V354, P0, DOI 10.1016/j.seppur.2024.129306
+   Liu XY, 2023, ACS SUSTAIN CHEM ENG, V11, P8978, DOI 10.1021/acssuschemeng.3c01191
+   Lu T, 2022, CONCEPTUAL DENSITY FUNCTIONAL THEORY, V0, PP631, DOI 10.1002/9783527829941
+   Lu T, 2021, COMPUT THEOR CHEM, V1200, P0, DOI 10.1016/j.comptc.2021.113249
+   Lundberg SM, 2020, NAT MACH INTELL, V2, P56, DOI 10.1038/s42256-019-0138-9
+   Mamun S, 2007, ENERG CONVERS MANAGE, V48, P251, DOI 10.1016/j.enconman.2006.04.007
+   Manzetti S, 2013, RSC ADV, V3, P25881, DOI 10.1039/c3ra41572d
+   McGurk SJ, 2017, APPL ENERG, V192, P126, DOI 10.1016/j.apenergy.2017.02.012
+   Merrick JP, 2007, J PHYS CHEM A, V111, P11683, DOI 10.1021/jp073974n
+   Moriwaki H, 2018, J CHEMINFORMATICS, V10, P0, DOI 10.1186/s13321-018-0258-y
+   Singh G, 2019, APPL ENERG, V255, P0, DOI 10.1016/j.apenergy.2019.113831
+   Tzirakis F, 2019, CHEM ENG SCI, V199, P20, DOI 10.1016/j.ces.2018.12.045
+   Wu ZY, 2019, ENERGY, V167, P359, DOI 10.1016/j.energy.2018.10.194
+   Yoon B, 2022, IND ENG CHEM RES, V61, P4475, DOI 10.1021/acs.iecr.1c04987
+   Yousef AM, 2018, ENERGY, V156, P328, DOI 10.1016/j.energy.2018.05.106
+   Zhang YY, 2018, RENEW SUST ENERG REV, V97, P436, DOI 10.1016/j.rser.2018.08.007
+NR 38
+TC 0
+Z9 0
+U1 2
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0009-2509
+EI 1873-4405
+J9 CHEM ENG SCI
+JI Chem. Eng. Sci.
+PD JAN 15
+PY 2026
+VL 320
+IS 
+BP 
+EP 
+DI 10.1016/j.ces.2025.122407
+EA AUG 2025
+PG 10
+WC Engineering, Chemical
+SC Engineering
+GA 8BH0O
+UT WOS:001584564800005
+DA 2025-11-21
+ER
+
+PT J
+AU Gyamfi, G
+   Li, XL
+AF Gyamfi, Gideon
+   Li, Xiaoli
+TI Advancing CO2 solubility prediction in aqueous solutions: A machine learning approach for CCUS application
+SO GEOENERGY SCIENCE AND ENGINEERING
+LA English
+DT Article
+ID carbon-dioxide solubility; vapor-liquid-equilibria; enhanced oil-recovery; plus water; sodium-chloride; phase-behavior; different temperatures; gas solubility; nacl brine; pure water
+AB Accurately predicting CO2 solubility in aqueous solution (pure water and brines) is essential for optimizing carbon capture, utilization, and storage (CCUS) processes. In this study, the experimental dataset consists of various salts, specifically sodium chloride (NaCl), calcium chloride (CaCl2), magnesium chloride (MgCl2), potassium chloride (KCl), sodium bicarbonate (NaHCO3), sodium sulfate (Na2SO4), potassium carbonate (K2CO3), and magnesium sulfate (MgSO4). The comprehensive dataset encompasses a range of pressures (0.1-50 MPa), temperatures (274-453 K), and salinity levels (0-15 mol/kg). The objective is to develop a robust predictive model for CO2 solubility utilizing advanced machine learning methodologies, specifically Random Forest (RF), Gradient Boosting (GB), and an Ensemble algorithm. Data preprocessing entails standardization, outlier elimination, and the conversion of salinity to ionic strength via the Debye-H & uuml;ckel method. Additionally, hyper-parameter optimization and cross-validation are employed to enhance the robustness of the model and mitigate overfitting. Among the implemented models, the Ensemble model exhibits the best performance, statistically, achieving R-square values of 0.9916, 0.9832, and 0.9934 and mean squared error values of 0.0078, 0.0122, and 0.0056 for training, validation, and testing datasets respectively. Sensitivity analyses of feature importance indicate that pressure is the predominant factor influencing CO2 solubility, followed closely by ionic strength and temperature. Furthermore, the study identifies potassium carbonate (K2CO3) as exhibiting a notably high affinity for CO2, especially at a temperature of 353 K. Visualizing predictive trends in CO2 solubility across varying concentrations of ionic strength, temperature, and pressure substantiates the models' capacity to accurately capture the intricate interactions among these parameters. These results provide a robust and accurate framework for predicting CO2 solubility, advancing CCUS strategies, and enhancing understanding of CO2 behavior in brine systems under diverse conditions.
+C1 [Gyamfi, Gideon; Li, Xiaoli] Univ Kansas, Dept Chem & Petr Engn, Lawrence, KS 66045 USA.
+C3 University of Kansas
+RP Li, XL (corresponding author), Univ Kansas, Dept Chem & Petr Engn, Lawrence, KS 66045 USA.
+EM li.xiaoli@ku.edu
+FU University of Kansas School of Engineering through the ASCEND funding program
+CR Ilemobayo JA, 2024, JOURNAL OF ENGINEERING RESEARCH AND REPORTS, V26, P388, DOI 10.9734/jerr/2024/v26i61188
+   Abas N, 2014, J CO2 UTIL, V8, P39, DOI 10.1016/j.jcou.2014.06.005
+   Abdelbasset WK, 2022, J MOL LIQ, V359, P0, DOI 10.1016/j.molliq.2022.119306
+   Abourehab MAS, 2022, J MOL LIQ, V365, P0, DOI 10.1016/j.molliq.2022.120103
+   Ahmadi P, 2018, FLUID PHASE EQUILIBR, V463, P80, DOI 10.1016/j.fluid.2018.02.002
+   Al Ghafri SZS, 2015, J CHEM ENG DATA, V60, P3670, DOI 10.1021/acs.jced.5b00618
+   Altmann A, 2010, BIOINFORMATICS, V26, P1340, DOI 10.1093/bioinformatics/btq134
+   Anderson GK, 2002, J CHEM ENG DATA, V47, P219, DOI 10.1021/je015518c
+   Unknown -, 1900, RANDOM FORESTS, V0, P0
+   Unknown -, 2021, MACHINE LEARNING GUIDE FOR OIL AND GAS USING PYTHON, V0, P0
+   Unknown -, 2025, G741G218.G741G218/EXPERIMENTAL-CO2-SOLUBILITY-DATA, V0, P0
+   Bamberger A, 2000, J SUPERCRIT FLUID, V17, P97, DOI 10.1016/S0896-8446(99)00054-6
+   Bastami A, 2014, PETROL SCI, V11, P569, DOI 10.1007/s12182-014-0373-1
+   Bergstra J, 2012, J MACH LEARN RES, V13, P281
+   Bermejo MD, 2005, FLUID PHASE EQUILIBR, V238, P220, DOI 10.1016/j.fluid.2005.10.006
+   Besharati Z, 2025, MODEL EARTH SYST ENV, V11, P0, DOI 10.1007/s40808-024-02201-1
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Butcher Elderfield HSS, 1992, GLOBAL BIOGEOCHEMICAL CYCLES. XVI + 379, V130, P408, DOI 10.1017/S0016756800020379
+   Carvalho PJ, 2015, FLUID PHASE EQUILIBR, V388, P100, DOI 10.1016/j.fluid.2014.12.043
+   Chapoy A, 2004, IND ENG CHEM RES, V43, P1794, DOI 10.1021/ie034232t
+   Chen B, 2019, ENERGY, V183, P291, DOI 10.1016/j.energy.2019.06.142
+   Chen H, 2021, FUEL, V290, P0, DOI 10.1016/j.fuel.2020.120048
+   Chen JG, 2017, IEEE T PARALL DISTR, V28, P919, DOI 10.1109/TPDS.2016.2603511
+   Choptiany JMH, 2015, INTERNATIONAL JOURNAL OF DECISION SUPPORT SYSTEMS, V1, P349, DOI 10.1504/ijdss.2015.074543
+   CORTI HR, 1990, IND ENG CHEM RES, V29, P1043, DOI 10.1021/ie00102a014
+   Dalmolin I, 2006, FLUID PHASE EQUILIBR, V245, P193, DOI 10.1016/j.fluid.2006.04.017
+   DellEra C, 2010, FLUID PHASE EQUILIBR, V293, P101, DOI 10.1016/j.fluid.2010.02.035
+   Department of Mathematics StAnn’s College for Women Hyderabad Telangana State India, 2019, OPEN JOURNAL OF MATHEMATICAL SCIENCES, V3, P289, DOI 10.30538/oms2019.0072
+   dos Santos PF, 2021, J CHEM ENG DATA, V66, P4166, DOI 10.1021/acs.jced.1c00347
+   Du XJ, 2025, ENERGIES, V18, P0, DOI 10.3390/en18051202
+   DUAN ZH, 1992, GEOCHIM COSMOCHIM AC, V56, P1451, DOI 10.1016/0016-7037(92)90215-5
+   ELLIS AJ, 1963, AM J SCI, V261, P47, DOI 10.2475/ajs.261.1.47
+   Friedman JH, 2001, ANN STAT, V29, P1189, DOI 10.1214/aos/1013203451
+   Gerstenberger M, 2009, ENRGY PROCED, V1, P2495, DOI 10.1016/j.egypro.2009.02.012
+   Ghasemian N, 2013, J DISPER SCI TECHNOL, V34, P347, DOI 10.1080/01932691.2012.667293
+   Gilbert K, 2016, APPL GEOCHEM, V67, P59, DOI 10.1016/j.apgeochem.2016.02.002
+   Guo HR, 2016, J CHEM ENG DATA, V61, P466, DOI 10.1021/acs.jced.5b00651
+   Han JM, 2009, J IND ENG CHEM, V15, P212, DOI 10.1016/j.jiec.2008.09.012
+   Han XY, 2011, J CHEM ENG DATA, V56, P1213, DOI 10.1021/je1011168
+   Hanor JS, 1994, GEOFLUIDS, V0, PP151, DOI 10.1144/GSL.SP.1994.078.01.13
+   He HK, 2021, J PETROL SCI ENG, V203, P0, DOI 10.1016/j.petrol.2021.108685
+   HE SL, 1993, GEOCHIM COSMOCHIM AC, V57, P3533, DOI 10.1016/0016-7037(93)90137-L
+   Hemmati-Sarapardeh A, 2020, ENERG FUEL, V34, P4761, DOI 10.1021/acs.energyfuels.0c00114
+   Hoballah R, 2017, ON THE SOLUBILITY OF ACID AND SOUR GASES IN WATER AND BRINES UNDER RESERVOIR CONDITIONS, V0, P0, DOI DOI 10.25560/61397
+   Hou SX, 2013, J SUPERCRIT FLUID, V78, P78, DOI 10.1016/j.supflu.2013.03.022
+   Hou SX, 2013, J SUPERCRIT FLUID, V73, P87, DOI 10.1016/j.supflu.2012.11.011
+   Huwaimel B, 2023, J MOL LIQ, V376, P0, DOI 10.1016/j.molliq.2023.121471
+   Jeon PR, 2021, J CO2 UTIL, V47, P0, DOI 10.1016/j.jcou.2021.101500
+   Jurnal Terapan, 2020, ANALISIS VARIATION K, V0, P0
+   Kamps APS, 2007, J CHEM ENG DATA, V52, P817, DOI 10.1021/je060430q
+   Kharaka YK, 1992, ISOTOPIC SIGNATURES, V0, PP411, DOI 10.1007/BFB0009873
+   Khoshraftar Z, 2023, CASE STUDIES IN CHEMICAL AND ENVIRONMENTAL ENGINEERING, V7, P100338, DOI 10.1016/j.cscee.2023.100338
+   Kiepe J, 2004, IND ENG CHEM RES, V43, P3216, DOI 10.1021/ie0401298
+   Kiepe J, 2002, IND ENG CHEM RES, V41, P4393, DOI 10.1021/ie020154i
+   KING MB, 1992, J SUPERCRIT FLUID, V5, P296, DOI 10.1016/0896-8446(92)90021-B
+   Koschel D, 2006, FLUID PHASE EQUILIBR, V247, P107, DOI 10.1016/j.fluid.2006.06.006
+   Kwaku Danso D, 2024, UNC RES TECHN C 1719, V0, P0, DOI DOI 10.15530/URTEC-2024-4033482
+   Li MXL, 2024, CASE STUD THERM ENG, V57, P0, DOI 10.1016/j.csite.2024.104326
+   Li XL, 2013, IND ENG CHEM RES, V52, P13829, DOI 10.1021/ie401365n
+   Liu B, 2021, ENERGIES, V14, P0, DOI 10.3390/en14217222
+   Liu XL, 2025, PETROL EXPLOR DEV+, V52, P196, DOI 10.1016/S1876-3804(25)60014-0
+   Liu Y, 2004, LECT NOTES COMPUT SC, V3174, P962
+   Liu YH, 2012, J CHEM ENG DATA, V57, P1928, DOI 10.1021/je3000958
+   Liu YH, 2011, J SUPERCRIT FLUID, V56, P125, DOI 10.1016/j.supflu.2010.12.003
+   Longe P, 2025, GEOENERGY SCI ENG, V246, P0, DOI 10.1016/j.geoen.2024.213559
+   Longe PO, 2024, ENERGIES, V17, P0, DOI 10.3390/en17225723
+   Longe PO, 2024, ENERG FUEL, V38, P22031, DOI 10.1021/acs.energyfuels.4c03376
+   Mahmoudzadeh A, 2024, SCI REP-UK, V14, P0, DOI 10.1038/s41598-024-63159-9
+   Malinin SD, 1959, SYSTEM WATER-CARBON DIOXIDE AT HIGH TEMPERATURES AND PRESSURES, V3, P0
+   Martín A, 2009, FLUID PHASE EQUILIBR, V286, P162, DOI 10.1016/j.fluid.2009.08.010
+   Menad NA, 2019, J CO2 UTIL, V33, P83, DOI 10.1016/j.jcou.2019.05.009
+   Messabeb H, 2017, J CHEM ENG DATA, V62, P4228, DOI 10.1021/acs.jced.7b00591
+   MILLERO FJ, 1995, GEOCHIM COSMOCHIM AC, V59, P661, DOI 10.1016/0016-7037(94)00354-O
+   Mohammadian E, 2015, J CHEM ENG DATA, V60, P2042, DOI 10.1021/je501172d
+   Molnar C, 2020, COMM COM INF SC, V1323, P417, DOI 10.1007/978-3-030-65965-3_28
+   Muromachi S, 2015, J CHEM THERMODYN, V85, P94, DOI 10.1016/j.jct.2015.01.008
+   Nakhaei-Kohani R, 2022, J MOL LIQ, V367, P0, DOI 10.1016/j.molliq.2022.120445
+   Nakhaei-Kohani R, 2022, SCI REP-UK, V12, P0, DOI 10.1038/s41598-022-07393-z
+   Natekin A, 2013, FRONT NEUROROBOTICS, V7, P0, DOI 10.3389/fnbot.2013.00021
+   Ngai EWT, 2011, DECIS SUPPORT SYST, V50, P559, DOI 10.1016/j.dss.2010.08.006
+   NIGHSWANDER JA, 1989, J CHEM ENG DATA, V34, P355, DOI 10.1021/je00057a027
+   oreilly, 1900, AND TENSORFLOW, Vsecond, P0
+   Oxburgh ER, 1980, MINERAL. MAG, V43, P827, DOI 10.1180/minmag.1980.043.330.25
+   Peng DY, 1980, THERMODYNAMICS OF AQUEOUS SYSTEMS WITH INDUSTRIAL APPLICATIONS, V133, P393, DOI 10.1021/BK-1980-0133.CH020
+   Campos CEPS, 2009, J CHEM ENG DATA, V54, P2881, DOI 10.1021/je800966f
+   Portier S, 2005, CHEM GEOL, V217, P187, DOI 10.1016/j.chemgeo.2004.12.007
+   Potoff JJ, 2001, AICHE J, V47, P1676, DOI 10.1002/aic.690470719
+   Poulain M, 2019, J CHEM ENG DATA, V64, P2497, DOI 10.1021/acs.jced.9b00023
+   Probst P, 2019, WIRES DATA MIN KNOWL, V9, P0, DOI 10.1002/widm.1301
+   PRUTTON CF, 1945, J AM CHEM SOC, V67, P1550, DOI 10.1021/ja01225a047
+   Pytkowicz RM, 1975, CHEMICAL OCEANOGRAPHY, V21, P345, DOI 10.4319/lo.1976.21.2.0345
+   Qin JF, 2008, J CHEM ENG DATA, V53, P1246, DOI 10.1021/je700473e
+   Raji M, 2019, J MOL LIQ, V283, P804, DOI 10.1016/j.molliq.2019.02.090
+   Rostami A, 2018, FUEL, V214, P73, DOI 10.1016/j.fuel.2017.10.121
+   Rostami A, 2017, FUEL, V210, P768, DOI 10.1016/j.fuel.2017.08.110
+   Ruffine L, 2010, J CHEM THERMODYN, V42, P605, DOI 10.1016/j.jct.2009.11.019
+   RUMPF B, 1993, BER BUNSEN PHYS CHEM, V97, P85, DOI 10.1002/bbpc.19930970116
+   RUMPF B, 1994, J SOLUTION CHEM, V23, P431, DOI 10.1007/BF00973113
+   Safari A, 2019, ENERGY SCI ENG, V7, P1075, DOI 10.1002/ese3.380
+   SAKO T, 1991, J CHEM ENG JPN, V24, P449, DOI 10.1252/jcej.24.449
+   Serpa FS, 2013, J CHEM ENG DATA, V58, P3464, DOI 10.1021/je400736w
+   Serra A, 2018, WIRES DATA MIN KNOWL, V8, P0, DOI 10.1002/widm.1248
+   Servio P, 2001, FLUID PHASE EQUILIBR, V190, P127, DOI 10.1016/S0378-3812(01)00598-2
+   Shaikhina T, 2019, BIOMED SIGNAL PROCES, V52, P456, DOI 10.1016/j.bspc.2017.01.012
+   Shokrollahi A, 2024, SUSTAINABILITY-BASEL, V16, P0, DOI 10.3390/su16177273
+   Shu C, 2004, WATER RESOUR RES, V40, P0, DOI 10.1029/2003WR002816
+   Smith A, 2024, INT J GREENH GAS CON, V137, P0, DOI 10.1016/j.ijggc.2024.104220
+   TAKENOUCHI S, 1965, AM J SCI, V263, P445, DOI 10.2475/ajs.263.5.445
+   Tang Y, 2015, FLUID PHASE EQUILIBR, V386, P56, DOI 10.1016/j.fluid.2014.11.025
+   Thanh HV, 2022, ENERGY, V239, P0, DOI 10.1016/j.energy.2021.122457
+   Todheide K, 1963, J PHYS CHEM, V37, P387
+   Tong DL, 2013, J CHEM ENG DATA, V58, P2116, DOI 10.1021/je400396s
+   Valtz A, 2004, FLUID PHASE EQUILIBR, V226, P333, DOI 10.1016/j.fluid.2004.10.013
+   van der Weg PB, 2009, J COLLOID INTERF SCI, V339, P542, DOI 10.1016/j.jcis.2009.07.014
+   Wang Z, 2013, ENVIRON SCI TECHNOL, V47, P1407, DOI 10.1021/es303842j
+   WHITE DE, 1963, US GEOLOGICAL SURVEY, V0, P0, DOI DOI 10.3133/PP440F
+   Wiebe R, 1940, J AM CHEM SOC, V62, P815, DOI 10.1021/ja01861a033
+   Wiebe R, 1939, J AM CHEM SOC, V61, P315, DOI 10.1021/ja01871a025
+   Wiebe R, 1941, CHEM REV, V29, P475, DOI 10.1021/cr60094a004
+   Yan W, 2011, INT J GREENH GAS CON, V5, P1460, DOI 10.1016/j.ijggc.2011.08.004
+   Yang Y, 2024, PETROL SCI, V21, P3340, DOI 10.1016/j.petsci.2024.04.018
+   Zhao HN, 2015, AICHE J, V61, P2286, DOI 10.1002/aic.14825
+   Zhao HN, 2015, GEOCHIM COSMOCHIM AC, V149, P165, DOI 10.1016/j.gca.2014.11.004
+   Zhou Y, 2020, ENERGY, V204, P0, DOI 10.1016/j.energy.2020.117894
+NR 132
+TC 0
+Z9 0
+U1 10
+U2 10
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2949-8929
+EI 2949-8910
+J9 GEOENERGY SCI ENG
+JI Geoenergy Sci. Eng.
+PD FEB 15
+PY 2026
+VL 257
+IS 
+BP 
+EP 
+DI 10.1016/j.geoen.2025.214175
+PG 20
+WC Energy & Fuels; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 7CK3B
+UT WOS:001567696600001
+DA 2025-11-21
+ER
+

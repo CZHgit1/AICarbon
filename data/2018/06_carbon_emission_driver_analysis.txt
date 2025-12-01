@@ -1,0 +1,192 @@
+PT J
+AU Woo, TH
+   Cho, HS
+AF Woo, Tae Ho
+   Cho, Hyo Sung
+TI Nonlinear modelling for greenhouse effect related to global warming incorporated with the nuclear industry using neural networking theory
+SO INTERNATIONAL JOURNAL OF GLOBAL WARMING
+LA English
+DT Article
+DE greenhouse; global warming; nuclear; power; neural networking
+ID artificial-intelligence; population; emissions
+AB The greenhouse effect related global warming is studied by the artificial intelligence (AI) based neural networking modelling. The stochastic impacts by regression on population, affluence and technology (STIRPAT) model is applied to the carbon dioxide gas based greenhouse effect. It is shown of the energy factor where four sources as oil, coal, nuclear, and renewable are connected in which the values are cumulative for comparisons with nuclear energy. The values are higher in the case of 'without nuclear'. The highest values are 1,808.78 and 6,609.68 respectively which are dimensionless and means for the global warming effectiveness. It is also described as the global warming factor for comparisons with nuclear power in which the values show higher in the later time. The study shows the dynamical transients of the negative effects in the case of the nuclear energy portion missing. Therefore, the effect of the nuclear part should be considered as one of major energy sources of a nation.
+C1 [Woo, Tae Ho] Cyber Univ Korea, Dept Mech & Control Engn, 106 Bukchon Ro, Seoul 03051, South Korea.
+   [Cho, Hyo Sung] Yonsei Univ, Dept Radiat Convergence Engn, Wonju 26493, South Korea.
+C3 Yonsei University
+RP Woo, TH (corresponding author), Cyber Univ Korea, Dept Mech & Control Engn, 106 Bukchon Ro, Seoul 03051, South Korea.
+EM thwoo@cuk.edu; hscho1@yonsei.ac.kr
+CR Abubakar A, 2016, INT J GLOBAL WARM, V9, P129, DOI 10.1504/IJGW.2016.074952
+   Ascione F, 2017, ENERG BUILDINGS, V153, P150, DOI 10.1016/j.enbuild.2017.08.004
+   Chenar SS, 2018, ENVIRON INT, V111, P212, DOI 10.1016/j.envint.2017.11.032
+   Dietz T, 1997, P NATL ACAD SCI USA, V94, P175, DOI 10.1073/pnas.94.1.175
+   Graves A, 2009, IEEE T PATTERN ANAL, V31, P855, DOI 10.1109/TPAMI.2008.137
+   Gupta D, 2017, FUNDAMENTALS OF DEEP LEARNING-ACTIVATION FUNCTIONS AND THEIR USE, V0, P0
+   Jha SK, 2017, RENEW SUST ENERG REV, V77, P297, DOI 10.1016/j.rser.2017.04.018
+   Lin S, 2017, SUSTAINABILITY, V9, P1
+   Navazi A, 2017, INT J GLOBAL WARM, V11, P373, DOI 10.1504/ijgw.2017.10004272
+   Riti JS, 2017, J CLEAN PROD, V148, P882, DOI 10.1016/j.jclepro.2017.02.037
+   Sak H, 2014, INTERSPEECH, V0, P338
+   SDS, 2017, INTRO SYSTEM DYNAMIC, V0, P0
+   Ventana Systems, 2017, VENS, V0, P0
+   York R, 2003, AM SOCIOL REV, V68, P279, DOI 10.2307/1519769
+   Zhang CG, 2016, RENEW SUST ENERG REV, V65, P1018, DOI 10.1016/j.rser.2016.06.083
+NR 15
+TC 5
+Z9 5
+U1 1
+U2 23
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA
+PA WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215 GENEVA, SWITZERLAND
+SN 1758-2083
+EI 1758-2091
+J9 INT J GLOBAL WARM
+JI Int. J. Glob. Warm.
+PD JUN 15
+PY 2018
+VL 16
+IS 3
+BP 337
+EP 346
+DI 
+PG 10
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA GZ5OS
+UT WOS:000449474900005
+DA 2025-11-05
+ER
+
+PT J
+AU Yu, Q
+   Liang, R
+   Guo, ZZ
+   Zhu, XF
+   Yao, ZH
+AF Yu Quan
+   Liang Rui
+   Guo Zengzeng
+   Zhu Xiaofei
+   Yao Zonghan
+TI Measurement and Analysis on the Law of Spatial Distribution of Particles at the Intersection of Urban Roads in Beijing and Ecological Concerns
+SO EKOLOJI
+LA English
+DT Article
+DE ecological road; diffusion model; intersections; particles; spatial distribution; ecological concerns
+ID dispersion
+AB Roads are one of the most important factors affecting the environmental life within an urban area. Roads physically replace wildlife habitat and often reduce life's quality nearby, fragment the remaining habitat, and cause increased mortality through vehicle collisions. Although road ecology is a growing field of study, relatively little of this research, and relatively few mitigation projects, has been done in urban landscapes. Road projects are generally intended to improve the economic and social welfare of people. But for all the positive aspects of road projects, they may also have significant negative impacts on nearby communities and the natural environment. Road ecology is the study of the ecological effects (both positive and negative) of roads and highways (public roads). These effects may include local effects, such as on noise, water pollution, habitat destruction/disturbance and local air quality; and wider effects such as habitat fragmentation, ecosystem degradation, and climate change from vehicle emissions. The design, construction and management of roads, parking, spatial distribution of the intersections and other related facilities as well as the design and regulation of vehicles can change their effect. Roads can have both negative and positive effects on air quality: a) Negative effects - Air pollution from fossil (and some biofuel) powered vehicles can occur wherever vehicles are used and are of particular concern in congested city street conditions and other low speed circumstances. Emissions include particulate emissions from diesel engines, volatile organic compounds, carbon monoxide and various other hazardous air pollutants including benzene. Concentrations of air pollutants and adverse respiratory health effects are greater near the road than at some distance away from the road. Road dust kicked up by vehicles may trigger allergic reactions. Carbon dioxide is non-toxic to humans but is a major greenhouse gas and motor vehicle emissions are an important contributor to the growth of CO2 concentrations in the atmosphere and therefore to global warming; b) Positive effects - The construction of new roads which divert traffic from built-up areas can deliver improved air quality to the areas relieved of a significant amount of traffic. The Environmental and Social Impact Assessment Study carried out for the development of the roads estimated that it would result in improved air quality in Beijing city centre. In this study, Combing the traffic characteristics at the intersection of urban road and the use of environmental protection facilities to set up an environmental data collection scheme at the intersection of urban road in Beijing, then combining the conditions of the facilities and the surrounding to determine the point of monitoring, frequency of monitoring, monitoring index and monitoring method environment was necessary. By analysing the concentration of particles at different monitoring points, the mean value and variance of the hourly concentration were compared and analysed. By further analysing, the correlation between particle concentration and traffic characteristics and fitting estimation of data, the spatial diffusion model of particulates at the intersection was established. Finally the distribution of particles at the intersection of urban roads is obtained. That is the distribution of particulate matter on the cross section of intersection was higher in the centre and then decreased to the two sides. The higher the concentration of particulate matter at the point near the intersection parking line, the greater the fluctuation. The fluctuation of particle concentration on the sidewalk is higher than that on the driveway. The regularity of PM2.5 in particulate matter is consistent with that of PM10 in particulate matter.
+C1 [Yu Quan; Liang Rui; Guo Zengzeng; Zhu Xiaofei; Yao Zonghan] Beijing Univ Technol, Beijing Key Lab Traff Engn, 100 Pingleyuan St, Beijing 100124, Peoples R China.
+C3 Beijing University of Technology
+RP Yu, Q (corresponding author), Beijing Univ Technol, Beijing Key Lab Traff Engn, 100 Pingleyuan St, Beijing 100124, Peoples R China.
+CR Benson PE, 1984, CARBON MONOXIDE, V0, P0
+   Cai Hao, 2010, ACTA SCIENTIARUM NATURALIUM UNIVERSITATIS PEKINENSIS, V46, P319
+   CARRUTHERS DJ, 1994, J WIND ENG IND AEROD, V52, P139, DOI 10.1016/0167-6105(94)90044-2
+   [陈璐 Chen Lu], 2013, 现代化工 MODERN CHEMICAL INDUSTRY, V33, P5
+   Li XG, 2001, J. TRAFFIC TRANSPORT. ENG., V2001, P87
+   Ma Yintao, 2008, ACTA SCIENTIARUM NATURALIUM UNIVERSITATIS PEKINENSIS, V44, P308
+   Snyder MG, 2013, ATMOS ENVIRON, V77, P748, DOI 10.1016/j.atmosenv.2013.05.074
+   Song Xiang-Yu, 2006, HUANJING KEXUE, V27, P1041
+   Vincent AST, 2011, EPIDEMIOLOGY, V22, PS204, DOI 10.1097/01.ede.0000392308.94118.e7
+   Xie Shao-dong, 2006, HUANJING KEXUE, V27, P415
+   Yang W, 2018, ENV SCI, V13, P1
+NR 11
+TC 1
+Z9 1
+U1 2
+U2 28
+PU FOUNDATION ENVIRONMENTAL PROTECTION & RESEARCH-FEPR
+PI BASMANE KONAK-IZMIR
+PA MURESELPASA BULVARI 1265 SOKAK 10-10, H MEVLUT SUSUZLU IS MERKESI, PK 63, BASMANE KONAK-IZMIR, 35230, TURKEY
+SN 1300-1361
+EI 
+J9 EKOLOJI
+JI Ekoloji
+PD JUN 15
+PY 2018
+VL 27
+IS 106
+BP 951
+EP 957
+DI 
+PG 7
+WC Ecology
+SC Environmental Sciences & Ecology
+GA HF2NR
+UT WOS:000454073800114
+DA 2025-11-05
+ER
+
+PT J
+AU Graham, L
+   Risk, D
+AF Graham, Laura
+   Risk, David
+TI Explaining CO2 fluctuations observed in snowpacks
+SO BIOGEOSCIENCES
+LA English
+DT Article
+ID radon entry; pressure; respiration; diffusion; ecosystem; driven; efflux; winter
+AB Winter soil carbon dioxide (CO2) respiration is a significant and understudied component of the global carbon (C) cycle. Winter soil CO2 fluxes can be surprisingly variable, owing to physical factors such as snowpack properties and wind. This study aimed to quantify the effects of advective transport of CO2 in soil-snow systems on the subdiurnal to diurnal (hours to days) timescale, use an enhanced diffusion model to replicate the effects of CO2 concentration depletions from persistent winds, and use a model-measure pairing to effectively explore what is happening in the field. We took continuous measurements of CO2 concentration gradients and meteorological data at a site in the Cape Breton Highlands of Nova Scotia, Canada, to determine the relationship between wind speeds and CO2 levels in snowpacks. We adapted a soil CO2 diffusion model for the soil-snow system and simulated stepwise changes in transport rate over a broad range of plausible synthetic cases. The goal was to mimic the changes we observed in CO2 snowpack concentration to help elucidate the mechanisms (diffusion, advection) responsible for observed variations. On subdiurnal to diurnal timescales with varying winds and constant snow levels, a strong negative relationship between wind speed and CO2 concentration within the snowpack was often identified. Modelling clearly demonstrated that diffusion alone was unable to replicate the high-frequency CO2 fluctuations, but simulations using above-atmospheric snowpack diffusivities (simulating advective transport within the snowpack) reproduced snow CO2 changes of the observed magnitude and speed. This confirmed that wind-induced ventilation contributed to episodic pulsed emissions from the snow surface and to suppressed snowpack concentrations. This study improves our understanding of winter CO2 dynamics to aid in continued quantification of the annual global C cycle and demonstrates a preference for continuous wintertime CO2 flux measurement systems.
+C1 [Graham, Laura; Risk, David] St Francis Xavier Univ, Dept Earth Sci, Antigonish, NS B2G 2W5, Canada.
+C3 Saint Francis Xavier University - Canada
+RP Graham, L (corresponding author), St Francis Xavier Univ, Dept Earth Sci, Antigonish, NS B2G 2W5, Canada.
+EM grahamlau7@gmail.com
+CR Unknown -, 2014, CLIMATE CHANGE 2014, V80, P1
+   Barry RG, 1992, ENCY EARTH SYSTEM SC, V0, P517
+   Bowling DR, 2011, J GEOPHYS RES-BIOGEO, V116, P0, DOI 10.1029/2011JG001722
+   Bowling DR, 2009, BIOGEOCHEMISTRY, V95, P37, DOI 10.1007/s10533-008-9233-4
+   Brooks PD, 1996, BIOGEOCHEMISTRY, V32, P93, DOI 10.1007/BF00000354
+   COXSON DS, 1987, SOIL BIOL BIOCHEM, V19, P49, DOI 10.1016/0038-0717(87)90125-8
+   Dyer JL, 2006, GEOPHYS RES LETT, V33, P0, DOI 10.1029/2006GL027258
+   Fahnestock JT, 1999, GLOBAL BIOGEOCHEM CY, V13, P775, DOI 10.1029/1999GB900006
+   Flanagan PW, 1980, AN ARCTIC ECOSYSTEM. THE COASTAL TUNDRA AT BARROW, V0, P291
+   Graham L, 2018, DATASET CO2 CONCENTR, V0, P0
+   Grogan P, 2006, GLOBAL CHANGE BIOL, V12, P1479, DOI 10.1111/j.1365-2486.2006.01184.x
+   Janssens IA, 2001, AGR FOREST METEOROL, V106, P61, DOI 10.1016/S0168-1923(00)00177-5
+   KELLEY JJ, 1968, ECOLOGY, V49, P358, DOI 10.2307/1934472
+   Larsen KS, 2007, GLOBAL CHANGE BIOL, V13, P1498, DOI 10.1111/j.1365-2486.2007.01370.x
+   Latimer RNC, 2016, BIOGEOSCIENCES, V13, P2111, DOI 10.5194/bg-13-2111-2016
+   Liptzin D, 2009, BIOGEOCHEMISTRY, V95, P151, DOI 10.1007/s10533-009-9303-2
+   MASSCHELEIN WJ, 1995, WATER SUPP, V13, P9
+   Massman WJ, 2006, J GEOPHYS RES-BIOGEO, V111, P0, DOI 10.1029/2006JG000163
+   Massman WJ, 1997, J GEOPHYS RES-ATMOS, V102, P18851, DOI 10.1029/97JD00844
+   McDowell NG, 2000, TREE PHYSIOL, V20, P745
+   Monson RK, 2006, GLOBAL BIOGEOCHEM CY, V20, P0, DOI 10.1029/2005GB002684
+   Nickerson N, 2009, J GEOPHYS RES-BIOGEO, V114, P0, DOI 10.1029/2008JG000766
+   Raich JW, 2002, GLOBAL CHANGE BIOL, V8, P800, DOI 10.1046/j.1365-2486.2002.00511.x
+   Rains FA, 2016, COLD REG SCI TECHNOL, V121, P16, DOI 10.1016/j.coldregions.2015.10.003
+   Risk D, 2011, AGR FOREST METEOROL, V151, P1622, DOI 10.1016/j.agrformet.2011.06.020
+   Robinson AL, 1997, ENVIRON SCI TECHNOL, V31, P1742, DOI 10.1021/es960715v
+   Roland M, 2015, J GEOPHYS RES-BIOGEO, V120, P502, DOI 10.1002/2014JG002788
+   Scharlemann JPW, 2014, CARBON MANAG, V5, P81, DOI 10.4155/CMT.13.77
+   Seok B, 2009, BIOGEOCHEMISTRY, V95, P95, DOI 10.1007/s10533-009-9302-3
+   Trenberth KE, 2011, CLIM RES, V47, P123, DOI 10.3354/cr00953
+   TSANG YW, 1992, J GEOPHYS RES-SOL EA, V97, P9161, DOI 10.1029/92JB00707
+   Webb EE, 2016, J GEOPHYS RES-BIOGEO, V121, P249, DOI 10.1002/2014JG002795
+NR 32
+TC 10
+Z9 11
+U1 1
+U2 14
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1726-4170
+EI 1726-4189
+J9 BIOGEOSCIENCES
+JI Biogeosciences
+PD FEB 9
+PY 2018
+VL 15
+IS 3
+BP 847
+EP 859
+DI 10.5194/bg-15-847-2018
+PG 13
+WC Ecology; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA FV6PX
+UT WOS:000424704700004
+DA 2025-11-06
+ER
+

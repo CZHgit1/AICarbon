@@ -1,0 +1,80 @@
+PT J
+AU Deleawe, S
+   Kusznir, J
+   Lamb, B
+   Cook, DJ
+AF Deleawe, Seun
+   Kusznir, Jim
+   Lamb, Brian
+   Cook, Diane J.
+TI Predicting air quality in smart environments
+SO JOURNAL OF AMBIENT INTELLIGENCE AND SMART ENVIRONMENTS
+LA English
+DT Article
+DE Data mining; machine learning; smart environments; activity recognition; air quality
+AB The pervasive sensing technologies found in smart environments offer unprecedented opportunities for monitoring and assisting the individuals who live and work in these spaces. As aspect of daily life that is often overlooked in maintaining a healthy lifestyle is the air quality of the environment. In this paper we investigate the use of machine learning technologies to predict CO2 levels as an indicator of air quality in smart environments. We introduce techniques for collecting and analyzing sensor information in smart environments and analyze the correlation between resident activities and air quality levels. The effectiveness of our techniques is evaluated using three physical smart environment testbeds.
+C1 [Kusznir, Jim; Lamb, Brian; Cook, Diane J.] Washington State Univ, Sch Elect Engn & Comp Sci, Pullman, WA 99164 USA.
+   [Deleawe, Seun] Univ N Texas, Dept Comp Sci & Engn, Denton, TX 76203 USA.
+C3 Washington State University; University of North Texas System; University of North Texas Denton
+RP Cook, DJ (corresponding author), Washington State Univ, Sch Elect Engn & Comp Sci, Pullman, WA 99164 USA.
+EM cook@eecs.wsu.edu
+FU National Science Foundation [IIS-0647705]; Direct For Computer & Info Scie & Enginr; Div Of Information & Intelligent Systems [0961234] Funding Source: National Science Foundation; Division Of Computer and Network Systems; Direct For Computer & Info Scie & Enginr [0852172, 0914371] Funding Source: National Science Foundation
+CR Abowd G, 2004, SMART ENVIRONMENTS: TECHNOLOGY, V0, P0
+   Unknown -, 2007, APPL REV, V0, P0
+   Unknown -, 2002, AAAI 2002 WORKSH AUT, V0, P0
+   Unknown -, 2004, PERVASIVE COMPUTING, V0, P0
+   Barger TS, 2005, IEEE T SYST MAN CY A, V35, P22, DOI 10.1109/TSMCA.2004.838474
+   Brdiczka O, 2007, LECT NOTES COMPUT SC, V4692, P363
+   Cook D, 2004, SMART ENVIRONMENTS: TECHNOLOGY, V0, Protocols and Applications (Wiley Series on Parallel and Distributed Computing)
+   Cook DJ, 2009, METHOD INFORM MED, V48, P480, DOI 10.3414/ME0592
+   Demiris George, 2008, TECHNOL HEALTH CARE, V16, P111
+   Doctor F, 2005, IEEE T SYST MAN CY A, V35, P55, DOI 10.1109/TSMCA.2004.838488
+   [Greenwald Mathew Associates Inc Associates Inc], 2003, THESE FOUR WALLS ... AMERICANS 45+ TALK ABOUT HOME AND COMMUNITY ..., V0, P0
+   GRISWOLD WG, 2004, IEEE COMPUT, V37, P73
+   GROSS J, 2007, NY TIMES 0814, V0, P0
+   Helal S, 2005, COMPUTER, V38, P50, DOI 10.1109/MC.2005.107
+   Jones AP, 1999, ATMOS ENVIRON, V33, P4535, DOI 10.1016/S1352-2310(99)00272-1
+   LARSON C, 2007, NY TIMES 0204, V0, P0
+   Liao L, 2005, 19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05), V0, P773
+   Maurer U, 2006, BSN 2006: INTERNATIONAL WORKSHOP ON WEARABLE AND IMPLANTABLE BODY SENSOR NETWORKS, V0, P113
+   Mihailidis A, 2004, NEUROPSYCHOL REHABIL, V14, P135, DOI 10.1080/09602010343000156
+   Philipose M, 2004, IEEE PERVAS COMPUT, V3, P50, DOI 10.1109/MPRV.2004.7
+   Pollack ME, 2005, AI MAG, V26, P9
+   Rashidi P, 2009, IEEE T SYST MAN CY A, V39, P949, DOI 10.1109/TSMCA.2009.2025137
+   Rialle V, 2008, METHOD INFORM MED, V47, P63, DOI 10.3414/ME9102
+   Robinson J, 1995, NATL HUMAN ACTIVITY, V0, P0
+   Sanchez D, 2008, IEEE INTELL SYST, V23, P50, DOI 10.1109/MIS.2008.18
+   Singla Geetika, 2009, INT J BIOSCI PSYCHIATR TECHNOL IJBSPT, V1, P25
+   van Kasteren T, 2008, PROCEEDINGS OF THE 10TH INTERNATIONAL CONFERENCE ON UBIQUITOUS COMPUTING (UBICOMP 2008), V0, PP1, DOI 10.1145/1409635.1409637
+   VITERBI AJ, 1967, IEEE T INFORM THEORY, V13, P260, DOI 10.1109/TIT.1967.1054010
+   Witten IanH, 1900, V3RD, V0, P0
+   WOLKOFF P, 2001, ATMOS ENVIRON, V3, P4407
+   Wren C, 2006, P WORKSH LOC CONT AW, V0, P0
+NR 34
+TC 31
+Z9 43
+U1 2
+U2 25
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1876-1364
+EI 1876-1372
+J9 J AMB INTEL SMART EN
+JI J. Ambient Intell. Smart Environ.
+PD JUN 15
+PY 2010
+VL 2
+IS 2
+BP 145
+EP 154
+DI 10.3233/AIS-2010-0061
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Telecommunications
+SC Computer Science; Telecommunications
+GA 722SP
+UT WOS:000287455200005
+PM 21617739
+DA 2025-11-05
+ER
+

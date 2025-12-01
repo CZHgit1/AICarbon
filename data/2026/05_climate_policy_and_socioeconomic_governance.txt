@@ -1,0 +1,252 @@
+PT J
+AU Gong, XB
+   Tao, XY
+   Xu, YQ
+   Kwok, HHL
+   Chen, WW
+   Shi, D
+   Li, DZ
+   Cheng, JCP
+AF Gong, Xingbo
+   Tao, Xingyu
+   Xu, Yuqing
+   Kwok, Helen H. L.
+   Chen, Weiwei
+   Shi, Da
+   Li, Dezhi
+   Cheng, Jack C. P.
+TI Automated "E"-aware data processing for construction ESG using building information modeling and large language model
+SO ADVANCED ENGINEERING INFORMATICS
+LA English
+DT Article
+DE Environmental; Social; and Governance (ESG); Large language model (LLM); Building information modelling (BIM); Carbon management; Sustainable construction
+ID design
+AB Environmental, Social and Governance (ESG) assessment and disclosure are critical for architecture, engineering, and construction (AEC) companies to market their financial results, reputational position, and compliance with regulatory requirements. Within this framework, the environmental ("E") dimension presents unique and formidable data management challenges distinct from social and governance aspects. Specifically, the complex interplay of quantitative metrics and qualitative descriptions within 'E'-aware data (e.g., measurable resource consumption alongside descriptive material sourcing practices, emissions figures coupled with compliance narratives), amplified by its sheer volume and the persistent ambiguity of environmental indicators and reporting standards, poses significant obstacles to effective 'E'-aware data disclosure. Large Language Models (LLMs) possess inherent advantages in processing such complex environmental information due to their proficient language processing and generalization capabilities. Nonetheless, the development of LLM-based methods explicitly tailored for environmental data management within the construction sector remains underexplored. To this end, this study introduces an automated, LLM-enhanced "E"-aware data processing approach for the construction industry. The innovation of this framework is threefold. First, fifteen "E"-aware indicators are meticulously crafted to align with the specific needs of construction entities. Second, an "E"-aware algorithm, integrated within the Building Information Modeling (BIM) framework, is devised to streamline the aggregation and quantification of environmental data. Third, an LLM-enhanced complex structured data processing mechanism using retrieval augmented generation (RAG) is proposed to facilitate the efficient processing of "E"-aware data pertinent to construction projects. An illustrative case study is employed to validate the feasibility and efficacy of the proposed methodology. The results demonstrate that the developed automated RAG-LLM enhanced framework significantly advances current practice by: (1) enabling standardized "E"-aware data specifications and source mapping; (2) drastically reducing processing time for large-scale ESG documentation (saving 64.4% of time); and (3) providing a robust solution for handling multi-source, multi-format data, thereby enhancing the efficiency and reliability of environmental management and ESG disclosure in the AEC industry.
+C1 [Gong, Xingbo; Xu, Yuqing; Kwok, Helen H. L.; Cheng, Jack C. P.] Hong Kong Univ Sci & Technol, Dept Civil & Environm Engn, Hong Kong, Peoples R China.
+   [Tao, Xingyu] Hong Kong Polytech Univ, Dept Bldg & Real Estate, Hong Kong, Peoples R China.
+   [Chen, Weiwei] UCL, Fac Built Environm, Bartlett Sch Sustainable Construct, London, England.
+   [Shi, Da] China State Construct Engn Hong Kong Ltd, Hong Kong, Peoples R China.
+   [Li, Dezhi] Southeast Univ, Sch Civil Engn, Dept Construct & Real Estate, Nanjing, Peoples R China.
+   [Li, Dezhi] Southeast Univ, MOE Engn Res Ctr Bldg Energy Equipment & Environm, Nanjing, Peoples R China.
+C3 Hong Kong University of Science & Technology; Hong Kong Polytechnic University; University of London; University College London; China State Construction Engineering Corporation; Southeast University - China; Southeast University - China
+RP Cheng, JCP (corresponding author), Hong Kong Univ Sci & Technol, Dept Civil & Environm Engn, Hong Kong, Peoples R China.
+EM cejcheng@ust.hk
+FU Innovation and Technology Fund, HKSAR [ITP/052/20LP]
+CR Abu-Jbara Amjad, 2013, P 2013 C N AM CHAPT, V0, P596
+   Adams LC, 2024, RADIOLOGY, V312, P0, DOI 10.1148/radiol.241191
+   Adewumi AS, 2024, CORP SOC RESP ENV MA, V31, P3779, DOI 10.1002/csr.2768
+   Albertini F, 2021, J BUILD ENG, V44, P0, DOI 10.1016/j.jobe.2021.102994
+   Alwan Z, 2022, AUTOMAT CONSTR, V142, P0, DOI 10.1016/j.autcon.2022.104505
+   Alzara M, 2023, INT J LOW-CARBON TEC, V18, P943, DOI 10.1093/ijlct/ctad053
+   Unknown -, 2024, JAIDEDAI/EASYOCR, V0, P0
+   Appannan JS, 2023, BUS STRATEG ENVIRON, V32, P1914, DOI 10.1002/bse.3227
+   Aragón A, 2024, J BUILD ENG, V96, P0, DOI 10.1016/j.jobe.2024.110418
+   Arenas NF, 2023, DEV BUILT ENVIRON, V15, P0, DOI 10.1016/j.dibe.2023.100176
+   Arslan Muhammad, 2024, PROCEDIA COMPUTER SCIENCE, V246, P5027, DOI 10.1016/j.procs.2024.09.576
+   Asif M, 2023, TECHNOL FORECAST SOC, V195, P0, DOI 10.1016/j.techfore.2023.122806
+   Battisti F, 2023, SUSTAINABILITY-BASEL, V15, P0, DOI 10.3390/su15129372
+   Biswas B, 2022, DECIS SUPPORT SYST, V159, P0, DOI 10.1016/j.dss.2022.113799
+   Bose S, 2020, VALUES AT WORK, V0, P0, DOI DOI 10.1007/978-3-030-55613-6_2
+   Bower J, 2021, GROWING IMPORTANCE OF ESG REPORTING IN THE CONSTRUCTION INDUSTRY, V0, P0
+   Carvalho JP, 2021, BUILDINGS-BASEL, V11, P0, DOI 10.3390/buildings11060246
+   Chang YP, 2024, ACM T INTEL SYST TEC, V15, P0, DOI 10.1145/3641289
+   Chen W, 2024, COMPUT IND ENG, V190, P0, DOI 10.1016/j.cie.2024.109992
+   Cheng JCP, 2022, BUILD ENVIRON, V216, P0, DOI 10.1016/j.buildenv.2022.108997
+   Cho JH, 2024, AUTOMAT CONSTR, V160, P0, DOI 10.1016/j.autcon.2024.105324
+   Construction Industry Council Hong Kong, 2024, CIC CARBON ASSESSMENT TOOL, V0, P0
+   Das M, 2021, AUTOMAT CONSTR, V126, P0, DOI 10.1016/j.autcon.2021.103682
+   Daszynska K, 2022, CORPORATE SOCIAL RESPONSIBILITY AND SUSTAINABILITY, V0, P0
+   De Sordi JO, 2021, DESIGN SCIENCE RESEARCH METHODOLOGY: THEORY DEVELOPMENT FROM ARTIFACTS, V0, PP59, DOI 10.1007/978-3-030-82156-2_5
+   Elamer AA, 2024, CORP SOC RESP ENV MA, V31, P3312, DOI 10.1002/csr.2749
+   Eskantar M, 2024, INT REV FINANC ANAL, V95, P0, DOI 10.1016/j.irfa.2024.103380
+   Fischbach J, 2023, 2023 IEEE INT C BIG, V0, PP2823, DOI 10.1109/BIGDATA59044.2023.10386488
+   Forth K, 2024, J BUILD ENG, V95, P0, DOI 10.1016/j.jobe.2024.110312
+   Forth K, 2023, ENERG BUILDINGS, V284, P0, DOI 10.1016/j.enbuild.2023.112837
+   Giese G, 2021, J PORTFOLIO MANAGE, V47, P94, DOI 10.3905/jpm.2020.1.198
+   Gong XB, 2024, SUSTAIN CITIES SOC, V114, P0, DOI 10.1016/j.scs.2024.105582
+   Goubran S, 2023, J ENVIRON MANAGE, V326, P0, DOI 10.1016/j.jenvman.2022.116552
+   GRI, 2022, LINKING THE SDGS AND THE GRI STANDARDS, V0, P0
+   Guerra BC, 2020, WASTE MANAGE, V116, P79, DOI 10.1016/j.wasman.2020.07.035
+   He CN, 2025, J MANAGE ENG, V41, P0, DOI 10.1061/JMENEA.MEENG-6444
+   HKEX, 2021, GUIDANCE ON CLIMATE DISCLOSURES, V0, P0
+   Hu AJ, 2023, SUSTAINABILITY-BASEL, V15, P0, DOI 10.3390/su151713236
+   Hu Y, 2025, P 48 INT ACM SIGIR C, V0, PP678, DOI 10.1145/3726302.3729920
+   Ionescu GH, 2019, TECHNOL ECON DEV ECO, V25, P820, DOI 10.3846/tede.2019.10294
+   Montiel-Santiago FJ, 2020, SUSTAINABILITY-BASEL, V12, P0, DOI 10.3390/su12145731
+   Joubrel M, 2023, VALUATION AND SUSTAINABILITY: A GUIDE TO INCLUDE ENVIRONMENTAL, V0, P0
+   Jung YH, 2024, AUTOMAT CONSTR, V157, P0, DOI 10.1016/j.autcon.2023.105183
+   Kastner F, 2025, BUILD ENVIRON, V267, P0, DOI 10.1016/j.buildenv.2024.112131
+   Khana H, 2023, ADVANCES IN RESEARCH IN GEOSCIENCES, V0, P0
+   Kouloukoui D, 2023, J CLEAN PROD, V414, P0, DOI 10.1016/j.jclepro.2023.137369
+   Krosnick JA, 2018, PALGRAVE HDB SURVEY, V0, PP439, DOI 10.1007/978-3-319-54395-6_53
+   LangChain, 2024, ABOUT US, V0, P0
+   Lee CL, 2024, J CLEAN PROD, V453, P0, DOI 10.1016/j.jclepro.2024.142188
+   Lee JY, 2023, EXPERT SYST APPL, V221, P0, DOI 10.1016/j.eswa.2023.119726
+   Li D, 2024, J MANAGE ENG, V40, P0, DOI 10.1061/JMENEA.MEENG-5521
+   Li J, 2025, CAD-LLAMA: LEVERAGING LARGE LANGUAGE MODELS FOR COMPUTER-AIDED DESIGN PARAMETRIC 3D MODEL GENERATION, V0, P18563
+   Li RYM, 2022, FRONT ENV SCI-SWITZ, V10, P0, DOI 10.3389/fenvs.2022.977887
+   Li XW, 2023, HUM SOC SCI COMMUN, V10, P0, DOI 10.1057/s41599-023-01724-9
+   Li Y, 2025, ENERG BUILDINGS, V334, P0, DOI 10.1016/j.enbuild.2025.115515
+   Lietz P, 2010, INT J MARKET RES, V52, P249, DOI 10.2501/S147078530920120X
+   Lin WY, 2023, SENSORS-BASEL, V23, P0, DOI 10.3390/s23062942
+   Ma YM, 2023, IND MARKET MANAG, V115, P455, DOI 10.1016/j.indmarman.2023.10.018
+   Ma Z, 2024, AUTOMAT CONSTR, V161, P0, DOI 10.1016/j.autcon.2024.105343
+   Martiny A, 2024, J CLEAN PROD, V456, P0, DOI 10.1016/j.jclepro.2024.142213
+   McIntyre SC, 1986, JOURNAL OF MANAGEMENT INFORMATION SYSTEMS, V2, P49
+   Meta, 2024, META LLAMA 3, V0, P0
+   Nuyts E, 2024, ADV ENG INFORM, V60, P0, DOI 10.1016/j.aei.2024.102443
+   OLeary D, 2025, J DECIS SYST, V34, P0, DOI 10.1080/12460125.2024.2443182
+   PARNAS DL, 1972, COMMUN ACM, V15, P1053, DOI 10.1145/361598.361623
+   Pauwels P, 2024, ADV ENG INFORM, V60, P0, DOI 10.1016/j.aei.2024.102426
+   Peeters M, 2021, J BUILD ENG, V44, P0, DOI 10.1016/j.jobe.2021.102953
+   Prieto SA, 2023, BUILDINGS-BASEL, V13, P0, DOI 10.3390/buildings13040857
+   Rahul Surabhi Adhikari, 1900, P535, V0, P0, DOI DOI 10.1109/ICCMC48092.2020.ICCMC-00099
+   Randari AH, 2015, J CLEAN PROD, V108, P757, DOI 10.1016/j.jclepro.2015.05.108
+   Rau PR, 2024, CHINA FINANC REV INT, V14, P3, DOI 10.1108/CFRI-12-2022-0260
+   Ren SL, 2024, SCI REP-UK, V14, P0, DOI 10.1038/s41598-024-76682-6
+   Ren SY, 2023, J ENVIRON MANAGE, V336, P0, DOI 10.1016/j.jenvman.2023.117618
+   Saxena A, 2023, SUSTAINABILITY-BASEL, V15, P0, DOI 10.3390/su15010309
+   Schimanski T, 2024, FINANC RES LETT, V61, P0, DOI 10.1016/j.frl.2024.104979
+   Senadheera SS, 2021, SUSTAIN ENVIRON, V7, P0, DOI 10.1080/27658511.2021.1960097
+   Shahinmoghadam M, 2024, COMPUT IND, V155, P0, DOI 10.1016/j.compind.2023.104063
+   Shashi, 2023, J CLEAN PROD, V382, P0, DOI 10.1016/j.jclepro.2022.135183
+   Shuai B, 2023, COMPUT IND, V149, P0, DOI 10.1016/j.compind.2023.103940
+   Sirimewan D, 2024, J ENVIRON MANAGE, V351, P0, DOI 10.1016/j.jenvman.2023.119908
+   Soman RK, 2020, J CONSTR ENG M, V146, P0, DOI 10.1061/(ASCE)CO.1943-7862.0001846
+   Soust-Verdaguer B, 2022, J BUILD ENG, V45, P0, DOI 10.1016/j.jobe.2021.103516
+   Tao XY, 2023, AUTOMAT CONSTR, V150, P0, DOI 10.1016/j.autcon.2023.104846
+   Temple-West P, 2019, FINANCIAL TIMES, V0, P0
+   Tuhaise VV, 2023, AUTOMAT CONSTR, V152, P0, DOI 10.1016/j.autcon.2023.104931
+   UN Environment Programme-Finance Initiative, 2004, WHO CARES WINS: THE GLOBAL COMPACT CONNECTING FINANCIAL MARKETS TO A CHANGING WORLD, V0, P0
+   United Nations Environment Programme, 2024, GLOBAL STATUS REPORT FOR BUILDINGS AND CONSTRUCTION: BEYOND FOUNDATIONS-MAINSTREAMING SUSTAINABLE SOLUTIONS TO CUT EMISSIONS FROM THE BUILDINGS SECTOR, V0, P0, DOI DOI 10.59117/20.500.11822/45095
+   Valinejadshoubi M, 2024, AUTOMAT CONSTR, V157, P0, DOI 10.1016/j.autcon.2023.105155
+   van Duuren E, 2016, J BUS ETHICS, V138, P525, DOI 10.1007/s10551-015-2610-8
+   van Eldik MA, 2020, AUTOMAT CONSTR, V120, P0, DOI 10.1016/j.autcon.2020.103379
+   Wan YW, 2025, ADV ENG INFORM, V65, P0, DOI 10.1016/j.aei.2025.103212
+   Wang SF, 2023, J CLEAN PROD, V419, P0, DOI 10.1016/j.jclepro.2023.137980
+   Weng YW, 2021, J COMPUT CIVIL ENG, V35, P0, DOI 10.1061/(ASCE)CP.1943-5487.0000964
+   Wu G, 2022, COMPUTATION OF BUILDING CARBON EMISSIONS, V0, P0
+   Wu ZJ, 2024, EXPERT SYST APPL, V239, P0, DOI 10.1016/j.eswa.2023.122401
+   Xu QF, 2025, ADV ENG INFORM, V65, P0, DOI 10.1016/j.aei.2025.103244
+   Yan H, 2020, AUTOMAT CONSTR, V119, P0, DOI 10.1016/j.autcon.2020.103331
+   Yang C, 2023, CORP SOC RESP ENV MA, V0, P0, DOI DOI 10.1002/csr.2627
+   Yao YF, 2024, HIGH-CONFID COMPUT, V4, P0, DOI 10.1016/j.hcc.2024.100211
+   Yébenes MO, 2024, EURASIAN ECON REV, V14, P87, DOI 10.1007/s40822-023-00251-x
+   Yu LZ, 2023, J ENVIRON MANAGE, V330, P0, DOI 10.1016/j.jenvman.2023.117216
+   Zamfrescu-Pereira JD, 2023, PROCEEDINGS OF THE 2023 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2023), V0, P0, DOI DOI 10.1145/3544548.3581388
+   Zhang RC, 2023, AUTOMAT CONSTR, V145, P0, DOI 10.1016/j.autcon.2022.104540
+   Zhang YB, 2022, BUILD ENVIRON, V226, P0, DOI 10.1016/j.buildenv.2022.109691
+   Zheng JW, 2023, AUTOMAT CONSTR, V155, P0, DOI 10.1016/j.autcon.2023.105067
+   Zheng L, 2023, BUILD ENVIRON, V228, P0, DOI 10.1016/j.buildenv.2022.109862
+   Zhou M, 2020, ENGINEERING-PRC, V6, P275, DOI 10.1016/j.eng.2019.12.014
+   Zhu B, 2024, INT REV FINANC ANAL, V93, P0, DOI 10.1016/j.irfa.2024.103153
+   Zhu JW, 2024, J ENVIRON MANAGE, V350, P0, DOI 10.1016/j.jenvman.2023.119523
+   Zhu XF, 2023, AUTOMAT CONSTR, V155, P0, DOI 10.1016/j.autcon.2023.105074
+   Zou Y, 2025, J CLEAN PROD, V489, P0, DOI 10.1016/j.jclepro.2024.144572
+   Zuo J, 2014, RENEW SUST ENERG REV, V30, P271, DOI 10.1016/j.rser.2013.10.021
+NR 113
+TC 0
+Z9 0
+U1 22
+U2 22
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1474-0346
+EI 1873-5320
+J9 ADV ENG INFORM
+JI Adv. Eng. Inform.
+PD JAN 15
+PY 2026
+VL 69
+IS 
+BP 
+EP 
+DI 10.1016/j.aei.2025.103920
+PG 22
+WC Computer Science, Artificial Intelligence; Engineering, Multidisciplinary
+SC Computer Science; Engineering
+GA 8FK5B
+UT WOS:001587377500001
+DA 2025-11-21
+ER
+
+PT J
+AU He, XC
+   Wang, JJ
+   He, ML
+AF He, Xuecheng
+   Wang, Jujie
+   He, Maolin
+TI A robust generative dynamic transfer model for carbon emission price prediction based on multi-source information fusion and feature representation enhancement
+SO INFORMATION FUSION
+LA English
+DT Article
+DE Carbon price prediction; Multi-source information fusion; Dynamic feature compression; Market fine-tuning architecture
+AB Accurate prediction of carbon prices is the key to achieving a low-carbon economy and sustainable human development. However, carbon price poses challenges for prediction due to its complex volatility and relatively limited amount of data. Therefore, a robust generative dynamic transfer model for carbon emission trading price prediction based on multi-source information fusion and feature representation enhancement is proposed in this study. Firstly, an improved dynamic time warping algorithm (IDTW) is proposed. By introducing a normalized distance correction mechanism, it overcomes the distance deviation problem caused by sequence length differences in traditional DTW, thereby accurately identifying dynamic similarities across markets. Secondly, the Seq2vec encoding mechanism is designed to map multi-market carbon price sequences into fixed-dimension feature vectors through a trainable embedding layer, effectively solving the information loss in traditional feature extraction methods. It retains the spatiotemporal features while also improving the adaptability of downstream fine-tuning tasks. Finally, the nonlinear dynamic feature compression and fine-tuning architecture was designed to migrate to different target markets and achieve high-precision prediction. The experimental results show that the proposed model significantly outperforms all the control models in the carbon markets of the four regions. Taking the Shanghai market as an example, the proposed model achieves a mean absolute error of 1.9685 and a root mean square error of 2.5045, which are reduced by 35.16 % and 26.44 % respectively compared with the Transformer model.
+C1 [He, Xuecheng; Wang, Jujie; He, Maolin] Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.
+C3 Nanjing University of Information Science & Technology
+RP Wang, JJ (corresponding author), Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.
+EM jujiewang@126.com
+FU National Natural Science Foun-dation of China [72371136, 71971122]
+CR Chen L, 2018, WSDM18: PROCEEDINGS OF THE ELEVENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, V0, PP99, DOI 10.1145/3159652.3159695
+   Chun D, 2024, FINANC INNOV, V10, P0, DOI 10.1186/s40854-024-00648-w
+   Lei H, 2022, ENERG ECON, V113, P0, DOI 10.1016/j.eneco.2022.106189
+   Li D, 2023, APPL ENERG, V331, P0, DOI 10.1016/j.apenergy.2022.120452
+   Li GH, 2022, ENERGY, V239, P0, DOI 10.1016/j.energy.2021.122324
+   Li YY, 2024, J CLEAN PROD, V471, P0, DOI 10.1016/j.jclepro.2024.143301
+   Liu J, 2021, FINANC INNOV, V7, P0, DOI 10.1186/s40854-021-00292-8
+   Liu JP, 2022, EXPERT SYST APPL, V191, P0, DOI 10.1016/j.eswa.2021.116267
+   Lu YX, 2025, INFORM SCIENCES, V692, P0, DOI 10.1016/j.ins.2024.121651
+   NEWEY WK, 1987, ECONOMETRICA, V55, P703, DOI 10.2307/1913610
+   Qin QD, 2022, APPL SOFT COMPUT, V119, P0, DOI 10.1016/j.asoc.2022.108560
+   Shi CX, 2021, EURASIP J ADV SIG PR, V2021, P0, DOI 10.1186/s13634-021-00811-w
+   Sun W, 2020, ENERGIES, V13, P0, DOI 10.3390/en13133471
+   Sun W, 2020, J CLEAN PROD, V243, P0, DOI 10.1016/j.jclepro.2019.118671
+   Tu XQ, 2025, ENERGY, V329, P0, DOI 10.1016/j.energy.2025.136768
+   Wang BL, 2025, EXPERT SYST APPL, V270, P0, DOI 10.1016/j.eswa.2025.126467
+   Wang HQ, 2023, J CLEAN PROD, V425, P0, DOI 10.1016/j.jclepro.2023.139063
+   Wang JJ, 2024, ENERGY, V312, P0, DOI 10.1016/j.energy.2024.133654
+   Wang JJ, 2025, INFORM PROCESS MANAG, V62, P0, DOI 10.1016/j.ipm.2024.103953
+   Wang JJ, 2022, CHAOS SOLITON FRACT, V156, P0, DOI 10.1016/j.chaos.2021.111783
+   Wang MC, 2024, 2024 2ND ASIA CONFERENCE ON COMPUTER VISION, V0, P0, DOI 10.1145/3663976.3664030
+   Wang P, 2023, ENERG ECON, V118, P0, DOI 10.1016/j.eneco.2022.106502
+   Wang YX, 2024, ARXIV, V0, P0
+   Wei XL, 2024, PLOS ONE, V19, P0, DOI 10.1371/journal.pone.0296105
+   Wu FE, 2023, J ENVIRON MANAGE, V337, P0, DOI 10.1016/j.jenvman.2023.117759
+   Wu JH, 2024, ENVIRON SCI EUR, V36, P0, DOI 10.1186/s12302-024-01000-w
+   Xie QW, 2022, ECON ANAL POLICY, V74, P382, DOI 10.1016/j.eap.2022.02.010
+   Xue H, 2024, IEEE T KNOWL DATA EN, V36, P6851, DOI 10.1109/TKDE.2023.3342137
+   Yu HX, 2022, FINANC INNOV, V8, P0, DOI 10.1186/s40854-022-00359-0
+   Zeng LL, 2024, ENERGY, V313, P0, DOI 10.1016/j.energy.2024.133699
+   Zhang X, 2023, J ENVIRON MANAGE, V346, P0, DOI 10.1016/j.jenvman.2023.118962
+   Zhang ZY, 2024, ENERGIES, V17, P0, DOI 10.3390/en17174358
+   Zhao SY, 2023, APPL SOFT COMPUT, V149, P0, DOI 10.1016/j.asoc.2023.110948
+   Zhou J, 2021, ECON LETT, V207, P0, DOI 10.1016/j.econlet.2021.110029
+NR 34
+TC 0
+Z9 0
+U1 6
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1566-2535
+EI 1872-6305
+J9 INFORM FUSION
+JI Inf. Fusion
+PD MAR 15
+PY 2026
+VL 127
+IS 
+BP 
+EP 
+DI 10.1016/j.inffus.2025.103720
+PG 24
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+SC Computer Science
+GA 8AK0N
+UT WOS:001583962300003
+DA 2025-11-21
+ER
+

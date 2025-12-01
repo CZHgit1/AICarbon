@@ -1,0 +1,76 @@
+PT J
+AU Romeo, LM
+   Gareta, R
+AF Romeo, Luis M.
+   Gareta, Raquel
+TI Hybrid system for fouling control in biomass boilers
+SO ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+LA English
+DT Article
+DE biomass; boiler fouling; hybrid system
+ID power-plant; neural networks; coal; combustion; behavior; deposit; design; online
+AB Renewable energy sources are essential paths towards sustainable development and CO2 emission reduction. For example, the European Union has set the target of achieving 22% of electricity generation from renewable sources by 2010. However, the extensive use of this energy source is being avoided by some technical problems as fouling and slagging in the surfaces of boiler heat exchangers. Although these phenomena were extensively studied in the last decades in order to optimize the behaviour of large coal power boilers, a simple, general and effective method for fouling control has not been developed. For biomass boilers, the feedstock variability and the presence of new components in ash chemistry increase the fouling influence in boiler performance. In particular, heat transfer is widely affected and the boiler capacity becomes dramatically reduced. Unfortunately, the classical approach of regular sootblowing cycles becomes clearly insufficient for them. Artificial Intelligence (AI) provides new means to undertake this problem. This paper illustrates a methodology based on Neural Networks (NNs) and Fuzzy-Logic Expert Systems to select the moment for activating sootblowing in an industrial biomass boiler. The main aim is to minimize the boiler energy and efficiency losses with a proper sootblowing activation. Although the NN type used in this work is well-known and the Hybrid Systems had been extensively used in the last decade, the excellent results obtained in the use of AI in industrial biomass boilers control with regard to previous approaches makes this work a novelty. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 Univ Zaragoza, CIRCE, Ctr Politecn Super, Zaragoza 50018, Spain.
+C3 University of Zaragoza
+RP Romeo, LM (corresponding author), Univ Zaragoza, CIRCE, Ctr Politecn Super, Maria de Luna 3, Zaragoza 50018, Spain.
+EM luismi@unizar.es
+CR Afgan N, 1996, APPL THERM ENG, V16, P835, DOI 10.1016/1359-4311(95)00082-8
+   ALLMON BA, 1991, HTD164 ASME, V0, P61
+   Anthony EJ, 2001, FUEL, V80, P1009, DOI 10.1016/S0016-2361(00)00198-8
+   Bechtler H, 2001, APPL THERM ENG, V21, P941, DOI 10.1016/S1359-4311(00)00093-4
+   Bergeles G, 1997, APPL THERM ENG, V17, P739, DOI 10.1016/S1359-4311(97)00006-9
+   *BMS INT LTD, 2005, INT SOOTBL CONTR SYS, V0, P0
+   Chen WC, 2003, WATER RES, V37, P95, DOI 10.1016/S0043-1354(02)00255-5
+   DARE P, 2002, FUEL ENERGY ABSTRACT, V43, P276
+   *EN RES CTR LEH U, 2005, OPT SOOTBL RED NOX I, V0, P0
+   Fan JR, 2001, FUEL, V80, P645, DOI 10.1016/S0016-2361(00)00134-4
+   Frantti T, 2001, ENG APPL ARTIF INTEL, V14, P189, DOI 10.1016/S0952-1976(00)00076-2
+   GARETA R, 2006, FORECASTING ELECT PR, V0, P0
+   Heinzel T, 1998, FUEL PROCESS TECHNOL, V54, P109, DOI 10.1016/S0378-3820(97)00063-5
+   Ikonen E, 2000, ENG APPL ARTIF INTEL, V13, P705, DOI 10.1016/S0952-1976(00)00054-3
+   Jenkins BM, 1998, FUEL PROCESS TECHNOL, V54, P17, DOI 10.1016/S0378-3820(97)00059-3
+   Kalogirou SA, 2003, PROG ENERG COMBUST, V29, P515, DOI 10.1016/S0360-1285(03)00058-3
+   Kalogirou SA, 2001, RENEW SUST ENERG REV, V5, P373, DOI 10.1016/S1364-0321(01)00006-5
+   Kern DQ, 1959, BRITCHEMENG, V4, P258
+   Lalot S, 2003, INT J HEAT MASS TRAN, V46, P2445, DOI 10.1016/S0017-9310(02)00545-8
+   Lee BE, 2002, FUEL, V81, P2001, DOI 10.1016/S0016-2361(02)00127-8
+   Lertpalangsunti N, 1999, ARTIF INTELL ENG, V13, P21, DOI 10.1016/S0954-1810(98)00008-9
+   Lu S, 2000, INT J ELEC POWER, V22, P67, DOI 10.1016/S0142-0615(99)00036-8
+   Mihalakakou G, 2002, ENERG BUILDINGS, V34, P727, DOI 10.1016/S0378-7788(01)00137-2
+   Olofsson T, 1998, ENERG BUILDINGS, V28, P101, DOI 10.1016/S0378-7788(98)00004-8
+   PELTOLA K, 1999, P 15 INT C FLUID BED, V0, P0
+   Prieto M, 2001, EXP THERM FLUID SCI, V25, P329, DOI 10.1016/S0894-1777(01)00081-4
+   Reich Y, 2000, ENG APPL ARTIF INTEL, V13, P685, DOI 10.1016/S0952-1976(00)00053-1
+   Sami M, 2001, PROG ENERG COMBUST, V27, P171, DOI 10.1016/S0360-1285(00)00020-4
+   Seggiani M, 1999, FUEL, V78, P1121, DOI 10.1016/S0016-2361(99)00031-9
+   Skrifvars BJ, 1998, FUEL, V77, P65, DOI 10.1016/S0016-2361(97)00169-5
+   Sung AH, 1998, EXPERT SYST APPL, V15, P405, DOI 10.1016/S0957-4174(98)00041-4
+   Wang HF, 1997, PROG ENERG COMBUST, V23, P267, DOI 10.1016/S0360-1285(97)00010-5
+   Zevenhoven-Onderwater M, 2000, FUEL, V79, P1353, DOI 10.1016/S0016-2361(99)00280-X
+NR 34
+TC 26
+Z9 28
+U1 1
+U2 31
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0952-1976
+EI 1873-6769
+J9 ENG APPL ARTIF INTEL
+JI Eng. Appl. Artif. Intell.
+PD DEC 15
+PY 2006
+VL 19
+IS 8
+BP 915
+EP 925
+DI 10.1016/j.engappai.2006.01.019
+PG 11
+WC Automation & Control Systems; Computer Science, Artificial Intelligence; Engineering, Multidisciplinary; Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA 114VY
+UT WOS:000242694900008
+DA 2025-11-05
+ER
+

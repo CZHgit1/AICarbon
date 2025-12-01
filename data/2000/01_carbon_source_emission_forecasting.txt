@@ -1,0 +1,281 @@
+PT J
+AU Schlesinger, ME
+   Malyshev, S
+   Rozanov, EV
+   Yang, FL
+   Andronova, NG
+   De Vries, B
+   Grübler, A
+   Jiang, KJ
+   Masui, T
+   Morita, T
+   Penner, J
+   Pepper, W
+   Sankovski, A
+   Zhang, Y
+AF Schlesinger, ME
+   Malyshev, S
+   Rozanov, EV
+   Yang, FL
+   Andronova, NG
+   De Vries, B
+   Grübler, A
+   Jiang, KJ
+   Masui, T
+   Morita, T
+   Penner, J
+   Pepper, W
+   Sankovski, A
+   Zhang, Y
+TI Geographical distributions of temperature change for scenarios of greenhouse gas and sulfur dioxide emissions
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+LA English
+DT Article
+ID abating climate-change; term policy choices; model; oscillation; stabilization; framework; pacific; world
+AB Time-dependent geographical distributions of surface-air temperature change relative to year 2000 are constructed for four scenarios of greenhouse gas (GHG) and sulfur dioxide (SO2) emissions, and are compared to the IS92a scenario. The four new scenarios have been developed by four different modeling teams. The four scenarios are noninterventionist, in that they do not include abatement of GHG emissions for the purpose of climate-change mitigation. The rime evolution of the changes in global-mean surface-air temperature and sea level are calculated for each scenario by our energy-balance-climate/upwelling-diffusion-model. The temperature changes individually and jointly for the radiative forcing by the GHGs and by the sulfate aerosol, which is formed in the atmosphere from the emitted SO2. These GHG- and SO2-induced global-mean temperature changes are used to scale in time the geographical distributions of surface-air temperature simulated by our University of Illinois at Urbana-Champaign (UIUC) atmospheric-general-circulation/mixed-layer-ocean model, respectively for a doubling of the CO2 amount and for a 10-fold increase in present-day SO2 emission-the latter from the entire earth as well as individually from Europe, Siberia, North Africa, Asia, North America.
+CR AIM PT, 1997, ASIAN PACIFIC INTEGR, V0, P0
+   Alcamo J, 1998, GLOBAL CHANGE SCENARIOS OF THE 21ST CENTURY, V0, P0
+   ALFSEN KH, 1999, 1 CICERO, V0, P0
+   Alyea F, 1996, CLIMATE CHANGE 1995: THE SCIENCE OF CLIMATE CHANGE: CONTRIBUTION OF WORKING GROUP I TO THE SECOND ASSESSMENT REPORT OF THE INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE, V2, P65
+   Andronova NG, 1999, J GEOPHYS RES-ATMOS, V104, P16807, DOI 10.1029/1999JD900165
+   Unknown -, 1990, 47 M PLANCK I MET, V0, P0
+   Arakawa A, 1966, J COMPUT PHYS, V1, P119, DOI 10.1016/0021-9991(66)90015-5
+   Arakawa A, 1977, METHODS COMPUTATIONA, V17, P174, DOI 10.1016/B978-0-12-460817-7.50009-4
+   Bretherton FP, 1990, CLIMATE CHANGE: THE IPCC SCIENTIFIC ASSESSMENT, V0, P173
+   CHLESINGER ME, 1985, DOEER0237, V0, P0
+   Chuang CC, 1997, J GEOPHYS RES-ATMOS, V102, P3761, DOI 10.1029/96JD03087
+   de Vries B, 2000, TECHNOL FORECAST SOC, V63, P137, DOI 10.1016/S0040-1625(99)00109-2
+   de Vries B, 1999, ENERG POLICY, V27, P477, DOI 10.1016/S0301-4215(99)00035-X
+   EPA (Environmental Protection Agency), 1990, POL OPT STAB GLOB CL, V0, P0
+   GRITEVSKII A, 1998, SCENARIO GENERATOR T, V0, P0
+   HAMMITT JK, 1992, NATURE, V357, P315, DOI 10.1038/357315a0
+   Harvey LDD, 1997, INTRO SIMPLE CLIMATE, V0, P0
+   Hoffert MI, 1998, NATURE, V395, P881, DOI 10.1038/27638
+   HOFFERT MI, 1980, J GEOPHYS RES-OCEANS, V85, P6667, DOI 10.1029/JC085iC11p06667
+   [Houghton JTIPCC IPCC], 1996, INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE, V0, P0
+   HULME M, 1995, ENERG POLICY, V23, P347, DOI 10.1016/0301-4215(95)90159-5
+   Hulme M, 1995, SCENGEN: A CLIMATE CHANGE SCENARIO GENERATOR. SOFTWARE USER MANUAL, V0, P0
+   Jiang KJ, 2000, TECHNOL FORECAST SOC, V63, P207, DOI 10.1016/S0040-1625(99)00110-9
+   Joos F, 1996, TELLUS B, V48, P397, DOI 10.1034/j.1600-0889.1996.t01-2-00006.x
+   KATTENBERG A, 1996, CLIMATE CHANGE 1995, V0, P285
+   Kram T, 2000, TECHNOL FORECAST SOC, V63, P335, DOI 10.1016/S0040-1625(99)00113-4
+   LANGNER J, 1991, J ATMOS CHEM, V13, P225, DOI 10.1007/BF00058134
+   LEMPERT RJ, 1994, CLIMATIC CHANGE, V26, P351, DOI 10.1007/BF01094402
+   Lempert RJ, 2000, CLIMATIC CHANGE, V45, P129, DOI 10.1023/A:1005697118423
+   Lempert RJ, 1996, CLIMATIC CHANGE, V33, P235, DOI 10.1007/BF00140248
+   MATSUOKA Y, 1995, ENERG POLICY, V23, P357, DOI 10.1016/0301-4215(95)90160-9
+   Messner S, 1995, WP9569 INT I APPL SY, V0, P0
+   Morita T, 1998, QUANTIFICATION IPCC, V0, P0
+   Myhre G, 1998, GEOPHYS RES LETT, V25, P2715, DOI 10.1029/98GL01908
+   Nakicenovic N, 2000, TECHNOL FORECAST SOC, V63, P105, DOI 10.1016/S0040-1625(99)00117-1
+   PENNER JE, 1994, ENVIR SCI R, V48, P223
+   Pepper WJ, 1998, ENVIRONMENTAL SCIENCE POLICY, V1, P289
+   Pepper WJL, 1992, EMISSION SCENARIOS FOR THE IPCC, V0, P0
+   RAMANKUTTY N, 1994, THESIS U ILLINOIS UR, V0, P0
+   Riahi K, 2000, TECHNOL FORECAST SOC, V63, P175, DOI 10.1016/S0040-1625(99)00111-0
+   Rozanov EV, 1999, J GEOPHYS RES-ATMOS, V104, P11755, DOI 10.1029/1999JD900138
+   Sankovski A, 2000, TECHNOL FORECAST SOC, V63, P263, DOI 10.1016/S0040-1625(99)00100-6
+   Schlesinger ME, 1989, GEOPHYSICAL MONOGRAP, V52, P177
+   SCHLESINGER ME, 1992, NATURE, V360, P330, DOI 10.1038/360330a0
+   SCHLESINGER ME, 1995, J GEOPHYS RES-ATMOS, V100, P13767, DOI 10.1029/95JD01262
+   SCHLESINGER ME, 1991, NATURE, V350, P219, DOI 10.1038/350219a0
+   SCHLESINGER ME, 1994, NATURE, V367, P723, DOI 10.1038/367723a0
+   SCHLESINGER ME, 1992, CLIMATE CHANGE AND ENERGY POLICY, V0, P75
+   SCHLESINGER ME, 1993, RES EXPLOR, V9, P159
+   Schlesinger ME, 1997, P INT SCH PHYS, V133, P389
+   SCHLESINGER ME, 1997, GEOGRAPHICAL SCENARI, V0, P0
+   SCHLESINGER ME, 1994, REGIONAL CLIMATE CHA, V0, P0
+   Timmer HR, 1998, CPB REPORT, V0, P0
+   Wang WQ, 1999, J CLIMATE, V12, P1423, DOI 10.1175/1520-0442(1999)012<1423:TDOCPO>2.0.CO;2
+   WIGLEY TML, 1991, NATURE, V349, P503, DOI 10.1038/349503a0
+   Yohe GW, 1998, CLIMATIC CHANGE, V38, P447, DOI 10.1023/A:1005338413531
+NR 57
+TC 44
+Z9 45
+U1 0
+U2 10
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0040-1625
+EI 1873-5509
+J9 TECHNOL FORECAST SOC
+JI Technol. Forecast. Soc. Chang.
+PD OCT 15
+PY 2000
+VL 65
+IS 2
+BP 167
+EP 193
+DI 10.1016/S0040-1625(99)00114-6
+PG 27
+WC Business; Regional & Urban Planning
+SC Business & Economics; Public Administration
+GA 373KF
+UT WOS:000165287700003
+DA 2025-11-03
+ER
+
+PT J
+AU Webster, MD
+   Sokolov, AP
+AF Webster, MD
+   Sokolov, AP
+TI A methodology for quantifying uncertainty in climate projections
+SO CLIMATIC CHANGE
+LA English
+DT Article
+ID ocean-atmosphere model; increasing carbon-dioxide; sea-level rise; transient-response; general-circulation; parameterization; sensitivity; impact; heat; co2
+AB Possible climate change caused by an increase in greenhouse gas concentrations, despite having been a subject of intensive study in recent years, is still very uncertain. Uncertainties in projections of different climate variables are usually described only by the ranges of possible values. For assessing the possible impact of climate change, it would be more useful to have probability distributions for these variables. Obtaining such distributions is usually very computationally expensive and requires knowledge of probability distributions for characteristics of the climate system that affect climate projections. A few studies of this kind have been carried out with energy balance/upwelling diffusion models. Here we demonstrate a methodology for performing a similar study with a 2 dimensional (zonally averaged) climate model that reproduces the behavior of coupled atmosphere/ocean general circulation models more realistically than energy balance models. This methodology involves application of the Deterministic Equivalent Modeling Method to derive functional approximations of the model's probabilistic response. Monte Carlo analysis is then performed on the approximations. An application of the methodology is demonstrated by deriving the uncertainty in surface air temperature change and sea level rise due to thermal expansion of the ocean that result from uncertainties in climate sensitivity and the rate of heat uptake by the deep ocean for a prescribed increase in atmospheric CO2 concentration. We also demonstrate propagation of correlated uncertainties through different models, by presenting results that include uncertainty in projected carbon emissions.
+C1 MIT, Joint Program Sci & Policy Global Change, Cambridge, MA 02139 USA.
+C3 Massachusetts Institute of Technology (MIT)
+RP Webster, MD (corresponding author), MIT, Joint Program Sci & Policy Global Change, E40-280, Cambridge, MA 02139 USA.
+CR Casman EA, 1999, RISK ANAL, V19, P33
+   CLARK E, 1961, OPER RES, V9, P603
+   Clemen RT, 1999, MANAGE SCI, V45, P208, DOI 10.1287/mnsc.45.2.208
+   CUBASCH U, 1994, CLIM DYNAM, V10, P1
+   CUBASCH U, 1992, CLIM DYNAM, V8, P55, DOI 10.1007/BF00209163
+   DALKEY NC, 1967, P30704 RAND CORP, V0, P0
+   DeWolde JR, 1997, TELLUS A, V49, P486, DOI 10.1034/j.1600-0870.1997.t01-3-00006.x
+   DOWNING DJ, 1985, TECHNOMETRICS, V27, P151, DOI 10.2307/1268763
+   FOREST CE, 2000, IN PRESS GEOPHYS RES, V0, P0
+   Genest C, 1986, STAT SCI, V1, P114
+   HANSEN J, 1993, RES EXPLOR, V9, P142
+   HANSEN J, 1985, SCIENCE, V229, P857, DOI 10.1126/science.229.4716.857
+   HANSEN J, 1983, MON WEATHER REV, V111, P609, DOI 10.1175/1520-0493(1983)111<0609:ETDGMF>2.0.CO;2
+   Hansen J, 1984, AGU GEOPHYS MONOGRAP, V29, P130, DOI 10.1029/GM029P0130
+   HENRION M, 1986, AM J PHYS, V0, P0
+   HOLIAN GL, 1998, 39 MIT JOINT PROGR S, V0, P0
+   Jacoby HD, 1997, ENERG J, V18, P31
+   Keen AB, 1997, CLIM DYNAM, V13, P847, DOI 10.1007/s003820050201
+   Keith DW, 1996, CLIMATIC CHANGE, V33, P139, DOI 10.1007/BF00140244
+   MANNE AS, 1992, BUYING GREENHOUSE IN, V0, P0
+   MCKAY MD, 1979, TECHNOMETRICS, V21, P239, DOI 10.2307/1268522
+   Morgan MG, 1997, ELEMENTS OF CHANGE 1996, V0, P0
+   MOSS RH, 1997, ELEMENTS CHANGE 1996, V0, P0
+   MURPHY JM, 1995, J CLIMATE, V8, P496, DOI 10.1175/1520-0442(1995)008<0496:TROTHC>2.0.CO;2
+   MURPHY JM, 1995, J CLIMATE, V8, P57, DOI 10.1175/1520-0442(1995)008<0057:TROTHC>2.0.CO;2
+   Nordhaus W, 1994, MANAGING GLOBAL COMM, V0, P0
+   Nordhaus WD, 1997, ENERGY J, V18, P1
+   PATECONRNELL E, 1997, ELEMENTS CHANGE 1996, V0, P0
+   PateCornell E, 1996, CLIMATIC CHANGE, V33, P145, DOI 10.1007/BF00140245
+   Press WH, 2002, NUMERICAL RECIPES C, V2nd, P0
+   Prinn R, 1999, CLIMATIC CHANGE, V41, P469, DOI 10.1023/A:1005326126726
+   Raper SCB, 1996, GEOPHYS RES LETT, V23, P1107, DOI 10.1029/96GL01065
+   SENIOR CA, 1993, J CLIMATE, V6, P393, DOI 10.1175/1520-0442(1993)006<0393:CDACTI>2.0.CO;2
+   Sokolov A, 1998, GEOPHYS RES LETT, V25, P3603, DOI 10.1029/98GL02696
+   Sokolov AP, 1998, CLIM DYNAM, V14, P291, DOI 10.1007/s003820050224
+   STONE PH, 1990, J CLIMATE, V3, P726, DOI 10.1175/1520-0442(1990)003<0726:DOATDZ>2.0.CO;2
+   STONE PH, 1987, J ATMOS SCI, V44, P3769, DOI 10.1175/1520-0469(1987)044<3769:DOATDZ>2.0.CO;2
+   Tatang MA, 1997, J GEOPHYS RES-ATMOS, V102, P21925, DOI 10.1029/97JD01654
+   Titus J, 1997, ELEMENTS OF CHANGE 1996, V0, P0
+   Titus JG, 1996, CLIMATIC CHANGE, V33, P151, DOI 10.1007/BF00140246
+   TITUS JG, 1959, PROBABILITY SEA LEVE, V0, P0
+   Wang C, 1998, J GEOPHYS RES-ATMOS, V103, P3399, DOI 10.1029/97JD03465
+   WEBSTER M, 1996, 4 MIT JOINT PROGRAM, V0, P0
+   WEBSTER MD, 1997, 30 MIT JOINT PROGR S, V0, P0
+   WINKLER RL, 1986, MANAGE SCI, V32, P298, DOI 10.1287/mnsc.32.3.298
+   YANG Z, 1996, 6 MIT JOINT PROGR SC, V0, P0
+   YAO MS, 1987, J ATMOS SCI, V44, P65, DOI 10.1175/1520-0469(1987)044<0065:DOATDZ>2.0.CO;2
+NR 50
+TC 42
+Z9 50
+U1 0
+U2 6
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0165-0009
+EI 
+J9 CLIMATIC CHANGE
+JI Clim. Change
+PD SEP 15
+PY 2000
+VL 46
+IS 4
+BP 417
+EP 446
+DI 10.1023/A:1005685317358
+PG 30
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 352YM
+UT WOS:000089247000001
+DA 2025-11-03
+ER
+
+PT J
+AU Liu, JG
+   Zhang, YH
+   Shao, KS
+   Shao, M
+   Zeng, LM
+   Lu, SH
+   Slanina, S
+   van der Gon, HACD
+AF Liu, JG
+   Zhang, YH
+   Shao, KS
+   Shao, M
+   Zeng, LM
+   Lu, SH
+   Slanina, S
+   van der Gon, HACD
+TI Estimation of regional methane emission from rice fields using simple atmospheric diffusion models
+SO NUTRIENT CYCLING IN AGROECOSYSTEMS
+LA English
+DT Article
+DE closed chamber method; box model; ATDL model; CH4; China
+ID areas
+AB Two atmospheric diffusion models, the box model ad the ATDL (Atmospheric Turbulent and Diffusion Laboratory) model, were used to calculate regional methane (CH4) emissions of rice fields in the Beijing area. Compared with conventional closed chamber measurements, the box model overestimated CH4 emission because of meteorological conditions-the ground inverse layer was not favorable for the application of the model during the rice-growing season. The ATDL model, on the other hand, handled this unfavorable meteorological condition and gave reasonable CH4 emission estimates (about 6.1-8.5 mg m(-2) h(-1)) close to conventional measurements (about 0.3-14.3 mg m(-2) h(-1)) in June, a period generally characterized by significant CH4 emission from rice fields. In September, CH4 emission as measured with closed chambers was negligible (about 0-0.3 mg m(-2) h(-1)), but the ATDL model still calculated it to be about 2.8-5.3 mg m(-2) h(-1), albeit at a low level and considerably below the June emission level. This discrepancy cannot be explained at present and needs further stuy. Most likely causes are measurement artifacts and/or the presence of minor local CH4 sources (ditches, field depressions) in the study area. The application of atmospheric diffusion models for regional CH4 emission estimation depends greatly on meteorological conditions. Moreover, the models tend to give much more reliable results during periods of rather high CH4 emission. This coincides with the time that such regional CH4 emission estimates are most valuable. The atmospheric diffusion models complement the closed chamber method by providing integrated CH4 emission estimates from 1-100-km(2) rice areas. Detailed information about agricultural management of rice fields and other potential CH4 sources within the study region are necessary to better understand the integrated regional emission estimates.
+C1 Beijing Univ, Ctr Environm Sci, Beijing 100871, Peoples R China.
+   Netherlands Energy Res Fdn, ECN, NL-1755 ZG Petten, NH, Netherlands.
+   Univ Wageningen & Res Ctr, Lab Soil Sci & Geol, NL-6700 AA Wageningen, Netherlands.
+C3 Peking University; Wageningen University & Research
+RP Liu, JG (corresponding author), Beijing Univ, Ctr Environm Sci, Beijing 100871, Peoples R China.
+CR Aselmann I, 1990, SOILS GREENHOUSE EFF, V0, P441
+   BACHELET D, 1993, CHEMOSPHERE, V26, P219, DOI 10.1016/0045-6535(93)90423-3
+   CAO MK, 1995, GLOBAL BIOGEOCHEM CY, V9, P183, DOI 10.1029/94GB03231
+   Cicerone RJ, 1988, GLOBAL BIOGEOCHEM CY, V2, P299, DOI 10.1029/GB002i004p00299
+   CZPIEL PM, 1996, J GEOPHYS RES, V101, P16711
+   FOLORUNSO OA, 1984, SOIL SCI SOC AM J, V43, P89
+   Hanna SR, 1982, HDB ATMOSPHERIC DIFF, V0, P0
+   KHALIL MAK, 1993, CHEMOSPHERE, V26, P127, DOI 10.1016/0045-6535(93)90417-4
+   Khalil MAK, 1998, J GEOPHYS RES-ATMOS, V103, P25219, DOI 10.1029/98JD01115
+   Pasquill F, 1961, METEOROL MAG, V90, P33
+   SHAO KS, 1993, RURAL ECOENVIRON, V35, P0
+   Shorter JH, 1996, J ATMOS CHEM, V24, P121, DOI 10.1007/BF00162407
+   SHURPALI NJ, 1993, J GEOPHYS RES-ATMOS, V98, P20649, DOI 10.1029/93JD02181
+   SIMPSON IJ, 1995, J GEOPHYS RES-ATMOS, V100, P7283, DOI 10.1029/94JD03326
+   VANDERGON HACD, 1995, GLOBAL BIOGEOCHEM CY, V9, P11, DOI 10.1029/94GB03197
+   VELTKAMP AC, 1995, ECNC95034, V0, P0
+   Walter BP, 1996, GEOPHYS RES LETT, V23, P3731, DOI 10.1029/96GL03577
+   WANG MX, 1993, ATMOS SCI, V17, P5
+   WANG ZY, 1997, IN HOUS REV EV METH, V0, P0
+NR 19
+TC 4
+Z9 4
+U1 0
+U2 14
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1385-1314
+EI 
+J9 NUTR CYCL AGROECOSYS
+JI Nutr. Cycl. Agroecosyst.
+PD NOV 15
+PY 2000
+VL 58
+IS 1-3
+BP 303
+EP 310
+DI 10.1023/A:1009815223989
+PG 8
+WC Soil Science
+SC Agriculture
+GA 391NQ
+UT WOS:000166362400023
+DA 2025-11-03
+ER
+

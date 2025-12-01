@@ -1,0 +1,160 @@
+PT J
+AU Gutiérrez, R
+   Gutiérrez-Sánchez, R
+   Nafidi, A
+AF Gutierrez, R.
+   Gutierrez-Sanchez, R.
+   Nafidi, A.
+TI A bivariate stochastic Gompertz diffusion model: statistical aspects and application to the joint modeling of the Gross Domestic Product and CO2 emissions in Spain
+SO ENVIRONMETRICS
+LA English
+DT Article
+DE bivariate Gompertz diffusion process; marginal trend and correlation functions likelihood; estimation; climate change; CO2 emission and GDP in Spain
+ID computational aspects; parameter-estimation; electricity consumption; maximum-likelihood; growth; inference; systems; drift
+AB In this paper we propose a bivariate stochastic Gompertz diffusion model as the solution for a system of two lto stochastic differential equations (SDE) that are similar as regards the drift and diffusion coefficients to those considered in the univariate Gompertz diffusion model, which has been the object of much Study in recent years. We establish the probabilistic characteristics of this model, such as the bivariate transition density, the bidimensional moment functions, the conditioned trend functions and in particular, the correlation function between each of the components of the model. We then go on to study the maximum likelihood estimation of the bidimensional drift and the diffusion matrix of the diffusion in question, proposing a computational statistical methodology for this purpose based on discrete observations over time, for both components of the model. By these means we are able to achieve the maximum likelihood estimation of the trend and correlation functions and thus establish a method for trend analysis, which we apply to the real case of two dependent variables, Gross Domestic Product (GDP) and CO, emission in Spain, the joint dynamic evolution of which is modeled by the proposed Gompertz bidimensional model. This implementation is carried out on the basis of annual observations of the variables over the period 1986-2003. The application is a new methodology in environmental and climate change studies, and provides an alternative to other approaches of a more econometric nature, or those corresponding to the methodology of secular trends in Time Series. Copyright (C) 2008 John Wiley & Sons, Ltd.
+C1 [Gutierrez, R.; Gutierrez-Sanchez, R.; Nafidi, A.] Univ Granada, Fac Ciencias, Dept Stat & Operat Res, E-18071 Granada, Spain.
+C3 University of Granada
+RP Gutiérrez-Sánchez, R (corresponding author), Univ Granada, Fac Ciencias, Dept Stat & Operat Res, Campus Fuentenueva S-N, E-18071 Granada, Spain.
+EM ramongs@ugr.es
+FU Ministerio de Educacion y Ciencia [MTM 2005-09209, P06-FQM-02271]
+CR Albano G, 2006, J THEOR BIOL, V242, P329, DOI 10.1016/j.jtbi.2006.03.001
+   Anderson TW, 1984, INTRO MULTIVARIATE S, V0, P0
+   Arnold L, 1973, STOCHASTIC DIFFERENTIAL EQUATIONS, V0, P0
+   Bibby BM, 1995, BERNOULLI, V1, P17, DOI 10.2307/3318679
+   Chung KL, 1990, INTRO STOCHASTIC INT, V2nd, P0, DOI 10.1371/journal.pcbi.0030015
+   Ferrante L, 2005, BIOMETRICAL J, V47, P309, DOI 10.1002/bimj.200410125
+   Ferrante L, 2000, BIOMETRICS, V56, P1076, DOI 10.1111/j.0006-341X.2000.01076.x
+   Frank TD, 2002, PHYS REV E, V66, P0, DOI 10.1103/PhysRevE.66.011914
+   Giovanis AN, 1999, TECHNOL FORECAST SOC, V61, P235, DOI 10.1016/S0040-1625(99)00005-0
+   Gutiérrez R, 2008, ENVIRONMETRICS, V19, P137, DOI 10.1002/env.862
+   Gutiérrez R, 2008, STOCH ENV RES RISK A, V22, P57, DOI 10.1007/s00477-006-0097-7
+   Gutiérrez R, 2006, APPL MATH COMPUT, V183, P738, DOI 10.1016/j.amc.2006.05.099
+   Gutiérrez R, 2007, ENVIRONMETRICS, V18, P55, DOI 10.1002/env.801
+   Gutiérrez R, 2006, APPL MATH COMPUT, V175, P628, DOI 10.1016/j.amc.2005.07.047
+   Gutiérrez R, 2006, APPL ENERG, V83, P1139, DOI 10.1016/j.apenergy.2005.11.007
+   Gutiérrez R, 2005, CYBERNET SYST, V36, P203, DOI 10.1080/01969720590897233
+   Gutiérrez R, 2005, APPL ENERG, V80, P115, DOI 10.1016/j.apenergy.2004.03.012
+   GUTIERREZ R, 2004, P SEIO 04 SPAIN, V0, P171
+   GUTIERREZ R, 2006, MONOGRAFIAS SEMINARI, V33, P273
+   GUTIERREZ R, 2004, MONOGRAFIAS SEMINARI, V31, P337
+   Gutiérrez-Jáimez R, 2007, MATH BIOSCI, V208, P147, DOI 10.1016/j.mbs.2006.09.020
+   Jaimez RG, 1997, J R STAT SOC C-APPL, V46, P140, DOI 10.1111/1467-9876.00054
+   Kloeden PE, 1996, J APPL PROBAB, V33, P1061, DOI 10.2307/3214986
+   Lamberton Damien, 2007, INTRODUCTION TO STOCHASTIC CALCULUS APPLIED TO FINANCE, V0, P0
+   Meade N, 2006, INT J FORECASTING, V22, P519, DOI 10.1016/j.ijforecast.2006.01.005
+   Miller JH, 2000, TOXICOLOGY, V145, P115, DOI 10.1016/S0300-483X(00)00148-7
+   NAFIDI A, 1997, THESIS GRANADA U, V0, P0
+   Patanarapeelert K, 2005, J PHYS A-MATH GEN, V38, P10069, DOI 10.1088/0305-4470/38/47/002
+   PRAJNESHU M, 1980, STOCHASTIC PROCESSES, V10, P0
+   Prakasa-Rao BLS, 1999, STAT INFERENCE DIFFU, V0, P0
+   P��rez R, 1991, APPL STOCHAST MODELS DATA ANAL, V7, P295, DOI 10.1002/asm.3150070402
+   Ramanathan R, 2006, TECHNOL FORECAST SOC, V73, P483, DOI 10.1016/j.techfore.2005.06.012
+   Ricciardi L, 1977, LECT NOTES BIOMATHEM, V0, P0
+   Singer H, 2002, J COMPUT GRAPH STAT, V11, P972, DOI 10.1198/106186002808
+   Skiadas CH, 1997, APPL STOCH MODEL D A, V13, P85, DOI 10.1002/(SICI)1099-0747(199706)13:2<85::AID-ASM298>3.0.CO;2-Z
+   TAN WY, 1986, STAT PROBABIL LETT, V4, P25, DOI 10.1016/0167-7152(86)90034-9
+   Troynikov VS, 1998, J SHELLFISH RES, V17, P833
+   ZEHNA PW, 1966, ANN MATH STAT, V37, P744, DOI 10.1214/aoms/1177699475
+NR 38
+TC 8
+Z9 9
+U1 0
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1180-4009
+EI 1099-095X
+J9 ENVIRONMETRICS
+JI Environmetrics
+PD SEP 15
+PY 2008
+VL 19
+IS 6
+BP 643
+EP 658
+DI 10.1002/env.906
+PG 16
+WC Environmental Sciences; Mathematics, Interdisciplinary Applications; Statistics & Probability
+SC Environmental Sciences & Ecology; Mathematics
+GA 364HU
+UT WOS:000260327600007
+DA 2025-11-05
+ER
+
+PT J
+AU Risk, D
+   Kellman, L
+   Beltrami, H
+AF Risk, David
+   Kellman, Lisa
+   Beltrami, Hugo
+TI A new method for in situ soil gas diffusivity measurement and applications in the monitoring of subsurface CO2 production
+SO JOURNAL OF GEOPHYSICAL RESEARCH-BIOGEOSCIENCES
+LA English
+DT Article
+ID carbon-dioxide; forest; respiration; flux; profiles; climate; efflux; term
+AB Subsurface approaches to soil CO2 monitoring are becoming increasingly important for process studies in terrestrial carbon research. When used in conjunction with a diffusion model to determine CO2 production, subsurface methods require good estimates of effective soil gas diffusivity (De). Outlined here is a novel membrane probe and continuous flow system for in situ soil gas diffusivity measurements. Laboratory tests confirm performance across the range of CO2 diffusivities found in natural soils. Field tests were performed across a range of soil moisture contents by artificially hydrating eight soils over a period of three to seven days. These soils were representative of a range of textural classes in eastern Nova Scotia, Canada. The absolute values of diffusivity, and also the rate at which diffusivity decreased with increasing soil moisture content were typically quite different from model predictions. When applied to subsurface CO2 monitoring at two sites, the site-specific diffusivity measurements greatly improved the accuracy of CO2 production estimates. We observed a consistent and close correspondence between calculated profile CO2 production and (independently measured) soil CO2 surface flux. The subsurface CO2 production estimates acquired using in situ gas diffusivity measurements allows detailed vertical profile resolution to be constructed over time. The majority of CO2 was generated at shallow depths, but periodic contributions from deeper depths were important, particularly towards the end of the growing season.
+C1 [Risk, David; Kellman, Lisa; Beltrami, Hugo] St Francis Xavier Univ, Environm Sci Res Ctr, Antigonish, NS B2G 1C0, Canada.
+C3 Saint Francis Xavier University - Canada
+RP Risk, D (corresponding author), St Francis Xavier Univ, Environm Sci Res Ctr, Antigonish, NS B2G 1C0, Canada.
+CR Beltrami H, 2002, GEOPHYS RES LETT, V29, P0, DOI 10.1029/2002GL015702
+   Beltrami H, 2003, GLOBAL PLANET CHANGE, V38, P291, DOI 10.1016/S0921-8181(03)00112-7
+   BURTON DL, 1994, SOIL SCI SOC AM J, V58, P115, DOI 10.2136/sssaj1994.03615995005800010016x
+   Cann DB, 1954, SOIL SURVEY ANTIGONI, V0, P0
+   Crank J, 1979, THE MATHEMATICS OF DIFFUSION, V0, P0
+   DAVIDSON EA, 1995, TELLUS B, V47, P550, DOI 10.1034/j.1600-0889.47.issue5.3.x
+   DEJONG E, 1972, SOIL SCI, V1135, P328
+   Drewitt GB, 2005, CAN J SOIL SCI, V85, P213, DOI 10.4141/S04-041
+   FREIJER JI, 1994, SOIL SCI SOC AM J, V58, P1067, DOI 10.2136/sssaj1994.03615995005800040010x
+   Gut A, 1998, PLANT SOIL, V198, P79, DOI 10.1023/A:1004277519234
+   Hashimoto S, 2002, SOIL SCI SOC AM J, V66, P1151, DOI 10.2136/sssaj2002.1151
+   Hillel D, 1998, ENV SOIL PHYS FUNDAM, V0, P0
+   Hirano T, 2003, J GEOPHYS RES-ATMOS, V108, P0, DOI 10.1029/2003JD003766
+   Hirsch AI, 2002, J GEOPHYS RES-ATMOS, V108, P0, DOI 10.1029/2001JD000921
+   Hirsch AI, 2004, TELLUS B, V56, P312, DOI 10.1111/j.1600-0889.2004.00113.x
+   Jassal R, 2005, AGR FOREST METEOROL, V130, P176, DOI 10.1016/j.agrformet.2005.03.005
+   Lavigne MB, 2003, CAN J FOREST RES, V33, P1744, DOI 10.1139/x03-090
+   Lehmann BE, 2000, GEOPHYS RES LETT, V27, P3917, DOI 10.1029/1999GL008469
+   MCCARTHY KA, 1995, J ENVIRON QUAL, V24, P49, DOI 10.2134/jeq1995.00472425002400010007x
+   McINTYRE DS, 1964, AUSTRALIAN J SOIL RES, V2, P133, DOI 10.1071/SR9640133
+   MILLINGTON RJ, 1959, SCIENCE, V130, P100, DOI 10.1126/science.130.3367.100-a
+   Moldrup P, 2004, SOIL SCI SOC AM J, V68, P750, DOI 10.2136/sssaj2004.0750
+   Moldrup P, 2001, SOIL SCI SOC AM J, V65, P613, DOI 10.2136/sssaj2001.653613x
+   OBERG E, 1957, MACHINERYS HDB, V0, P0
+   Revsbech NP, 1998, LIMNOL OCEANOGR, V43, P986, DOI 10.4319/lo.1998.43.5.0986
+   Risk D, 2002, GEOPHYS RES LETT, V29, P0, DOI 10.1029/2001GL014002
+   Risk D, 2002, GLOBAL BIOGEOCHEM CY, V16, P0, DOI 10.1029/2001GB001831
+   SOMMERFELD RA, 1993, NATURE, V361, P140, DOI 10.1038/361140a0
+   Tang JW, 2005, AGR FOREST METEOROL, V132, P212, DOI 10.1016/j.agrformet.2005.07.011
+   Tang JW, 2003, AGR FOREST METEOROL, V118, P207, DOI 10.1016/S0168-1923(03)00112-6
+   Valentini R, 2000, NATURE, V404, P861, DOI 10.1038/35009084
+   van Bochove E, 1998, SOIL SCI SOC AM J, V62, P1178, DOI 10.2136/sssaj1998.03615995006200050004x
+   Yoshikawa S, 2000, JARQ-JPN AGR RES Q, V34, P1
+NR 33
+TC 34
+Z9 40
+U1 2
+U2 45
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-8953
+EI 2169-8961
+J9 J GEOPHYS RES-BIOGEO
+JI J. Geophys. Res.-Biogeosci.
+PD APR 29
+PY 2008
+VL 113
+IS G2
+BP 
+EP 
+DI 10.1029/2007JG000445
+PG 9
+WC Environmental Sciences; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA 297CK
+UT WOS:000255594500001
+DA 2025-11-05
+ER
+

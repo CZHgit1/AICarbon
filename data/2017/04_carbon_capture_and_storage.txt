@@ -1,0 +1,292 @@
+PT J
+AU Venkatraman, V
+   Alsberg, BK
+AF Venkatraman, Vishwesh
+   Alsberg, Bjorn Kare
+TI Predicting CO2 capture of ionic liquids using machine learning
+SO JOURNAL OF CO2 UTILIZATION
+LA English
+DT Article
+DE QSPR; Ionic liquids; CO2 capture; Machine learning
+ID carbon-dioxide solubility; least-squares regression; gas solubility; neural-network; qspr models; cosmo-rs; solvents; dynamics; design; h2s
+AB Ionic liquid (IL) based CO2 capture is currently seen as a promising alternative to conventional amine-based solvents. While the possible combinations of cations and anions are numerous, it is time consuming and expensive to carry out experimental measurements for CO2 solubilities for each new IL. Therefore, as a means to rapidly screen suitable ILs as potential solvents for CO2 absorption, we investigate the use of machine learning (ML) based models to establish structure-property relationships between molecular structures of cations and anions and their CO2 solubilities. Over 10,000 IL-CO2 solubility data of 185 ILs measured at different operating temperatures and pressures were extracted from the literature. Using semi-empirically derived geometrical and charge-based molecular descriptors, good agreement with the available experimental measurements was obtained for both single decision tree (mean absolute error of 0.10) and ensemble random forest (mean absolute error of 0.04) approaches. The results were found to be more accurate than those obtained with the quantum chemistry based COSMOtherm predictions.
+C1 [Venkatraman, Vishwesh; Alsberg, Bjorn Kare] Norwegian Univ Sci & Technol, Dept Chem, N-7491 Trondheim, Norway.
+C3 Norwegian University of Science & Technology (NTNU)
+RP Alsberg, BK (corresponding author), Norwegian Univ Sci & Technol, Dept Chem, N-7491 Trondheim, Norway.
+EM bjorn.k.alsberg@ntnu.no
+FU Norwegian Research Council (NFR) from CLIMIT [233776]
+CR Abas N, 2014, J CO2 UTIL, V8, P39, DOI 10.1016/j.jcou.2014.06.005
+   AghaKouchak A, 2015, NATURE, V524, P409, DOI 10.1038/524409a
+   Ahmadi MA, 2015, J SUPERCRIT FLUID, V97, P81, DOI 10.1016/j.supflu.2014.11.009
+   Anderson JL, 2007, ACCOUNTS CHEM RES, V40, P1208, DOI 10.1021/ar7001649
+   Unknown -, 2012, R LANG ENV STAT COMP, V0, P0
+   Unknown -, 2015, VSURF VARIABLE SELEC, V0, P0
+   Unknown -, 1989, MULTIVARIATE CALIBRA, V0, P0
+   Unknown -, 2023, MACH. LEARN., V0, P0
+   Anthony JL, 2005, J PHYS CHEM B, V109, P6366, DOI 10.1021/jp046404l
+   Baghban A, 2015, J SUPERCRIT FLUID, V98, P50, DOI 10.1016/j.supflu.2015.01.002
+   Boot-Handford ME, 2014, ENERG ENVIRON SCI, V7, P130, DOI 10.1039/c3ee42350f
+   Brandmaier S, 2013, COMPUT STRUCT BIOTEC, V7, P0, DOI 10.5936/csbj.201305002
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Carvalho PJ, 2016, PHYS CHEM CHEM PHYS, V18, P14757, DOI 10.1039/c6cp01896c
+   Chong FK, 2016, CLEAN TECHNOL ENVIR, V18, P1177, DOI 10.1007/s10098-016-1111-5
+   Chong IG, 2005, CHEMOMETR INTELL LAB, V78, P103, DOI 10.1016/j.chemolab.2004.12.011
+   Coutinho JAP, 2012, RSC ADV, V2, P7322, DOI 10.1039/c2ra20141k
+   Diedenhofen M, 2010, FLUID PHASE EQUILIBR, V294, P31, DOI 10.1016/j.fluid.2010.02.002
+   Dutcher B, 2015, ACS APPL MATER INTER, V7, P2137, DOI 10.1021/am507465f
+   Eckert F, 2014, COSMOTHERM. VERSION C3.0 RELEASE 14.01. COSMOLOGIC, V0, P0
+   Farahani N, 2012, THERMOCHIM ACTA, V549, P17, DOI 10.1016/j.tca.2012.09.011
+   Fukui K, 1975, THEORY ORIENTATION S, V0, P0
+   Garg S, 2017, J CO2 UTIL, V19, P146, DOI 10.1016/j.jcou.2017.03.011
+   GELADI P, 1986, ANAL CHIM ACTA, V185, P1, DOI 10.1016/0003-2670(86)80028-9
+   Gurkan B, 2010, J PHYS CHEM LETT, V1, P3494, DOI 10.1021/jz101533k
+   Hamzehie ME, 2015, J NAT GAS SCI ENG, V24, P106, DOI 10.1016/j.jngse.2015.03.014
+   Hizaddin HF, 2015, J SUPERCRIT FLUID, V100, P184, DOI 10.1016/j.supflu.2015.02.009
+   Hothorn T, 2006, J COMPUT GRAPH STAT, V15, P651, DOI 10.1198/106186006X133933
+   Hu YF, 2011, CHEM SOC REV, V40, P3802, DOI 10.1039/c0cs00006j
+   Huang XH, 2005, J AM CHEM SOC, V127, P17842, DOI 10.1021/ja055315z
+   Husch T, 2015, PHYS CHEM CHEM PHYS, V17, P3394, DOI 10.1039/c4cp04338c
+   Huttenhuis PJG, 2007, J PETROL SCI ENG, V55, P122, DOI 10.1016/j.petrol.2006.04.018
+   Jajesniak P, 2014, J. BIOPROCESS. BIOTECH., V4, P1
+   Kamgar A, 2016, J MOL LIQ, V222, P195, DOI 10.1016/j.molliq.2016.06.107
+   Klähn M, 2015, J PHYS CHEM B, V119, P10066, DOI 10.1021/acs.jpcb.5b03674
+   Knight J, 2013, NAT CLIM CHANGE, V3, P24, DOI 10.1038/nclimate1660
+   Lazzús JA, 2010, J ENG THERMOPHYS-RUS, V19, P170, DOI 10.1134/S1810232810030070
+   Lei ZG, 2014, CHEM REV, V114, P1289, DOI 10.1021/cr300497a
+   Liu HJ, 2014, IND ENG CHEM RES, V53, P10485, DOI 10.1021/ie501501k
+   Luis P, 2016, DESALINATION, V380, P93, DOI 10.1016/j.desal.2015.08.004
+   MacFarlane DR, 2014, ENERG ENVIRON SCI, V7, P232, DOI 10.1039/c3ee42099j
+   Markewitz P, 2012, ENERG ENVIRON SCI, V5, P7281, DOI 10.1039/c2ee03403d
+   Mehraein I, 2017, J MOL LIQ, V225, P521, DOI 10.1016/j.molliq.2016.10.133
+   Meinshausen N, 2006, J MACH LEARN RES, V7, P983
+   Mevik BH, 2007, J STAT SOFTW, V18, P1, DOI 10.18637/jss.v018.i02
+   MEYER AY, 1986, CHEM SOC REV, V15, P449, DOI 10.1039/cs9861500449
+   Mirarab M, 2015, SEP SCI TECHNOL, V50, P26, DOI 10.1080/01496395.2014.946145
+   Moganty SS, 2010, IND ENG CHEM RES, V49, P5846, DOI 10.1021/ie901837k
+   Muldoon MJ, 2007, J PHYS CHEM B, V111, P9001, DOI 10.1021/jp071897q
+   Mumford KA, 2015, FRONT CHEM SCI ENG, V9, P125, DOI 10.1007/s11705-015-1514-6
+   Neese F, 2012, WIRES COMPUT MOL SCI, V2, P73, DOI 10.1002/wcms.81
+   Netzeva TI, 2005, ATLA-ALTERN LAB ANIM, V33, P155, DOI 10.1177/026119290503300209
+   Nicodemus KK, 2009, BIOINFORMATICS, V25, P1884, DOI 10.1093/bioinformatics/btp331
+   Nonthanasin T, 2014, RSC ADV, V4, P7566, DOI 10.1039/c3ra46339g
+   OBoyle NM, 2011, J CHEMINFORMATICS, V3, P0, DOI 10.1186/1758-2946-3-33
+   Paduszynski K, 2014, J CHEM INF MODEL, V54, P1311, DOI 10.1021/ci500206u
+   Ramdin M, 2012, IND ENG CHEM RES, V51, P8149, DOI 10.1021/ie3003705
+   RAPPE AK, 1992, J AM CHEM SOC, V114, P10024, DOI 10.1021/ja00051a040
+   Sedghamiz MA, 2015, J CO2 UTIL, V9, P39, DOI 10.1016/j.jcou.2014.12.003
+   Shafiei A, 2014, J SUPERCRIT FLUID, V95, P525, DOI 10.1016/j.supflu.2014.08.011
+   Shannon MS, 2012, IND ENG CHEM RES, V51, P5565, DOI 10.1021/ie202916e
+   Shen M, 2003, J MED CHEM, V46, P3013, DOI 10.1021/jm020491t
+   Sinnecker S, 2006, J PHYS CHEM A, V110, P2235, DOI 10.1021/jp056016z
+   Stewart JJP, 2007, J MOL MODEL, V13, P1173, DOI 10.1007/s00894-007-0233-4
+   Stewart JamesJP, 2016, STEWART COMPUTATIONAL CHEMISTRY, V0, P0
+   STINE RA, 1985, J AM STAT ASSOC, V80, P1026, DOI 10.2307/2288570
+   Sumon KZ, 2011, FLUID PHASE EQUILIBR, V310, P39, DOI 10.1016/j.fluid.2011.06.038
+   Hijo AACT, 2016, ACS SUSTAIN CHEM ENG, V4, P5347, DOI 10.1021/acssuschemeng.6b00560
+   TOPLISS JG, 1972, J MED CHEM, V15, P1066, DOI 10.1021/jm00280a017
+   Valderrama JO, 2014, IND ENG CHEM RES, V53, P1004, DOI 10.1021/ie403293z
+   Venkatraman V, 2016, INT J GREENH GAS CON, V49, P55, DOI 10.1016/j.ijggc.2016.02.023
+   Venkatraman V, 2016, J MOL MODEL, V22, P0, DOI 10.1007/s00894-016-2957-5
+   Venkatraman V, 2015, PHYS CHEM CHEM PHYS, V17, P27672, DOI 10.1039/c5cp04624f
+   Venkatraman V, 2015, J MATER CHEM A, V3, P9851, DOI 10.1039/c5ta00625b
+   Venkatraman V, 2015, DYES PIGMENTS, V114, P69, DOI 10.1016/j.dyepig.2014.10.026
+   Weigend F, 2005, PHYS CHEM CHEM PHYS, V7, P3297, DOI 10.1039/b508541a
+   Willoughby PH, 2014, NAT PROTOC, V9, P643, DOI 10.1038/nprot.2014.042
+   Yunus NM, 2012, CHEM ENG J, V189, P94, DOI 10.1016/j.cej.2012.02.033
+NR 82
+TC 103
+Z9 111
+U1 15
+U2 182
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 2212-9820
+EI 2212-9839
+J9 J CO2 UTIL
+JI J. CO2 Util.
+PD OCT 15
+PY 2017
+VL 21
+IS 
+BP 162
+EP 168
+DI 10.1016/j.jcou.2017.06.012
+PG 7
+WC Chemistry, Multidisciplinary; Engineering, Chemical
+SC Chemistry; Engineering
+GA FH8KK
+UT WOS:000411443200019
+DA 2025-11-05
+ER
+
+PT J
+AU Kuenemann, MA
+   Fourches, D
+AF Kuenemann, Melaine A.
+   Fourches, Denis
+TI Cheminformatics Modeling of Amine Solutions for Assessing their CO2 Absorption Properties
+SO MOLECULAR INFORMATICS
+LA English
+DT Article
+DE amine scrubbing; molecular modeling; QSPR; CO2 recycling
+ID thermodynamic property; activity cliffs; absorbents; validation; capture
+AB As stricter regulations on CO2 emissions are adopted worldwide, identifying efficient chemical processes to capture and recycle CO2 is of critical importance for industry. The most common process known as amine scrubbing suffers from the lack of available amine solutions capable of capturing CO2 efficiently. Tertiary amines characterized by low heats of reaction are considered good candidates but their absorption properties can significantly differ from one analogue to another despite high structural similarity. Herein, after collecting and curating experimental data from the literature, we have built a modeling set of 41 amine structures with their absorption properties. Then we analyzed their chemical composition using molecular descriptors and non-supervised clustering. Furthermore, we developed a series of quantitative structure-property relationships (QSPR) to assess amines' CO2 absorption properties from their structural characteristics. These models afforded reasonable prediction performances (e.g., Q(LOO)(2)=0.63 for CO2 absorption amount) even though they are solely based on 2D chemical descriptors and individual machine learning techniques (random forest and neural network). Overall, we believe the chemical analysis and the series of QSPR models presented in this proof-of-concept study represent new knowledge and innovative tools that could be very useful for screening and prioritizing hypothetical amines to be synthesized and tested experimentally for their CO2 absorption properties.
+C1 [Kuenemann, Melaine A.; Fourches, Denis] North Carolina State Univ, Dept Chem, Bioinformat Res Ctr, Raleigh, NC 27695 USA.
+C3 North Carolina State University
+RP Fourches, D (corresponding author), North Carolina State Univ, Dept Chem, Bioinformat Res Ctr, Raleigh, NC 27695 USA.
+EM dfourch@ncsu.edu
+CR Berthold MR, 2008, STUD CLASS DATA ANAL, V0, PP319, DOI 10.1145/1656274.1656280
+   BOORAS GS, 1991, ENERGY, V16, P1295, DOI 10.1016/0360-5442(91)90003-5
+   Bottoms RR, 1934, (GIRDLER CORPORATION), V0, P0
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Cherkasov A, 2014, J MED CHEM, V57, P4977, DOI 10.1021/jm4004285
+   Chowdhury FA, 2014, ENRGY PROCED, V63, P572, DOI 10.1016/j.egypro.2014.11.062
+   Chowdhury FA, 2011, ENRGY PROCED, V4, P201, DOI 10.1016/j.egypro.2011.01.042
+   Chowdhury FA, 2009, ENRGY PROCED, V1, P1241, DOI 10.1016/j.egypro.2009.01.163
+   Downs GM, 2002, REV COMP CH, V18, P1, DOI 10.1002/0471433519.ch1
+   Fourches D, 2016, J CHEM INF MODEL, V56, P1243, DOI 10.1021/acs.jcim.6b00129
+   Fourches D, 2015, NAT CHEM BIOL, V11, P535, DOI 10.1038/nchembio.1881
+   Fourches D, 2013, MOL INFORM, V32, P827, DOI 10.1002/minf.201300076
+   Fourches D, 2010, J CHEM INF MODEL, V50, P1189, DOI 10.1021/ci100176x
+   Fourches D, 2010, CHEM RES TOXICOL, V23, P171, DOI 10.1021/tx900326k
+   Golbraikh A, 2014, J CHEM INF MODEL, V54, P1, DOI 10.1021/ci400572x
+   Hall LH, 1991, REVIEWS OF COMPUTATIONAL CHEMISTRY, V0, PP367, DOI 10.1002/9780470125793.ch9
+   Labute P, 2000, J MOL GRAPH MODEL, V18, P464, DOI 10.1016/S1093-3263(00)00068-1
+   Li KK, 2016, ENERGY SCI ENG, V4, P23, DOI 10.1002/ese3.101
+   Low Y, 2013, CHEM RES TOXICOL, V26, P1199, DOI 10.1021/tx400110f
+   Maggiora GM, 2006, J CHEM INF MODEL, V46, P1535, DOI 10.1021/ci060117s
+   Pérez-Villanueva J, 2015, MOL DIVERS, V19, P1021, DOI 10.1007/s11030-015-9609-z
+   Porcheron F, 2013, OIL GAS SCI TECHNOL, V68, P469, DOI 10.2516/ogst/2012025
+   Porcheron F, 2011, ENRGY PROCED, V4, P15, DOI 10.1016/j.egypro.2011.01.017
+   RIEDMILLER M, 1993, 1993 IEEE INTERNATIONAL CONFERENCE ON NEURAL NETWORKS, VOLS 1-3, P586, DOI 10.1109/ICNN.1993.298623
+   Rochelle GT, 2009, SCIENCE, V325, P1652, DOI 10.1126/science.1176731
+   ROUSSEEUW PJ, 1987, J COMPUT APPL MATH, V20, P53, DOI 10.1016/0377-0427(87)90125-7
+   Tropsha A, 2003, QSAR COMB SCI, V22, P69, DOI 10.1002/qsar.200390007
+   Tropsha A, 2007, CURR PHARM DESIGN, V13, P3494, DOI 10.2174/138161207782794257
+   Wang TL, 2015, J ENVIRON SCI, V27, P276, DOI 10.1016/j.jes.2014.06.037
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   Yamada H, 2011, ENRGY PROCED, V4, P133, DOI 10.1016/j.egypro.2011.01.033
+   Yu GC, 2017, METHODS ECOL EVOL, V8, P28, DOI 10.1111/2041-210X.12628
+NR 32
+TC 18
+Z9 22
+U1 4
+U2 45
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1868-1743
+EI 1868-1751
+J9 MOL INFORM
+JI Mol. Inf.
+PD JUL 15
+PY 2017
+VL 36
+IS 7
+BP 
+EP 
+DI 10.1002/minf.201600143
+PG 13
+WC Chemistry, Medicinal; Computer Science, Interdisciplinary Applications; Mathematical & Computational Biology
+SC Pharmacology & Pharmacy; Computer Science; Mathematical & Computational Biology
+GA FA1UA
+UT WOS:000405224300006
+PM 28266788
+DA 2025-11-05
+ER
+
+PT J
+AU Kudahi, SN
+   Noorpoor, AR
+   Mahmoodi, NM
+AF Kudahi, Saeed Nazari
+   Noorpoor, Ali Reza
+   Mahmoodi, Niyaz Mohammad
+TI Determination and analysis of CO2 capture kinetics and mechanisms on the novel graphene-based adsorbents
+SO JOURNAL OF CO2 UTILIZATION
+LA English
+DT Article
+DE Graphene-based adsorbents; CO2 capture; Adsorption kinetic models; Rate-limiting kinetic models; Activation parameters
+ID carbon-dioxide adsorption; activated carbon; oxide; equilibrium; diffusion; model
+AB Some graphene-based adsorbents such as mesoporous graphene oxide/TiO2 nanocomposite, thermally treated graphene nanosheets, holey graphene frameworks and 3-D graphene-based porous adsorbent have recently been introduced as promising adsorbents for post-combustion CO2 capture while, their CO2 adsorption kinetics and mechanisms have not sufficiently been reported by the scholars. To begin, in this study, CO2 capture kinetics of these adsorbents are investigated by different adsorption kinetic models including pseudo-first order model, pseudo-second order model, Avrami model, and the fractal-like exponential kinetic model. Subsequently, the Eyring and Arrhenius equations are used to determine the activation parameters related to the CO2 adsorption on these adsorbents. Furthermore, a mechanism is proposed to describe the negative activation energy assessed for CO2 adsorption on the studied adsorbents. Eventually, the rate-limiting kinetic models including interparticle diffusion model, intraparticle diffusion model and Boyd's film diffusion model are applied to determine CO2 capture mechanisms on the mentioned graphene-based adsorbents.
+C1 [Kudahi, Saeed Nazari; Noorpoor, Ali Reza] Univ Tehran, Fac Environm, POB 14155-6135, Tehran, Iran.
+   [Mahmoodi, Niyaz Mohammad] Inst Color Sci & Technol, Dept Environm Res, Tehran, Iran.
+C3 University of Tehran
+RP Noorpoor, AR (corresponding author), Univ Tehran, Fac Environm, POB 14155-6135, Tehran, Iran.
+EM noorpoor@ut.ac.ir
+FU Iran National Science Foundation (INSF) [94810001]
+CR Alhwaige AA, 2013, RSC ADV, V3, P16011, DOI 10.1039/c3ra42022a
+   Alvarez-Gutiérrez N, 2017, CHEM ENG J, V307, P249, DOI 10.1016/j.cej.2016.08.077
+   Andreoli E, 2015, IND ENG CHEM RES, V54, P878, DOI 10.1021/ie504277s
+   Bagheri M, 2014, J IND ENG CHEM, V20, P2439
+   Balasubramanian R, 2015, J MATER CHEM A, V3, P21968, DOI 10.1039/c5ta04822b
+   Bao ZB, 2011, J COLLOID INTERF SCI, V357, P504, DOI 10.1016/j.jcis.2011.01.103
+   Cao Y, 2015, J IND ENG CHEM, V27, P102
+   Cheung O, 2013, APPL ENERG, V112, P1326, DOI 10.1016/j.apenergy.2013.01.017
+   Chowdhury S, 2016, IND ENG CHEM RES, V55, P7906, DOI 10.1021/acs.iecr.5b04052
+   Chowdhury S, 2016, J CO2 UTIL, V13, P50, DOI 10.1016/j.jcou.2015.12.001
+   Chowdhury S, 2016, SCI REP-UK, V6, P0, DOI 10.1038/srep21537
+   Chowdhury S, 2015, CHEM ENG J, V263, P374, DOI 10.1016/j.cej.2014.11.037
+   Ding LP, 2002, CHEM ENG SCI, V57, P3909, DOI 10.1016/S0009-2509(02)00306-8
+   Djeridi W, 2016, MATER RES BULL, V73, P130, DOI 10.1016/j.materresbull.2015.08.032
+   Foo KY, 2010, CHEM ENG J, V156, P2, DOI 10.1016/j.cej.2009.09.013
+   Grande CA, 2004, CHEM ENG RES DES, V82, P1604, DOI 10.1205/cerd.82.12.1604.58029
+   Haerifar M, 2014, J PHYS CHEM C, V118, P1129, DOI 10.1021/jp4110882
+   Haerifar M, 2013, CHEM ENG J, V215, P65, DOI 10.1016/j.cej.2012.11.017
+   Haerifar M, 2012, J PHYS CHEM C, V116, P13111, DOI 10.1021/jp301261h
+   Heydari-Gorji A, 2011, CHEM ENG J, V173, P72, DOI 10.1016/j.cej.2011.07.038
+   Landaverde-Alvarado C, 2017, J CO2 UTIL, V19, P40, DOI 10.1016/j.jcou.2017.01.029
+   Li WD, 2016, APPL SURF SCI, V360, P143, DOI 10.1016/j.apsusc.2015.10.212
+   Li WD, 2015, APPL SURF SCI, V356, P812, DOI 10.1016/j.apsusc.2015.08.152
+   Liu Q, 2014, IND ENG CHEM RES, V53, P11677, DOI 10.1021/ie502009n
+   Loganathan S, 2014, CHEM ENG J, V256, P1, DOI 10.1016/j.cej.2014.06.091
+   Mishra AK, 2014, J APPL PHYS, V116, P0, DOI 10.1063/1.4892458
+   Monazam ER, 2013, CHEM ENG J, V223, P795, DOI 10.1016/j.cej.2013.02.041
+   Nobar SN, 2012, CHEM ENG SCI, V84, P801, DOI 10.1016/j.ces.2012.05.022
+   Plazinski W, 2009, ADV COLLOID INTERFAC, V152, P2, DOI 10.1016/j.cis.2009.07.009
+   Revell LE, 2013, J CHEM EDUC, V90, P1024, DOI 10.1021/ed400086w
+   Sabouni R, 2013, ENVIRON SCI TECHNOL, V47, P9372, DOI 10.1021/es401276r
+   Sabouni R, 2013, MICROPOR MESOPOR MAT, V175, P85, DOI 10.1016/j.micromeso.2013.03.024
+   Saha D, 2010, J COLLOID INTERF SCI, V345, P402, DOI 10.1016/j.jcis.2010.01.076
+   Serna-Guerrero R, 2010, CHEM ENG J, V161, P182, DOI 10.1016/j.cej.2010.04.042
+   Shafeeyan MS, 2015, ENERG FUEL, V29, P6565, DOI 10.1021/acs.energyfuels.5b00653
+   Shen CZ, 2010, CHEM ENG J, V160, P398, DOI 10.1016/j.cej.2009.12.005
+   Song G, 2016, CHEM ENG J, V283, P175, DOI 10.1016/j.cej.2015.07.055
+   Suresh S, 2014, GREEN CHEMICAL ENGINEERING: AN INTRODUCTION TO CATALYSIS, V0, P0
+   Wang JS, 2014, CHINESE J NONFERROUS, V11, P7
+   Wang JY, 2015, J ENERGY CHEM, V24, P127, DOI 10.1016/S2095-4956(15)60293-5
+   Wang QA, 2011, ENERG ENVIRON SCI, V4, P42, DOI 10.1039/c0ee00064g
+   Wilcox J, 2012, CARBON CAPTURE, V0, PP1, DOI 10.1007/978-1-4614-2215-0
+   Wu FC, 2009, CHEM ENG J, V153, P1, DOI 10.1016/j.cej.2009.04.042
+   Yang SB, 2013, ADV MATER, V25, P2130, DOI 10.1002/adma.201204427
+   Yi HH, 2012, J HAZARD MATER, V203, P111, DOI 10.1016/j.jhazmat.2011.11.091
+   Yu CH, 2012, AEROSOL AIR QUAL RES, V12, P745, DOI 10.4209/aaqr.2012.05.0132
+   Zhou D, 2012, CHINESE SCI BULL, V57, P3059, DOI 10.1007/s11434-012-5158-3
+NR 47
+TC 61
+Z9 64
+U1 5
+U2 123
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2212-9820
+EI 2212-9839
+J9 J CO2 UTIL
+JI J. CO2 Util.
+PD OCT 15
+PY 2017
+VL 21
+IS 
+BP 17
+EP 29
+DI 10.1016/j.jcou.2017.06.010
+PG 13
+WC Chemistry, Multidisciplinary; Engineering, Chemical
+SC Chemistry; Engineering
+GA FH8KK
+UT WOS:000411443200003
+DA 2025-11-05
+ER
+

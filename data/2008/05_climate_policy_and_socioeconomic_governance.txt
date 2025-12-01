@@ -1,0 +1,100 @@
+PT J
+AU Ciocirlan, CE
+AF Ciocirlan, Cristina E.
+TI Analyzing preferences towards economic incentives in combating climate change: a comparative analysis of US states
+SO CLIMATE POLICY
+LA English
+DT Article
+DE economic incentives; electricity sector; GHG reduction; innovation-and-diffusion; policy instruments; regulation; USA
+ID policy adoption; environmental-regulation; innovation; regionalism; politics; choice
+AB In contrast to the federal government, some US states have taken an aggressive approach to curbing climate change. They use a variety of policy instruments to reduce greenhouse gases. These instruments can be categorized into two broad categories: economic incentives and command-and-control regulation. While the use of economic incentives has, on average, increased, some states employ them more than others. This article compares the propensity of different US states to employ economic incentives in the area of climate change. For this purpose, it analyses and tests four models: (i) a needs/responsiveness model, (ii) an interest group influence model, (iii) an innovation-and-diffusion model, and (iv) a combined model. Interestingly, this article finds that economic incentives are pushed out of the political agenda when states are confronted with a more severe problem in terms of carbon emissions and dependence on conventional energy. This article also finds support for the traditional, antagonistic view of 'industry versus environmentalists': electric utility companies tend to oppose economic incentives, while environmentalists and renewable energy producers tend to support them.
+C1 Elizabethtown Coll, Dept Business, Hoover Business Ctr, Elizabethtown, PA 17022 USA.
+RP Ciocirlan, CE (corresponding author), Elizabethtown Coll, Dept Business, Hoover Business Ctr, Room 222, Elizabethtown, PA 17022 USA.
+EM ciocirlanc@etown.edu
+CR Bacot AH, 1997, POLICY STUD J, V25, P355, DOI 10.1111/j.1541-0072.1997.tb00027.x
+   *BEA, 2006, US EC ACC, V0, P0
+   Berry FS, 1999, THEORIES OF THE POLICY PROCESS, V0, P0
+   BLAKEWAY D, 2005, ENERGY LAW J, V26, P393
+   BUCHANAN JM, 1975, AM ECON REV, V65, P139
+   *BUR CENS, 2006, STAT ABSTR US, V0, P0
+   BUTTEL FH, 1992, RURAL SOCIOL, V57, P1, DOI 10.1111/j.1549-0831.1992.tb00454.x
+   Cook BJ, 2002, SOC SCI QUART, V83, P156, DOI 10.1111/1540-6237.00076
+   DAVIS CE, 1986, W POLITICAL Q, V40, P555
+   Duff DavidG, 2003, CAN TAX J, V51, P2063
+   *EIA, 2006, US COAL CONS END US, V0, P0
+   Eichenberger R, 1996, PUBLIC CHOICE, V86, P137, DOI 10.1007/BF00114879
+   Elazar DanielJ, 1984, AM FEDERALISM VIEW S, V0, P0
+   Erikson R, 1993, STATEHOUSE DEMOCRACY: PUBLIC OPINION AND POLICY IN THE AMERICAN STATES, V0, P0
+   FEIOCK RC, 1993, POLIT RES QUART, V46, P399, DOI 10.1177/106591299304600211
+   FOSTER JL, 1978, J POLIT, V40, P179, DOI 10.2307/2129981
+   Fredriksson PG, 2002, J URBAN ECON, V51, P101, DOI 10.1006/juec.2001.2239
+   Fullerton D, 2001, A FRAMEWORK TO COMPARE ENVIRONMENTAL POLICIES, V0, P0
+   Gent CE, 2000, POLICY SCI, V33, P125, DOI 10.1023/A:1026532832250
+   Gray V, 2004, POLITICS AM STATES, V8th, P0
+   HAHN RW, 1987, POLICY SCI, V20, P289, DOI 10.1007/BF00135868
+   HAHN RW, 1991, ECOL LAW QUART, V18, P1
+   Hahn RW, 2000, J ENVIRON ECON MANAG, V39, P375, DOI 10.1006/jeem.1999.1119
+   Handy F, 2001, INT J SOC ECON, V28, P648, DOI 10.1108/EUM0000000005541
+   Hays SP, 1996, PUBLIUS J FEDERALISM, V26, P41, DOI 10.1093/oxfordjournals.pubjof.a029854
+   Hays SP, 1997, AM POLIT QUART, V25, P497, DOI 10.1177/1532673X9702500405
+   Helm D, 2005, THE ECONOMIC AND SOCIAL REVIEW, V36, P205
+   Hird JA, 2005, POWER KNOWLEDGE POLI, V0, P0
+   HOERNER AJ, 2000, STATE TAX NOTES 0731, V0, P311
+   Howell-Moroney M, 2004, J URBAN AFF, V26, P109, DOI 10.1111/j.0735-2166.2004.0008.x
+   Jaffe AB, 2003, HANDBOOK OF ENVIRONMENTAL ECONOMICS, V1, P461, DOI 10.1016/S1574-0099(03)01016-7
+   Kaplan CarolynS, 2004, BC ENVTL. AFF. L. REV, V31, P177
+   Kelman S, 1981, WHAT PRICE INCENTIVE, V0, P0
+   Kennedy Peter, 2003, GUIDE ECONOMETRICS, V5th, P0
+   Keohane NO, 1998, HARVARD ENVIRON LAW, V22, P313
+   KERR S, 1997, 9606 U MAR CTR PARK, V0, P0
+   King JD, 2000, LEGIS STUD QUART, V25, P327, DOI 10.2307/440374
+   Kline D, 2001, POLICY SCI, V34, P95, DOI 10.1023/A:1010357309367
+   MEIER KJ, 1987, WESTERN POLIT QUART, V40, P343, DOI 10.2307/448317
+   Misra Joya, 2003, SOCIO-ECONOMIC REVIEW, V1, P185, DOI 10.1093/SOCECO/1.2.185
+   *NOAA, 2006, EARTH OBS MON UND CH, V0, P0
+   Oates W, 2003, HANDBOOK OF ENVIRONMENTAL ECONOMICS. VOLUME, VI, P325
+   Oates WE, 2000, U ILLINOIS LAW REV, V0, P135
+   *OECD, 2004, REN EN MARK POL TREN, V0, P0
+   OGDEN E, 2006, MINOT DAILY NEW 0331, V0, P0
+   PAVALKO EK, 1989, AM J SOCIOL, V95, P592, DOI 10.1086/229327
+   Popp D, 2003, J POLICY ANAL MANAG, V22, P641, DOI 10.1002/pam.10159
+   Potoski M, 2002, POLICY STUD J, V30, P208, DOI 10.1111/J.1541-0072.2002.TB02142.X
+   Rabe Barry, 2004, STATEHOUSE AND GREENHOUSE: THE EMERGING POLITICS OF AMERICAN CLIMATE CHANGE POLICY, V0, P0
+   Ramírez CD, 2001, PUBLIC CHOICE, V106, P93, DOI 10.1023/A:1005280406247
+   RINGQUIST EJ, 1994, POLICY STUD J, V22, P25, DOI 10.1111/j.1541-0072.1994.tb02178.x
+   RINGQUIST EJ, 1993, J POLIT, V55, P1022, DOI 10.2307/2131946
+   Rowlands IH, 2002, J CONSUM MARK, V19, P112, DOI 10.1108/07363760210420540
+   *RRI, 2001, STAT STAT ASS CAP ST, V0, P0
+   Sapat A, 2004, PUBLIC ADMIN REV, V64, P141, DOI 10.1111/j.1540-6210.2004.00356.x
+   SAWYER SW, 1983, ENERG POLICY, V11, P272, DOI 10.1016/0301-4215(83)90084-8
+   Schneider F, 1999, ECOL ECON, V31, P123, DOI 10.1016/S0921-8009(99)00047-6
+   Stewart J, 1991, ECONOMETRICS, V0, P0
+   Tolbert CJ, 2001, WOMEN POLIT, V22, P1, DOI 10.1300/J014v22n02_01
+   *UCS, 2002, REN EN TAX CRED SAV, V0, P0
+NR 60
+TC 20
+Z9 28
+U1 0
+U2 19
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1469-3062
+EI 1752-7457
+J9 CLIM POLICY
+JI Clim. Policy
+PD JUN 15
+PY 2008
+VL 8
+IS 6
+BP 548
+EP 568
+DI 10.3763/cpol.2007.0441
+PG 21
+WC Environmental Studies; Public Administration
+SC Environmental Sciences & Ecology; Public Administration
+GA 380IF
+UT WOS:000261458700003
+DA 2025-11-05
+ER
+

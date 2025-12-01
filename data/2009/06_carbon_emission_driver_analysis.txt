@@ -1,0 +1,98 @@
+PT J
+AU Bellido, JL
+   Tulonen, T
+   Kankaala, P
+   Ojala, A
+AF Bellido, Jessica Lopez
+   Tulonen, Tiina
+   Kankaala, Paula
+   Ojala, Anne
+TI CO2 and CH4 fluxes during spring and autumn mixing periods in a boreal lake (Paajarvi, southern Finland)
+SO JOURNAL OF GEOPHYSICAL RESEARCH-BIOGEOSCIENCES
+LA English
+DT Article
+ID gas transfer velocity; carbon-dioxide; north-temperate; methane efflux; organic-carbon; water; exchange; catchment; estuary; emission
+AB The greatest gas loss from dimictic lakes occur during spring and autumn mixing periods. Thus, we measured daily concentration gradients of carbon gases (CO2 and CH4) in mesohumic Lake Paajarvi during the mixing periods in autumn 2004 and spring 2005 and calculated and compared the fluxes using three different methods: the boundary layer diffusion model (Delta CO2 and Delta CH4), floating static chambers (FC), and changes in gas storage. CO2 fluxes were higher in autumn than in spring, whereas CH4 fluxes were lower in autumn than in spring. The method based on changes in storage underestimated the fluxes whereas the floating chambers and the boundary layer diffusion models resulted in similar estimates. However, the chambers always yielded somewhat higher fluxes. Total Delta CO2 flux in autumn was 883 mmol m(-2) and in spring, 666 mmol m(-2), whereas total Delta CH4 fluxes were 0.60 mmol m(-2) and 0.80 mmol m(-2) in autumn and spring, respectively. We calculated gas transfer velocities (k(600)) to explain the near surface exchange mechanism and the difference between the results based on diffusion models and chambers. Wind speed and k(600) showed significant correlation. In spring the transfer velocity at similar wind speed was higher compared to the autumn. Weekly measurements of algal primary production and community respiration revealed that the lake was net heterotrophic in autumn as well as in spring. Our study showed that the excess CO2 from the lake metabolism contributed significantly to the CO2 fluxes during the mixing periods, violating the primary assumption used in the storage method.
+C1 [Bellido, Jessica Lopez; Ojala, Anne] Univ Helsinki, Dept Ecol & Environm Sci, FIN-15140 Lahti, Finland.
+   [Tulonen, Tiina] Univ Helsinki, Lammi Biol Stn, FIN-16900 Lammi, Finland.
+   [Kankaala, Paula] Univ Joensuu, Inst Ecol Res, FIN-80101 Joensuu, Finland.
+C3 University of Helsinki; University of Helsinki; University of Eastern Finland
+RP Bellido, JL (corresponding author), Univ Helsinki, Dept Ecol & Environm Sci, Niemenkatu 73, FIN-15140 Lahti, Finland.
+EM jessica.lopezbellido@helsinki.fi
+FU NECC (Nordic Centre of Excellence for Studies of Ecosystem Carbon Exchange and its Interactions with the Climate System); Academy of Finland [201623]; Academy of Finland (AKA) [201623] Funding Source: Academy of Finland (AKA)
+CR Algesten G, 2004, GLOBAL CHANGE BIOL, V10, P141, DOI 10.1111/j.1365-2486.2003.00721.x
+   Anderson DE, 1999, LIMNOL OCEANOGR, V44, P988, DOI 10.4319/lo.1999.44.4.0988
+   Arvola L, 1996, CAN J FISH AQUAT SCI, V53, P1646, DOI 10.1139/cjfas-53-7-1646
+   Bastviken D, 2008, J GEOPHYS RES-BIOGEO, V113, P0, DOI 10.1029/2007JG000608
+   Borges AV, 2004, LIMNOL OCEANOGR, V49, P1630, DOI 10.4319/lo.2004.49.5.1630
+   Borges AV, 2004, ESTUARIES, V27, P593, DOI 10.1007/BF02907647
+   Cole JJ, 1998, LIMNOL OCEANOGR, V43, P647, DOI 10.4319/lo.1998.43.4.0647
+   COLE JJ, 1994, SCIENCE, V265, P1568, DOI 10.1126/science.265.5178.1568
+   Crusius J, 2003, LIMNOL OCEANOGR, V48, P1010, DOI 10.4319/lo.2003.48.3.1010
+   Del Giorgio PA, 1999, ECOLOGY, V80, P1422, DOI 10.1890/0012-9658(1999)080[1422:LPBAMT]2.0.CO;2
+   Guerin F, 2007, J MARINE SYST, V66, P161, DOI 10.1016/j.jmarsys.2006.03.019
+   HAKALA I, 2002, ARCH HYDROBIOL, V14, P285
+   HESSEN DO, 1985, FEMS MICROBIOL ECOL, V31, P215
+   HOLMHANSEN O, 1978, OIKOS, V30, P438, DOI 10.2307/3543338
+   HOPE D, 1994, ENVIRON POLLUT, V84, P301, DOI 10.1016/0269-7491(94)90142-2
+   Houghton JT, 2001, CLIMATE CHANGE 2001: THE SCIENTIFIC BASIS, V0, P1
+   Huttunen JT, 2003, CHEMOSPHERE, V52, P609, DOI 10.1016/S0045-6535(03)00243-1
+   JAHNE B, 1987, J GEOPHYS RES-OCEANS, V92, P10767, DOI 10.1029/JC092iC10p10767
+   JONES RI, 1992, HYDROBIOLOGIA, V229, P73, DOI 10.1007/BF00006992
+   Jonsson A, 2008, J GEOPHYS RES-BIOGEO, V113, P0, DOI 10.1029/2008JG000688
+   Kankaala P, 2006, LIMNOL OCEANOGR, V51, P1195, DOI 10.4319/lo.2006.51.2.1195
+   Kelly CA, 2001, LIMNOL OCEANOGR, V46, P1054, DOI 10.4319/lo.2001.46.5.1054
+   KESKITALO J, 1994, PUBL WATER ENV ADM B, V16, P0
+   KLING GW, 1992, HYDROBIOLOGIA, V240, P23, DOI 10.1007/BF00013449
+   KORTELAINEN P, 1993, CAN J FISH AQUAT SCI, V50, P1477, DOI 10.1139/f93-168
+   MACINTYRE S, 2001, GEOPHYS MONOGR SER A, V0, P127
+   MacIntyre S, 1995, BIOGENIC TRACE GASES, V0, P52
+   Michmerhuizen CM, 1996, LIMNOL OCEANOGR, V41, P985, DOI 10.4319/lo.1996.41.5.0985
+   MURPHY J, 1962, ANAL CHIM ACTA, V26, P31
+   Phelps AR, 1998, J GEOPHYS RES-ATMOS, V103, P29029, DOI 10.1029/98JD00044
+   PLUMMER LN, 1982, GEOCHIM COSMOCHIM AC, V46, P1011, DOI 10.1016/0016-7037(82)90056-4
+   PORTIELJE R, 1995, LIMNOL OCEANOGR, V40, P690, DOI 10.4319/lo.1995.40.4.0690
+   Rantakari M, 2005, GLOBAL CHANGE BIOL, V11, P1368, DOI 10.1111/j.1365-2486.2005.00982.x
+   Raymond PA, 2001, ESTUARIES, V24, P312, DOI 10.2307/1352954
+   Riera JL, 1999, CAN J FISH AQUAT SCI, V56, P265, DOI 10.1139/cjfas-56-2-265
+   SALONEN K, 1983, HYDROBIOLOGIA, V101, P65, DOI 10.1007/BF00008658
+   SALONEN K, 1981, WATER RES, V15, P403, DOI 10.1016/0043-1354(81)90049-X
+   SCHINDLER DW, 1972, J FISH RES BOARD CAN, V29, P1627, DOI 10.1139/f72-250
+   Sobek S, 2003, GLOBAL CHANGE BIOL, V9, P630, DOI 10.1046/j.1365-2486.2003.00619.x
+   Solomon S, 2007, AR4 CLIMATE CHANGE 2007: THE PHYSICAL SCIENCE BASIS, V0, P1
+   Striegl RG, 2001, LIMNOL OCEANOGR, V46, P941, DOI 10.4319/lo.2001.46.4.0941
+   Striegl RG, 1998, LIMNOL OCEANOGR, V43, P1519, DOI 10.4319/lo.1998.43.7.1519
+   Tokoro T, 2008, J GEOPHYS RES-OCEANS, V113, P0, DOI 10.1029/2007JC004528
+   Tulonen T, 2000, ARCH HYDROBIOL, V147, P311
+   Utsumi M, 1998, LIMNOL OCEANOGR, V43, P471, DOI 10.4319/lo.1998.43.3.0471
+   Wanninkhof R, 1996, LIMNOL OCEANOGR, V41, P689, DOI 10.4319/lo.1996.41.4.0689
+   Wetzel RG, 2001, LAKE AND RIVER ECOSYSTEMS, V0, P0
+   Wetzel RG, 2000, LIMNOLOGICAL ANALYSES, V3rd, P0
+   WOOD ED, 1967, J MAR BIOL ASSOC UK, V47, P23, DOI 10.1017/S002531540003352X
+NR 50
+TC 101
+Z9 111
+U1 2
+U2 54
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-8953
+EI 2169-8961
+J9 J GEOPHYS RES-BIOGEO
+JI J. Geophys. Res.-Biogeosci.
+PD NOV 12
+PY 2009
+VL 114
+IS 
+BP 
+EP 
+DI 10.1029/2009JG000923
+PG 12
+WC Environmental Sciences; Geosciences, Multidisciplinary
+SC Environmental Sciences & Ecology; Geology
+GA 520QR
+UT WOS:000271861800001
+DA 2025-11-05
+ER
+
